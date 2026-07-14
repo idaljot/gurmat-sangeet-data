@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/idaljot/gurmat-sangeet-data/schema/notation.schema.json",
+  "title": "Notation record (STUB — completed after schema approval)",
+  "description": "Validates one notation record in data/notations.json (an array). This is a draft stub; see SCHEMA.md for the authoritative contract.",
+  "type": "object",
+  "properties": {
+    "notationId": { "type": "string" },
+    "shabadIds": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "verseId": { "type": ["string", "null"] },
+    "appliesToNote": { "type": "string" },
+    "title": { "type": "string" },
+    "raag": { "type": "string" },
+    "composer": { "type": "string" },
+    "taal": { "type": "string" },
+    "tempo": { "type": ["integer", "null"] },
+    "key": { "type": ["string", "null"] },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": { "type": "string" },
+          "notation": { "type": "string" }
+        },
+        "required": ["label", "notation"]
+      }
+    },
+    "status": { "enum": ["approved", "draft"] },
+    "reviewedBy": { "type": ["string", "null"] },
+    "reviewedOn": { "type": ["string", "null"] }
+  },
+  "required": ["notationId", "shabadIds", "raag", "sections", "status"]
+}

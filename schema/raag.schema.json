@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/idaljot/gurmat-sangeet-data/schema/raag.schema.json",
+  "title": "Raag record (STUB — completed after schema approval)",
+  "description": "Validates one raag entry in data/raags.json (a map of raag name -> record). This is a draft stub; see SCHEMA.md for the authoritative contract.",
+  "type": "object",
+  "properties": {
+    "names": {
+      "type": "object",
+      "properties": {
+        "roman": { "type": "string" },
+        "gurmukhi": { "type": "string" },
+        "alternates": { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["roman"]
+    },
+    "thaat": { "type": "string" },
+    "aroh": { "type": "string" },
+    "avroh": { "type": "string" },
+    "pakad": { "type": "string" },
+    "status": { "enum": ["approved", "draft"] },
+    "reviewedBy": { "type": ["string", "null"] },
+    "reviewedOn": { "type": ["string", "null"] }
+  },
+  "required": ["names", "status"]
+}

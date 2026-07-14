@@ -1,0 +1,28 @@
+Gurmat Sangeet Notation Dataset
+PROPOSED LICENSE — Creative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
+
+>>> STATUS: PROPOSED / NOT YET IN EFFECT <<<
+This dataset compiles the raag and swar (sur) notation work of
+Bhai Jaspal Singh Ji. The license below is a PROPOSAL for review and is NOT
+finalized. It requires the explicit blessing of Bhai Jaspal Singh Ji's family
+before this dataset is published as canonical. Until then, treat this repository
+as a draft shared for review only.
+
+SUMMARY (not a substitute for the legal text):
+You are free to share and adapt this material for NON-COMMERCIAL purposes,
+provided you give appropriate attribution to Bhai Jaspal Singh Ji.
+
+  - Attribution (BY): credit Bhai Jaspal Singh Ji and this dataset.
+  - NonCommercial (NC): not for commercial use.
+
+Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+SCOPE: This license covers the NOTATION, RAAG DATA, and COMPILATION — the
+scholarly and musical work. The Gurbani text (shabads) itself is in the public
+domain and is not claimed by this license.
+
+Alternative under consideration: CC BY-SA 4.0 (permits commercial use but forces
+derivatives to remain open). The choice between BY-NC and BY-SA is the family's
+to make. See README.md and SCHEMA.md.
