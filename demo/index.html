@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Gurmat Sangeet Notation Dataset — Reference Viewer (DEMO)</title>
+<style>
+  :root {
+    --ink: #23201b; --muted: #6b6459; --line: #e4ddcf; --bg: #faf7f0;
+    --card: #ffffff; --gold: #9a6b1f; --forest: #2f5d3a;
+    --draft: #b25c00; --approved: #2f5d3a; --sample: #a11d1d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 16px/1.55 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 24px 20px 64px; }
+  a { color: var(--gold); }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  h2 { font-size: 1.15rem; margin: 32px 0 12px; border-bottom: 2px solid var(--line); padding-bottom: 6px; }
+  h3 { font-size: 1rem; margin: 0 0 6px; }
+  .sub { color: var(--muted); margin: 0 0 18px; }
+  .sample-banner {
+    background: #fff4f4; border: 1px solid #f0c9c9; color: var(--sample);
+    padding: 10px 14px; border-radius: 8px; font-size: 0.9rem; margin: 14px 0 22px;
+  }
+  .reviewers { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 8px 0 8px; }
+  @media (max-width: 640px){ .reviewers { grid-template-columns: 1fr; } }
+  .rev { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+  .rev h3 { color: var(--gold); }
+  .rev ul { margin: 6px 0 0; padding-left: 18px; } .rev li { margin: 3px 0; font-size: .92rem; }
+  .toggle { margin: 8px 0 4px; display: flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+  .toggle span { color: var(--muted); font-size: .85rem; margin-right: 4px; }
+  .toggle button {
+    border: 1px solid var(--line); background: #fff; padding: 5px 12px; border-radius: 999px;
+    cursor: pointer; font-size: .85rem; color: var(--ink);
+  }
+  .toggle button.active { background: var(--forest); color: #fff; border-color: var(--forest); }
+  .hint { font-size: .82rem; color: var(--muted); margin: 4px 0 0; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 16px 18px; margin: 14px 0; }
+  .shabad-title { font-size: 1.1rem; margin: 0 0 2px; }
+  .shabad-gurmukhi { font-size: 1.25rem; margin: 0 0 2px; }
+  .ids { color: var(--muted); font-size: .8rem; font-family: ui-monospace, Menlo, Consolas, monospace; }
+  .notation { border-top: 1px dashed var(--line); margin-top: 12px; padding-top: 12px; }
+  .meta { color: var(--muted); font-size: .85rem; margin: 2px 0 8px; }
+  .badge { display: inline-block; font-size: .72rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; vertical-align: middle; }
+  .badge.approved { background: #e7f0e9; color: var(--approved); border: 1px solid #bcd6c3; }
+  .badge.draft { background: #fff1e2; color: var(--draft); border: 1px solid #f0d2ab; }
+  .section-label { font-size: .74rem; text-transform: uppercase; letter-spacing: .06em; color: var(--gold); margin: 8px 0 2px; }
+  .sur { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 1.02rem; letter-spacing: .04em; background: #faf6ec; padding: 6px 10px; border-radius: 6px; white-space: pre-wrap; }
+  .applies { font-size: .85rem; color: var(--forest); margin: 4px 0 0; }
+  .prov { font-size: .78rem; color: var(--muted); margin: 8px 0 0; border-left: 2px solid var(--line); padding-left: 8px; }
+  .prov.approved { border-left-color: var(--approved); }
+  .res { font-size: .82rem; margin: 6px 0 0; }
+  .raag-grid { display: grid; grid-template-columns: 130px 1fr; gap: 4px 12px; font-size: .9rem; }
+  .raag-grid dt { color: var(--muted); } .raag-grid dd { margin: 0; }
+  code, pre { font-family: ui-monospace, Menlo, Consolas, monospace; }
+  pre { background: #1e1b16; color: #f3ead6; padding: 14px; border-radius: 10px; overflow-x: auto; font-size: .82rem; }
+  .foot { margin-top: 34px; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); padding-top: 14px; }
+  .note-sample { color: var(--sample); font-size: .72rem; font-style: italic; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Gurmat Sangeet Notation Dataset — Reference Viewer</h1>
+  <p class="sub">A demonstration of how any website or app could consume the dataset. Bhai Jaspal Singh Ji's parampara. · <a href="../index.html">Home</a> · <a href="../vision.html">Vision</a> · <a href="../SCHEMA.md">Schema</a></p>
+
+  <div class="sample-banner">
+    <strong>⚠ SAMPLE DATA — ILLUSTRATIVE ONLY.</strong> Every notation, raag, and record below is a
+    <em>placeholder to show structure and flow</em>. None of it is Bhai Jaspal Singh Ji's actual notation.
+    Real, reviewed data is added only after the schema is approved and the source material is available.
+  </div>
+
+  <div class="reviewers">
+    <div class="rev">
+      <h3>For Baljeet — schema</h3>
+      <ul>
+        <li>Do the fields cover what a consumer needs to render this?</li>
+        <li>Is the many-to-many <code>shabadIds</code> model clean, or awkward?</li>
+        <li>Anything over- or under-designed? See <a href="../SCHEMA.md">SCHEMA.md</a>.</li>
+      </ul>
+    </div>
+    <div class="rev">
+      <h3>For Anmol — data &amp; vision</h3>
+      <ul>
+        <li>Does this represent the tradition faithfully?</li>
+        <li>Is the approved/draft distinction the right integrity model?</li>
+        <li>What's missing that teachers/students would want? See <a href="../vision.html">Vision</a>.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="toggle" id="toggle">
+    <span>Notation script (illustrative):</span>
+    <button data-script="roman" class="active">Roman</button>
+    <button data-script="bhatkhande">Bhatkhande</button>
+    <button data-script="gurmukhi">Gurmukhi</button>
+  </div>
+  <p class="hint">Notation is stored once as a canonical ASCII string; the script is a display choice. Case carries meaning — lowercase (e.g. <code>g</code>, <code>d</code>, <code>n</code>) is komal, <code>M</code> is teevra madhyam — so it is never case-folded.</p>
+
+  <h2>Compositions for a shabad <span class="note-sample">(many notations → one shabad)</span></h2>
+  <div id="shabad-multi"></div>
+
+  <h2>One notation across a whole paath <span class="note-sample">(one notation → many shabads)</span></h2>
+  <div id="shabad-paath"></div>
+
+  <h2>Raag reference</h2>
+  <div id="raag-card"></div>
+
+  <h2>How a consumer uses the data</h2>
+  <p class="sub" style="margin-bottom:8px">The dataset is plain JSON. A consumer fetches it and groups notation records by <code>shabadIds</code>:</p>
+  <pre>const notations = await (await fetch('data/notations.json')).json();
+const raags     = await (await fetch('data/raags.json')).json();
+
+// All compositions available for a given shabad:
+const forShabad = notations.filter(n =&gt; n.shabadIds.includes('DEMO-TMP'));
+
+// Show only Ustaad ji-approved data; mark the rest as unverified:
+const approved  = forShabad.filter(n =&gt; n.status === 'approved');</pre>
+
+  <div class="foot">
+    Proposed license: <strong>CC BY-NC 4.0</strong> (attribution to Bhai Jaspal Singh Ji, non-commercial) —
+    <em>pending the family's blessing</em>. Gurbani text is public domain; the license covers the notation and compilation.
+    Full contract in <a href="../SCHEMA.md">SCHEMA.md</a>. <span class="note-sample">This page and its data are a demo, not part of the dataset.</span>
+  </div>
+</div>
+
+<script>
+/* ---- SAMPLE data, shaped exactly like the schema (see SCHEMA.md). Placeholder only. ---- */
+const RAAGS = {
+  "Dhanaasree": {
+    names: { roman: "Dhanaasree", gurmukhi: "ਧਨਾਸਰੀ", alternates: ["Dhanasari"] },
+    thaat: "Kafi", jati: "Sampuran",
+    aroh: "S R m P N S.", avroh: "S. n D P m G R S", pakad: "m P n D P m G R",
+    vadi: "Pa", samvadi: "Sa", komal: ["Ga", "Ni"], teevra: [],
+    time: "Afternoon (traditional association, not a rule)", mood: "Devotion, contentment",
+    status: "draft", reviewedBy: null, reviewedOn: null
+  },
+  "Gauree": {
+    names: { roman: "Gauree", gurmukhi: "ਗਉੜੀ", alternates: ["Gauri"] },
+    thaat: "Bhairavi", jati: "Sampuran",
+    aroh: "S R g m P d N S.", avroh: "S. N d P m g R S", pakad: "S g m P d P",
+    vadi: "Sa", samvadi: "Pa", komal: ["Ga", "Dha", "Ni"], teevra: [],
+    time: "—", mood: "Serious, contemplative",
+    status: "draft", reviewedBy: null, reviewedOn: null
+  }
+};
+
+const NOTATIONS = [
+  {
+    notationId: "demo-n1", shabadIds: ["DEMO-TMP"], verseId: "DEMO-TMP-L3",
+    title: "Sample composition A", raag: "Dhanaasree", composer: "Bhai Jaspal Singh Ji",
+    taal: "Keherwa", tempo: 90, key: "C#",
+    sections: [
+      { label: "alaap",  notation: "S R g m P — m g R S" },
+      { label: "sthayi", notation: "P D N S. | S. N D P | m P D m | g R S" },
+      { label: "antara", notation: "S. R. S. N | D P m g | R g m P | D P m g R S" }
+    ],
+    resources: [ { type: "youtube-video", url: "#", label: "Bhai Jaspal Singh Ji (sample link)" } ],
+    status: "approved", sourceRef: "book:gurmat-sangeet-vol1",
+    reviewedBy: "Bhai Jaspal Singh Ji", reviewedOn: "2026-07-12"
+  },
+  {
+    notationId: "demo-n2", shabadIds: ["DEMO-TMP"], verseId: null,
+    title: "Sample composition B (alternate arrangement)", raag: "Dhanaasree", composer: "student, class 2026",
+    taal: "Deepchandi", tempo: 140, key: "D",
+    sections: [
+      { label: "sthayi", notation: "m P D P | m g R S | R g m P | g R S" },
+      { label: "antara", notation: "P N S. N | D P m g | R g m P D | P m g R S" }
+    ],
+    resources: [],
+    status: "draft", sourceRef: "class:2026", sourceNote: "Entered by a student; not yet reviewed",
+    reviewedBy: null, reviewedOn: null
+  },
+  {
+    notationId: "demo-n42",
+    shabadIds: ["DEMO-SKM-01","DEMO-SKM-02","DEMO-SKM-03","DEMO-SKM-04","…"],
+    verseId: null,
+    appliesToNote: "Standard paath dhun — the same for every pada of every ashtapadi",
+    title: "Sukhmani Sahib (sample paath dhun)", raag: "Gauree", composer: "Bhai Jaspal Singh Ji",
+    taal: "Keherwa", tempo: 80, key: "C",
+    sections: [
+      { label: "sthayi", notation: "S R g m | P m g R | S R g m | P — P —" }
+    ],
+    resources: [],
+    status: "draft", sourceRef: "book:gurmat-sangeet-vol1", sourceNote: "Transcribed, pending review",
+    reviewedBy: null, reviewedOn: null
+  }
+];
+
+/* Shabad context (Gurbani text is public domain). IDs here are illustrative placeholders. */
+const SHABADS = {
+  "DEMO-TMP":    { title: "Too Mera Pitaa (sample)", gurmukhi: "ਤੂੰ ਮੇਰਾ ਪਿਤਾ ਤੂੰਹੈ ਮੇਰਾ ਮਾਤਾ" },
+  "DEMO-SKM-01": { title: "Sukhmani Sahib — Ashtapadi 1, Pada 1 (sample)", gurmukhi: "ਸੁਖਮਨੀ ਸਾਹਿਬ" }
+};
+
+/* ---- Illustrative script transliteration (token-level, for demo only) ---- */
+const MAP = {
+  bhatkhande: { S:"सा", R:"रे", r:"रे̱", G:"ग", g:"ग̱", m:"म", M:"म॑", P:"प", D:"ध", d:"ध̱", N:"नि", n:"नि̱" },
+  gurmukhi:   { S:"ਸ", R:"ਰ", r:"ਰ", G:"ਗ", g:"ਗ", m:"ਮ", M:"ਮ", P:"ਪ", D:"ਧ", d:"ਧ", N:"ਨ", n:"ਨ" }
+};
+let currentScript = "roman";
+function render(notationStr, script) {
+  if (script === "roman") return notationStr;
+  const map = MAP[script];
+  return notationStr.replace(/[SRrGgmMPDdNn]/g, ch => map[ch] || ch);
+}
+
+function badge(status){ return `<span class="badge ${status}">${status === "approved" ? "✓ approved" : "draft — unverified"}</span>`; }
+
+function provenance(n){
+  if (n.status === "approved")
+    return `<div class="prov approved">✓ Approved by ${n.reviewedBy} · ${n.reviewedOn} · source: <code>${n.sourceRef}</code></div>`;
+  return `<div class="prov">Unverified draft${n.sourceNote ? " — " + n.sourceNote : ""}${n.sourceRef ? " · source: <code>"+n.sourceRef+"</code>" : ""}</div>`;
+}
+
+function notationHTML(n){
+  const sections = n.sections.map(s => `
+    <div class="section-label">${s.label}</div>
+    <div class="sur" data-sur="${encodeURIComponent(s.notation)}">${render(s.notation, currentScript)}</div>`).join("");
+  const applies = n.appliesToNote ? `<p class="applies">↳ ${n.appliesToNote} &nbsp;(<code>${n.shabadIds.length}</code> shabads)</p>` : "";
+  const verse = n.verseId ? ` · sthayi line: <code>${n.verseId}</code>` : "";
+  const res = (n.resources && n.resources.length)
+    ? `<div class="res">▶ <a href="${n.resources[0].url}">${n.resources[0].label}</a></div>` : "";
+  return `<div class="notation">
+    <h3>${n.title} ${badge(n.status)}</h3>
+    <div class="meta">Raag ${n.raag} · Taal ${n.taal} · ${n.tempo} BPM · Sa=${n.key} · composer: ${n.composer}${verse}</div>
+    ${applies}
+    ${sections}
+    ${res}
+    ${provenance(n)}
+  </div>`;
+}
+
+function shabadCard(shabadId, notations){
+  const s = SHABADS[shabadId] || { title: shabadId, gurmukhi: "" };
+  const notes = notations.map(notationHTML).join("");
+  return `<div class="card">
+    <div class="shabad-gurmukhi">${s.gurmukhi}</div>
+    <div class="shabad-title">${s.title}</div>
+    <div class="ids">shabad: ${shabadId} &nbsp;·&nbsp; grouped via <code>shabadIds</code></div>
+    ${notes}
+  </div>`;
+}
+
+function raagCard(name){
+  const r = RAAGS[name];
+  const komal = r.komal.length ? r.komal.join(", ") : "—";
+  const teevra = r.teevra.length ? r.teevra.join(", ") : "—";
+  return `<div class="card">
+    <div class="shabad-gurmukhi">${r.names.gurmukhi}</div>
+    <div class="shabad-title">${r.names.roman} ${badge(r.status)}</div>
+    <dl class="raag-grid" style="margin-top:10px">
+      <dt>Aroh</dt><dd class="sur" data-sur="${encodeURIComponent(r.aroh)}">${render(r.aroh, currentScript)}</dd>
+      <dt>Avroh</dt><dd class="sur" data-sur="${encodeURIComponent(r.avroh)}">${render(r.avroh, currentScript)}</dd>
+      <dt>Pakad</dt><dd class="sur" data-sur="${encodeURIComponent(r.pakad)}">${render(r.pakad, currentScript)}</dd>
+      <dt>Thaat / Jati</dt><dd>${r.thaat} · ${r.jati}</dd>
+      <dt>Vadi / Samvadi</dt><dd>${r.vadi} / ${r.samvadi}</dd>
+      <dt>Komal / Teevra</dt><dd>${komal} &nbsp;/&nbsp; ${teevra}</dd>
+      <dt>Mood</dt><dd>${r.mood}</dd>
+      <dt>Time</dt><dd>${r.time}</dd>
+    </dl>
+  </div>`;
+}
+
+function draw(){
+  document.getElementById("shabad-multi").innerHTML =
+    shabadCard("DEMO-TMP", NOTATIONS.filter(n => n.shabadIds.includes("DEMO-TMP")));
+  document.getElementById("shabad-paath").innerHTML =
+    shabadCard("DEMO-SKM-01", NOTATIONS.filter(n => n.notationId === "demo-n42"));
+  document.getElementById("raag-card").innerHTML = raagCard("Dhanaasree") + raagCard("Gauree");
+}
+
+document.getElementById("toggle").addEventListener("click", e => {
+  if (e.target.tagName !== "BUTTON") return;
+  currentScript = e.target.dataset.script;
+  [...e.currentTarget.querySelectorAll("button")].forEach(b => b.classList.toggle("active", b === e.target));
+  document.querySelectorAll(".sur").forEach(el => { el.textContent = render(decodeURIComponent(el.dataset.sur), currentScript); });
+});
+
+draw();
+</script>
+</body>
+</html>
