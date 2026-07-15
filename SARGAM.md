@@ -2,7 +2,7 @@
 
 A deterministic, web-safe notation for Hindustani / Gurmat Sangeet swara and tal.
 This is the single source of truth for how notation is **stored**. Pretty rendering
-(Bhatkhande dots/dashes, or Gurmukhi script) is a **display layer** generated from this
+(Roman/Latin letters, or Gurmukhi script) is a **display layer** generated from this
 form — never the other way around. The reference parser lives in `src/lib/sargam.js`.
 
 Synthesized and corrected from G.S. Mansukhani, *Indian Classical Music and Sikh Kirtan*,
@@ -12,7 +12,8 @@ diacritic form; this spec makes that fallback consistent and complete.
 > There is no single traditional standard either: the diacritic notation itself splits into
 > two lineages — the **Bhatkhande** and **Paluskar (Vishnu Digambar)** paddhatis — and the
 > Roman single-letter form has no agreed convention at all (see §1). That's the whole reason
-> for this document: store **one** canonical form, and render any tradition on top of it.
+> for this document: store **one** canonical form, and render display hands (Roman and
+> Gurmukhi) on top of it.
 
 ---
 
@@ -23,11 +24,13 @@ diacritic form; this spec makes that fallback consistent and complete.
   software), so notation copies in and out of the wider ecosystem without translation.
   We considered a case-free suffix scheme (`R_`, `M^`) and rejected it: it's non-standard,
   more verbose, and the risks it guards against are cheaply mitigated (see §6).
-- **The rule for case is uniform:** *lowercase = the lower of the two chromatic pitches* —
-  no exception, including Ma. Be clear-eyed that there is **no industry-wide standard** for
-  single-letter Hindustani notation (§1 documents the competing convention). The value of
-  this spec isn't that it found the "right" answer — it's that it makes one explicit,
-  documented choice and applies it consistently.
+- **The rule for case is uniform:** *uppercase = the shuddh (natural) note; lowercase = its
+  altered form* — komal for Re/Ga/Dha/Ni, teevra for Ma. No exception. A happy consequence:
+  the uppercase letters `S R G M P D N` spell exactly the natural (Bilaval) scale. Be
+  clear-eyed that there is **no industry-wide standard** for single-letter Hindustani
+  notation (§1 documents the competing convention). The value of this spec isn't that it
+  found the "right" answer — it's that it makes one explicit, documented choice
+  (**settled: the shuddha-set convention**) and applies it consistently.
 - **`.` is reserved exclusively for octave.** Never a rest, never sentence punctuation
   inside a token.
 - **Data stays plain ASCII.** Every token is typable on any keyboard and survives
@@ -42,34 +45,35 @@ diacritic form; this spec makes that fallback consistent and complete.
 | Sa    | —             | `S`              | —               |
 | Re    | `r`           | `R`              | —               |
 | Ga    | `g`           | `G`              | —               |
-| Ma    | —             | `m`              | `M`             |
+| Ma    | —             | `M`              | `m`             |
 | Pa    | —             | `P`              | —               |
 | Dha   | `d`           | `D`              | —               |
 | Ni    | `n`           | `N`              | —               |
 
-**Rule:** lowercase is always the **lower-pitched** member of a pair.
+**Rule:** uppercase is always the **shuddh (natural)** member; lowercase is the **altered**
+member.
 
-For Re/Ga/Dha/Ni the lower member is the *komal* (flat) note, so `r g d n` = komal.
-For **Ma**, the two variants are shuddh Ma and the *higher* teevra Ma — so the lower one,
-shuddh Ma, is lowercase `m`, and teevra Ma is uppercase `M`.
+For Re/Ga/Dha/Ni the altered member is the *komal* (flat) note, so `r g d n` = komal.
+For **Ma**, the altered member is the *higher* teevra Ma — so shuddh Ma is uppercase `M`,
+and teevra Ma is lowercase `m`. (Ma has no komal form in this system.)
 
-> ⚠️ **Ma is contested — there is no standard, so read this.** Single-letter Hindustani
-> notation splits into two principled camps that disagree only on Ma:
+> ⚠️ **Ma is the one contested swara — there is no industry standard, so read this.**
+> Single-letter Hindustani notation splits into two principled camps that disagree only on Ma:
 >
-> - **Pitch-height convention (this spec):** lowercase = the lower semitone of every pair,
->   uniformly. So `m` = **shuddh** Ma, `M` = **teevra** Ma. Layout: `S r R g G m M P d D n N`.
-> - **Shuddha-set convention (Rajan Parrikar and others):** all seven shuddh notes are
->   uppercase and *every* alteration — komal **and** teevra — is lowercase. So `M` = shuddh
->   Ma, `m` = teevra Ma. Layout: `S r R g G M m P d D n N`. Its appeal is that uppercase
->   `SRGMPDN` then spells exactly the natural (Bilaval) scale.
+> - **Shuddha-set convention (this spec — SETTLED):** all seven shuddh notes are uppercase
+>   and *every* alteration — komal **and** teevra — is lowercase. So `M` = **shuddh** Ma,
+>   `m` = **teevra** Ma. Layout: `S r R g G M m P d D n N`. Uppercase `SRGMPDN` then spells
+>   exactly the natural (Bilaval) scale. (Associated with Rajan Parrikar and others.)
+> - **Pitch-height convention (the alternate, NOT used here):** lowercase = the lower
+>   semitone of every pair, uniformly — so `m` = shuddh Ma, `M` = teevra Ma.
 >
 > Both rules are internally consistent; they partition the octave on different principles
-> (pitch height vs. primary-vs-altered). We default to the **pitch-height** convention
-> because it appears to be the majority usage and is what most software emits — best for
-> interop. **But this is the single most likely point of disagreement with an outside
-> source.** If your teachers, community, or source material use the shuddha-set convention,
-> flip it: swap the `variant` values on `m` and `M` in `sargam.js` (one line each). Nothing
-> else in the system depends on the choice.
+> (primary-vs-altered vs. pitch height). This project uses the **shuddha-set** convention:
+> it gives one exceptionless rule (uppercase = shuddh, lowercase = altered) and makes the
+> natural scale legible at a glance. **This remains the single most likely point of
+> disagreement with an outside source**, so any notation imported from elsewhere must be
+> checked for which camp it used and converted if needed. The choice lives in one place —
+> the `variant` values on `m` and `M` in `sargam.js`.
 
 `S` and `P` have only one form and are always uppercase. Lowercase `s` / `p` are **invalid**.
 
@@ -105,7 +109,7 @@ Examples:
 
 ```
 S  -  G  -          Sa held two beats, then Ga held two beats
-(S R) (g m) P        beat 1 = Sa+Re, beat 2 = komal-Ga + shuddh-Ma, beat 3 = Pa
+(S R) (g M) P        beat 1 = Sa+Re, beat 2 = komal-Ga + shuddh-Ma, beat 3 = Pa
 S  _  S  _           Sa, silence, Sa, silence
 ```
 
@@ -119,8 +123,8 @@ standard sargam meaning (sustain). Grouping is unambiguous and nests one level o
 Kirtan notation sometimes has a spoken/sung interjection between phrases of swara — most
 commonly **"Waheguru"** written inline rather than set to notes. Any bare alphabetic token
 that (a) is 3+ characters and (b) is made up mostly of letters outside the swara alphabet
-(`S r R g G m M P d D n N`) is parsed as a **label** event and passed through verbatim —
-it isn't translated into any script, it just displays as-is in all three notation hands:
+(`S r R g G M m P d D n N`) is parsed as a **label** event and passed through verbatim —
+it isn't translated into any script, it just displays as-is in both notation hands:
 
 ```
 P D N S. | Waheguru | S. N D P
@@ -218,9 +222,12 @@ into the primary system.
 
 | | Traditional (as printed) | Canonical |
 |---|---|---|
-| Aroha    | S r r P, m P N Ṡ                     | `S r r P , m P N S.` |
-| Avaroha  | Ṡ N d P, m D m G R, R R P R G G R S | `S. N d P , m D m G R , R R P R G G R S` |
-| Pakad    | S, r, r, P, m G r, G R S            | `S , r , r , P , m G r , G R S` |
+| Aroha    | S r r P, m P N Ṡ                     | `S r r P , M P N S.` |
+| Avaroha  | Ṡ N d P, m D m G R, R R P R G G R S | `S. N d P , M D M G R , R R P R G G R S` |
+| Pakad    | S, r, r, P, m G r, G R S            | `S , r , r , P , M G r , G R S` |
+
+*(Note: the "as printed" column preserves the book's own notation; the Canonical column
+uses this spec's shuddha-set convention, where the natural madhyam is `M`.)*
 
 ---
 
@@ -246,9 +253,9 @@ translations:
 ## 9. Quick reference (footer / contributor card)
 
 ```
-Shuddh:   S  R  G  m  P  D  N          (Ma natural = lowercase m)
+Shuddh:   S  R  G  M  P  D  N          (uppercase = the natural Bilaval scale)
 Komal:    r  g  d  n                    (Re Ga Dha Ni only)
-Teevra:   M                             (Ma only; uppercase = sharp)
+Teevra:   m                             (Ma only; lowercase = sharp)
 Octave:   .N mandra   N tar   ..N/N.. ati-
 Beat:     (space)   In-beat group: (S R)   Hold: -   Rest: _
 Phrase: ,     Section: |     Label (spoken interjection): bare word, e.g. Waheguru
