@@ -322,10 +322,11 @@ minor; a breaking schema change bumps major (and should be rare — see principl
 1. **Multiplicity framing** — pending Bhai Jaspal Singh Ji's input on how he thinks
    about multiple notations of one shabad. The schema is permissive; his framing may
    suggest which fields distinguish them (raag? composer? title?).
-2. **Ma convention** — `SARGAM.md` defaults to pitch-height (`m` = shuddh,
-   `M` = teevra). Must be confirmed by ear with Bhai Jaspal Singh Ji. If the class
-   uses the alternate (Parrikar) convention, the spec's default flips — a one-line
-   change, but every notation string's meaning depends on it.
+2. **Ma convention — SETTLED (shuddha-set).** `SARGAM.md` uses `M` = shuddh madhyam,
+   `m` = teevra madhyam (uppercase = shuddh, lowercase = altered). Notation scripts are
+   Roman/Latin and Gurmukhi only (Bhatkhande dropped). Still confirm each *book's* ma
+   readings against the source when transcribing — the convention is fixed, but reading a
+   given ma as shuddh vs teevra in Ustaad ji's notation still takes care.
 3. **`verseId` adoption** — is pointing at the exact sthayi line worth the extra
    entry effort, vs. inferring from rahaao? Depends on how often they diverge.
 4. **Governance** — who may mark a record `approved`? Presumably Bhai Jaspal Singh Ji

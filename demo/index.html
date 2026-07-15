@@ -94,10 +94,9 @@
   <div class="toggle" id="toggle">
     <span>Notation script (illustrative):</span>
     <button data-script="roman" class="active">Roman</button>
-    <button data-script="bhatkhande">Bhatkhande</button>
     <button data-script="gurmukhi">Gurmukhi</button>
   </div>
-  <p class="hint">Notation is stored once as a canonical ASCII string; the script is a display choice. Case carries meaning — lowercase (e.g. <code>g</code>, <code>d</code>, <code>n</code>) is komal, <code>M</code> is teevra madhyam — so it is never case-folded.</p>
+  <p class="hint">Notation is stored once as a canonical ASCII string; the script is a display choice. Case carries meaning — uppercase <code>S R G M P D N</code> is the shuddh (natural) scale; lowercase is the altered note (<code>r g d n</code> komal, <code>m</code> teevra madhyam) — so it is never case-folded.</p>
 
   <h2>Compositions for a shabad <span class="note-sample">(many notations → one shabad)</span></h2>
   <div id="shabad-multi"></div>
@@ -197,7 +196,6 @@ const SHABADS = {
 
 /* ---- Illustrative script transliteration (token-level, for demo only) ---- */
 const MAP = {
-  bhatkhande: { S:"सा", R:"रे", r:"रे̱", G:"ग", g:"ग̱", m:"म", M:"म॑", P:"प", D:"ध", d:"ध̱", N:"नि", n:"नि̱" },
   gurmukhi:   { S:"ਸ", R:"ਰ", r:"ਰ", G:"ਗ", g:"ਗ", m:"ਮ", M:"ਮ", P:"ਪ", D:"ਧ", d:"ਧ", N:"ਨ", n:"ਨ" }
 };
 let currentScript = "roman";
