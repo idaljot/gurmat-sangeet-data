@@ -13,6 +13,8 @@ Sacred musical content — **wrong notation is worse than no notation.**
 
 ## Read first
 
+- **`GURMAT-SANGEET-CONTEXT.md`** — mutable project state, people, plan, open decisions.
+  Read it when a task needs project context (not auto-imported, to save tokens).
 - **`SCHEMA.md`** — the data contract (every field, and why). The authority.
 - **`SARGAM.md`** — the notation string spec (how to read/write sur, taal, octaves).
 - **`VISION.md`** — purpose, roadmap, open questions for the community.
