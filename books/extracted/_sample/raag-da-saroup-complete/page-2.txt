@@ -1,0 +1,88 @@
+# Raag Da Saroup Complete - page 2 (Raag Gauri - raag-detail entry)
+# Font: legacy ASCII-Gurmukhi transliteration scheme (AnmolLipi/GurbaniAkhar-style, same class as Sampurn 55 Parhtala's page 4), e.g. 'rwgu gauVI' = 'ਰਾਗੁ ਗਉੜੀ', 'Qwt : BYrv' = 'ਥਾਟ : ਭੈਰਵ'. Legible if decoded via a documented scheme, but not decoded in this pass -- do not ingest raw.
+# Method used instead: tesseract OCR -l pan --psm 4 on 150dpi render, spot-checked against page-2.png.
+# OCR accuracy: same pattern as page 1 -- labels/values reliable, Aroh/Avroh/Mukh Ang inline notation spacing unreliable.
+
+--- pdftotext -layout raw (ASCII transliteration scheme -- legible if decoded, do not ingest as-is) ---
+3H rwgu gauVI
+
+Qwt          :     BYrv
+
+jwqI         :     AOVv-sMpUrn
+
+vwdI         :     irSB
+
+sMvwdI       :     pMcm
+
+sur          :     irSB, DYvq koml
+
+ਵਯਰਜਤ ਸੁਯ    :     ਆਯ੅ਹ ਰਵਚ X?ts
+
+
+ਸਭਾਂ         :     ਯਾਤ ਦਾ ਩ਰਹਰਾ ਩ਰਹਯ
+
+
+Aroh         :     s ryu g ryu m pnI sN
+
+Avroh        :     sN nI Du w p, X[ g m g, r ruy ; Bah s
+
+w[Zy nzr     L     w X[ g, X[ w g r w, o/[ r o/[ ; Bah, ;
+
+
+
+
+3H1 rwgu gauVI guAwryrI
+
+Qwt          :     mwrvw
+
+jwqI         :     AOVv- SwVv
+
+vwdI         :     gMDwr
+
+sMvwdI       :     DYvq
+
+sur          :     dovyN miDAm
+
+vrijq sur    :     Awroh ivc irSB, pMcm, Avroh ivc pMcm
+
+Aroh         :     s g my D p nI sN
+
+Avroh        :     sN nI D my g ryu s
+
+w[Zy nzr     L     ;A Bh X, w/ X w/ r o/[ ;, o/[ r o/[ ; Bah
+
+--- tesseract -l pan --psm 4 OCR (labels reliable; Aroh/Avroh/Mukh Ang spacing UNRELIABLE) ---
+ਥਾਟ ਭੈਰਵ
+ਜਾਤੀ ਔੜਵ-ਸੰਪੂਰਨ
+
+ਵਾਦੀ ਰਿਸ਼ਭ
+
+ਸੰਵਾਦੀ ਪੰਚਮ
+
+ਸੁਰ ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ
+
+ਵਰਜਿਤ ਸੁਰ ਆਰੋਹ ਵਿਚ ਧੈਵਤ
+
+ਸਮਾਂ ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ
+
+ਅਰੋਹ ਸਰੇਗਰੇਮਪਨੀਸ
+
+ਅਵਰੋਹ ਸੰਨੀਧੁਮਪ,ਧੁਪਮਗ,ਗਰੇਸਨੀਸ
+ਮੁੱਖ ਅੰਗ ਮਧੁਪ,ਧੁਮਪਗਮ,ਰੇਗਰੇਸਨੀ,ਸ
+3.1 ਰਾਗੁ ਗਉੜੀ ਗੁਆਰੇਰੀ
+
+ਥਾਟ ਮਾਰਵਾ
+
+ਜਾਤੀ ਔੜਵ- ਸ਼ਾੜਵ
+
+ਵਾਦੀ ਗੰਧਾਰ
+
+ਸੰਵਾਦੀ ਧੈਵਤ
+
+ਸੁਰ ਦੋਵੇਂ ਮਧਿਅਮ
+
+ਅਰੋਹ ਸਗਸੇਧਪਨੀਸ
+
+ਅਵਰੋਹ ਸੰਨੀਧਮੇਗਰੇਸ
+
+ਸਨੀਧ,ਮੇਧਮੇਗਰੇਸ,ਰੇਗਰੇਸਨੀ

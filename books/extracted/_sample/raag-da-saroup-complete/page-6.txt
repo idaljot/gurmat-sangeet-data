@@ -1,0 +1,70 @@
+# Raag Da Saroup Complete - page 6 (Raag Gauri Maajh, Raag Gauri Malwa - raag-detail entries)
+# Font: mixed page -- some fields legible ASCII-transliteration, some Gurmukhi-block codepoints with the wrong-ToUnicode CID bug (matches Asa Di Vaar's font-family issue).
+# Method: tesseract OCR -l pan --psm 4 on 150dpi render, spot-checked against page-6.png.
+# Same pattern: labels reliable, Aroh/Avroh/Mukh Ang notation spacing unreliable.
+
+--- pdftotext -layout raw (mixed garbled fonts - reference only) ---
+3H8 okr rT[Vh wkM
+Qwt           :   wkotk
+
+ਜਾਤੀ          :   ਸੰ ਩ੂਯਣ
+
+ਵਾਦੀ          :   ਩ੰ ਚਭ
+
+ਸੰ ਵਾਦੀ       :   ਸ਼ੜਜ
+
+ਸੁਯ           :   ਦ੅ਵੇਂ ਰਯਸ਼ਬ, ਦ੅ਵੇਂ ਗੰ ਧਾਯ, ਦ੅ਵੇਂ ਭਰਧਅਭ, ਦ੅ਵੇਂ ਧ੄ਵਤ ਤ੃ ਦ੅ਵੇਂ ਰਨਸ਼ਾਦ
+
+ਵਯਰਜਤ ਸੁਯ     :   ਕ੅ਈ ਨਹੀਂ
+
+ਸਭਾਂ          :   ਸ਼ਾਭ
+
+ਆਯ੅ਹ          :   ਸ ਯ੃[ ਗ ਯ੃[, ਭ/ ਩ ਧੁ ਩, ਨੀ ਸਂ
+
+ਅਵਯ੅ਹ         :   ਸਂ B[h ਧ ਩, ਧ ਭ ਗ ਭ, ਯ੃ ਩ ਗੁ, ਯ੃ ਗੁ ਸ ਯ੃ ਨah ਸ
+
+ਭੁੰ ਖ ਅੰ ਗ    :   ; o/[ r o/[, X w r w, o/ r[, o/ r ; o/ Bah ;
+
+
+
+3H9 okr rT[Vh wkbtk
+Qwt           :   g{oth
+
+ਜਾਤੀ          :   ਸ਼ਾੜਵ-ਸ਼ਾੜਵ
+
+ਵਾਦੀ          :   ਰਯਸ਼ਬ
+
+ਸੰ ਵਾਦੀ       :   ਩ੰ ਚਭ
+
+ਸੁਯ           :   ਰਯਸ਼ਬ, ਧ੄ਵਤ ਕ੅ਭਰ ਅਤ੃ ਭਰਧਅਭ ਤੀਵਯ
+
+ਵਯਰਜਤ ਸੁਯ     :   ਆਯ੅ਹ ਰਵਚ ਰਨਸ਼ਾਦ ਤ੃ ਅਵਯ੅ਹ ਰਵਚ ਧ੄ਵਤ
+
+ਸਭਾਂ          :   ਰਦਨ ਦਾ ਚ੆ਥਾ ਩ਰਹਯ
+
+ਆਯ੅ਹ          :   ਸ ਯ੃[ ਗ ਯ੃[ ਸ, ਯ੃[ ਗ ਭ/ ਩ ਧੁ ਸਂ
+
+ਅਵਯ੅ਹ         :   ਸਂ ਨੀ ਩ ਭ੃ ਗ ਯ੃[ ਸ
+
+ਭੁੁੱ ਖ ਅੰ ਗ   :   ਯ੃[ ਗ ਯ੃[ ਸ, ਨੀ ਩ ਭ੃ ਗ ਯ੃[ ਸ
+
+--- tesseract -l pan --psm 4 OCR (labels reliable; Aroh/Avroh/Mukh Ang spacing UNRELIABLE) ---
+ਥਾਟ ਮਾਰਵਾ
+ਵਾਦੀ ਪੰਚਮ
+
+ਆਰੋਹ : ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ
+
+ਅਵਰੋਹ : ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ
+
+ਮੁੰਖ ਅੰਗ : ਸਰੇਗਰੇ, ਧਮਗਮ,ਰੇਗੁ,ਰੇਗਸਰੇਨੀਸ
+
+3.9 ਰਾਗ ਗਉੜੀ ਮਾਲਵਾ
+
+ਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ
+ਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ
+
+ਆਰੋਹ : ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ
+
+ਅਵਰੋਹ : ਸੰਨੀਪਮੇਗਰੇਸ
+
+ਮੁੱਖ ਅੰਗ ੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ

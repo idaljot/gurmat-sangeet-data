@@ -1,0 +1,4 @@
+[EXTRACTION METHOD] pdftotext -layout produced NO extractable text.
+[CONFIDENCE] N/A
+[CONTENT] Front cover -- image only, same as Vol. I. Confirms this part of
+the prior diagnosis for this book pair.

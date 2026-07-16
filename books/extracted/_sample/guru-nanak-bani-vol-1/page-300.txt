@@ -1,0 +1,34 @@
+[EXTRACTION METHOD] pdftotext -layout. Font: FNTSBS+GurbaniLipi / GurbaniLipiBold (legacy WinAnsi, uni=no) -- SAME AnmolLipi/GurmukhiAkhar ASCII scheme as book 1, NOT the Asees scheme. Converted via gurmukhi-utils toUnicode() -> NFC.
+[CONFIDENCE] High -- output is fluent, correctly-reordered Gurmukhi (e.g. 'ਹਰਿ ਜਪਿ ਜਾਪਿ ਰਹਣੁ' -- correctly ordered, no sipari artifact, because toUnicode() handles reordering).
+[CONTENT] SWARA/SUR NOTATION TABLE -- Raag Gaudi ('Gaauri'), Ek Taal, 12 matra.
+======================================================================
+
+                                      ਰਾਗੁ ਗਾਉੜੀ (ਏਕ ਤਾਲ ੧੨ ਮਾਤਰਾ)
+  ੧       ੨       ੩           ੪          ੫        ੬        ੭         ੮        ੯     ੧੦    ੧੧     ੧੨
+  ×               ੌ                      ੨                 ੌ                  ੩            ੪
+ਸਥਾਈ
+ ਮਪ      ਨੀਸਂ     ਸਂ          ਸਂ        ਸਂਨੀ      ਧੁ       ਪ         ਪ       ਮ      ਮ      ਪ      ਪ
+ ਮਰ      ਣੁ ਸ    ਲਿ           ਖਾ        ਸਸ       ਇ        ਆ        ਏ       ਨ     ਹੀ    ਰਹ     ਣਾ
+
+
+  ਧੁ      ਧੁ      ਪ          ਪਮ          ਗ        ਗ        ਰੁੇ       ਗ       ਰੁੇ    ਸ      ਸ      ਸ
+  ਹ      ਰਿ       ਜ           ਪਿ         ਜਾ      ਪਿ       ਰਹ         ਣੁ      ਹ      ਰਿ    ਸਰ     ਣਾ
+
+
+ਅੰਤਰਾ
+  ਮ       ਮ      ਮਪ           ਨੀ         ਨੀ      ਨੀ       ਨੀਸਂ       ਸਂ      ਰੁੇਂ   ਸਂ    ਸਂ     ਸਂ
+ ਸਤਿ      ਗੁ     ਰੁ ਸ         ਮਿ         ਸ        ਲੈ      ਸੁ ਮ       ਰ       ਣੁ     ਦਿ    ਖਾ      ਏ
+
+
+ ਸਂਰੁੇ    ਰੁੇਂ    ਰੁੇਂ       ਸਂਰੁੇਂ      ਰੁੇਂ    ਰੁੇਂ      ਗਂ       ਗਂ       ਰੁੇਂ   ਸਂ    ਸਂ     ਸਂ
+ ਮਰ       ਣ      ਰਹ          ਣਸ          ਰ        ਸੁ       ਅੰ        ਤ       ਰਿ     ਭਾ     ਸ      ਏ
+
+
+ ਨੀ      ਨੀ       ਨੀ         ਨੀਧੁ        ਪ        ਪ       ਮਪ       ਨੀਸਂ     ਸਂਨੀ    ਧੁਪ   ਮਗ     ਰੁੇਸ
+ ਗਰ       ਬੁ     ਨਿਵਾ       ਰਿ ਸ        ਗਗ        ਨ       ਪੁ ਸ      ਰੁ ਸ    ਪਾ ਸ    ਸਸ    ਏ ਸ   ਸਸ
+
+
+
+
+                         ੨੮੨ :: ਰ।ੋ{ ਭਕਭੲ ਦ/ਟ ਹਿ ਦਹ ;ਜ਼ਗ{ੋਧ ਪਕਧਹ ਲ਼ ਫਪਦ ;।ੋ ੋੁਭਕਟਬਹ
+

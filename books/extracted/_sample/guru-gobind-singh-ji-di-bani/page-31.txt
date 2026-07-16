@@ -1,0 +1,37 @@
+[EXTRACTION METHOD] Genuine bordered PDF table (not just whitespace alignment). Raw pdftotext -layout preserves the 12-column grid reasonably well because poppler snaps text to table cell x-positions. Gurmukhi cells (taal bol row, lyric row) converted via gurmukhi-utils toUnicode(); the bold 'sur' row is ALREADY plain Latin ASCII sargam (S R G M P D N / r g m d n) in the source PDF and was extracted unchanged.
+[CONFIDENCE] Row-level structure: high confidence (validated: taal-bol row matches the textbook Iktaal bol pattern 'Dhin Dhin Dhage Tirkit Tu Na Kat Ta Dhage Tirkit Dhin Na'; independently cross-checked against a 300dpi crop by eye and a `tesseract -l pan` OCR pass on the same region, which agreed on the taal-bol row). Exact CELL BOUNDARIES in this plain-text rendering are NOT guaranteed reliable -- some cells visually contain combined lyric+sur glyphs (e.g. 'ਰੂS') whose internal split is ambiguous from text alone. See REPORT.md notation-fidelity verdict.
+[CONTENT] SWARA/SUR NOTATION TABLE -- Raag Sorath, Taal Iktaal (12 matra)
+======================================================================
+
+                                    ਰਾਗ ਸੋਰਠਿ
+                              ਤਾਲ ਇਕਤਾਲ ੧੨ ਮਾਤਰਾ
+
+ਸਥਾਈ
+
+  ੧     ੨       ੩      ੪       ੫     ੬           ੭      ੮      ੯       ੧੦      ੧੧    ੧੨
+  ਣ             ੦              ੨                 ੦             ੩                ੪
+ ਧਿੰ    ਧਿੰ   ਧਾਗੇ   ਤਿਰਕਿਟ   ਤੂਨ    ਨਾ         ਕਤ      ਤਾ    ਧਾਗੇ   ਤਿਰਕਟ     ਧਿੰ   ਨਾ
+  ਸਂ    ਸਂ     ਰੇਂ     ਨੁੀਪ    ਪ      ਪ         ਧਧ      ਮ      ਰੇ      .ਨੀ     ਸ     ਸ
+  ਜੈ    ਜੈ      ਸ਼      ਰੂਸ਼     ਪ      ਸ਼         ਅਰੇ      ਸ਼     ਖ        ਅ      ਪਾ    ਰ
+ .ਨੀ    ਸ       ਰੇ      ਸ      ਰੇ    ਮ           ਰੇ     ਮ     ਪਧ        ਮ       ਰੇ   ਸ
+ ਜਾ      ਸ਼     ਸਿ       ਪਾ     ਸ਼     ਇ          ਭ੍ਰ      ਸ਼    ਸ਼ਸ਼       ਮਾ      ਇ    ਸ਼
+ ਮਰੇ    ਮ       ਪ       ਨੀ    ਸਂਸਂ   ਸਂ         ਮਪ     ਨੀਸਂ    ਰੇਂ    ਨੁੀਨੁੀ    ਪ    ਪ
+ ਜਸ਼      ਹ      ਤ       ਹ     ਭੀਖ    ਕੋ         ਸਿਸ਼     ਸ਼ਸ਼     ਵ      ਦੁਆ      ਸ਼    ਰ
+
+
+ਅੰਤਰਾ
+
+ ਮਰੇ    ਮ     ਮ        ਪ       ਨੀ    ਨੀ          ਸਂ    ਸਂਸਂ   ਨੀ       ਸਂ      ਸਂ    ਸਂ
+ ਜਾਸ਼    ਸਿ     ਸ਼       ਪਾ      ਸ਼     ਇ          ਲ     ਗਯੋ    ਨਿ       ਸੇ      ਸਿ    ਹ
+ ਰੇਂ    ਰੇਂ   ਰੇਂ      ਰੇਂ     ਰੇਂ   ਰੇਂ         ਮਂ     ਰੇਂ   ਨੀ       ਸਂ      ਸਂ    ਸਂ
+ ਕਾ      ਸ਼     ਰ       ਮਾ      ਤ      ਨ          ਏ      ਸ਼     ਸ਼       ਕ        ਸ਼    ਸ਼
+ ਮਰੇ     ਰੇ   ਮ        ਪ       ਨੀ    ਨੀ         ਸਂਸਂ    ਸਂ    ਨੀ       ਸਂ      ਸਂ    ਸਂ
+ ਦੇਸ਼     ਸ਼     ਵ       ਤੇ      ਸ਼     ਸ          ਸਹੰ     ਸ੍ਰ    ਭੇ       ਸ਼        ਭ    ਗ
+ ਸਂ     ਸਂ    ਰੇਂ      ਨੁੀ     ਪ      ਪ         ਮਪ     ਨੀਸਂ   ਰੇਂ      ਨੁੀ      ਧ    ਪ
+ ਜਾ      ਸ਼    ਸਿ       ਪਾ      ਸ਼     ਇ         ਅਨੇ     ਸ਼ਸ਼     ਸ਼       ਸ਼       ਕ     ਸ਼
+
+
+
+
+                                           ੨੪
+

@@ -1,0 +1,37 @@
+[EXTRACTION METHOD] pdftotext -layout. Font: FNTSBS+Asees/AseesBold (WinAnsi, legacy) -- same unmapped scheme as page-26.
+[CONFIDENCE] NONE for text content. Table grid structure (columns/rows) is at least visually preserved by -layout since it's a genuine bordered PDF table -- see page-60.png.
+[CONTENT] SWARA/SUR NOTATION TABLE -- Raag Suhi, taal ~12 matra (per header 'M~gskb').
+======================================================================
+
+                                 okr[ ;{jh (M~gskb ñú wksok )
+                                                 (nzr ÷ö੫–÷öö)
+  1        2        3            4           5          6           7          8       9     10
+  %                 2                                    0                         3
+;EkJh
+  g        g       XBh           ;A          ;A         B[h         B[h        X       g     g
+  fi       fB       eh           s          nk          fs         fB          d/      fy    nk
+  g        g        w            r           o/         Bah         Bah        ;       ;     ;
+  i        r[       Xz           X           V?         bk          s          fJ      s     nk
+  g        g       XBh           ;A          ;A         B[h         B[h        X       g     g
+  dk       fB       s/           s           o?         x          fN          uk      B     Dk
+  g        g        w            r           o/         Bah         Bah        ;       ;     ;
+  s        fB       uz           s           d[         dh          gk         fJ      s     nk
+nzsok
+  g        g        X            X           Bh         ;A          ;A         Bh      ;A    ;A
+  uz       d'      dhgk          fJ         nk         dkfB        jfo         e?      s     s
+  o/A      o/A      o/A          o/A         o/A        rA          o/A        Bh      ;A    ;A
+  d[       y[       nz           X/         ok          T[         fm          r       fJ    nk
+  g        g        X            X           Bh         ;A          ;A         Bh      ;A    ;A
+  r[       D        iz           s           R         bkV/       Bkfb         ;'      s     j?
+  ;A       ;A       B[h          X           g         rw          gX          gw      ro/   ;
+ go        fy       w'j          Dh          n?         b           s          fJ      s     nk
+
+òH jT[ pfbjkoh ;kiBk whsk ntohsk]
+óH r[Dk ek j't? tk;[bk efY tk;[ bJhi?]                  gd th T[go'es ;EkJh nzso/ s/ rkT[Dk j?.
+ôH nkfg eo/ fe;[ nkyhn? j'o[ eo/ B e'Jh]
+
+
+
+
+                        788 :: r[o{ BkBe d/t ih dh ;zg{oD pkDh L Ppd ;[o ouBktbh
+

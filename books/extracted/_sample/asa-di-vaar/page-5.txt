@@ -1,0 +1,39 @@
+# Asa Di Vaar - page 5 (Raag Aasa Toonam grid: sur+lyric alignment table, unnumbered)
+# Font: legacy WinAnsiEncoding Raavi/Asees (uni=no), same as page 3. pdftotext layer garbled Latin ASCII, UNUSABLE.
+# Method: tesseract OCR -l pan --psm 6 on 150dpi render.
+# OCR accuracy: reasonable structural fidelity but noisier than page 3 -- S/5/9 digit confusion, dash cells rendered as '_' or '=' inconsistently, and one column ('ਧੁ') slightly misaligned vs image on close inspection. Estimate ~75-85% cell accuracy.
+# NOTATION FIDELITY VERDICT: MIXED, lower confidence than page 3 -- recommend treating as a rough first-pass draft only; cross-check every cell against page-5.png before any data entry.
+
+--- pdftotext -layout raw (GARBLED - reference only) ---
+                        okr[ nk;k sqBw
+
+                              (nzr ôöò)
+
+  o/     o/    w      w           w           g     g     g   g
+tko      s     ;     b'ek        Bkfb         s     s     s   s
+  X      X     X      w           w           g     g     ^   ^
+;b/e     Gh   wjb/   gfj          b/          e/   fby/   s   s
+ ;A      ;A    Bh     X           g           ^     ^     ^   ^
+ N[zv/   s    n;      ok          i?          s     s     s   s
+  w      r     o/     o/          Xa          ;     ^     ^   ^
+ eh      s     s      X[          Bh          s     s     s   s
+
+
+
+
+                            4:: nk;k dh tko
+
+--- tesseract -l pan --psm 6 OCR (rough draft only, verify cell-by-cell) ---
+ਰਾਗੁ ਆਸਾ ਤ੍ਨਮ
+(ਅੰਗ ੪੬੨)
+
+ਰੇ ਰੇ ਮ ਮ ਮ ਪ ਪ ਪ ਪ
+ਵਾਰ 5 ਸ ਲੋਕਾ __ ਨਾਲਿ 5 9 । 5
+ਧ ਧ ਧ ਮ ਮ ਪ ਪ - -
+ਸਲੇਕ ਭੀ ਮਹਲੇ __ ਪਹਿ ਲੇ ਕੇ ਲਿਖੇ 9 5
+ਸੰ ਸੰ ਨੀ ਧ ਪ = - - -
+ਫੁੰਡੇ 5 ਅਸ ਰਾ ਜੈ 5 5 । ।
+ਮ ਗ ਰੇ ਰੇ ਧੁ ਸ - - _
+ਕੀ । 9 ਧੁ ਨੀ 9 9 । 5
+
+4:: ਆਸਾ ਦੀ ਵਾਰ

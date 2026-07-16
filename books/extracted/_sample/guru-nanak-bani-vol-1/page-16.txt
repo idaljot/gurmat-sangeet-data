@@ -1,0 +1,77 @@
+[EXTRACTION METHOD] pdftotext -layout, then NFC + regex sihari-reorder fix applied to the whole page (this page mixes TWO different fonts word-by-word within the SAME lines: most shabad first-lines use CID Unicode font 'Akaash' -- reorder-fixable and reliable -- but raag-header lines (e.g. 'okr[ fpjkrVk') AND scattered individual words even inside otherwise-clean verse lines (e.g. 'e{fV ftrkfV', ';zwQkb/', 'd/fj fgnko'') fall back to the Asees legacy font, which is NOT mappable with available tooling (see page-7.txt). Those Asees runs are left AS-IS below, still garbled -- do not read them as text.
+[CONFIDENCE] High for lines that are pure Akaash-CID (validated against tesseract OCR below, which agrees word-for-word on those lines); ZERO for the Asees-garbled runs interspersed in the same lines/page.
+[CONTENT] Index of shabad first-lines (numbered) with SGGS ang ranges and inline raag headers.
+======================================================================
+
+[BEST-EFFORT: reorder-fixed pdftotext, Asees runs still broken]
+======================================================================
+
+    317H ਜਪਿ ਮਨ ਨਾਮੁ ਹਰਿ ਸਰਣੀ॥                                       635
+   okr[ fpjkrVk                                                     637^640
+
+    318H ਕਲਿ ਕਲਵਾਲੀ ਕਾਮੁ ਮਦੁ ਮਨੂਆ ਪੀਵਣਹਾਰੁ॥                          637
+    319H ਸਤਸੰਗਤਿ ਸਿਉ ਮੇਲਾਪੁ ਹੋਇ ਲਿਵ ਕਟੋਰੀ ਅੰਮਿਤ ਭਰੀ ਪੀ ਪੀ ਕਟਹਿ ਬਿਕਾਰ॥ 639
+   okr[ tvjz;[                                                      641^666
+
+    320H ਹਉ ਵਾਰੀ ਵੰਞਾ ਖੰਨੀਐ ਵੰਞਾ ਤਉ ਸਾਹਿਬ ਕੇ ਨਾਵੈ॥                   641
+    321H ਮੇਰਾ ਕੰਤੁ ਰੀਸਾਲੂ ਕੀ ਧਨ ਅਵਰਾ ਰਾਵੇ ਜੀ॥                        643
+    322H ਮੋਰੀ ਰੁਣ ਝੁਣ ਲਾਇਆ ਭੈਣੇ ਸਾਵਣੁ ਆਇਆ॥                           645
+    323H ਕਾਇਆ e{fV ftrkfV ਕਾਹੇ ਨਾਈਐ॥                                 647
+    324H ਕਰਹੁ ਦਇਆ ਤੇਰਾ ਨਾਮੁ ਵਖਾਣਾ॥                                   649
+    325H ਧੰਨੁ f;ozdk ਸਚਾ gkfs;kj[ fifB ਜਗੁ ਧੰਧੈ ਲਾਇਆ॥                651
+    326H ਆਵਹੁ fwbj[ ਸਹੇਲੀਹੋ ਸਚੜਾ ਨਾਮੁ bJ/jK॥                         653
+    327H fifB ਜਗੁ f;ofi ਸਮਾਇਆ ਸੋ ;kfjp[ ਕੁਦਰਿਤ ਜਾਣੋਵਾ॥               655
+    328H ਬਾਬਾ ਆਇਆ ਹੈ T[fm ਚਲਣਾ ਇਹੁ ਜਗੁ ਝੂਠੁ ਪਸਾਰੋਵਾ॥                 657
+    329H ਜਾਲਉ ਐਸੀ ohfs fis[ ਮੈ fgnkok ਵੀਸਰੈ॥                         659
+    330H ਘਰ ਹੀ ਮੁੰਧਿ ਵਿਦੇਸਿ ਪਿਰੁ ਨਿਤ ਝੂਰੇ ;zwQkb/॥                   661
+    331H ਨਾਨਕ ਗਾਲੀ ਕੂੜੀਆ ਬਾਝੁ gohfs ਕਰੇਇ॥                            663
+    332H ਸਚੜਾ ;kfjp[ ਸਚੁ ਤੂ ਸਚੜਾ d/fj fgnko'॥                        665
+   okr[ ;'ofm                                                       667^706
+
+    333H ਭੀ ਸਾਲਾਹਿਹੁ ਸਾਚਾ ਸੋਇ॥                                       667
+    334H ਬਾਬਾ ਮਾਇਆ ਸਾਥਿ ਨ ਹੋਇ॥                                       669
+    335H ਮਨੁ ਮਾਨਿਆ ਨਾਮੁ ਸਖਾਈ॥                                        671
+    336H ਮੇਰੇ ਸਾਹਿਬਾ ਤੇਰੇ ਚੋਜ ਵਿਡਾਣਾ॥                                674
+    337H ਕਰਤਾ ਤੂ ਮੈ ਮਾਣੁ ਨਿਮਾਣੇ॥                                     676
+    338H ਸਾਚੇ ਸਚਿਆਰ ਵਿਟਹੁ ਕੁਰਬਾਣੁ॥                                   678
+    339H ਮਨ ਰੇ ਰਾਮ ਨਾਮ ਜਸੁ ਲੇਇ॥                                      680
+
+
+                                          (xv)
+
+
+======================================================================
+[TESSERACT OCR (-l pan) OF SAME PAGE -- fully legible, used as cross-check]
+======================================================================
+
+317. ਜਪਿ ਮਨ ਨਾਮੁ ਹਰਿ ਸਰਣੀ॥ 635
+
+% ਰਾਗੁ ਬਿਹਾਗੜਾ 637-640
+318. ਕਲਿ ਕਲਵਾਲੀ ਕਾਮੁ ਮਦੁ ਮਨੂਆ ਪੀਵਣਹਾਰੁ॥ 637
+319. ਸਤਸੰਗਤਿ ਸਿਉ ਮੇਲਾਪੁ ਹੋਇ ਲਿਵ ਕਟੋਰੀ ਅੰਮ੍ਰਿਤ ਭਰੀ ਪੀ ਪੀ ਕਟਹਿ ਬਿਕਾਰ॥ _639
+
+% ਰਾਗੁ ਵਡਹੰਸੁ 641-666
+320. ਹਉ ਵਾਰੀ ਵੰਢਾ ਖੰਨੀਐ ਵੰਵਾ ਤਉ ਸਾਹਿਬ ਕੇ ਨਾਵੈ॥ 641
+321. ਮੇਰਾ ਕੰਤੁ ਰੀਸਾਲੂ ਕੀ ਧਨ ਅਵਰਾ ਰਾਵੇ ਜੀ॥ 643
+322. ਮੋਰੀ ਰੁਣ ਝੁਣ ਲਾਇਆ ਭੈਣੇ ਸਾਵਣ ਆਇਆ॥ 645
+323. ਕਾਇਆ ਕੂੜਿ ਵਿਗਾੜਿ ਕਾਹੇ ਨਾਈਐ॥ 647
+324. ਕਰਹੁ ਦਇਆ ਤੇਰਾ ਨਾਮੁ ਵਖਾਣਾ॥ 649
+325. ਧੰਨੁ ਸਿਰੰਦਾ ਸਚਾ ਪਾਤਿਸਾਹੁ ਜਿਨਿ ਜਗੁ ਧੰਧੈ ਲਾਇਆ॥ 651
+326. ਆਵਹੁ ਮਿਲਹੁ ਸਹੇਲੀਹੋ ਸਚੜਾ ਨਾਮੁ ਲਏਹਾਂ॥ 653
+327. ਜਿਨਿ ਜਗੁ ਸਿਰਜਿ ਸਮਾਇਆ ਸੋ ਸਾਹਿਬੁ ਕੁਦਰਿਤ ਜਾਣੋਵਾ॥ 655
+328. ਬਾਬਾ ਆਇਆ ਹੈ ਉਠਿ ਚਲਣਾ ਇਹੁ ਜਗੁ ਝੂਠੁ ਪਸਾਰੋਵਾ॥ 657
+329. ਜਾਲਉ ਐਸੀ ਰੀਤਿ ਜਿਤੁ ਮੈ ਪਿਆਰਾ ਵੀਸਰੈ॥ 659
+330. ਘਰ ਹੀ ਮੁੰਧਿ ਵਿਦੇਸਿ ਪਿਰੁ ਨਿਤ ਝੂਰੇ ਸੰਮ੍ਹਾਲੇ॥ 661
+331. ਨਾਨਕ ਗਾਲੀ ਕੂੜੀਆ ਬਾਝੁ ਪਰੀਤਿ ਕਰੇਇ॥ 663
+332. ਸਚੜਾ ਸਾਹਿਬੁ ਸਚੁ ਤੂ ਸਚੜਾ ਦੇਹਿ ਪਿਆਰੋ॥ 665
+
+% ਰਾਗੁ ਸੋਰਠਿ 667-706
+333. ਭੀ ਸਾਲਾਹਿਹੁ ਸਾਚਾ ਸੋਇ॥ 667
+334. ਬਾਬਾ ਮਾਇਆ ਸਾਥਿ ਨ ਹੋਇ॥ 669
+335. ਮਨੁ ਮਾਨਿਆ ਨਾਮੁ ਸਖਾਈ॥ 671
+336. ਮੇਰੇ ਸਾਹਿਬਾ ਤੇਰੇ ਚੋਜ ਵਿਡਾਣਾ॥ 674
+337. ਕਰਤਾ ਤੂ ਮੈ ਮਾਣੁ ਨਿਮਾਣੇ॥ 676
+338. ਸਾਚੇ ਸਚਿਆਰ ਵਿਟਹੁ ਕੁਰਬਾਣੁ॥ 678
+339. ਮਨ ਰੇ ਰਾਮ ਨਾਮ ਜਸੁ ਲੇਇ॥ 680
+
+[0

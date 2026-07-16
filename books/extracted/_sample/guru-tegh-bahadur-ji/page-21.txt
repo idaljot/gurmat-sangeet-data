@@ -1,0 +1,78 @@
+[EXTRACTION METHOD] pdftotext -layout, direct (page is already CID/Identity-H Unicode Gurmukhi -- font ABCDEE+Raavi[,Bold]).
+[CONFIDENCE] LOW-MEDIUM -- do not trust word-for-word. This book's embedded Raavi CID font has a confirmed corrupted/misaligned ToUnicode CMap: known-correct letters (e.g. sihari-i, ਤ ta, ਦ da, ਵ va) are substituted for each other in extraction, NOT just reordered. Verified against SGGS Ang 727 (page 80) and against a tesseract OCR pass (below) -- extraction is measurably wrong, OCR is measurably closer to the true text.
+[CONTENT] SWARA/SUR NOTATION TABLE -- Raag Gauri, Taal Mattatal (9 matra)
+[RAW PDFTOTEXT -- UNRELIABLE, kept for reference below]
+======================================================================
+
+                              ਰਾਗੇੁ ਗਉੜੀ, ਤਾਲ- ਮੱ ਤਾਤਾਲ, 9 ਮਾਤਰਾਂ
+
+ 1        2             3   4               5        6            7          8           9
+ X
+ਸਥਾਈ
+
+ਨੀ        ਨੀ     ਨੀ         ਨੀ         ਧੇੁ           ਧੇੁ          ਪ          ਪ           ਪ
+
+ ਸਾ        ਧੋ    ਰਾ         ਮ          ਸਰ            ਰਨ           ਰਬਸ        ਰਾ          ਮਾ
+
+ਧੇੁ       ਧੇੁ    ਪ          ਪ          ਮ             ਮ            ਮਗ         ਰੇੁ         ਸ
+
+ਬ         ਦ      ਪੇੁਰਾ      ਨ          ਪੜ            ਕੋ           ਇਹ         ਗੇੁ         ਨ
+
+ਰੇੁ       ਮ      ਪ          ਪ          ਨੀ            ਨੀ           ਸਂਨੀ       ਧੇੁਪ        ਪ
+
+ਰਸਮ       ਰੇ     ਹ          ਰਰ         ਕੋ            S            ਨਾS        ਮਾS         S
+
+ਅਿੰ ਤਰਾ
+
+ਪ         ਪ      ਪ          ਪ          ਮ             ਗ            ਰੇੁ        ਰੇੁ         ਰੇੁ
+
+ਲੋ        ਭ      ਮੋ         ਹ          ਮਾਇ           ਆ            ਮ          ਮ           ਤਾ
+
+ਮ         ਮ      ਪ          ਪ          ਨੀ            ਨੀ           ਸਂ         ਸਂ          ਸਂ
+
+ਫੇੁਰਨ     ਅਉ     ਰਬ         ਰਖ         ਅ             ਨ            ਕੀ         ਸ           ਵਾ
+
+ਰੇਂ॒      ਰੇਂ॒   ਰੇਂ॒       ਰੇਂ॒       ਗਂ            ਰੇਂ॒         ਸਂ         ਸਂ          ਸਂ
+
+ਹਰ        ਖ      ਸੋ         ਗ          ਪਰ            ਸੈ           ਰਜਹ        ਨਾ          ਹ
+
+ਨੀ        ਨੀ     ਨੀ         ਨੀ         ਧੇੁ           ਪ            ਮ          ਪ           ਪ
+
+ਰਨ               ਮੂਰ        ਰਤ         S             ਹੈ           ਦ          ਵਾ          S
+          ਸੋ
+
+
+
+                                                            ਬਾਕੀ ਸ਼ਬਿ ਿੇ ਪ੍ਿੇ ਉਪ੍ਰੋਕਿ ਅੰ ਿਰੇ ‘ਿੇ ਗਾਇਨ ਕਰੋ ਜੀ।
+
+
+
+
+                                                21
+
+
+======================================================================
+[TESSERACT OCR (-l pan) OF THE SAME PAGE -- cross-reference, also imperfect but closer to ground truth]
+======================================================================
+
+ਰਾਗੁ ਗਉੜੀ, ਤਾਲ- ਮੱਤਾਤਾਲ, 9 ਮਾਤਰਾਂ
+1 7
+(
+ਸਥਾਈ
+ਨੀ ਨੀ ਨੀ ਨੀ ਧੁ ਧੁ ਪ ਪ ਪ
+ਸਾ |ਧੋੈ |ਰਾ ਮ ਸਰ _|ਨਿ ਬਿਸ _|ਰਾਂ ਮਾ
+ਧੁ ਥੁ ਪ ਪ ਸਮ ਮ ਮਗ [੨ ਸ
+ਬੇ ਦ ਪੁਰਾ _ [ਨ ਪੜੋ _ [ਕੋ ਇਹ [ਗੁ ਨ
+ਰੋ ਮ ਪ ਪ ਨੀ ਨੀ ਸੰਨੀ _ | ਧੁਪ ਪ
+ਸਿਮ [ਤੋਂ ਹ ਰਿ ਕੋ 5 ਨਾ _ | ਮਾ5 $
+ਅੰਤਰਾ
+ਪ ਪ ਪ ਪ ਸ ਗ ੨1 ਰੋ ਰੋ
+ਲੋ ਭ ਮੋ ਹ ਮਾਇ |ਆ 0 ਸ ਤਾ
+ਸ ਮ ਪ ਪ ਨੀ ਨੀ ਸੰ ਸੰ ਸੰ
+ਫੁਨਿ |ਅਉ |ਬਿ ਥਿ ਅ ਨ ਕੀ ਸੇ ਵਾ
+ਭੁ |ਭੁਂ ਭੁ [ਵੇਂ |ਗੰ ਰੁ [ਸੰ [ਸੌ [ਸੱ
+ਹਰ _|ਖ ਸੋ ਗ ਪਰ ਸੈ ਜਿਹ _| ਰ
+ਨੀ ਨੀ ਨੀ ਨੀ ਧੁ ਪਖ ਸ ਪ ਪ
+ਨਿ ਸੋ ਮੂਰ ਤਿ 5 ਹੈ ਦੇ ਵਾ 5
+ਬਾਕੀ ਸ਼ਬਦ ਦੇ ਪਦੇ ਉਪਰੋਕਤ ਅੰਤਰੇ 'ਤੇ ਗਾਇਨ ਕਰੋ ਜੀ।
+21

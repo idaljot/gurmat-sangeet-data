@@ -1,0 +1,101 @@
+[EXTRACTION METHOD] pdftotext -layout. Font: FNTSBS+Asees/AseesBold (WinAnsi, legacy). gurmukhi-utils toUnicode() attempted -- fails, same as Vol. I's Asees pages (see Vol. I page-7.txt). Raw and attempted-conversion both shown below, both unusable.
+[CONFIDENCE] NONE.
+[CONTENT] SWARA/SUR NOTATION TABLE -- Raag Suhi, presumably Tintaal, 16 matra.
+======================================================================
+
+[RAW]
+======================================================================
+
+                                   okr[ ;{jh (fszB skb ñö wksok)
+                                                       (nzr ÷òø)
+  1     2     3     4        5      6      7      8      9     10     11     12      13     14    15    16
+ %                           2                           0                            3
+;EkJh                                                    g     g      g      g       g      g     g     w
+                                                         ;     i      D      s       ;/     s     Jh    s
+ w      B[h   X     X         g     g      g      g
+ Bk     s     s     s        fb     s      s      w?
+                                                         o/    r      r      w         w    g     g      g
+                                                         u     s      s      b       fdnk   Bk    s     fb
+ B[h    B[h   B[h    X       g      g      g      g
+ u      bz    s     fB-      s      s      s      s
+                                                        ;A     ;A     ;A     ;A       ;A    ;A    ;A    ;A
+                                                        fi     E?     s      s        b/    s     yk    s
+  o/A   o/A   o/A   o/A      ;A     B[h    X      g
+  wz    rh    s     s        n?     s      s      s
+                                                         o/     o/    o/     o/       r     w     g     g
+                                                        fs      s     E?     s        y     s     V/    s
+ B[h    B[h   X      g       g      g      g      g
+ fd     s     ;z    fB       s      s      s      s
+nzsok                                                   ;A     ;A     ;A     ;A       ;A    ;A    ;A    B[h
+                                                        T[     i      b[     s        e?    jk    fu    b
+ B[h    B[h   X     g        g      g      g      g
+ e      s     s     s        Dk     s      s      s
+                                                        g       g     g      g        X     X     Bh    Bh
+                                                        x'     fN     w      s        ek    b     Vh    s
+ ;A     ;A    ;A    ;A       ;A     ;A     ;A     ;A
+ w      s     s     s        ;[     s      s      s
+                                                        o/A    o/A    o/A    o/A      o/A   o/A   o/A   o/A
+                                                        X'     fs     nk     s        i{    fm    B     s
+ rA     rA    rA    rA       o/A    o/A    ;A     ;A
+ T[     s     s     s        o?     s      s      s
+                                                        B[h    B[h    B[h    B[h      X     X     g     g
+                                                        i/     s      s      s        ;     s     T[    s
+  o/    o/    r     w         g     g      g      g
+  X'    s     tk    s        fs     s      ;[     s
+
+B'N L Ppd dhnK pkeh s[eK nzso/ T[s/ bkU.
+
+
+
+
+                          754 :: r[o{ BkBe d/t ih dh ;zg{oD pkDh L Ppd ;[o ouBktbh
+
+
+======================================================================
+[ATTEMPTED gurmukhi-utils CONVERSION -- WRONG]
+======================================================================
+
+                                   ੋਕਰ। ;{ਜਹ (ਡਸਜ਼ਭ ਸਕਬ ñö ਾਕਸੋਕ)
+                                                       (ਨਜ਼ਰ ÷òø)
+  ੧     ੨     ੩     ੪        ੫      ੬      ੭      ੮      ੯     ੧੦     ੧੧     ੧੨      ੧੩     ੧੪    ੧੫    ੧੬
+ %                           ੨                           ੦                            ੩
+;ਓਕਝਹ                                                    ਗ     ਗ      ਗ      ਗ       ਗ      ਗ     ਗ     ਾ
+                                                         ;      ਿ     ਧ      ਸ       ;/     ਸ     ਝਹ    ਸ
+ ਾ      ਭ।ਹ   ਯ     ਯ         ਗ     ਗ      ਗ      ਗ
+ ਭਕ     ਸ     ਸ     ਸ        ਡਬ     ਸ      ਸ      ਾ?
+                                                         ੋ/    ਰ      ਰ      ਾ         ਾ    ਗ     ਗ      ਗ
+                                                         ੁ     ਸ      ਸ      ਬ       ਡਦਨਕ   ਭਕ    ਸ     ਡਬ
+ ਭ।ਹ    ਭ।ਹ   ਭ।ਹ    ਯ       ਗ      ਗ      ਗ      ਗ
+ ੁ      ਬਜ਼    ਸ     ਡਭ-      ਸ      ਸ      ਸ      ਸ
+                                                        ;ਅ     ;ਅ     ;ਅ     ;ਅ       ;ਅ    ;ਅ    ;ਅ    ;ਅ
+                                                        ਡ ਿ    ਓ?     ਸ      ਸ        ਬ/    ਸ     ੇਕ    ਸ
+  ੋ/ਅ   ੋ/ਅ   ੋ/ਅ   ੋ/ਅ      ;ਅ     ਭ।ਹ    ਯ      ਗ
+  ਾਜ਼    ਰਹ    ਸ     ਸ        ਨ?     ਸ      ਸ      ਸ
+                                                         ੋ/     ੋ/    ੋ/     ੋ/       ਰ     ਾ     ਗ     ਗ
+                                                        ਡਸ      ਸ     ਓ?     ਸ        ੇ     ਸ     ੜ/    ਸ
+ ਭ।ਹ    ਭ।ਹ   ਯ      ਗ       ਗ      ਗ      ਗ      ਗ
+ ਡਦ     ਸ     ;ਜ਼    ਡਭ       ਸ      ਸ      ਸ      ਸ
+ਨਜ਼ਸੋਕ                                                   ;ਅ     ;ਅ     ;ਅ     ;ਅ       ;ਅ    ;ਅ    ;ਅ    ਭ।ਹ
+                                                        ਠ।      ਿ     ਬ।     ਸ        ੲ?    ਜਕ    ਡੁ    ਬ
+ ਭ।ਹ    ਭ।ਹ   ਯ     ਗ        ਗ      ਗ      ਗ      ਗ
+ ੲ      ਸ     ਸ     ਸ        ਧਕ     ਸ      ਸ      ਸ
+                                                        ਗ       ਗ     ਗ      ਗ        ਯ     ਯ     ਭਹ    ਭਹ
+                                                        ਣ'     ਡਂ     ਾ      ਸ        ੲਕ    ਬ     ੜਹ    ਸ
+ ;ਅ     ;ਅ    ;ਅ    ;ਅ       ;ਅ     ;ਅ     ;ਅ     ;ਅ
+ ਾ      ਸ     ਸ     ਸ        ;।     ਸ      ਸ      ਸ
+                                                        ੋ/ਅ    ੋ/ਅ    ੋ/ਅ    ੋ/ਅ      ੋ/ਅ   ੋ/ਅ   ੋ/ਅ   ੋ/ਅ
+                                                        ਯ'     ਡਸ     ਨਕ     ਸ        {ਿ    ਡਮ    ਭ     ਸ
+ ਰਅ     ਰਅ    ਰਅ    ਰਅ       ੋ/ਅ    ੋ/ਅ    ;ਅ     ;ਅ
+ ਠ।     ਸ     ਸ     ਸ        ੋ?     ਸ      ਸ      ਸ
+                                                        ਭ।ਹ    ਭ।ਹ    ਭ।ਹ    ਭ।ਹ      ਯ     ਯ     ਗ     ਗ
+                                                        /ਿ     ਸ      ਸ      ਸ        ;     ਸ     ਠ।    ਸ
+  ੋ/    ੋ/    ਰ     ਾ         ਗ     ਗ      ਗ      ਗ
+  ਯ'    ਸ     ਟਕ    ਸ        ਡਸ     ਸ      ;।     ਸ
+
+ਭ'ਂ ਲ਼ ਫਪਦ ਦਹਨਖ ਪਕੲਹ ਸ।ੲਖ ਨਜ਼ਸੋ/ ਠ।ਸ/ ਬਕੂ.
+
+
+
+
+                          ੭੫੪ :: ਰ।ੋ{ ਭਕਭੲ ਦ/ਟ ਹਿ ਦਹ ;ਜ਼ਗ{ੋਧ ਪਕਧਹ ਲ਼ ਫਪਦ ;।ੋ ੋੁਭਕਟਬਹ
+

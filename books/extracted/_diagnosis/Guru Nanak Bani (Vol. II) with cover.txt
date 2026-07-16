@@ -1,0 +1,290 @@
+--- pdfinfo ---
+Producer:        iLovePDF
+ModDate:         Fri Jun  6 04:16:04 2025 PDT
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           780
+Encrypted:       no
+Page size:       595.276 x 841.89 pts (A4)
+Page rot:        0
+File size:       13412604 bytes
+Optimized:       no
+PDF version:     1.5
+
+--- pdffonts ---
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+FNTSBS+TimesNewRomanPS-ItalicMT      TrueType          WinAnsi          yes yes no     785  0
+FNTSBS+Akaash-Bold                   CID TrueType      Identity-H       yes yes yes    791  0
+FNTSBS+Akaash-Bold                   TrueType          WinAnsi          yes yes no     797  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no     802  0
+FNTSBS+Akaash                        CID TrueType      Identity-H       yes yes yes    807  0
+FNTSBS+Akaash                        TrueType          WinAnsi          yes yes no     813  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no     818  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no     823  0
+FNTSBS+Century751BT-ItalicB          TrueType          WinAnsi          yes yes no     832  0
+FNTSBS+Century751BT-RomanB           TrueType          WinAnsi          yes yes no     837  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes    843  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes    849  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no     855  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes    861  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no     867  0
+FNTSBS+Aparajita                     CID TrueType      Identity-H       yes yes yes    873  0
+FNTSBS+Aparajita                     TrueType          WinAnsi          yes yes no     879  0
+FNTSBS+Wingdings-Regular             CID TrueType      Identity-H       yes yes yes    885  0
+FNTSBS+ArialMT                       TrueType          WinAnsi          yes yes no     891  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes    900  0
+FNTSBS+BodoniMTBlack                 TrueType          WinAnsi          yes yes no     908  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no     922  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no     927  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no     932  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no     937  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes    942  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes    948  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no     955  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes    960  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes    966  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no     972  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no     978  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no     986  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes    991  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no     999  0
+FNTSBS+ArialUnicodeMS                TrueType          WinAnsi          yes yes no    1004  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1049  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1093  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1098  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1103  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1109  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1115  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1120  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1126  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1131  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1137  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1144  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1154  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1176  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1181  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1186  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1191  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1197  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1202  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1209  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1215  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1221  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    1235  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   1240  0
+FNTSBS+ArialMT                       TrueType          WinAnsi          yes yes no    1247  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    1253  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1258  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    1283  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1296  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1341  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1346  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1351  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1357  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1363  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1368  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1374  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1380  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1386  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    1391  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1397  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1404  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1412  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1417  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    1422  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1427  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1432  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1439  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1444  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1450  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1456  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1462  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   1468  0
+FNTSBS+ArialUnicodeMS                TrueType          WinAnsi          yes yes no    1480  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1504  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    1512  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    1584  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1621  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1626  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1631  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1637  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1643  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1648  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1654  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1660  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1666  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1672  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1677  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1682  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1687  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1693  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1698  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1704  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1710  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1716  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    1722  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1728  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1734  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1739  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1744  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1749  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    1755  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1760  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   1765  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1771  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1776  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1784  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    1791  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   1797  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1805  0
+FNTSBS+BodoniMTBlack                 TrueType          WinAnsi          yes yes no    1825  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    1840  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1845  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1865  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1870  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1875  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1880  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1886  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1891  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1897  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1903  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    1910  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    1915  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    1921  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1926  0
+Sangeet                              TrueType          WinAnsi          no  no  no    1933  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    1951  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    1956  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    1961  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   1966  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   1972  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    1978  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   1983  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    1990  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   1995  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2002  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    2008  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    2026  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2042  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2047  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2052  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2057  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2063  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2068  0
+FNTSBS+ArialUnicodeMS                TrueType          WinAnsi          yes yes no    2074  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2080  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2086  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2092  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    2100  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   2105  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    2112  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    2120  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   2125  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2133  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2138  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2143  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2148  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2154  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   2160  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2166  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2171  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2177  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2184  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    2189  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   2195  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   2207  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    2227  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    2264  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2291  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2296  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2301  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2306  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2313  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2318  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2323  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2330  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   2336  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2346  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   2356  0
+FNTSBS+Mangal-Regular,Bold           TrueType          WinAnsi          yes yes no    2376  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    2389  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   2458  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    2485  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2503  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2508  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2514  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2519  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2525  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2530  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2536  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2542  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2548  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   2564  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    2573  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2605  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2610  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2615  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2620  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2627  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2632  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2638  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2644  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2650  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    2656  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   2661  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   2667  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2675  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2680  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2685  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2690  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2696  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2701  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2708  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2714  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2720  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2726  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2731  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2736  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2741  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2747  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2752  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2758  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2764  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2770  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2776  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2782  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2787  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2792  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2798  0
+FNTSBS+Mangal-Regular,Bold           CID TrueType      Identity-H       yes yes yes   2803  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2809  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2814  0
+FNTSBS+Arial-BoldMT                  TrueType          WinAnsi          yes yes no    2821  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    2826  0
+FNTSBS+ArialUnicodeMS                CID TrueType      Identity-H       yes yes yes   2834  0
+FNTSBS+GurbaniLipi                   TrueType          WinAnsi          yes yes no    2840  0
+FNTSBS+GurbaniLipiBold               TrueType          WinAnsi          yes yes no    2845  0
+FNTSBS+ArialUnicodeMS,Bold           CID TrueType      Identity-H       yes yes yes   2852  0
+FNTSBS+ArialUnicodeMS                TrueType          WinAnsi          yes yes no    2860  0
+FNTSBS+ArialUnicodeMS,Bold           TrueType          WinAnsi          yes yes no    2892  0
+FNTSBS+Mangal-Regular                CID TrueType      Identity-H       yes yes yes   2923  0
+FNTSBS+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no    2933  0
+FNTSBS+Asees                         TrueType          WinAnsi          yes yes no    2938  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no    2943  0
+FNTSBS+Akaash-Bold                   TrueType          WinAnsi          yes yes no    2948  0
+FNTSBS+Akaash-Bold                   CID TrueType      Identity-H       yes yes yes   2953  0
+FNTSBS+Akaash                        CID TrueType      Identity-H       yes yes yes   2959  0
+FNTSBS+Akaash                        TrueType          WinAnsi          yes yes no    2965  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes   2977  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no    2983  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no    2990  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes   2996  0
+FNTSBS+GurbaniLipiBold               TrueType          WinAnsi          yes yes no    3002  0
+FNTSBS+GurbaniLipi                   TrueType          WinAnsi          yes yes no    3007  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no    3013  0

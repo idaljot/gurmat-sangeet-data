@@ -1,0 +1,81 @@
+# Raag Da Saroup Complete - page 1 (Raag Sirigaga, Raag Maajh - raag-detail entries)
+# Font: mixed within the SAME page -- some fields (e.g. table labels) via legacy WinAnsi ASCII-shape font (garbled Latin, 'okr f;ohrkr' style), other fields via CID Identity-H font with the SAME wrong-ToUnicode bug documented for Asa Di Vaar (telltale wrong character '਩' observed). Both are UNTRUSTWORTHY text layers.
+# Method used instead: tesseract OCR -l pan --psm 4 (single-column list layout -- psm 6 dropped whole rows on this page; psm 4 recovered all rows). Spot-checked against page-1.png.
+# OCR accuracy: labels/values (ਥਾਟ, ਜਾਤੀ, ਵਾਦੀ, ਸੰਵਾਦੀ, ਸੁਰ, ਵਰਜਿਤ ਸੁਰ, ਸਮਾਂ) high accuracy (~95%+). CRITICAL: the ਆਰੋਹ/ਅਵਰੋਹ/ਮੁੱਖ ਅੰਗ (Aroh/Avroh/Mukh Ang) notation lines had inter-syllable spacing collapsed or partially collapsed by OCR (e.g. 'ਸ ਰੇ ਮੇ, ਪ ਨੀ ਸਂ' -> 'ਸਰੇ ਮੇ,ਪਨੀਸਂ') -- same failure mode documented for Asa Di Vaar's inline notation lines.
+
+--- pdftotext -layout raw (GARBLED/wrong-mapped mixed fonts - reference only) ---
+1H okr f;ohrkr
+
+EkN           L   g{oph
+
+iksh          L   n"Vt–;zg{oD
+
+tkdh          L   e'wb foPG
+
+;ztkdh        L   gzuw
+
+;[o           L   PVi,foPG,gzuw
+
+tofis ;[o     L   rzXko X?ts
+
+;wK           L   Pkw
+
+nko'j         L   ; o/[ w/, g Bh ;A
+
+nto'j         L   ;ˆ Bh X[ g, w/ r ro[/ ;o[/ ;
+
+w[Zy nzr      L   ; ;o[/ ro[/, ; o/[ g, w/r, o/[ ;
+
+
+
+2H okr wkM
+
+ਥਾਟ           :   ਕਾਪੀ
+
+ਜਾਤੀ          :   ਔੜਵ-ਵਕਯ ਸੰ ਩ੂਯਣ
+
+ਵਾਦੀ          :   ਰਯਸ਼ਬ
+
+ਸੰ ਵਾਦੀ       :   ਩ੰ ਚਭ
+
+ਸੁਯ           :   ਦ੅ਵੇਂ ਰਨਸ਼ਾਦ ਦ੅ਵੇਂ ਗੰ ਧਾਯ
+
+ਵਯਰਜਤ ਸੁਯ     :   ਆਯ੅ਹ ਰਵਚ ਗੰ ਧਾਯ, ਧ੄ਵਤ
+
+ਸਭਾਂ          :   ਯਾਤ ਦਾ ਩ਰਹਰਾ ਩ਰਹਯ
+
+ਆਯ੅ਹ          :   ਸ ਯ੃, ਭ ਩, ਨੀ ਸਂ
+
+ਅਵਯ੅ਹ         :   ਸਂ ਨ[h ਧ ਩, ਧ ਭ ਗ ਯ੃ ਩, ਗੁ ਯ੃ ਗੁ ਸ ਯ੃ ਨah ਸ
+
+ਭੁੁੱ ਖ ਅੰ ਗ   :   ਩, ਧ ਭ ਗ ਭ, ਯ੃ ਩, wਗੁ, ਯ੃ ਗੁ ਸ ਯ੃ ਨah ਸ
+
+--- tesseract -l pan --psm 4 OCR (labels reliable; Aroh/Avroh/Mukh Ang spacing UNRELIABLE) ---
+1. ਰਾਗ ਸਿਰੀਗਾਗ
+
+ਥਾਣ ਪੂਰਬੀ
+ਵਾਦੀ ਕੋਮਲ ਰਿਸ਼ਭ
+
+ਸੰਵਾਦੀ ਪੰਚਮ
+
+ਸੁਰ $ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ
+
+ਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ ਧੈਵਤ
+
+ਆਰੋਹ ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ
+
+ਅਵਰੋਹ ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ "ਰੇਸ
+
+ਮੁੱਖ ਅੰਗ । ਸਮਰ "ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ
+
+2. ਰਾਗ ਮਾਝ
+
+ਥਾਟ 2 ਕਾਫੀ
+
+ਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ
+
+ਆਰੋਹ : ਸਰੇ,ਮਪ,ਨੀਸੰ
+
+ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਮਗਰੇਪ,ਗੁਰੇਗੁਸਰੇਨੀਸ
+
+ਮੁੱਖ ਅੰਗ ੨ ਪ, ਧ ਮ ਗ ਮ, ਰੋ ਪ, "ਗੁ, ਰੇਗੁਸਰੇਨੀਸ

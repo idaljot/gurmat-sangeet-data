@@ -1,0 +1,72 @@
+# Sampurn 55 Parhtala - page 10 (Raag Bilaval Parhtala, 16-matra Tintaal grid + Antra Teevra 7-matra grid)
+# Font: subset TrueType fonts (WCASUJ+TT289t00, VRYKAP+TT15Bt00, PJEFXS+TTCBt00, DXCOJF+TT285t00, plus SDEADL+Helvetica-Bold for the digit header row), WinAnsiEncoding/Custom. UNLIKE the prose pages, this specific grid-notation font subset extracts as fully garbled Latin ASCII (e.g. the table's own title line 'okr fpbktb gVskb ;EkJh fszBskb' for 'ਰਾਗ ਬਿਲਾਵਲ ਪੜਤਾਲ ਸਥਾਈ ਤਿੰਨਤਾਲ'), matching the prior diagnosis's legacy-ASCII fingerprint. Notably the page FOOTER line ('2:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲ...', body font) extracted correctly -- confirms the grid content specifically uses a different, broken font subset than surrounding prose/footers in this book.
+# Method used instead: tesseract OCR -l pan --psm 6 on 150dpi render, spot-checked against page-10.png.
+# OCR accuracy: moderate -- row/column grouping is mostly recognizable and sur/lyric alignment survives at a rough level, but there is real noise: S (sustain marker) confused with 5/੦, some cells merged with pipe/bracket artifacts, the header row of beat numbers ('1 2 3 4 ... 16') partially garbled ('123੪5 67 ੩] 10 11 12113 15 15 16'). Estimate ~60-75% reliable cell recovery -- lower than Asa Di Vaar's simplest grid (p.3) but similar to its denser grid (p.101).
+# NOTATION FIDELITY VERDICT: NOT reliably automatable. Recommend capturing this and similar grid pages as images for manual/human transcription rather than trusting OCR output directly, consistent with 'wrong notation is worse than no notation'.
+
+--- pdftotext -layout raw (GARBLED legacy font in the grid cells - reference only) ---
+                         okr fpbktb gVskb ;EkJh fszBskb (ñö wksok)
+                                                                                            (nzr øúú–øúñ)
+1    2     3         4     5        6       7     8          9    10     11     12     13     14     15   16
+%                          2                                 0                         3
+                                                                                                     rg XBh
+                                                                                                     p'b j[
+
+;A   Bh    X         g    r         r       w     w       o/      o/      ;      ;     ;         ;
+G    Jh    nk        s    ok        w       Bk    w[     gfs      s       gk     t     B'        s
+
+                                                                                                     –    –
+                                                                                                     s    s
+
+;    ;     ;        ;     Bah       Xa      ga    ga         Xa    Xa     Bah   Bah    ;        ;    ;    ;
+j    fo    ;z       s     Gr        s      sko    B'         j    fo     Gfo    g[o/   o        fj   nk   s
+
+;     o/   r        w     o/        r       w     g          Bh   X       Bh     Bh    ;A       ;A   ;A   ;A
+i    fb    E        b/    ok        w       Bk    w[         fB   s      rkJh    n?    j        fo   d{   y
+
+;o/ rw o/r wg rg XBh                       gX    Bh;A XBh ;Ao/A          ;ABh   Xg rw o/;
+fp s    s   s ;k  s                         s     s    o   s              s      s B'  s
+
+                                         (ñ) nzsok shtok (÷ wksok)
+                1              2            3           4           5           6           7
+                %                                       2                       3
+                r           r              w            o/          o/          ;           ;
+               jfo          eh             nk           j?          s           s           s
+
+             r              r               w           g          g            g           g
+            ;cb             iB              w[          j          wk           ok          s
+
+                X              X             X          w           w           w           w
+                j              s            fo          i          fg           nk          s
+
+                g              g            g            g          g           g           g
+               jfo             d{           y          fp;k        oB           jk          ok
+                                     2:: ਸੰ ਪੂਰਣ 55 ਪੜਤਾਲ : ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ
+
+--- tesseract -l pan --psm 6 OCR (rough draft only, NOT trustworthy without full manual verification) ---
+ਰਾਗ ਬਿਲਾਵਲ ਪੜਤਾਲ ਸਥਾਈ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)
+(ਅੰਗ ੮੦੦-੮੦੧)
+123੪5 67 ੩] 10 11 12113 15 15 16
+ਸ਼ 2 0 3
+ਗਪ
+ਬੋਲ ਹੁ
+ਸੰਨੀ ਧਪ|ਗ ਗਮ ਮਰੇ ਰੇ ਸਸਸ ਸ
+ਭ ਈਆ ੧|ਉਰਾ ਮ ਨਾ ਮੁ ਪਤਿ ਤ ਪਾ ਵ।ਨੋ 5
+$ $
+ਸਸਸਸ|[ਨੀ ਧੂ ਪੁ ਪੁ[ਧੁ ਧੂ ਨੀ ਨੀ[ਸਸਸ ਸ
+ਹ ਰਿ ਸੰ ਤ |ਭਗ ਤ ਤਾਰ ਨੋ|ਹ ਰਿ ਭਰਿ ਪੁਰੇ|ਰ ਹਿਆ 5
+ਸਰੇ ਗਮ|ਉਰੇ ਗਮ -ਪ[ਨੀ ਧ ਨੀ ਨੀਉਸੱ ਸੱ ਸੱ ਸੱ
+ਜ ਲਿ ਥ ਲੇ|ਰਾ ਮ ਨਾ ਮੁ ਨਿ ਤਕ ਗਾਈ ਐ|ਹ ਰਿ ਦੂ ਖ
+ਬਿ ੦ ੦ 5|ਸਾ ੦ ੦ ੦ |ਰ 5 5 5 [ਨੌ 5
+(੧) ਅੰਤਰਾ ਤੀਵਰਾ (੭ ਮਾਤਰਾ)
+[12੩3੪ $ 67 |
+% 2 3
+ਗ ਗ ਮ ਰੇ ਰੇ ਸ ਸ
+ਹਰਿ ਕੀ ਆ ਹੈ 5 3 3
+ਗ ਗ ਮ ਪ ਪ ਪ ਪ
+ਸਫਲ ਜਨ ਮੁ ਹ ਸਾ ਰਾ 3
+ਧ ਧ ਧ ਮ ਮ ਮ ਮ
+ਹ 3 ਰਿ ਜ ਪਿ ਆ 3
+ਪ ਪ ਪ ਪ ਪ ਪ ਪ
+ਹਰਿ ਦੂ ਖ਼ ਬਿਸਾ ਰਨ ਹਾ ਰਾ
+2:: ਸੰਪੂਰਏ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ

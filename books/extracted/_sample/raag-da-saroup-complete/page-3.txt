@@ -1,0 +1,83 @@
+# Raag Da Saroup Complete - page 3 (Raag Gauri Dakhni, Raag Gauri Cheti - raag-detail entries)
+# Font: same ASCII-Gurmukhi transliteration scheme as page 2 for some fields, e.g. 'Qwt : mwXwmlv goV' = 'ਥਾਟ : ਮਾਯਾਮਲਵ ਗੋੜ'.
+# Method: tesseract OCR -l pan --psm 4 on 150dpi render, spot-checked against page-3.png.
+# Same pattern: labels reliable, Aroh/Avroh/Mukh Ang notation spacing unreliable.
+
+--- pdftotext -layout raw (ASCII transliteration scheme -- legible if decoded, do not ingest as-is) ---
+3H2 rwgu gauVI d~KxI
+Qwt            :      mwXwmlv goV
+
+jwqI           :      Vv-sMpUrn
+
+vwdI           :      irSB koml
+
+sMvwdI         :      pMcm
+
+sur            :      irSB DYvq koml, dovyN inSwd, bwkI sur Su~D,
+
+vrijq sur      :      pMcm qy gMDwr
+
+smW            :      svyr dw pihlw pihr
+
+Aroh           :      s ryu, m g, nI sN
+
+Avroh          :      sN nI Du p, m g ryu s
+
+w[Zy nzr       L      ; o/[ w g, X[ w g r o/[ ;
+
+
+
+3H3      rwgu gauVI cyqI
+Qwt            :      pUrvI
+
+jwqI           :      PkVv- sMpUrx
+
+vwdI           :      pMcm
+
+sMvwdI         :      SVj
+
+sur            :      irSB DYvq koml, miDAm dovyN
+
+vrijq sur      :      rzXko
+
+smW            :      idn dw cOQw pihr
+
+Aroh           :      s ryu my p my Du nI sN
+
+Avroh          :      sN nI Du p Du m p my Du my, g ruy g ryu s
+
+w[Zy nzr       L      Bh X[ g, X[ w g w/ X[ w/, r o/[ r o/[ ;
+
+--- tesseract -l pan --psm 4 OCR (labels reliable; Aroh/Avroh/Mukh Ang spacing UNRELIABLE) ---
+3.2 ਰਾਗੁ ਗਉੜੀ ਦੱਖਣੀ
+
+ਥਾਟ 2 ਮਾਯਾਮਲਵ ਗੋੜ
+ਜਾਤੀ : ੜਵ-ਸੰਪੂਰਨ
+
+ਸੰਵਾਦੀ ? ਪੰਚਮ
+
+ਵਰਜਿਤ ਸੁਰ __: ਪੰਚਮ ਤੇ ਗੰਧਾਰ
+
+ਸਮਾਂ 2 ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ
+
+ਅਰੋਹ 2 ਸਰੇ, ਮਪ,ਨੀਸ
+
+ਅਵਰੋਹ 2 ਸੰਨੀਧੁਪ,ਮਗਰੇੇਸ
+
+ਮੁੱਖ ਅੰਗ 2 ਸਰੇਮਪ,ਧੁਮਪਗਰੇਸ
+
+3.3 ਰਾਗੁ ਗਉੜੀ ਚੇਤੀ
+
+ਜਾਤੀ : ਸ਼ਾੜਵ- ਸੰਪੂਰਣ
+
+ਵਾਦੀ ? ਪੰਚਮ
+
+ਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ
+
+ਸਮਾਂ ? ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ
+
+ਅਰੋਹ 2 ਸਰੇਮੇਪਮੇਧੁਨੀਸ
+
+ਅਵਰੋਹ 2 ਸੰਨੀਧੁਪਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ
+
+ਮੁੱਖ ਅੰਗ 2 ਨੀਧੁਪ,ਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ

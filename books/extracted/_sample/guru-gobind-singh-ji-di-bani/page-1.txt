@@ -1,0 +1,17 @@
+[EXTRACTION METHOD] Extracted directly as Unicode CID text (font: proper Identity-H Gurmukhi font). Applied only: NFC normalization + experimental regex sihari-reorder fix (see REPORT.md) to correct the pre-base-vowel display-order artifact. NOTE: word 'ਸ਼ਬਦ' (Shabad) in the subtitle is missing its initial ਸ਼ glyph entirely in the raw PDF extraction (character DROPPED, not just reordered) -- left as-is, flagged, not invented.
+[CONFIDENCE] Medium-high (reorder fix validated on this string; dropped character NOT recovered)
+[CONTENT] Cover/title page
+======================================================================
+
+ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦੀ ਬਾਣੀ :
+         ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ
+
+
+
+
+             ਸ. ਜਸਪਾਲ ਸਿੰਘ
+
+       ਸਾਬਕਾ ਅਧਿਆਪਕ (ਸੰਗੀਤ ਵਿਭਾਗ)
+        ਸੀਨੀਅਰ ਸੈਕੰਡਰੀ ਮਾਡਲ ਸਕੂਲ,
+        ਪੰਜਾਬੀ ਯੂਨੀਵਰਸਿਟੀ, ਪਟਿਆਲਾ
+

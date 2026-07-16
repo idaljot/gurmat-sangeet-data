@@ -1,0 +1,31 @@
+# Sampurn 55 Parhtala - page 3 (English title/copyright page)
+# Font: plain WinAnsi Latin text (this page is in English, not Gurmukhi). pdftotext extracts cleanly and correctly -- no font issue at all, since content is Latin script.
+
+--- pdftotext -layout raw (CLEAN, usable as-is) ---
+Sampurn 55 Parhtala : Shabad Sur Rachnavali
+by S. Jaspal Singh
+
+Copyright © 2024 by S. JASPAL SINGH
+
+First Edition: 2024.
+
+ISBN: 978-93-6310-777-9
+
+Price: 20/-
+
+True Sparrow Publishers
+#13 New Friends Enclave
+Patiala, Punjab, India Pincode: 147001
+Contact: +91 83602 08021, 99159 79774, 94784 82190
+
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in
+any form or by any means, including photocopying, recording, or other electronic or mechanical
+methods, without the prior written permission of the publisher, except in the case of brief
+quotations embodied in critical reviews and certain other noncommercial uses permitted by
+copyright law.
+
+Cover Design & Laser Typesetting
+True Sparrow Publishers
+
+Printed in India
+

@@ -1,0 +1,80 @@
+# Asa Di Vaar - page 2 (Aasa Mehla 4 shabad + raag details incl. Aroh/Avroh notation, inline)
+# Font: CID Type0 Identity-H 'Raavi'/'Raavi,Bold' (uni=yes) -- text layer IS Gurmukhi-block codepoints but WRONG (confirmed against known Gurbani source: rendered page shows correct 'ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ', text layer gives corrupted 'ੴ ਸਤਤਗੁਯ ਩ਰਸਾਤਦ'). This is a known class of bug (Indic-script Identity-H CID fonts + visual-order glyph storage vs logical-order Unicode; poppler/pymupdf both affected -- see pymupdf issue #4805 re: Devanagari). NOT a simple fixed substitution cipher; not reliably reversible without a shaping-aware pipeline. STATUS: pdftotext/pymupdf text layer for this font = UNTRUSTWORTHY, do not use.
+# Method used instead: tesseract OCR (-l pan) on 150dpi render, verified by eye against render.
+# OCR accuracy on prose lines: very high (~97%+), spot-checked word by word against page-2.png. Errors seen: Ik Onkar symbol (ੴ) OCR'd as three chars '੧ਓਂ'; one vowel-sign slip (ਪ੍ਰੇਮਿ -> ਪ੍ਰੋਮਿ).
+# CRITICAL: on the inline Aroh/Avroh notation lines (running text, not table), OCR COLLAPSES inter-syllable spaces: 'ਸ ਰੇ ਮ ਪ ਧ ਸਂ' -> 'ਸਰੇਮਪਧਸਂ'. This loses swara segmentation and is UNTRUSTWORTHY for notation without manual respacing. Verdict for this page's Aroh/Avroh lines: needs manual transcription/verification, not raw OCR.
+
+--- pdftotext -layout raw (GARBLED - reference only, do not use as data) ---
+                                      ੴ ਸਤਤਗੁਯ ਩ਰਸਾਤਦ ॥
+
+                                    ਆਸਾ ਭਹਰਾ ੪ ਛੰ ਤ ਘਯੁ ੪ ॥
+
+                      ਹਤਯ ਅੰ ਤਭਰਤ ਤਬੰ ਨੇ ਰ੅ ਇਣਾ ਭਨੁ ਩ਰ੃ਤਭ ਯਤੰ ਨਾ ਯਾਭ ਯਾਜ੃ ॥
+
+                           ਭਨੁ ਯਾਤਭ ਕਸਵਟੀ ਰਾਇਆ ਕੰ ਚਨੁ ਸ੅ਤਵੰ ਨਾ ॥
+
+                          ਗੁਯਭੁਤਿ ਯੰ ਤਗ ਚਰੂਤਰਆ ਭ੃ਯਾ ਭਨੁ ਤਨ੉ ਤਬੰ ਨਾ ॥
+
+                      ਜਨੁ ਨਾਨਕੁ ਭੁਸਤਕ ਝਕ੅ਤਰਆ ਸਬੁ ਜਨਭੁ ਧਨੁ ਧੰ ਨਾ ॥੧॥
+
+                                                                              (nzr ôôø^ôôù)
+
+gd noE L
+
+ਤਬੰ ਨੇ = ਭਬਿੱ ਜ੃ ਹ੅਋ ਹਨ, ਤਯ ਹ੅ ਑਋ ਹਨ, ਸਯੂਯ ਭਿਚ ਆ ਑਋ ਹਨ। ਰ੅ ਇਣ = ਅਿੱ ਐੵ। ਩ਰ੃ਤਭ = ਩ਰ੃ਭ-ਯੰ ਑ ਭਿਚ।
+ਯਤੰ ਨਾ = ਯਿੱ ਤਾ ਹ੅ਇਆ, ਯੰ ਭ਑ਆ ਭ਑ਆ ਹ੄। ਯਾਤਭ = ਯਾਭ ਨੇ। ਕੰ ਚਨੁ = ਸ੅ਨਾ। ਸ੅ਤਵੰ ਨਾ = ਸੁਿੰਨ, ਸ੅ਹਣ੃ ਯੰ ਑
+ਿਾਰਾ। ਗੁਯਭੁਤਿ = ਑ੁਯੂ ਦੀ ਸਯਨ ਭ਩ਆਂ। ਚਰੂਤਰਆ = ਑ੂੜ੍ਹ੃ ਰਾਰ ਯੰ ਑ ਨਾਰ ਯੰ ਭ਑ਆ ਭ਑ਆ ਹ੄। ਤਨ੉ = ਤਨੁ ,
+ਸਯੀਯ, ਭਹਯਦਾ। ਭੁਸਤਕ = ਏਸਤੂਯੀ ਨਾਰ। ਝਕ੅ਤਰਆ = ਚੰ ਑ੀ ਤਯਹੵ ਸੁ਑ੰਭਧਤ ਹ੅ ਭ਑ਆ ਹ੄। ਧਨੁ ਧੰ ਨਾ = ਬਾ਑ੵ
+ਿਾਰਾ, ਸਪਰ।
+
+EkN           L              fpbktb
+
+Iksh          L              n"Vt^;zg{oD
+
+tkdh          L              wfXnw
+
+;ztkdh        L              ;aVi
+
+;[o           L              ;ko/ ;to P[X
+
+ਵਯਤਜਤ ਸੁਯ     :              rzXko fBPkd nko'j
+
+
+;wK           L              ;t/o ns/ ;akw (;zXh gqek;a)
+
+nko'j         L              ; o/ w g X ;A
+
+nto'j         L              ;A Bh X g, w, r o/, ; r o/ r ;
+
+wZ[y nzr      L              o/ w g, X ;A, Bh X g w, r o/ r ;
+
+                                        1:: nk;k dh tko
+
+--- tesseract -l pan OCR (best-effort; prose reliable, notation-line spacing UNRELIABLE - see notes above) ---
+੧ਓਂ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥
+ਆਸਾ ਮਹਲਾ ੪ ਛੰਤ ਘਰੁ ੪ ॥
+ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਿੰਨੇ ਲੋਇਣਾ ਮਨੁ ਪ੍ਰੋਮਿ ਰਤੰਨਾ ਰਾਮ ਰਾਜੇ ॥
+ਮਨੁ ਰਾਮਿ ਕਸਵਟੀ ਲਾਇਆ ਕੰਚਨੁ ਸੋਵਿੰਨਾ ॥
+ਗੁਰਮੁਖਿ ਰੰਗਿ ਚਲੂਲਿਆ ਮੇਰਾ ਮਨੁ ਤਨੋ ਭਿੰਨਾ ॥
+ਜਨੁ ਨਾਨਕੁ ਮੁਸਕਿ ਝਕੋਲਿਆ ਸਭੁ ਜਨਮੁ ਧਨੁ ਧੰਨਾ ॥੧॥
+
+(ਅੰਗ ੪੪੮-੪੪੯)
+ਪਦ ਅਰਥ :
+ਭਿੰਨੇ = ਭਿੱਜੇ ਹੋਏ ਹਨ, ਤਰ ਹੋ ਗਏ ਹਨ, ਸਰੂਰ ਵਿਚ ਆ ਗਏ ਹਨ। ਲੋਇਛ = ਅੱਖਾਂ। ਪ੍ਰੋਮਿ = ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ।
+ਰਤੰਨਾ = ਰੱਤਾ ਹੋਇਆ, ਰੰਗਿਆ ਗਿਆ ਹੈ। ਰਾਮਿ = ਰਾਮ ਨੇ। ਕੰਚਨੁ = ਸੋਨਾ। ਸੋਵਿੰਨਾ = ਸੁਵੰਨ, ਸੋਹਏ ਰੰਗ
+ਵਾਲਾ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ। ਚਲੂਲਿਆ = ਗੂੜ੍ਰੇ ਲਾਲ ਰੰਗ ਨਾਲ ਰੰਗਿਆ ਗਿਆ ਹੈ। ਤਨੇ = ਤਨੁ,
+ਸਰੀਰ, ਹਿਰਦਾ। ਮੁਸਕਿ = ਕਸਤੂਰੀ ਨਾਲ। ਝਕੋਲਿਆ = ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੁਗੰਧਿਤ ਹੋ ਗਿਆ ਹੈ। ਧਨੁ ਧੰਨਾ = ਭਾਗਾਂ
+ਵਾਲਾ, ਸਫਲ।
+
+ਥਾਟ 2 ਬਿਲਾਵਲ
+
+ਵਾਦੀ । ਮਧਿਅਮ
+
+ਸਮਾਂ $ ਸਵੇਰ ਅਤੇ ਸ਼ਾਮ (ਸੰਧੀ ਪ੍ਰਕਾਸ਼)
+
+ਆਰੋਹ । ਸਰੇਮਪਧਸਂ
+
+ਅਵਰੋਹ ਤੂ ਸਾਨੀਧਪ,ਮ,ਗਰੇ,ਸਗਰੇਗਸ
+ਮੁੱਖ ਅੰਗ $ ਰੇਮਪ,ਧਸ,ਨੀਧਪਮ,ਗਰੇਗਸ
+
+2: ਆਸਾ ਦੀ ਵਾਰ

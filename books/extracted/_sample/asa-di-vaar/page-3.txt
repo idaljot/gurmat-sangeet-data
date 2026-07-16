@@ -1,0 +1,60 @@
+# Asa Di Vaar - page 3 (Raag Aasa, Ektaal 12-matra grid: sur syllables paired with lyric syllables per beat)
+# Font: plain TrueType WinAnsiEncoding 'Raavi'/'Asees' (uni=no) -- this is the LEGACY-ASCII-MAPPED font path. Text layer is garbled Latin ASCII ('okr[ nk;k' pattern per prior diagnosis fingerprint -- matches). pdftotext text layer UNUSABLE.
+# Method used instead: tesseract OCR (-l pan), --psm 6 (uniform block), on 150dpi render.
+# OCR accuracy: GOOD for this 12-column grid -- row/column structure and swara-to-lyric-syllable alignment survived well when spot-checked against page-3.png. Systematic, easily-flagged confusions: 'S' (sustain/hold marker) frequently misread as digit '5'; long dashes sometimes dropped. Estimate ~85-90% cell-level accuracy, with the S/5 confusion being the dominant, correctable error class.
+# NOTATION FIDELITY VERDICT for this page: MIXED / needs verification -- structure is largely trustworthy as a first pass, but every cell must be spot-checked against the image before entering as data, especially S vs 5 and blank/dash cells. Do not auto-ingest without review.
+
+--- pdftotext -layout raw (GARBLED legacy-ASCII font - reference only) ---
+                            okr[ nk;k (J/eskb ñò wksok)
+
+                                  (nzr ôôø^ôôù)
+
+ 1      2      3      4     5       6        7       8     9     10   11   12
+ %             0            2                0             3          4
+;EkJh
+  r     r     ro/      o/    ;      ;        o/       o/    w    g    g    g
+  j     fo    nzfwq    s    fGz     B/       b'      fJ    Dk    s    s    s
+  X      X    Xw       w     w      w        r        o/    o/   ;    ;    ;
+  w      B[    gq/    fw    osz     Bk       ok       s    w     ok   i/   s
+  r     r     ro/      o/    ;      ;        o/       o/    w    g    g    g
+  w      B[    ok     fw    e;     tNh       bk      fJ    nk    s    s    s
+  X      X    Xw       w     w      w        r        o/    o/   ;    ;    ;
+  ez     s     u       s     B[     s        ;'       s    ftz   Bk   s    s
+nzsok
+ ;A     ;A     ;A     ;A    ;A      ;A       Bh      X      g    g    g    g
+  r[    o      w[     fy     oz     fr       u       b{    fb    s    nk   s
+  w     w      w       g     X       X       ;A      ;A    ;A    X    ;A   ;A
+  w/    ok     w       B[    s       B'      fGz     s      s    Bk   s    s
+  o/A   o/A    o/A    o/A   o/A     o/A      ;A      Bh     X    g    g    g
+  i     B[    BkB     e[    w[;     fe        M      e'    fb    s    nk   s
+  X     X     Xw       w     w       w       r       o/     o/   ;    ;    ;
+  ;     s      G[      i     B       w[       X      B[     Xz   s    Bk   s
+
+
+
+
+                                  2:: nk;k dh tko
+
+--- tesseract -l pan --psm 6 OCR (best-effort; verify S/5 confusion manually) ---
+ਰਾਗੁ ਆਸਾ (ਏਕਤਾਲ ੧੨ ਮਾਤਰਾ)
+(ਅੰਗ ੪੪੮-੪੪੯)
+1 2 3 4 5 6 7 8 9 10 11 12
+ਸਥਾਈ
+ਗ ਗ ਗਰੇ ਰੇ ਸ ਸ ਰੇ ਰੇ ਮ ਪ ਪ ਪ
+ਹ ਰਿ ਅੰਮ੍ਰਿ ਤ ਭਿੰ ਨੇ ਲੋ ਇ ਣਾ । 5 5
+ਧ ਧ ਧਮ ਮ ਮ ਮ ਗ ਰੇ ਰੇ ਸ ਸ ਸ
+ਸ ਠੁ ਧ੍ੇ ਮਿ ਰਤੰ ਨਾ ਰਾ 5 ਸ ਰਾ ਜੇ 5
+ਗ ਗ ਗਰੇ ਰੇ ਸ ਸ ਰੇ ਰੇ ਮ ਪ ਪ ਪ
+ਸ ਠੁ ਰਾ ਮਿ ਕਸ ਵਟੀ ਲਾ ਇ ਆ 9 5 5
+ਧ ਧ ਧਮ ਮ ਮ ਮ ਗ ਰੇ ਰੇ ਸ ਸ ਸ
+ਕੰ 5 ਚ 5 ਨੁ 5 ਸੋ 5 ਵਿੰ ਨਾ 5 5
+ਅੰਤਰਾ
+ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ ਨੀ ਧ ਪ ਪ ਪ ਪ
+ਗੁ ਰ ਸੁ ਥਿ ਰੰ ਗਿ ਚ ਲੂ ਲਿ 5 ਆ 5
+ਮ ਮ ਮ ਪ ਧ ਧ ਸੱ ਸੱ ਸੱ ਧ ਸੰ ਸੰ
+ਮੇ ਰਾ ਸ ਨੁ ਤ ਨੋ ਭਿੰ 9 9 ਨਾ 5 5
+ਰੇੱ ਰੇੱ ਰੇੱ ਰੇੱ ਰੇੱ ਰੇੱ ਸੰ ਨੀ ਧ ਪ ਪ ਪ
+ਜ ਨੁ ਨਾਨ ਕੁ ਮੁਸ ਕਿ ਝ ਕੋ ਲਿ 5 ਆ 5
+ਧ ਧ ਧਮ ਮ ਮ ਮ ਗ ਰੇ ਰੇ ਸ ਸ ਸ
+ਸ 8 ਭੁ ਜ ਨ ਮੁ ਧ ਨੁ ਧੰ 8 ਨਾ 8
+2:: ਆਸਾ ਦੀ ਵਾਰ

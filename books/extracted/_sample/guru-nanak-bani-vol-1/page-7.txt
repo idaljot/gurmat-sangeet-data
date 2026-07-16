@@ -1,0 +1,89 @@
+[EXTRACTION METHOD] pdftotext -layout. Font: FNTSBS+Asees / FNTSBS+AseesBold (legacy WinAnsi, uni=no). Attempted conversion via gurmukhi-utils toUnicode() (the AnmolLipi/GurmukhiAkhar ASCII scheme) -- it does NOT work for Asees; output is still garbled (shown below). Asees uses a DIFFERENT keystroke-to-glyph mapping than AnmolLipi/GurbaniLipi. No verified open-source Asees ASCII->Unicode mapping was found within the scope of this diagnosis (only unverifiable commercial/ad-supported web converter tools, e.g. ssfontconverter.com, fc.learnpunjabi.org -- not used here since they cannot be scripted/cited as a reliable, checkable source per project rules).
+[CONFIDENCE] NONE -- content below is NOT usable text, kept only to document the failure mode.
+[CONTENT] Index of shabad first-lines with SGGS ang references (a 'H'-numbered list).
+======================================================================
+
+[RAW]
+    32H   nkg/ ;u[ Gkt? fs;[ ;u[Ò                                 63
+    33H   fpB[ s/b dhtk feT[ ib?Ò                                 65
+    34H   pkpk nbj[ nrw ngko[Ò                                    67
+    35H   jfo ihT[ fJT[ fgo[ okt? BkfoÒ                           69
+    36H   jfo ihT[ s{z eosk eosko[Ò                               71
+    37H   GkJh o/ fJT[ f;fo ikDj[ ekb[Ò                           73
+    38H   wz[X/ r[DjhDh ;[y[ e/fjÒ                                75
+    39H   wz[X/ r[D dk;h ;[y[ j'fJÒ                               77
+    40H   GkJh o/ w?b[ Bkjh fBowb ifb BkfJÒ                       79
+    41H   GkJh o/ nto[ Bkjh w? EkT[Ò                              81
+    42H   wB o/ okw igj[ ;[y[ j'fJÒ                               83
+    43H   GkJh o/ r[o fpB[ frnkB[ B j'fJÒ                         85
+    44H   wB o/ feT[ S{Nfj fpB[ fgnkoÒ                            87
+    45H   pkpk wkfJnk Gofw G[bkfJÒ                                89
+    46H   w/o/ gqhswk w? s[M fpB[ nto[ B e'fJÒ                    91
+    47H   wB o/ ;kuh y;w oikfJÒ                                   93
+    48H   GkJh o/ sB[ XB[ ;kfE B j'fJÒ                            95
+    49H   GkJh o/ Gtib[ fpyw[ voKT[Ò                              97
+    50H   d[Bhnk e?f; w[ekw/Ò                                     99
+    51H   jT[ tkoh jT[ tkoD? e[opkD[ s/o/ Bkt B'Ò                 101
+    52H   gfjb? gjo? o?fD e? tDikfonk fwsqk j[efw gfJnk roGkf;Ò   103
+    53H   gfjb? gjo? o?fD e? tDikfonk fwsqk pkbe p[fX nu/s[Ò      105
+    54H   dksh ;kfjp ;zdhnk fenk ub? fs;[ BkfbÒ                   107
+    55H   f;de[ ;p{oh ;kfdek ;po[ s';k wbkfJeKÒ                   109
+    56H   ceV iksh ceV[ BkT[Ò                                     111
+    57H   e[dofs efo e? tf;nk ;'fJÒ                               113
+    58H   rbh n;h uzrhnk nkukoh p[ohnkjÒ                          115
+    59H   e[p[fX v{wDh e[dfJnk e;kfJfDHHHHHH                      117
+    60H   fenk jz;[ fenk pr[bk ik eT[ Bdfo eo/fJÒ                 119
+   okr[ wkM                                                      121^268
+    61H   jT[ tkoh ihT[ tkoh ;pfd ;[jktfDnkÒ                      121
+    62H   r[o[ dksk r[o[ fjt? xo[ r[o[ dhge[ fsj b'fJÒ            123
+    63H   pkM[ r[o{ v[pk ;z;ko[Ò                                  125
+    64H   d; pkbsfD ph; otfD sh;k ek ;[zdo[ ejkt?Ò                127
+    65H   sz{ eosk g[oy[ nrzw[ j? nkfg f;q;fN T[gkshÒ             129
+    66H   ihT[ gkfJ sB[ ;kfink ofynk pDs pDkfJÒ                   131
+
+                                          (vi)
+
+
+======================================================================
+[ATTEMPTED gurmukhi-utils CONVERSION -- WRONG, DO NOT USE]
+======================================================================
+
+    ੩੨੍ਹ   ਨਕਗ/ ;ੁ। ਘਕਟ? ਡਸ;। ;ੁ।॥                                 ੬੩
+    ੩੩੍ਹ   ਡਪਭ। ਸ/ਬ ਦਹਟਕ ਡੲਠ। ਬਿ?॥                                 ੬੫
+    ੩੪੍ਹ   ਪਕਪਕ ਨਬਜ। ਨਰਾ ਨਗਕੋ।॥                                    ੬੭
+    ੩੫੍ਹ   ਜਡੋ ਹਿਠ। ਡਝਠ। ਡਗੋ। ੋਕਟ? ਭਕਡੋ॥                           ੬੯
+    ੩੬੍ਹ   ਜਡੋ ਹਿਠ। ਸ{ਜ਼ ੲੋਸਕ ੲੋਸਕੋ।॥                               ੭੧
+    ੩੭੍ਹ   ਘਕਝਹ ੋ/ ਡਝਠ। ਡ;ਡੋ ਕਿਧਜ। ੲਕਬ।॥                           ੭੩
+    ੩੮੍ਹ   ਾਜ਼।ਯ/ ਰ।ਧਜਹਧਹ ;।ੇ। ੲ/ਡਜ॥                                ੭੫
+    ੩੯੍ਹ   ਾਜ਼।ਯ/ ਰ।ਧ ਦਕ;ਹ ;।ੇ। ਜ'ਡਝ॥                               ੭੭
+    ੪੦੍ਹ   ਘਕਝਹ ੋ/ ਾ?ਬ। ਭਕਜਹ ਡਭੋਾਬ ਡਿਬ ਭਕਡਝ॥                       ੭੯
+    ੪੧੍ਹ   ਘਕਝਹ ੋ/ ਨਟੋ। ਭਕਜਹ ਾ? ਓਕਠ।॥                              ੮੧
+    ੪੨੍ਹ   ਾਭ ੋ/ ੋਕਾ ਗਿਜ। ;।ੇ। ਜ'ਡਝ॥                               ੮੩
+    ੪੩੍ਹ   ਘਕਝਹ ੋ/ ਰ।ੋ ਡਪਭ। ਡਰਨਕਭ। ਭ ਜ'ਡਝ॥                         ੮੫
+    ੪੪੍ਹ   ਾਭ ੋ/ ਡੲਠ। ਸ਼{ਂਡਜ ਡਪਭ। ਡਗਨਕੋ॥                            ੮੭
+    ੪੫੍ਹ   ਪਕਪਕ ਾਕਡਝਨਕ ਘੋਡਾ ਘ।ਬਕਡਝ॥                                ੮੯
+    ੪੬੍ਹ   ਾ/ੋ/ ਗਤਹਸਾਕ ਾ? ਸ।ੰ ਡਪਭ। ਨਟੋ। ਭ ੲ'ਡਝ॥                    ੯੧
+    ੪੭੍ਹ   ਾਭ ੋ/ ;ਕੁਹ ੇ;ਾ ੋਕਿਡਝ॥                                   ੯੩
+    ੪੮੍ਹ   ਘਕਝਹ ੋ/ ਸਭ। ਯਭ। ;ਕਡਓ ਭ ਜ'ਡਝ॥                            ੯੫
+    ੪੯੍ਹ   ਘਕਝਹ ੋ/ ਘਟਬਿ। ਡਪੇਾ। ਵੋਖਠ।॥                              ੯੭
+    ੫੦੍ਹ   ਦ।ਭਹਨਕ ੲ?ਡ; ਾ।ੲਕਾ/॥                                     ੯੯
+    ੫੧੍ਹ   ਜਠ। ਟਕੋਹ ਜਠ। ਟਕੋਧ? ੲ।ੋਪਕਧ। ਸ/ੋ/ ਭਕਟ ਭ'॥                 ੧੦੧
+    ੫੨੍ਹ   ਗਡਜਬ? ਗਜੋ? ੋ?ਡਧ ੲ? ਟਧਕਿਡੋਨਕ ਡਾਸਤਕ ਜ।ੲਡਾ ਗਡਝਨਕ ਰੋਘਕਡ;॥   ੧੦੩
+    ੫੩੍ਹ   ਗਡਜਬ? ਗਜੋ? ੋ?ਡਧ ੲ? ਟਧਕਿਡੋਨਕ ਡਾਸਤਕ ਪਕਬੲ ਪ।ਡਯ ਨੁ/ਸ।॥      ੧੦੫
+    ੫੪੍ਹ   ਦਕਸਹ ;ਕਡਜਪ ;ਜ਼ਦਹਨਕ ਡੲਨਕ ੁਬ? ਡਸ;। ਭਕਡਬ॥                   ੧੦੭
+    ੫੫੍ਹ   ਡ;ਦੲ। ;ਪ{ੋਹ ;ਕਡਦੲਕ ;ਪੋ। ਸ';ਕ ਾਬਕਡਝੲਖ॥                   ੧੦੯
+    ੫੬੍ਹ   ਚੲੜ ਕਿਸਹ ਚੲੜ। ਭਕਠ।॥                                     ੧੧੧
+    ੫੭੍ਹ   ੲ।ਦੋਡਸ ੲਡੋ ੲ? ਟਡ;ਨਕ ;'ਡਝ॥                               ੧੧੩
+    ੫੮੍ਹ   ਰਬਹ ਨ;ਹ ੁਜ਼ਰਹਨਕ ਨਕੁਕੋਹ ਪ।ੋਹਨਕਜ॥                          ੧੧੫
+    ੫੯੍ਹ   ੲ।ਪ।ਡਯ ਵ{ਾਧਹ ੲ।ਦਡਝਨਕ ੲ;ਕਡਝਡਧ੍ਹ੍ਹ੍ਹ੍ਹ੍ਹ੍ਹ                      ੧੧੭
+    ੬੦੍ਹ   ਡੲਨਕ ਜਜ਼;। ਡੲਨਕ ਪਰ।ਬਕ ਕਿ ੲਠ। ਭਦਡੋ ੲੋ/ਡਝ॥                 ੧੧੯
+   ੋਕਰ। ਾਕੰ                                                      ੧੨੧ਖ਼੨੬੮
+    ੬੧੍ਹ   ਜਠ। ਟਕੋਹ ਹਿਠ। ਟਕੋਹ ;ਪਡਦ ;।ਜਕਟਡਧਨਕ॥                      ੧੨੧
+    ੬੨੍ਹ   ਰ।ੋ। ਦਕਸਕ ਰ।ੋ। ਡਜਟ? ਣੋ। ਰ।ੋ। ਦਹਗੲ। ਡਸਜ ਬ'ਡਝ॥            ੧੨੩
+    ੬੩੍ਹ   ਪਕੰ। ਰ।ੋ{ ਵ।ਪਕ ;ਜ਼;ਕੋ।॥                                  ੧੨੫
+    ੬੪੍ਹ   ਦ; ਪਕਬਸਡਧ ਪਹ; ੋਟਡਧ ਸਹ;ਕ ੲਕ ;।ਜ਼ਦੋ। ੲਜਕਟ?॥                ੧੨੭
+    ੬੫੍ਹ   ਸਜ਼{ ੲੋਸਕ ਗ।ੋੇ। ਨਰਜ਼ਾ। ਜ? ਨਕਡਗ ਡ;ਤ;ਡਂ ਠ।ਗਕਸਹ॥             ੧੨੯
+    ੬੬੍ਹ   ਹਿਠ। ਗਕਡਝ ਸਭ। ;ਕਡਨਿਕ ੋਡੇਨਕ ਪਧਸ ਪਧਕਡਝ॥                   ੧੩੧
+
+                                          (ਵ)ਿ
+
