@@ -1,0 +1,8 @@
+{
+  "page": 5,
+  "section": "notation",
+  "text": "ਬਾਟ ਪੂਰਵੀ\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਅਰੋਹ ਸਰੇਗਰੇ, ਮੇਪਧੁਪ, ਮੇਧੁਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀਧਸੰਨੀਧਪ,ਮੇਗ-ਮਗਮੇਗਸ, ਰੇਗਰੇਸ.ਨੀਸ\nਮੁੰਖ ਅੰਗ ਮੇਧੁਪ,ਨੀਧਪਮੇਗ-ਸ,ਰੇਗਰੇਸਨੀ,ਸ\n\n3.7 ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ\n\nਥਾਟ ਪੂਰਵੀ\n\nਵਾਦੀ ਰਿਸ਼ਭ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਸ਼ਾਮ\n\nਅਰੋਹ ਸਰੇਗਰੇ,ਗਮੇਪਧੁਪ,ਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀ ਧੁਪ, ਮੇ ਗ-ਮਗ, ਮੇ ਗਰੇ,ਨੀ ਰੇਸ\n\nਮੁੰਖ ਅੰਗ\n\nਪਮੇਗਮਗ,ਮੇਗਰੇਸ,ਨੀਧੁਸਨੀਰੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

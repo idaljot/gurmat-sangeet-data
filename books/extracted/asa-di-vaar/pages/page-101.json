@@ -1,0 +1,8 @@
+{
+  "page": 101,
+  "section": "notation",
+  "text": "ਤਿੰਨਤਾਲ ੧੬ ਮਾਤਰਾ )\n\nਅੱਧਾ\n\n(\n\nਰਾਗੁ ਆਸਾ\n\n(ਅੰਗ ੪੬੯)\n\n੨ |? ਰੰ? ਟ ਧੌਂਹ ਮਲ ਦਿ [ ੭ ਲਾ\n੫ ਜ਼ ।ਲ 'ਏ % ਮਲ ਮਲ ਹਟ #ਟ ਨ ।6\n੫ ਹ ॥ ਦ ਇ ਗੋਲ ਡਾ 2 ੮ਿ ਜਾ ਧੁੰਨ\n$) ੮੧ ਤਰ = ੧ ੩ ਜਿ ਇੰ ਜ ਰਿ\n€੧ > ਪੰ  ।ਿ > ।ਲ॥ ਚ ਜਿ ਪਟ 0੭\nਦ |[ਠਰਡਿ > 'ਡੂ ਦ ਇ ਸਾ: ਇੰ ਧੋਣ ।ਡ\n੩ [ਨੋ ੨ ਨ ਇ ਪਲ ਪਟ ਇ\n੦) । ੭ ੭ ੭ ੭ ੭ ੭\n੦9 ਝ ੭ ਅਠ 2 ਤ਼ `'ਇ % `ਇ ਪੰਨੂ %\n੮ ਤਦ % ਦ੍ਹਿਲ ਤ਼ ! & `ਇ ਦ੍ਹਿਲਿ\n੨ 0 % ਤਿ% ੨ ਜਿ % ਹੋ ਤਿ%\n੫੧ ਧਠਇ ਇਛ `> ਦਿ ਦਾ” ੧ %\nਚਾ `'ਇ % ਝੂ 99 ਨ 'ਇ ਲ ਦਿ ਝੂ 99\nਵਾ. ।ਟ ਪੱਟ ਪਤੇ ਪੱ ਅਲ ਇਟ % ਦ਼ ਅਤ %\n੮੫ ' ॥ ਲ੍ਰ ਯ ਗੋਲ ।ਟ ਮੰਡ ਦਿ ਲੂ ੭\nਦੇ [ । ੪ ।ਏ ੬ [? । । ੪8 । ਇੰ ਐਡ\n\nਕਰੋ ਜੀ।\n\nਰਹਿੰਦੇ ਪਦ ਉਪਰੋਕਤ ਅੰਤਰੇ ਤੇ\n\nਛਨੋਟ\n\n300:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

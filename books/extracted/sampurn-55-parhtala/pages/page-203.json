@@ -1,0 +1,8 @@
+{
+  "page": 203,
+  "section": "essay",
+  "text": "ਮਲਾਰ ਮਹਲਾ ੫ ॥\nਬਰਸੁ ਸਰਸੁ ਆਗਿਆ ॥\nਹੋਹਿ ਆਨੰਦ ਸਗਲ ਭਾਗ ॥੧॥ ਰਹਾਉ ॥\nਸੰਤ ਸੰਗੇ ਮਨੁ ਪਰਫੜੈ ਮਿਲਿ ਮੇਘ ਧਰ ਸੁਹਾਗ ॥੧॥\nਘਨਘੋਰ ਪ੍ਰੀਤਿ ਮੋਰ ॥\nਚਿਤੁ ਚਾਤ੍ਰਿਕ ਬੂੰਦ ਓਰ ॥\nਐਸੋ ਹਰਿ ਸੰਗੇ ਮਨ ਮੋਹ ॥\nਤਿਆਗਿ ਮਾਇਆ ਧੋਹ ॥\nਮਿਲਿ ਸੰਤ ਨਾਨਕ ਜਾਗਿਆ ॥੨॥੫॥੨੭॥\n\n(ਅੰਗ ੧੨੭੨)\n\nਪਦ ਅਰਥ :\n\nਬਰਸੁ = ਵਰਖਾ ਕਰ। ਸਰਸੁ = ਰਸ-ਰਹਿਤ, ਅਨੰਦ ਨਾਲ। ਆਗਿਆ = (ਪਰਮਾਤਮਾ ਦੇ) ਹੁਕਮ ਵਿਚ।\nਹੋਹਿ = ਹੋ ਜਾਏ। ਸਗਲ ਭਾਗ = ਸਾਰੇ ਭਾਗ (ਜਾਗ ਪੈਏ)। ਸੰਤ ਸੰਗੇ = ਗੁਰੂ ਦੀ ਸੰਗਤ ਵਿਚ।\nਪਰਫੜੈ = ਪ੍ਰਫੁਲਤ ਹੁੰਦਾ ਹੈ। ਮਿਲਿ ਮੇਘ = ਬੱਦਲਾਂ ਨੂੰ ਮਿਲ ਕੇ। ਧਰ = ਧਰਤੀ। ਘਨਘੋਰ = ਬੱਦਲਾਂ ਦੀ\nਗਰਜ। ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ। ਉਰ = ਤਰਫ਼, ਪਾਸੇ, ਵਲ। ਐਸੋ = ਇਸੇ ਤਰ੍ਹਾਂ ਮਨ ਮੋਰ = ਮਨ ਦਾ ਮੋਹ,\nਮਨ ਦਾ ਪਿਆਰ। ਤਿਆਗਿ = ਤਿਆਗ ਕੇ। ਧੋਹ = ਠਗੀ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਸੰਤ = ਗੁਰੂ।\n\n195 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

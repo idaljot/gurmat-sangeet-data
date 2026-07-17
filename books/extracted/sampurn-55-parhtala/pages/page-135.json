@@ -1,0 +1,8 @@
+{
+  "page": 135,
+  "section": "essay",
+  "text": "ਰਾਗੁ ਰਾਮਕਲੀ ਮਹਲਾ ੫\nਪੜਤਾਲ ਘਰੁ ੩ ॥\n\nਨਰਨਰਹ ਨਮਸਕਾਰੰ ॥\n\nਜਲਨ ਥਲਨ ਬਸੁਧ ਗਗਨ ਏਕ ਏਕੰਕਾਰੰ ॥੧॥ ਰਹਾਉ ॥\nਹਰਨ ਧਰਨ ਪੁਨ ਪੁਨਹ ਕਰਨ ॥\nਨਹ ਗਿਰਹ ਨਿਰੰਹਾਰੰ ॥੧॥\nਗੰਭੀਰ ਧੀਰ ਨਾਮ ਹੀਰ ਊਚ ਮੂਚ ਅਪਾਰੰ ॥\nਕਰਨ ਕੇਲ ਗੁਣ ਅਮੋਲ ਨਾਨਕ ਬਲਿਹਾਰੰ ॥੨॥੧॥੫੯॥\n(ਅੰਗ ੯੦੧)\n\nਪਦ ਅਰਥ :\n\nਨਰਨਰਹ = ਨਰਾਂ ਵਿਚੋਂ ਸ੍ਰੇਸ਼ਟ ਨਰ, ਪਰਮਾਤਮਾ। ਜਲਨ = ਜਲਾਂ ਵਿਚ। ਥਲਨ = ਥਲਾਂ ਵਿਚ।\nਬਸੁਧ = ਧਰਤੀ ਵਿਚ। ਗਗਨ = ਆਕਾਸ਼ ਵਿਚ। ਏਕੰਕਾਰੰ = ਸਰਬ-ਵਿਆਪਕ ਪ੍ਰਭੂ! ਹਰਨ = ਨਾਸ ਕਰਨ\nਵਾਲਾ। ਧਰਨ = ਪਾਲ ਵਾਲਾ। ਪੁਨ ਖੁਨਹ = ਮੁੜ ਮੁੜ। ਕਰਨ = ਪੈਦਾ ਕਰਨ ਵਾਲਾ। ਗਿਰਹ = ਗ੍ਰਿਹ,\nਘਰ। ਨਿਰੰਹਾਰੰ = ਨਿਰ-ਅਹਾਰੰ, ਖ਼ੁਰਾਕ ਤੋਂ ਬਿਨਾ। ਗੰਭੀਰ = ਡੂੰਘਾ। ਧੀਰ = ਵੱਡੇ ਜਿਗਰੇ ਵਾਲਾ।\nਹੀਰ = ਬਹੁ-ਮੁੱਲਾ। ਮੁਚ = ਵੱਡਾ। ਕਰਨ ਕੇਲ = ਕੈਤਕ ਕਰਨ ਵਾਲਾ। ਅਮੋਲ = ਜਿਸ ਦਾ ਮੁੱਲ ਨਾਹ\nਪਾਇਆ ਜਾ ਸਕੇ। ਬਲਿਹਾਰੰ = ਸਦਕੇ, ਕੁਰਬਾਨ।\n\n127 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

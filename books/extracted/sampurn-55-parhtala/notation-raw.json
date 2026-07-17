@@ -1,0 +1,6908 @@
+[
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 2,
+    "image": "notation/page-002-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 5,
+    "image": "notation/page-005-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸ਼ਬਦਾਂ ਨੂੰ ਸੁਰਲਿਪੀ ਬੱਧ ਕਰਕੇ ਪਾਠਕਾਂ ਦੀ ਝੋਲੀ ਪਾਇਆ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗਾਂ",
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 5,
+    "image": "notation/page-005-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰਲਿਪੀ ਬੱਧ ਕਰਕੇ ਪੁਸਤਕਾਂ ਰਾਹੀਂ ਪਾਠਕਾਂ ਦੀ ਝੋਲੀ ਪਾ ਰਹੇ ਹਨ। ਹੁਣ ਉਨ੍ਹਾਂ ਦੀ ਪੁਸਤਕ ਗੁਰਮਤਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗਾਂ",
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 5,
+    "image": "notation/page-005-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ” ਪੁਸਤਕ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਵਾ ਰਹੇ ਹਨ। ਇਹ ਬਹੁਤ ਹੀ ਸ਼ਲਾਘਾਯੋਗ ਕਾਰਜ ਹੈ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗਾਂ",
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 6,
+    "image": "notation/page-006-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": "ਤਾਲ ਸ੍ਰੀ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 7,
+    "image": "notation/page-007-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸ੍ਰੀ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 10,
+    "image": "notation/page-010-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 10,
+    "image": "notation/page-010-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 11,
+    "image": "notation/page-011-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 11,
+    "image": "notation/page-011-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 11,
+    "image": "notation/page-011-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 12,
+    "image": "notation/page-012-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 12,
+    "image": "notation/page-012-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 14,
+    "image": "notation/page-014-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 15,
+    "image": "notation/page-015-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 15,
+    "image": "notation/page-015-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 16,
+    "image": "notation/page-016-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 16,
+    "image": "notation/page-016-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 17,
+    "image": "notation/page-017-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 17,
+    "image": "notation/page-017-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 19,
+    "image": "notation/page-019-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 19,
+    "image": "notation/page-019-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 11
+    },
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 20,
+    "image": "notation/page-020-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 20,
+    "image": "notation/page-020-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 21,
+    "image": "notation/page-021-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 21,
+    "image": "notation/page-021-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 23,
+    "image": "notation/page-023-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 24,
+    "image": "notation/page-024-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 24,
+    "image": "notation/page-024-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 25,
+    "image": "notation/page-025-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 25,
+    "image": "notation/page-025-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 25,
+    "image": "notation/page-025-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 27,
+    "image": "notation/page-027-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 28,
+    "image": "notation/page-028-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 28,
+    "image": "notation/page-028-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 29,
+    "image": "notation/page-029-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 29,
+    "image": "notation/page-029-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 30,
+    "image": "notation/page-030-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 30,
+    "image": "notation/page-030-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 31,
+    "image": "notation/page-031-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 33,
+    "image": "notation/page-033-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": 8,
+      "confidence": "medium",
+      "method": "exact-line-search(words=all)",
+      "similarity": 0.16,
+      "matched_verse": "ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੮॥",
+      "ang": 2,
+      "raag": "ਜਪ",
+      "writer": "Guru Nanak Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 33,
+    "image": "notation/page-033-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": 8,
+      "confidence": "medium",
+      "method": "exact-line-search(words=all)",
+      "similarity": 0.16,
+      "matched_verse": "ਸੁਣਿਐ ਦੂਖ ਪਾਪ ਕਾ ਨਾਸੁ ॥੮॥",
+      "ang": 2,
+      "raag": "ਜਪ",
+      "writer": "Guru Nanak Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 34,
+    "image": "notation/page-034-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 34,
+    "image": "notation/page-034-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 35,
+    "image": "notation/page-035-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 35,
+    "image": "notation/page-035-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 36,
+    "image": "notation/page-036-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 38,
+    "image": "notation/page-038-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 39,
+    "image": "notation/page-039-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 39,
+    "image": "notation/page-039-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 40,
+    "image": "notation/page-040-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 40,
+    "image": "notation/page-040-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 40,
+    "image": "notation/page-040-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 41,
+    "image": "notation/page-041-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 43,
+    "image": "notation/page-043-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 44,
+    "image": "notation/page-044-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 44,
+    "image": "notation/page-044-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 45,
+    "image": "notation/page-045-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 45,
+    "image": "notation/page-045-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 47,
+    "image": "notation/page-047-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 48,
+    "image": "notation/page-048-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 48,
+    "image": "notation/page-048-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 49,
+    "image": "notation/page-049-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 49,
+    "image": "notation/page-049-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 51,
+    "image": "notation/page-051-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 52,
+    "image": "notation/page-052-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 52,
+    "image": "notation/page-052-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 53,
+    "image": "notation/page-053-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 53,
+    "image": "notation/page-053-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 53,
+    "image": "notation/page-053-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 55,
+    "image": "notation/page-055-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 55,
+    "image": "notation/page-055-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 56,
+    "image": "notation/page-056-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 56,
+    "image": "notation/page-056-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 56,
+    "image": "notation/page-056-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 58,
+    "image": "notation/page-058-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 58,
+    "image": "notation/page-058-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 59,
+    "image": "notation/page-059-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 59,
+    "image": "notation/page-059-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 59,
+    "image": "notation/page-059-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 60,
+    "image": "notation/page-060-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 62,
+    "image": "notation/page-062-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 62,
+    "image": "notation/page-062-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 63,
+    "image": "notation/page-063-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 63,
+    "image": "notation/page-063-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 64,
+    "image": "notation/page-064-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 64,
+    "image": "notation/page-064-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 65,
+    "image": "notation/page-065-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 67,
+    "image": "notation/page-067-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 67,
+    "image": "notation/page-067-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 68,
+    "image": "notation/page-068-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 68,
+    "image": "notation/page-068-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 69,
+    "image": "notation/page-069-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 69,
+    "image": "notation/page-069-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 71,
+    "image": "notation/page-071-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 71,
+    "image": "notation/page-071-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 72,
+    "image": "notation/page-072-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 72,
+    "image": "notation/page-072-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 73,
+    "image": "notation/page-073-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 73,
+    "image": "notation/page-073-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 75,
+    "image": "notation/page-075-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 76,
+    "image": "notation/page-076-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 76,
+    "image": "notation/page-076-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 11
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 77,
+    "image": "notation/page-077-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 77,
+    "image": "notation/page-077-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 78,
+    "image": "notation/page-078-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 78,
+    "image": "notation/page-078-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 80,
+    "image": "notation/page-080-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 80,
+    "image": "notation/page-080-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 81,
+    "image": "notation/page-081-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 81,
+    "image": "notation/page-081-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 82,
+    "image": "notation/page-082-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 84,
+    "image": "notation/page-084-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 84,
+    "image": "notation/page-084-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਕਾਨੜਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 85,
+    "image": "notation/page-085-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 85,
+    "image": "notation/page-085-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 86,
+    "image": "notation/page-086-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲ\nਨੀ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 86,
+    "image": "notation/page-086-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲ\nਨੀ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 87,
+    "image": "notation/page-087-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਜਪਿ ਮਨ ਪਰਮੇਸੁਰੁ ਪਰਧਾਨੁ ॥",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਮਹਲਾ",
+    "shabad_match": {
+      "shabad_id": 4862,
+      "confidence": "high",
+      "method": "exact-line-search(words=5)",
+      "similarity": 0.963,
+      "matched_verse": "ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ ਪੜਤਾਲ ਮਹਲਾ ੪",
+      "ang": 1337,
+      "raag": "ਰਾਗੁ ਪ੍ਰਭਾਤੀ",
+      "writer": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 88,
+    "image": "notation/page-088-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 88,
+    "image": "notation/page-088-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 89,
+    "image": "notation/page-089-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 89,
+    "image": "notation/page-089-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 90,
+    "image": "notation/page-090-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 92,
+    "image": "notation/page-092-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 92,
+    "image": "notation/page-092-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 93,
+    "image": "notation/page-093-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 93,
+    "image": "notation/page-093-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 93,
+    "image": "notation/page-093-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "2 ਜਿ ਦਿ, ਨ ੧ ੜ / 2 ਜਿ & 2 ਨ੭ / ਟਇ ॥£ ਲੂ ੧ ਤੇ ਲੂ / ਚਿ ਦਿ ਪ੍ਰੰਏ #ਹ ਜਿ 9 / ਫਟ ਦਿ ਗਿ /ਏ _ ਦ ਪ੍ਰੰਏ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 94,
+    "image": "notation/page-094-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 94,
+    "image": "notation/page-094-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅੰ `ਇ ਜਦ ਤਊ ਜਿ 9 / ਇ 'ਇਿ 6 ਜਦ 0 / ਇੰ 'ਇ > ਰਿ ਦਿ ਰੁ / ੭ ਦਿ ਜਿ & ਦਿ 0",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 96,
+    "image": "notation/page-096-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 96,
+    "image": "notation/page-096-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 97,
+    "image": "notation/page-097-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 97,
+    "image": "notation/page-097-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 3,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 98,
+    "image": "notation/page-098-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 100,
+    "image": "notation/page-100-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 100,
+    "image": "notation/page-100-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 100,
+    "image": "notation/page-100-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 101,
+    "image": "notation/page-101-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 101,
+    "image": "notation/page-101-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 103,
+    "image": "notation/page-103-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 103,
+    "image": "notation/page-103-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 11
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 103,
+    "image": "notation/page-103-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 104,
+    "image": "notation/page-104-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 104,
+    "image": "notation/page-104-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 106,
+    "image": "notation/page-106-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 106,
+    "image": "notation/page-106-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 107,
+    "image": "notation/page-107-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 107,
+    "image": "notation/page-107-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 107,
+    "image": "notation/page-107-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 109,
+    "image": "notation/page-109-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਧਨਾਸਰੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 110,
+    "image": "notation/page-110-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 110,
+    "image": "notation/page-110-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 111,
+    "image": "notation/page-111-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 111,
+    "image": "notation/page-111-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 113,
+    "image": "notation/page-113-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਧਨਾਸਰੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 113,
+    "image": "notation/page-113-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਧਨਾਸਰੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 113,
+    "image": "notation/page-113-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਧਨਾਸਰੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 113,
+    "image": "notation/page-113-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਪ 'ਪ ਪ.ਪ ਪ ਗੁ ਗੁ ਗੁ [ਮਮ ਸਮ ਮ / ਰਾ 8੩ ਜ ੩ ੩ ੩ [ਜੋ ੩ ੩ |ਬ ਨ ੩ $",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਧਨਾਸਰੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 113,
+    "image": "notation/page-113-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਪ ਪ ਨੀ ਨੀ ਨੀ ਨੁੀ| ਸ ਸ ਸ ਸੱਸ ਸੰ ਸੰ / ਬਿਸ ਰੰ ਹ ੩ ਰਿ ੧|ਮਾ ੧ ੩ |ਇ ਆ 3੩ $",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਧਨਾਸਰੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 114,
+    "image": "notation/page-114-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 114,
+    "image": "notation/page-114-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 114,
+    "image": "notation/page-114-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "`ਦਿ: 9 ਮਲ ਮਿ [7",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 116,
+    "image": "notation/page-116-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 116,
+    "image": "notation/page-116-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 117,
+    "image": "notation/page-117-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 117,
+    "image": "notation/page-117-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 118,
+    "image": "notation/page-118-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 120,
+    "image": "notation/page-120-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 120,
+    "image": "notation/page-120-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 11
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 120,
+    "image": "notation/page-120-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 121,
+    "image": "notation/page-121-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 121,
+    "image": "notation/page-121-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 123,
+    "image": "notation/page-123-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 123,
+    "image": "notation/page-123-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 124,
+    "image": "notation/page-124-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 124,
+    "image": "notation/page-124-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 125,
+    "image": "notation/page-125-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 127,
+    "image": "notation/page-127-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲੁ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 127,
+    "image": "notation/page-127-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲੁ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 128,
+    "image": "notation/page-128-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 128,
+    "image": "notation/page-128-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 129,
+    "image": "notation/page-129-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 129,
+    "image": "notation/page-129-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "[ਟ ੭ ਤ ੭ ਮੋਨ ਪ੍ਰੰ2 `ਇ ਅ [ਟ ਪੱ > ਪੌਠ ਮਦ _€9 ਤ ਪੰ / [ਠ # ਜਿ €% ਗੋਲ 069 [ਲ ਠਿ [ਠ ੭ ਮਿਲਿ ਮਲ 09 ਜਿ ਇ / [ਠ ।ਠ ਦਿ ਜਸ 'ਦਿਇ [ਠ ੦੭ 1 ੪ ਹਲ਼ ਧੋਟ ੭ / ੮ ਤਊ ਰਾ ਐਲ 96 ਦਿ 0 ੮ ਇਉ ਰਾ ਮਲ 9 ਨ. ਤਨ / [ਠ ੭ ਜਿ 0 “ਡਟ [ਠ _ਇਿ [ਠ “ਫ ਸਿ ਲ ਮ2#ਟ ਜਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 132,
+    "image": "notation/page-132-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲੁ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 132,
+    "image": "notation/page-132-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": "ਰਾਗ ਬਿਲਾਵਲੁ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 133,
+    "image": "notation/page-133-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 133,
+    "image": "notation/page-133-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 134,
+    "image": "notation/page-134-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 136,
+    "image": "notation/page-136-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 136,
+    "image": "notation/page-136-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 137,
+    "image": "notation/page-137-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 137,
+    "image": "notation/page-137-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 138,
+    "image": "notation/page-138-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 140,
+    "image": "notation/page-140-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 140,
+    "image": "notation/page-140-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 140,
+    "image": "notation/page-140-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 141,
+    "image": "notation/page-141-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 141,
+    "image": "notation/page-141-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 143,
+    "image": "notation/page-143-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 143,
+    "image": "notation/page-143-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 144,
+    "image": "notation/page-144-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 144,
+    "image": "notation/page-144-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 144,
+    "image": "notation/page-144-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 145,
+    "image": "notation/page-145-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 147,
+    "image": "notation/page-147-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਭੈਰਉ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 147,
+    "image": "notation/page-147-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਭੈਰਉ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 148,
+    "image": "notation/page-148-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 148,
+    "image": "notation/page-148-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 149,
+    "image": "notation/page-149-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 151,
+    "image": "notation/page-151-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 151,
+    "image": "notation/page-151-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 151,
+    "image": "notation/page-151-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 152,
+    "image": "notation/page-152-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 152,
+    "image": "notation/page-152-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 153,
+    "image": "notation/page-153-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 155,
+    "image": "notation/page-155-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 155,
+    "image": "notation/page-155-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 156,
+    "image": "notation/page-156-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 156,
+    "image": "notation/page-156-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 157,
+    "image": "notation/page-157-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 159,
+    "image": "notation/page-159-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 159,
+    "image": "notation/page-159-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 160,
+    "image": "notation/page-160-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 160,
+    "image": "notation/page-160-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 161,
+    "image": "notation/page-161-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 163,
+    "image": "notation/page-163-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 163,
+    "image": "notation/page-163-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 164,
+    "image": "notation/page-164-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 164,
+    "image": "notation/page-164-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 165,
+    "image": "notation/page-165-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 167,
+    "image": "notation/page-167-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 167,
+    "image": "notation/page-167-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 168,
+    "image": "notation/page-168-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 168,
+    "image": "notation/page-168-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 169,
+    "image": "notation/page-169-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 171,
+    "image": "notation/page-171-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 171,
+    "image": "notation/page-171-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 172,
+    "image": "notation/page-172-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 172,
+    "image": "notation/page-172-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 173,
+    "image": "notation/page-173-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 175,
+    "image": "notation/page-175-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 175,
+    "image": "notation/page-175-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 176,
+    "image": "notation/page-176-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 176,
+    "image": "notation/page-176-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 177,
+    "image": "notation/page-177-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 179,
+    "image": "notation/page-179-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 179,
+    "image": "notation/page-179-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 179,
+    "image": "notation/page-179-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ\n\nਰਾਗ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 180,
+    "image": "notation/page-180-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 180,
+    "image": "notation/page-180-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 182,
+    "image": "notation/page-182-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 183,
+    "image": "notation/page-183-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 183,
+    "image": "notation/page-183-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 183,
+    "image": "notation/page-183-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 184,
+    "image": "notation/page-184-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 186,
+    "image": "notation/page-186-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 186,
+    "image": "notation/page-186-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 187,
+    "image": "notation/page-187-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 187,
+    "image": "notation/page-187-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 188,
+    "image": "notation/page-188-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 190,
+    "image": "notation/page-190-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 191,
+    "image": "notation/page-191-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 191,
+    "image": "notation/page-191-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 192,
+    "image": "notation/page-192-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 192,
+    "image": "notation/page-192-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 194,
+    "image": "notation/page-194-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 194,
+    "image": "notation/page-194-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 194,
+    "image": "notation/page-194-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 195,
+    "image": "notation/page-195-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 195,
+    "image": "notation/page-195-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 197,
+    "image": "notation/page-197-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 198,
+    "image": "notation/page-198-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 198,
+    "image": "notation/page-198-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 198,
+    "image": "notation/page-198-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 199,
+    "image": "notation/page-199-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 201,
+    "image": "notation/page-201-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 201,
+    "image": "notation/page-201-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 201,
+    "image": "notation/page-201-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 202,
+    "image": "notation/page-202-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 202,
+    "image": "notation/page-202-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 204,
+    "image": "notation/page-204-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 204,
+    "image": "notation/page-204-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 204,
+    "image": "notation/page-204-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 205,
+    "image": "notation/page-205-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 205,
+    "image": "notation/page-205-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 207,
+    "image": "notation/page-207-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 207,
+    "image": "notation/page-207-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 207,
+    "image": "notation/page-207-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 208,
+    "image": "notation/page-208-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 208,
+    "image": "notation/page-208-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 210,
+    "image": "notation/page-210-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 210,
+    "image": "notation/page-210-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 7
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 210,
+    "image": "notation/page-210-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 11
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 211,
+    "image": "notation/page-211-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 211,
+    "image": "notation/page-211-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 213,
+    "image": "notation/page-213-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 213,
+    "image": "notation/page-213-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 213,
+    "image": "notation/page-213-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਮਲਾਰ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 214,
+    "image": "notation/page-214-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 214,
+    "image": "notation/page-214-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 216,
+    "image": "notation/page-216-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 5
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 216,
+    "image": "notation/page-216-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 216,
+    "image": "notation/page-216-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 217,
+    "image": "notation/page-217-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 217,
+    "image": "notation/page-217-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 219,
+    "image": "notation/page-219-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 219,
+    "image": "notation/page-219-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": "ਤਾਲ ਸਥਾਈ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 220,
+    "image": "notation/page-220-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 220,
+    "image": "notation/page-220-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 220,
+    "image": "notation/page-220-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 221,
+    "image": "notation/page-221-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਬੋਲ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 221,
+    "image": "notation/page-221-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਬੋਲ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 221,
+    "image": "notation/page-221-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਬੋਲ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 221,
+    "image": "notation/page-221-block-4.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਬੋਲ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 222,
+    "image": "notation/page-222-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 8
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 222,
+    "image": "notation/page-222-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 222,
+    "image": "notation/page-222-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 222,
+    "image": "notation/page-222-block-4.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 7
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 223,
+    "image": "notation/page-223-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 223,
+    "image": "notation/page-223-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 4
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 223,
+    "image": "notation/page-223-block-3.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 223,
+    "image": "notation/page-223-block-4.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲ ਚਿੰਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 224,
+    "image": "notation/page-224-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 6
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 224,
+    "image": "notation/page-224-block-2.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 5
+    },
+    "raag": null,
+    "taal": "ਤਾਲਾਂ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 225,
+    "image": "notation/page-225-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 6,
+      "cols": 12
+    },
+    "raag": "ਰਾਗ ਜਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 226,
+    "image": "notation/page-226-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 5,
+      "cols": 12
+    },
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 227,
+    "image": "notation/page-227-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 3,
+      "cols": 12
+    },
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "sampurn-55-parhtala",
+    "page": 228,
+    "image": "notation/page-228-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸ਼ਬਦਾਂ ਨੂੰ ਸੁਰਲਿਪੀਬੱਧ ਕਰਕੇ 'ਸੰਪੂਰਨ 55 ਪੜਤਾਲਾਂ: ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ' ਪੁਸਤਕ ਦੇ ਰੂਪ ਵਿਚ ਪ੍ਰਕਾਸ਼ਿਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਅਨੁਸਾਰ",
+    "taal": "ਤਾਲ ਗਾਇਨ",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  }
+]

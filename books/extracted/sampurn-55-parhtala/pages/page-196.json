@@ -1,0 +1,8 @@
+{
+  "page": 196,
+  "section": "essay",
+  "text": "ਮਲਾਰ ਮਹਲਾ ੫ ॥\nਪ੍ਰਿਅ ਕੀ ਸੋਭ ਸੁਹਾਵਨੀ ਨੀਕੀ ॥\n\nਹਾਹਾ ਹੂਹੂ ਗੰਧ੍ਰਬ ਅਪਸਰਾ ਅਨੰਦ ਮੰਗਲ ਰਸ ਗਾਵਨੀ ਨੀਕੀ ॥੧॥ ਰਹਾਉ ॥\n\nਧੁਨਿਤ ਲਲਿਤ ਗੁਨਗੂ ਅਨਿਕ ਭਾਂਤਿ ਬਹੁ ਬਿਧਿ ਰੂਪ ਦਿਖਾਵਨੀ ਨੀਕੀ ॥੧॥\n\nਗਿਰਿ ਤਰ ਥਲ ਜਲ ਭਵਨ ਭਰਪੁਰਿ ਘਟਿ ਘਟਿ ਲਾਲਨ ਛਾਵਨੀ ਨੀਕੀ ॥\n\nਸਾਧਸੰਗਿ ਰਾਮਈਆ ਰਸੁ ਪਾਇਓ ਨਾਨਕ ਜਾ ਕੈ ਭਾਵਨੀ ਨੀਕੀ ॥੨॥੩॥੨੫॥\n\n(ਅੰਗ ੧੨੭੨)\n\nਪਦ ਅਰਥ :\n\nਹੂਹੂ = ਦੇਵਤਿਆਂ ਦੇ ਰਾਗੀਆਂ ਦੇ ਨਾਮ ਹਨ। ਗੰਧ੍ਰਬ = ਦੇਵਤਿਆਂ ਦੇ ਰਾਗੀ। ਅਪਸਰਾ = ਸੁਰਗ ਦੀਆਂ\nਮੋਹਈਆਂ। ਮੰਗਲ = ਖ਼ੁਸ਼ੀ ਦੇ ਗੀਤ। ਗਾਵਨੀ ਨੀਕੀ = ਮਿੱਠਾ ਗਾਇਨ। ਧੁਨਿਤ = ਧੁਨੀਆਂ, ਸੁਰਾਂ! ਲਲਿਤ\n= ਸੁੰਦਰ। ਗੁਨਗੁ = ਗੁਈ, ਗੁਈਂ ਦੇ ਜਾਏਨ ਵਾਲੇ, ਗੁਈਂ ਵਿਚ ਪ੍ਰਬੀਨ। ਗਿਰਿ = ਪਹਾੜ। ਤਰ = ਰੁੱਖ।\nਥਲ = ਧਰਤੀ। ਭਰਪੁਰਿ = ਭਰਪੂਰ। ਘਟਿ ਘਟਿ = ਹਰੇਕ ਸਰੀਰ ਵਿਚ। ਲਾਲਨ ਛਾਵਨੀ = ਸੋਹਏ ਲਾਲ\nਦੀ ਛਾਉਈ, ਸੋਹਏ ਲਾਲ ਦਾ ਡੋਰਾ। ਸਾਥ ਸੰਗਿ = ਸਾਧ ਸੰਗਤ ਵਿਚ। ਰਾਮਈਆ ਰਸ = ਸੋਹਏ ਰਾਮ (ਦੇ\nਮਿਲਾਪ) ਦਾ ਆਨੰਦ। ਜਾ ਕੈ = ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਅੰਦਰ। ਭਾਵਨੀ = ਸਰਧਾ।\n\n188 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

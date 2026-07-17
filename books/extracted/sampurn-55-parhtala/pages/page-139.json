@@ -1,0 +1,8 @@
+{
+  "page": 139,
+  "section": "essay",
+  "text": "ਰਾਮਕਲੀ ਮਹਲਾ ੫ ॥\nਫੂਪ ਰੰਗ ਸੁਗੰਧ ਭੋਗ ਤਿਆਗਿ ਚਲੇ ਮਾਇਆ ਛਲੇ ਕਨਿਕ ਕਾਮਿਨੀ ॥੧॥ ਰਹਾਉ ॥\nਭੰਡਾਰ ਦਰਬ ਅਰਬ ਖਰਬ ਪੇਖਿ ਲੀਲਾ ਮਨੁ ਸਧਾਰੈ ॥\nਨਹ ਸੰਗਿ ਗਾਮਨੀ ॥੧॥\nਸੁਤ ਕਲੜਤ੍ਰ ਭ੍ਰਾਤ ਮੀਤ ਉਰਝਿ ਪਰਿਓ ਭਰਮਿ ਮੋਹਿਉ ਇਹ ਬਿਰਖ ਛਾਮਨੀ ॥\nਚਰਨ ਕਮਲ ਸਰਨ ਨਾਨਕ ਸੁਖੁ ਸੰਤ ਭਾਵਨੀ ॥੨॥੨॥੬੦॥\n\n(ਅੰਗ ੯੦੧)\n\nਪਦ ਅਰਥ :\n\nਤਿਆਗਿ ਚਲੇ = ਛੱਡ ਕੇ ਤੁਰ ਪਏ। ਕਨਿਕ = ਸੋਨਾ । ਕਾਮਿਨੀ = ਇਸਤ੍ਰੀ। ਭੰਡਾਰ = ਖ਼ਜ਼ਾਨੇ।\n\nਦਰਬ = ਧਨ। ਅਰਬ ਖਰਬ = ਅਰਬਾਂ ਖਰਬਾਂ ਦੀ ਗਿਛਤੀ ਵਾਲੇ, ਬੇਅੰਤੁ। ਪੇਖਿ = ਵੇਖ ਕੇ। ਲੀਲਾ = ਖੇਡ!\n\nਮਨੁ ਸਧਥਾਰੈ = ਮਨ ਢਾਰਸ ਬਵਂਦਾ ਹੈ। ਸੰਗਿ = ਨਾਲ। ਗਾਮਨੀ = ਜਾਂਦਾ। ਸੁਤ = ਪੁੱਤਰ ।\nਕਲਤ੍ਰ = ਇਸਤ੍ਰੀ। ਭ੍ਰਾਤ = ਭਰਾ। ਮੀਤ = ਮਿੱਤਰ। ਉਰਝਿ ਪਰਿਓ = ਉਲਝਿਆ ਪਿਆ ਹੈ, ਫਸਿਆ ਪਿਆ\nਹੈ। ਭਰਮਿ = ਭਰਮ ਵਿਚ, ਭੁਲੇਖੇ ਵਿਚ। ਬਿਰਖ ਛਾਮਨੀ = ਰੁੱਖ ਦੀ ਛਾਂ। ਸੰਤ ਭਾਵਨੀ = ਸੰਤਾਂ ਨੂੰ ਚੰਗਾ\nਲੱਗਦਾ ਹੈ।\n\n131 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

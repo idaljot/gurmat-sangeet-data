@@ -1,0 +1,8 @@
+{
+  "page": 22,
+  "section": "essay",
+  "text": "ਨਟ ਮਹਲਾ ਝ ॥\nਕੋਈ ਆਨਿ ਸੁਨਾਵੈ ਹਰਿ ਕੀ ਹਰਿ ਗਾਲ ॥\nਤਿਸ ਕਉ ਹਉ ਬਲਿ ਬਲਿ ਬਾਲ ॥\nਸੋ ਹਰਿ ਜਨੁ ਹੈ ਭਲ ਭਾਲ ॥\nਹਰਿ ਹੋ ਹੋ ਹੋ ਮੇਲਿ ਨਿਹਾਲ ॥੧॥ ਰਹਾਉ ॥\nਹਰਿ ਕਾ ਮਾਰਗੁ ਗੁਰ ਸੰਤਿ ਬਤਾਇਉਂ ਗੁਰਿ ਚਾਲ ਦਿਖਾਈ ਹਰਿ ਚਾਲ ॥\nਅੰਤਰਿ ਕਪਟੁ ਚੁਕਾਵਰੁ ਮੇਰੇ ਗੁਰਸਿਖਹੁ\nਨਿਹਕਪਟ ਕਮਾਵਹੁ ਹਰਿ ਕੀ ਹਰਿ ਘਾਲ ਨਿਹਾਲ ਨਿਹਾਲ ਨਿਹਾਲ ॥੧॥\nਤੇ ਗੁਰ ਕੇ ਸਿਖ ਮੇਰੇ ਹਰਿ ਪ੍ਰਭਿ ਭਾਏ ਜਿਨਾ ਹਰਿ ਪ੍ਰਭੁ ਜਾਨਿਉ ਮੇਰਾ ਨਾਲਿ ॥\nਜਨ ਨਾਨਕ ਕਉ ਮਤਿ ਹਰਿ ਪ੍ਰਭਿ ਦੀਨੀ\nਹਰਿ ਦੇਖਿ ਨਿਕਟਿ ਹਦੂਰਿ ਨਿਹਾਲ ਨਿਹਾਲ ਨਿਹਾਲ ਨਿਹਾਲ ॥੨॥੩॥੯॥\n(ਅੰਗ ੯੭੭-੯੭੮)\n\nਪਦ ਅਰਥ :\n\nਆਨਿ = ਲਿਆ ਕੇ, ਸੁਨੇਹਾ ਲਿਆ ਕੇ। ਗਾਲ = ਗੱਲ। ਕਉ = ਨੂੰ, ਤੋਂ। ਹਉ = ਮੈਂ। ਬਾਲ = ਬਲਿਹਾਰ। ਭਲ\nਭਲਾ = ਭਲੇ ਭਾਲ ਵਾਲਾ, ਭਲੇ ਮਸਤਕ ਵਾਲਾ। ਮੇਲਿ = (ਸੰਗਤ ਵਿਚ) ਮਿਲਾ ਕੇ। ਮਾਰਗੁ = ਰਸਤਾ। ਗੁਰ\n\nਸੰਤਿ = ਗੁਰੂ-ਸੰਤ ਨੇ । ਗੁਰਿ = ਗੁਰੂ ਨੇ । ਚਾਲ = ਤੁਰਨ ਦੀ ਜਾਚ। ਅੰਤਰਿ = ਮਨ ਵਿਚੋਂ! ਕਪਟੁ = ਵਲ-\nਛਲ। ਚੁਕਾਵਹੁ = ਦੂਰ ਕਰੋ। ਨਿਹਕਪਟ = ਵਲ ਛਲ ਛੱਡ ਕੇ। ਘਾਲ = ਮਿਹਨਤ। ਤੋ = ਉਹ (ਬਹੁ-\nਵਚਨ)। ਹਰਿ ਪ੍ਰਭ ਭਾਏ = ਹਰੀ-ਪ੍ਰਭੂ ਨੂੰ ਪਿਆਰੇ ਲੱਗੇ। ਪ੍ਰਭਿ = ਪ੍ਰਭੂ ਨੇ। ਦੇਖਿ = ਵੇਖ ਕੇ। ਨਿਕਟਿ = ਨੇੜੇ।\n\n14:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 114,
+  "section": "notation",
+  "text": "੨ ਤਾ ! 0\n੭੪ ਜਿਤ\n੦; ਹਾ ਮਦ ਅਣ\n!੦ ॥੦%\n'ਿ ਗਿ) 0੭ ੦8 ਤਾ ਦਿ! ਇ\nਮਲ 9 ਧਟ੦9| .-\n। £ ਦ਼ ਤੇ ਪ੍ਰੀ\nਨਲ % ਪਧੰਟ।%\n&\nਹੱ\n4੦ ਇ; ਪੌਠ।ਰਿ[ ਨੂੰ | ਹਠ ਫ ਇ\nਦਿ! 09 ਮੱਲ €9 £ ੫ < ਹ ॥\n`ਦਿ: 9 ਮਲ ਮਿ [7\nਨ[ਝ ਣ  ।ਡ\n`ਚ % ਦਿ!'ਰਡਿ[ `'\nਦਿ? ਤਿ ਦਿ! ਲ ੮ ਟ ਪਟ [ਮੈ\n`ਚ) 9 2 _ਨਿ1\nਟ੫ ਦਿ: `ਇ 1੨)\nਦਿ 9 ਜਿ 0\nਦਿ! £ _ ਪੌੰਠ,40 ”ਾਂ ਜਾ ਟ /0\n\nਅੰਤਰਾ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(੩)\n\nਆ [ਟ ਲਿ [2੪੪ 'ਟਿ]0  €&\n੯ [ਟ ਇ [ਟ ਲਿ [ਟ ਫ਼ 'ਦਿ9\nਚ ।ਟ ਮੱਚ _ਪੌਠ, % ਪੰਠਇ ਨੇ %\n€੧ ਇਛ ਧੌਠ#ਗ ਧਨ ਇ  ਲਿਇ\n੮੧ ਧੌਠ੭ % % ਤ੍ਰਿਨ\n੩ ਧੈਠ ਸ਼ _ ਮਲ ਫ਼ ਮੋ ਇੱ 1 %\n੩ ਨਫਿ 4੦ % ਦਿ ਇ ਰਾ\n੦; ਨਲ ਮਨਹਿ ਦਿਇਿ ਉ,/ਛ\n੦5 >ਸ਼ 'ਦਿਇ 'ਟ੪ਿੰ ਨਾ 9\n£= 'ਦ ।ਲ 'ਦਿ) ਲ 'ਦ ਲਿ 'ਹ 1੦1\n੮੨ ਦਿਲ _'ਦਿਹਿ '੮। ਮਾਰਿ\n੫ ਦਿ:ਇ _'ਦਿ:0੭/ 'ਦ ਠਿ ਧਨਹਿ\nਚਾ ਨਾ [2 ੪ਇ 'ਦਿ'ਦ 'ਟ %\n੨ ਪੰ ਧੋਠ।ਗ 'ਟਿਲਿ 0\n੩੫ > । ਪ੍ਰੀ! ਧੌਠ ਇੰ 1ਟ ।ਲ\nਦਾ ਤਲ ਤ> ਡੇ ਧੌਠ'ਡੇ 1 ੩4\n\n106 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

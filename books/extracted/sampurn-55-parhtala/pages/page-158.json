@@ -1,0 +1,8 @@
+{
+  "page": 158,
+  "section": "essay",
+  "text": "ਸਾਰਗ ਮਹਲਾ ੫ ॥\nਰਾਮ ਰਾਮ ਰਾਮ ਜਾਪਿ ਰਮਤ ਰਾਮ ਸਹਾਈ ॥੧॥ ਰਹਾਉ ॥\nਗੁਰ ਗੋਪਾਲ ਭਏ ਕ੍ਰਿਪਾਲ ਲਬਧਿ ਅਪਨੀ ਪਾਈ ॥੧॥\nਬਿਨਸੇ ਭ੍ਰਮ ਮੋਹ ਅੰਧ ਟੂਟੇ ਮਾਇਆ ਕੇ ਬੰਧ\nਪੂਰਨ ਸਰਬਤ੍ਰ ਠਾਕੁਰ ਨਹ ਕੋਊ ਬੈਰਾਈ ॥\nਸੁਆਮੀ ਸੁਪ੍ਰਸੰਨ ਭਏ ਜਨਮ ਮਰਨ ਦੋਖ ਗਏ\nਸੰਤਨ ਕੈ ਚਰਨ ਲਾਗਿ ਨਾਨਕ ਗੁਨ ਗਾਈ ॥੨॥੩॥੧੩੨॥\n\n(ਅੰਗ ੧੨੨੯-੧੨੩੦)\n\nਪਦ ਅਰਥ :\nਜਾਪਿ = ਜਪਿਆ ਕਰ। ਰਮਤ = ਜਪਦਿਆਂ। ਸਹਾਈ = ਮਦਦਗਾਰ। ਕੈ ਚਰਨ = ਦੇ ਚਰਨਾਂ ਵਿਚ।\nਤਿਆਗੇ = ਤਿਆਗਿ, ਤਿਆਗ ਕੇ। ਲਬਥਿ = ਜਿਸ ਵਸਤੂ ਨੂੰ ਲੱਭਦੇ ਸਾਂ। ਔਧ = ਅੰਨ੍ਹੇ (ਕਰਨ ਵਾਲੇ) ।\nਬੰਧ = ਬੰਧਨ, ਫਾਹੀਆਂ। ਪੂਰਨ = ਵਿਆਪਕ। ਸਰਬਤ੍ਰ = _ਸਭਨੀਂ ਥਾਈਂ । ਬੈਰਾਈ = ਵੈਰੀ।\nਸੁਪ੍ਰਸੰਨ = ਦਇਆਵਾਨ। ਦੋਖ = ਪਾਪ। ਲਾਗਿ = ਲੱਗ ਕੇ। ਗਾਈ = ਗਾਂਦੀ ਹੈ।\n\n150 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

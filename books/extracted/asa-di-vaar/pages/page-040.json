@@ -1,0 +1,8 @@
+{
+  "page": 40,
+  "section": "essay",
+  "text": "ਆਸਾ ਮਹਲਾ ੪ ॥\nਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ ਹਰਿ ਸਜਣੁ ਲਧਾ ਰਾਮ ਰਾਜੇ ॥\nਕੰਚਨ ਕਾਇਆ ਕੋਟ ਗੜ ਵਿਚਿ ਹਰਿ ਹਰਿ ਸਿਧਾ ॥\nਹਰਿ ਹਰਿ ਹੀਰਾ ਰਤਨੁ ਹੈ ਮੇਰਾ ਮਨੁ ਤਨੁ ਵਿਧਾ ॥\nਧੁਰਿ ਭਾਗ ਵਡੇ ਹਰਿ ਪਾਇਆ ਨਾਨਕ ਰਸਿ ਗੁਧਾ ॥੧॥\n(ਅੰਗ ੪੪੯)\nਪਦ ਅਰਥ :\n\nਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਲਥਾ = ਲੱਭ ਪਿਆ ਹੈ। ਕੰਚਨ ਕੋਟ ਗੜ = ਸੋਨੇ ਦਾ ਕਿਲ੍ਹਾ ਕਾਇਆ = ਸਰੀਰ।\nਸਿਧਾ = ਸਿੱਧਾ, ਪਰਗਟ। ਵਿਧਾ = ਵਿੱਝ ਗਿਆ ਹੈ। ਥੁਰਿ = ਧੁਰ ਦਰਗਾਹ ਤੋਂ। ਰਸਿ = ਰਸ ਵਿਚ, ਅਨੰਦ ਵਿਚ।\nਗੁਧਾ = ਗੁੱਝ ਗਿਆ ਹਾਂ।\n\n39:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

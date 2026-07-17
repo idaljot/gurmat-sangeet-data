@@ -1,0 +1,8 @@
+{
+  "page": 99,
+  "section": "essay",
+  "text": "ਦਾਗ ਆਸਾ ]\n\nਆਸਾ ਮਹਲਾ ੫ ॥\nਕੋਊ ਬਿਖਮ ਗਾਰ ਤੋਰੈ ॥\nਆਸ ਪਿਆਸ ਧੋਹ ਮੋਹ ਭਰਮ ਹੀ ਤੋ ਹੋਰੈ ॥੧॥ ਰਹਾਉ ॥\nਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਮਾਨ ਇਹ ਬਿਆਧਿ ਛੋਰੈ ॥੧॥\nਸੰਤਸੰਗਿ ਨਾਮ ਰੰਗਿ ਗੁਨ ਗੋਵਿੰਦ ਗਾਵਉ ॥\nਅਨਦਿਨੋ ਪ੍ਰਭ ਧਿਆਵਉ ॥\nਭ੍ਰਮ ਭੀਤਿ ਜੀਤਿ ਮਿਟਾਵਉ ॥\nਨਿਧਿ ਨਾਮੁ ਨਾਨਕ ਮੋਰੈ ॥੨॥੩॥੧੫੪॥\n\n(ਅੰਗ ੪੦੮)\n\nਪਦ ਅਰਥ :\n\nਕੋਊ = ਕੋਈ ਵਿਰਲਾ। ਬਿਖਮ = ਔਖਾ। ਗਾਰ = ਗੜ੍ਹ, ਕਿਲ੍ਹਾ। ਤੋਰੈ = ਤੋੜਦਾ ਹੈ, ਸਰ ਕਰਦਾ ਹੈ। ਪਿਆਸ\n= ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ। ਬੋਰ = ਠੌਗੀ। ਭਰਮ = ਭਟਕਈ। ਤੋ = ਤੋਂ। ਹੋਰੈ = (ਆਪਏ ਮਨ ਨੂੰ) ਰੋਕਦਾ ਹੈ।\nਬਿਆਧਿ = ਬੀਮਾਰੀਆਂ, ਰੋਗ। ਛੋਰੈ = ਛੱਡਦਾ ਹੈ। ਸੰਗਿ = ਸੰਗਤ ਵਿਚ। ਰੰਗਿ = ਪਿਆਰ ਵਿਚ। ਗਾਵਉ\n= ਮੈਂ ਗਾਂਦਾ ਹਾਂ, ਗਾਵਉਂ। ਅਨਦਿਨੋ = ਹਰ ਰੋਜ਼। ਧਿਆਵਉ = ਮੈਂ ਸਿਮਰਦਾ ਹਾਂ। ਭ੍ਰਮ = ਭਟਕਈ। ਭੀਤਿ\n= ਕੰਧ। ਜੀਤਿ = ਜਿੱਤ ਕੇ। ਨਿਥਿ = ਖ਼ਜ਼ਾਨਾ। ਮੋਗੈ = ਮੇਰੈ ਪਾਸ, ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ।\n\n91 : ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

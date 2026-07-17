@@ -1,0 +1,8 @@
+{
+  "page": 40,
+  "section": "notation",
+  "text": "ਅੰਤਰਾ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(੩)\n\n੨ 2 ਪੈਨ ਤੇ ਪੈਨ ੮੧ ਤ& ।੦ ੮੦\n੯੩ ਨਾਲ਼ ਨਾੜ\n= ਡਰੈ ਇਨ ਨਲ\nਦੀ ਨਤਿ ਤਾਡਿ\n੮) ਹ /ਤਿ ਹ /ਤਿ ੩ > ਪੰ ।ਟ ਗੰਦ `ਦ ਪੱ\n੮੩\n7 | ਟਰ ਪੇ ੨੮1 =ਰੰਏ  ੧ਠਪਟ % ਫ\nਸਿ\nਅਗ ਜਾਪ ਜਾਪ\n੦6 'ਟ ਗ੍ਰੰ£ ਮਲ % ਪੈਂਟ ਪਰ\n੩ ਧੈਠਪਏ _ ਨਰ\n&\n੨, ਪੈਨ ਛ ਪਨ ਛ ਇ |!” ਟ।ਠ _>/0 ਪ੍‌ਰੰਨ।੦\n1\n੦੦ [ਟ 099 _ ੭ 091 £ < ਧਠ09/ ਦ% ਜਗ\n੮ ਧੌਠ।2 >ਝ ।\nਨੂ [੫ ਧੌਠਰਿ ਜਾਤਿ 2\n੮੦ 2੪ ਨ ਨੂ\n2,\n੫, ਧਟਮਰ ਤਮ ਚ !£। ਟਲ 09\nਚ ਇਟ ।€ _ =ਪੱ ੮ [ਟ ਇ ਪੌੰਠਇ ਅ>।ਲ\n੮ ਗਲ ਇ ਜਾਪ\n੮੫ ` ਧਰ ਧੋਟਪ੍ਰ 2 %\n੮੧ ਰੀ\nਗਿ ਪਟ ਪੈ ਛ ਦਾ [ਟ 2 _ ਪੌਠ| ਨ _ਮਏ ਦਿ\n\n(੧੪ ਮਾਤਰਾ)\n\nਅੰਤਰਾ ਆੜਾ ਚਾਰਤਾਲ\n\n(੫)\n\nਸੀ ਲਾ ਪੱਠੇ 29 ਪੱਠੇ 09\n੧ 200 ਟੂ 09; £ੰ 0੭\n2੧ ਧਨ % ਠ੍ & ਠ੍ &\nਦ਼ ਧ6) ਗਿ ਪੰ 2 ਪੰ 00\n੩ [ਟਅ ਕ੍ਰਿਆ ਦੇ %\n੨੩ ਟਇ '£ਿ 'ਇਇਿ\n੦6 ਨਲ ੧੦ _ ਮਦ ਪ੍ਰਏ । 0\n£- ਹਲ ਇਮ ।ਨ ਪੱਠੇ ੭\n੮੦ `ਟਧਊ  % 09)\n੫ ਇ।  ਇ ਠ 09\nਚਾ 'ਟਰਏ ਤਪ ਪੰ ਭਿ\n੦੧ 'ਇਲ ਜ/ਇ ਠ &\n੮੫ `ਠ॥ਲ ਧੌਠ% 'ਇਿੰਲਿ\nਦਾ ਇਟ  ਧੌਟ/ਫ । €%\n\n32: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 197,
+  "section": "notation",
+  "text": "ਰਾਗ ਮਲਾਰ ਪੜਤਾਲ ਸਥਾਈ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(ਅਗ ੧੨੭੨)\n\nਆ ਤਹ ੪ ! & ਤਹ ੪ ਜਹ ੪ ਨਾਰ\n੫; ਨ ॥ ਸਿ ਨ ਛ ਨਗਿ ਤਦ ਗਲਿ\nਚ ਤ 9 ਪਟ: ਸ੪ ਤ 9 ਤ ੭ ਤ ੭\n੪ ਨ #ਟ ਧੌਠ: 9੪ ਨ । ਨਗ ਜਦ\n੮੧ ਮਲ ਹੋਰੁ ਹਿ- ਹਿ॥ ਮਲ 1 ਮਲ ਹੋਰੁ ਮਲ ਹੋਰੁ\nਅਲ ਪਲ 0 7 ਨਿ॥ ਗਲ ਇੰ 3 3\n੩ ਟ ਲੂ ਪੈਠ। ਰਿ 2 ਟ ਦੇ ਪੰ\n੨; । & ਧੋਠ। ਰਿ । & ੭ ੭\n।  &  & ਅਠ ਗਤ ੭\n- ਪੱਲ ਟ ਲਿ 6, ਹ ਗਿ\n੯੨ | | ਲ & 'ਹ ਤਊ\n੫੧ ਮਦ ਪੁੱਠ ਮਲ ਇਿ ਹੋ, ਪਰ ਤ ਗਟ\nਚ ਦ ਪੰਠੁ 'ਦ % ਹਟ ੭ ਮਦ ਪੁੱਲ\n੮੧ ਚ: ॥ ਚ: ਝ ਹਦ ਮਲ ਡੂ\n੦4 ਦ ਇੰ - ਪੂ # ਟੇ ਪਾ\nਦਾ । 0 । 0 ਧੰ& ਫਿ । ੭\n\n189 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

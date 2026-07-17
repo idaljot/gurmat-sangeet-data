@@ -1,0 +1,8 @@
+{
+  "page": 122,
+  "section": "essay",
+  "text": "ਰਾਗ ਸੂਹੀ\nਸੂਰੀ ਮਹਲਾ ੫ ॥\n'ਤਉ ਮੈ ਆਇਆ ਸਰਨੀ ਆਇਆ ॥\nਭਰੋਸੈ ਆਇਆ ਕਿਰਪਾ ਆਇਆ ॥\nਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਹੁ ਸੁਆਮੀ ਮਾਰਗੁ ਗੁਰਹਿ ਪਠਾਇਆ ॥੧॥ ਰਹਾਉ ॥\nਮਹਾ ਦੁਤਰੁ ਮਾਇਆ ॥\nਜੈਸੇ ਪਵਨੁ ਬੁਲਾਇਆ ॥੧॥\nਸੁਨਿ ਸੁਨਿ ਹੀ ਡਰਾਇਆ ॥\nਕਰਰੋ ਧ੍ਰਮਰਾਇਆ ॥੨॥\nਗ੍ਰਿਹ ਅੰਧ ਕੂਪਾਇਆ ॥\nਪਾਵਕੁ ਸਗਰਾਇਆ ॥੩॥\nਗਹੀ ਉਟ ਸਾਧਾਇਆ ॥\nਨਾਨਕ ਹਰਿ ਧਿਆਇਆ ॥\nਅਬ ਮੈ ਖੂਰਾ ਪਾਇਆ ॥੪॥੩॥੪੬॥\n(ਅੰਗ ੭੪੬)\nਪਦ ਅਰਥ :\nਤਉ ਸਰਨੀ = ਤੇਰੀ ਸਰਨ। ਭਰੋਸੈ = ਭਰੋਸੇ ਨਾਲ, ਇਤਬਾਰ ਨਾਲ। ਸੁਆਮੀ = ਹੈ ਸੁਆਮੀ!\nਮਾਰਗੁ = ਰਸਤਾ। ਗੁਰਹਿ = ਗੁਰੂ ਨੇ। ਪਠਾਇਆ' = ਭੇਜਿਆ ਹੈ। ਦੁਤਰੁ = ਜਿਸ ਨੂੰ ਤਰਨਾ ਔਖਾ ਹੈ।\nਬੁਲਾਇਆ = ਹੁਲਾਰੇ ਦੇਂਦੀ ਹੈ। ਸੁਨਿ = ਸੁਏ ਕੇ। ਕਰਰੋ = ਕਰੜਾ, ਸਖ਼ਤ। ਗ੍ਰਿਹ = ਘਰ, ਸੰਸਾਰ।\nਭੂਪ = ਖੂਹ। ਪਾਵਕੁ = (ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ। ਸਗਰਾਇਆ = ਸਾਰਾ। ਗਹੀ = ਫੜੀ। ਸਾਧਾਇਆ = ਗੁਰੂ\n(ਦੀ) । ਪੂਰਾ = ਪੂਰਨ ਪ੍ਰਭੂ।\n\n114 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

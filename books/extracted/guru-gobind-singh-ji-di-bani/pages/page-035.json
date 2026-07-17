@@ -1,0 +1,8 @@
+{
+  "page": 35,
+  "section": "notation",
+  "text": "                          ਰਾਗ ਸੋਰਠਿ\n                     ਤਾਲ ਝੱਪਤਾਲ ੧੦ ਮਾਤਰਾ\n\nਸਥਾਈ\n\n  ੧     ੨      ੩    ੪      ੫           ੬       ੭       ੮      ੯     ੧੦\n  ਣ            ੨                       ੦               ੩\n ਧਿੰ    ਨਾ    ਧਿੰ   ਧਿੰ   ਨਾ          ਤਿੰ      ਨਾ     ਧਿੰ    ਧਿੰ    ਨਾ\n  ਧ     ਧ     ਪ     ਮ     ਰੇ          .ਨੀ     .ਨੀ     ਸ      ਸ      ਸ\n  ਨ     ਰ      ਹ     ਸ਼    ਰਿ          ਜਾ       ਸ਼       ਨ      ਸ਼     ਸ਼\n  ਰੇ    ਰੇ    ਮ     ਪ     ਨੀ           ਸਂ      ਸਂ     ਨੁੀ     ਪ     ਪ\n ਕਾ     ਹਿ     ਨ     ਸ਼     ਸ਼           ਲੇ      ਸ਼       ਤ      ਸ਼     ਸ਼\n\nਅੰਤਰਾ\n\n ਮ      ਮ     ਪਪ    ਨੀ     ਨੀ         ਸਂਸਂ     ਸਂ     ਨੀਨੀ    ਸਂ    ਸਂ\n ਤੈ     ਸ਼     ਭਰੋ   ਸ      ਸ਼          ਪਰ       ਯੋ     ਪਸੂ    ਜਿ      ਹ\n ਰੇਂ    ਰੇਂ   ਮਂ    ਰੇਂ   ਨੀਸਂ        ਰੇਂਮਂ   ਰੇਂਸਂ   ਨੀਸਂ   ਨੁੀਧ   ਪਪ\n ਮੋ     ਸ਼     ਹਿ    ਸ਼     ਬਸ਼          ਧਿਸ਼     ਸ਼ਸ਼      ਅਸ਼     ਚੇਸ਼    ਤਸ਼\n\n\n\n\n                                 ੨੮\n\f",
+  "status": "draft",
+  "extraction_method": "gurmukhi-utils",
+  "notes": "section heuristic: inner bordered table + numeric matra header row."
+}

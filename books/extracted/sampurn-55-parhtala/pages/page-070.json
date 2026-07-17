@@ -1,0 +1,8 @@
+{
+  "page": 70,
+  "section": "essay",
+  "text": "ਕਾਨੜਾ ਮਹਲਾ ੪ ॥\nਭਜੁ ਰਾਮੋ ਮਨਿ ਰਾਮ ॥\nਜਿਸੁ ਰੂਪ ਨ ਰੋਖ ਵਡਾਮ ॥\nਸਤਸੰਗਤਿ ਮਿਲੁ ਭਜੁ ਰਾਮ ॥\nਬਡ ਹੋ ਹੋ ਭਾਗ ਮਥਾਮ ॥੧॥ ਰਹਾਉ ॥\nਜਿਤੁ ਗ੍ਰਿਹਿ ਮੰਦਰਿ ਹਰਿ ਰੋਤੁ ਜਾਸੁ ਤਿਤੁ ਘਰਿ ਆਨਦੋ ਆਨੰਦੁ ਭਜੁ ਰਾਮ ਰਾਮ ਰਾਮ ॥\nਰਾਮ ਨਾਮ ਗੁਨ ਗਾਵਹੁ ਹਰਿ ਪ੍ਰੀਤਮ ਉਪਦੇਸਿ ਗੁਰੂ ਗੁਰ ਸਤਿਗੁਰਾ\nਸੁਖੁ ਹੋਤੁ ਹਰਿ ਹਰੇ ਹਰਿ ਹਰੇ ਹਰੇ ਭਜੁ ਰਾਮ ਰਾਮ ਰਾਮ ॥੧॥\nਸਭ ਸਿਸਟਿ ਧਾਰ ਹਰਿ ਤੁਮ ਕਿਰਪਾਲ ਕਰਤਾ ਸਭੁ ਤੂ ਤੂ ਤੂ ਰਾਮ ਰਾਮ ਰਾਮ ॥\nਜਨ ਨਾਨਕੋ ਸਰਛਾਗਤੀ ਦੇਹੁ ਗੁਰਮਤੀ ਭਜੁ ਰਾਮ ਰਾਮ ਰਾਮ ॥੨॥੩॥੯॥\n(ਅੰਗ ੧੨੯੭)\n\nਪਦ ਅਰਥ :\n\nਭਜੁ = ਭਜਨ ਕਰਿਆ ਕਰ । ਮਨਿ = ਮਨ ਵਿਚ। ਰੂਪ = ਸ਼ਕਲ । ਰੋਖ = ਚਿਹਨ-ਚੱਕਰ । ਵਡਾਮ = (ਸਭ\nਤੋਂ) ਵੱਡਾ। ਮਿਲੁ = ਮਿਲਿਆ ਰਹੁ। ਹੋ = ਹੇ ਭਾਈ! ਮਥਾਮ = ਮੱਥੇ ਦੇ । ਜਿਤੁ = ਜਿਸ ਵਿਚ। ਜਿਤੁ ਗ੍ਰਿਹਿ\n= ਜਿਸ ਘਰ ਵਿਚ। ਜਿਤੁ ਮੰਦਰਿ = ਜਿਸ ਮੰਦਰ ਵਿਚ। ਹਰਿ ਜਾਸੁ = ਹਰੀ ਦਾ ਜਸ। ਤਿਤੁ = ਉਸ ਵਿਚ!\nਤਿਤੁ ਘਰਿ । ਉਸ ਘਰ ਵਿਚ। ਆਨਦੋ ਆਨੰਦੁ = ਆਨੰਦ ਹੀ ਆਨੰਦ। ਰਰਿ ਪ੍ਰੀਤਮ ਗੁਨ = ਰਰੀ ਪ੍ਰੀਤਮ ਦੇ\nਗੁਏ। ਉਪਦੇਸਿ ਗੁਰੂ = ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦੀ ਰਾਹੀਂ । ਸਭ ਸਿਸਟਿ ਧਾਰ = ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਆਸਰਾ।\nਨਾਨਕੋ = ਨਾਨਕੁ |\n\n62:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

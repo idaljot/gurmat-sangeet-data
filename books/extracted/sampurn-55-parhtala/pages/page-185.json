@@ -1,0 +1,8 @@
+{
+  "page": 185,
+  "section": "essay",
+  "text": "ਹ ਰੱ ਹ\n\nਸਾਰਗ ਮ:੫ ॥\nਕਰਤ ਕੇਲ ਬਿਖੈ ਮੇਲ ਚੰਦ੍ਰ ਸੂਰ ਮੋਹੇ ॥\nਅਨਿਗ ਭਾਉ ਕਰਤ ਫਿਰਤ ਬਿਨੁ ਗੋਪਾਲ ਧੋਹੇ ॥ ਰਹਾਉ ॥\nਤੀਨਿ ਭਉਨੇ ਲਪਟਾਇ ਰਹੀ ਕਾਚ ਕਰਮਿ ਨ ਜਾਤ ਸਹੀ\nਉਨਮਤ ਅੰਧ ਧੰਧ ਰਚਿਤ ਜੈਸੇ ਮਹਾ ਸਾਗਰ ਹੋਹੇ ॥੧॥\n\nਉਧਰੇ ਹਰਿ ਸੰਤ ਦਾਸ ਕਾਟਿ ਦੀਨੀ ਜਮ ਕੀ ਫਾਸ\nਪਤਿਤ ਪਾਵਨ ਨਾਮੁ ਜਾ ਕੋ ਸਿਮਰਿ ਨਾਨਕ ਉਹੋ ॥੨॥੧੦॥੧੩੯॥੩॥੧੩॥੧੫੫॥\n\n(ਅੰਗ ੧੨੩੧)\n\nਪਦ ਅਰਥ :\n\nਕੇਲ = ਚੋਜ ,ਤਮਾਸ਼ੇ। ਬਿਖੈ = ਵਿਸ਼ੇ-ਵਿਕਾਰ। ਸੂਰ = ਸੂਰਜ (ਦੇਵਤਾ)। ਦੁੰਦਰ = ਝਗੜਾਲੂ, ਖਰੂਦੀ।\nਨਉਪਰੀ= ਝ਼ਾਂਜਰਾਂ। ਬੁਨੰਤਕਾਰ = ਛਈਕਾਰ। ਅਨਿਗ = ਅਨੇਕਾਂ। ਭਾਉ = ਹਾਵ-ਭਾਵ। ਧੋਹੇ = ਠਗ ਲੈਂਦੀ\nਹੈ । ਭਉਨੇ = ਭਵਨਾਂ ਵਿਰ। ਲਪਟਾਇ ਰਹੀ = ਚੰਬੜੀ ਰਹਿੰਦੀ ਹੈ। ਕਾਚ ਕਰਮਿ = ਕੱਚੇ ਕਰਮ ਨਾਲ। ਨ\nਜਾਤ ਸਹੀ = ਸਹਾਰੀ ਨਹੀਂ ਜਾਂਦੀ। ਉਨਮਤ = ਮਸਤ। ਅੰਧ = ਅੰਨ੍ਹੇ ਧੰਧ ਰਚਿਤ = ਧੰਧਿਆਂ ਵਿਚ ਰੁੱਝੇ\nਹੋਇ। ਰੋਰੇ = ਧੱਕੇ। ਉਧਰੇ = ਬਚ ਗਏ। ਫਾਸ = ਫਾਰੀ। ਪਤਿਤ ਪਾਵਨ = ਵਿਕਾਰੀਆਂ ਨੂੰ ਪਵਿੱਤਰ ਕਰਨ\nਵਾਲਾ। ਜਾ ਕੋ = ਜਿਸ (ਪ੍ਰਭੂ) ਦਾ। ਉਗੇ = ਉਸੇ ਪ੍ਰਭੂ ਨੂੰ।\n\n177 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

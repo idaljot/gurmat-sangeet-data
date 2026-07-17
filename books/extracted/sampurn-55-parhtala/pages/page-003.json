@@ -1,0 +1,8 @@
+{
+  "page": 3,
+  "section": "essay",
+  "text": "$80907072 25 7678(006 : $06060 $07` ਮੈਧਟਸਜਟ00\n00 $. ਹ85]281 51111\n\n€0007006 ਏ 2024 1੧ 5. ਹ051/ਮ. 51੧੦\n0115 7010011: 2024.\n\n1581੧: 978-93-6310-777-9\n\n1੧੧੬: 20/-\n\n170 5810੮ 70101511€15\n\n#13 ]੧੬ਜਾ 11101105 10121੨੯੬\n\n13081, 70੧ 100 7੧00੮: 147001\n60906: 791 83602 08021, 99159 79774, 94783 82190\n\n01 7105 1੯5੬1੮€0. 3੧0 [981੧ 01 005 ॥੧੮੩003) ੩ 72 7€1॥000੮€0, 0150100(0, 07 03115100 1)\n੩11੧ 01911 01 19 ੩339 ॥108115, 912100012 [110(020]7002, 7੯੮010012, 07 00127 16001 01: 9੯611810631\n॥1201005, ੧੧0100( 032 18107 ੧7109) ]1100551011 07 0ਟ ]011511੮7, ੩੮੦] 11 02 ੮੩5੯ 08 1੧੧\nਧ0੦੧੧0015 €101200120 ਮਿ 11081 7੯੮੧੬੧5 8330 ੮1601 00127 101201010€16181 05੯5 [੮1110 1\n੮0]9971੬1॥( 1੧੧.\n\n€7267 25698 ਏ 10567 1977656/006\n\n170 5810੮ 70101511€15\n\n7717000 77 10006\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

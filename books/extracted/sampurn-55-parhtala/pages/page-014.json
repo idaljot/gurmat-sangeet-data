@@ -1,0 +1,8 @@
+{
+  "page": 14,
+  "section": "notation",
+  "text": "ਰਾਗ ਨਟ ਨਾਰਾਇਨ ਪੜਤਾਲ ਸਥਾਈ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(ਅੰਗ ੯੭੭)\n1 23੦57 ਛ&ਉ9 10 11 1213 14 15 16\n= 2 0 3\nਮੇ ਧ\nਮੇ ਰੇ\nਪ ਪਗ ਮਮ|ਰੇ ਰੇ ਸਸਸ ਸ\n੪ ਨ 8[ਸੇ ਸਫ ਹ ਰਿ ਘਾਂ $ 5\n੩ $\nਸਸ ਰੇ ਰੇ ਰੇਉਮੇ ਮੇ ਮੇ ਧ ਪਪ ਪ\nਲੇ 2 ਗੁ ਭ ਗ ੩ |[ਰੇਂ $ । ਵਾ ਰੋ!\nਪ 'ਪ ਧ`ਧ ਨੀ ਨੀ|ਪਧ ਨੀਸੱ ਸੰ ਸੰਨੀ ਨੀ ਸੱ ਸੰ\nਭਿ ਦਾਲਿ ਦ|ਭੰ ੧ ਜਿ ੧|ਦੁ ੩ ਖ 5 ਦਾ ੧ ਲ $\nਮੇਪ ਧਨੀ ਸੱਸ |ਗੰਮੰ ਗੱਮ ਰੇਸ ਸੱ | ਸੱਧ ਮੇਧ _ਪਪ _ਪਪ | ਗਮ ਰੇਸ\nਹ ਰਿ ਹੋ 5 ਹੋ ਹੋ ਨਦ ਰਿਨਿ ੩ ਹਾ ੪|।ਲ 5\n\n6:: ਸੰਪੂਰਏ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 49,
+  "section": "notation",
+  "text": "(੧੪ ਮਾਤਰਾ)\n\nਅੰਤਰਾ ਆੜਾ ਚਾਰਤਾਲ\n\n(੩)\n\n14\n\n13\n\nਮਲ\n\nਓਇ\n\nਧਠ: ਇ\n\n11 12\n\n10\n\nਗਲ 099\n\nਗਲ\n\nਗਲ\n\n੬\n\nਇ\n\nਅੰਤਰਾ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(8)\n\n14 15 16\n\n13\n\n0\n\nਨੀਸ\n$\n\nਠੀਪ ਮਪ ਮਰੇ\n$\n\nਨੀਸ\n\nਠੀਪ ਮਪ ਮਰੇ\n\nਤਾ\n\n11 12\n\n10\n\nਰੇਂਸ _ਨੀਸ'\n\nਸ\n\nਰੇਂਸ _ਨੀਸ'\n\nਨ\n\nਮਪ\nਭਰ\n\n` ਨੂ\n\nਨੀਸ | ਮਪ _ਨੀਸ'\n\nਨੀ\nਜਿ\n\nਮਪ _ਨੀਸੰ_ ਰੇਂਸ__ਨੀਸ' | ਨੀਪ ਮਪ _ਮਰੇ\n\nਤ੍ਰਿ\n\nਰਚਨਾਵਲੀ\n\n41:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

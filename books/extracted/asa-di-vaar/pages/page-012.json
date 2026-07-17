@@ -1,0 +1,8 @@
+{
+  "page": 12,
+  "section": "essay",
+  "text": "ਪਉੜੀ ॥\n\nਆਪੀਨੈ ਆਪੁ ਸਾਜਿਓ ਆਪੀਨੈੈ ਰਚਿਓ ਨਾਉ ॥\nਦੁਯੀ ਕੁਦਰਤਿ ਸਾਜੀਐ ਕਰਿ ਆਸਣੁ ਡਿਠੋ ਚਾਉ ॥\nਦਾਤਾ ਕਰਤਾ ਆਪਿ ਤੂੰ ਤੁਸਿ ਦੇਵਹਿ ਕਰਹਿ ਪਸਾਉ ॥\n\nਤੂੰ ਜਾਣੋਈ ਸਭਸੈ ਦੇ ਲੈਸਹਿ ਜਿੰਦੁ ਕਵਾਉ ॥\n\nਕਰਿ ਆਸਣੁ ਡਿਠੋ ਚਾਉ ॥੧॥\n(ਅੰਗ ੪੬੩)\nਪਦ ਅਰਥ:\n\nਆਪੀਨੈ = ਆਪ ਹੀ ਨੇ, (ਅਕਾਲ ਪੁਰਖ) ਨੇ ਆਪ ਹੀ। ਆਪੁ = ਆਪਏ ਆਪ ਨੂੰ। ਨਾਉ = ਨਾਮਈ, ਵਡਿਆਈ। ਦੁਯੀ = ਦੂਜੀ।\nਸਾਜੀਐ = ਬਈਈ ਹੈ। ਕਰਿ = ਕਰ ਕੇ, ਬਈ ਕੇ। ਚਾਉ = ਤਮਾਸ਼ਾ। ਤੁਸਿ = ਤੱਠ ਕੇ, ਪ੍ਰਸੰਨ ਹੋ ਕੇ। ਦੇਵਹਿ = ਤੂੰ ਦੇਂਦਾ ਹੈਂ\nਕਰਹਿ = ਤੂੰ ਕਰਦਾ ਹੈਂ। ਪਸਾਉ = ਪ੍ਰਸਾਦ, ਕਿਰਪਾ, ਬਖ਼ਸ਼ਸ। ਜਾਈ = ਜਾਏਨਹਾਰਾ, ਜਾਏ। ਸਭਸੈ = ਸਭਨਾਂ ਦਾ। ਦੇ = ਦੇ\nਕੇ। ਲੈਸਹਿ = ਲੈ ਲਵੇਂਗਾ। ਜਿੰਦੁ ਕਵਾਉ = ਜਿੰਦ ਅਤੇ ਜਿੰਦ ਦਾ ਕਵਾਉ (ਲਿਬਾਸ, ਪੋਸ਼ਾਕ), ਭਾਵ, ਸਰੀਰ।\n\n11:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

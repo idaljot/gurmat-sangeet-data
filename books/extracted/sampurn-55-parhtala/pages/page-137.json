@@ -1,0 +1,8 @@
+{
+  "page": 137,
+  "section": "notation",
+  "text": "ਅੰਤਰਾ ਝੱਪਤਾਲ (੧੦ ਮਾਤਰਾ)\n\n(੨)\n\nਸੀ । [2 9 [2 9 ! 09 ! &\n੩ ਪੈ. % 8 %\n੪ 2 [2 0 [2 0 ਦਿ 0 ਦਿ ਤਊ\n੦; ੭ ੭\n2੧ & ਗੋਲ) 69 [2 9 ਗਲ) 91 ਹਲ) 69\n੦6 ਤਿ, 'ਇ ਤਿ, ਨ ਤਤ ਗਏ ਇ [ਟ ਲਿ ਅਏ। ੪9 __ ਮੋਟ। ਧਨ\n= 1੩ ੭ [ਟ % 06) %  ਤ ਦ %\n੮] ਜਿਡ 'ਜਿਡ ।\n੦; ੭ [ਟ €% 06) % ਦਿ ਅ ਦਿ\n2\n੮ ੮ ਹੇ\n੭ 2 & & & £ ੨ ਪੰ ੰ ਚੰਨ 12 ੨) ਦ੧ਲ ਦਿ ਲੇ\n੫ ਤ ।੪ 1 £= 9 ਧ੦ % 'ਦ ੭ ਹ ਤਤ ਫਿ ਤ\n[7 ੮੦ ਇ ਧੋਣ % 'ਦ % ਹਲ ਦਿ ਊ\nਚ ਸਾ\n`>\" ੫੧ 2 ਧਨ % 'ਦ ੭ 0: % 1 9)\nਡਾ ਪਠ ਪੰ ਡਿ, ੧ ਚ ਨ _ਧੌਟ ਫ \"੮ ਇ 0੪ 0੦੧੪\n੦੧ 2 0) 9 'ਦਿ% ਧੋ # ਦ %\n੮੫ ਏ।> ਊਂ ਡਿ\n੮੫ ੭ ਸ:- ੭ 'ਦਿ$ ਪੈਨ % ਲੇ\n” ੪ ਕੋ ਦੇ ੧ੱਠ ਸਰਿ ਚਿ&9 ਧੰਠਲੇ ' ਨੂ\n\n129 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

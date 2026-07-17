@@ -1,0 +1,8 @@
+{
+  "page": 18,
+  "section": "essay",
+  "text": "ਨਟ ਮਹਲਾ ਝੁ ॥\nਮਨ ਮਿਲੁ ਸੰਤਸੰਗਤਿ ਸੁਭਵੰਤੀ ॥\nਸੁਨਿ ਅਕਥ ਕਥਾ ਸੁਖਵੰਤੀ ॥\nਸਭ ਕਿਲਬਿਖ ਪਾਪ ਲਹੰਤੀ ॥\nਹਰਿ ਹੋ ਹੋ ਹੋ ਲਿਖਤੁ ਲਿਖੰਤੀ ॥੧॥ ਰਹਾਉ ॥\nਹਰਿ ਕੀਰਤਿ ਕਲਜੁਗ ਵਿਚਿ ਊਤਮ ਮਤਿ ਗੁਰਮਤਿ ਕਥਾ ਭਜੰਤੀ ॥\nਜਿਨਿ ਜਨਿ ਸੁਈ ਮਨੀ ਹੈ ਜਿਨਿ ਜਨਿ ਤਿਸੁ ਜਨ ਕੈ ਹਉ ਕੁਰਬਾਨੰਤੀ ॥੧॥\nਹਰਿ ਅਕਥ ਕਥਾ ਕਾ ਜਿਨਿ ਰਸੁ ਚਾਖਿਆ ਤਿਸੁ ਜਨ ਸਭ ਭੂਖ ਲਹੰਤੀ ॥\nਨਾਨਕ ਜਨ ਹਰਿ ਕਥਾ ਸੁਇ ਤ੍ਰਿਪਤੇ ਜਪਿ ਹਰਿ ਰਰਿ ਹਰਿ ਹੋਵੰਤੀ ॥੨॥੨॥੮॥\n(ਅੰਗ ੯੭੭)\n\nਪਦ ਅਰਥ :\nਮਨ = ਹੇ ਮਨ! ਸੁਭਵੰਤੀ = (ਸੰਗਤ) ਭਲੇ ਗੁਏ ਦੇਏ ਵਾਲੀ ਹੈ। ਅਕਥ = ਉਹ ਪ੍ਰਭੂ ਜਿਸ ਦੇ ਗੁਣ ਬਿਆਨ\nਨਾਹ ਕੀਤੇ ਜਾ ਸਕਏ। ਅਕਥ ਕਥਾ = ਅਕੱਥ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਸੁਖਵੰਤੀ = ਸੁਖਦਾਈ। ਕਿਲਬਿਖ\n= ਪਾਪ। ਲਹੰਤੀ = ਦੂਰ ਕਰ ਸਕਦ ਵਾਲੀ। ਹੋ = ਹੇ ਮਨ! ਲਿਖਤੁ = ਲੇਖ। ਲਿਖੰਤੀ = ਲਿਖਣ ਵਾਲੀ।\nਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਕਲਜੁਗ ਵਿਚਿ = ਕਲਹ-ਭਰਪੂਰ ਸਮੇ ਵਿਚ, ਜਗਤ ਵਿਚ। ਕਥਾ = ਸਿਫ਼ਤ-\nਸਾਲਾਹ। ਭਜੰਤੀ = ਉਚਾਰਨੀ (ਉਤਮ ਕਰਮ ਹੈ)। ਜਿਨਿ = ਜਿਸ ਨੇ। ਜਿਨਿ ਜਨਿ = ਜਿਸ ਜਨ ਨੇ। ਮਨੀ\nਹੈ = ਮੰਨੀ ਹੈ, ਮਨ ਵਿਚ ਵਸਾਈ ਹੈ। ਹਉ = ਮੈ'। ਰਸੁ = ਸੁਆਦ। ਲਹੰਤੀ = ਦੂਰ ਕਰ ਦੇਂਦੀ ਹੈ। ਤ੍ਰਿਪਤੇ =\nਰੱਜ ਗਏ। ਜਪਿ = ਜਪ ਕੇ। ਹੋਵੰਤ = ਹੋ ਜਾਂਦੇ ਹਨ।\n\n10:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 10,
+  "section": "notation",
+  "text": "5. ਰਾਗ ਗੁਜਰੀ\n\nਸੰਵਾਦੀ\n\nਵਰਜਿਤ ਸੁਰ\n\nਖ਼\nਦੁ\n\nਮੁੱਖ ਅੰਗ\n\n6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ\n\nਤੋੜੀ\n\nਕੋਮਲ ਧੈਵਤ\n\nਕੋਮਲ ਰਿਸ਼ਭ\n\nਪੰਚਮ\n\nਸਰੇਗੁਮੇਧੁਨੀਸ'\nਸਾਂਨੀਧੁ ਮੇ ਗੁਰੇ,ਗੁਰੇਸ\n\nਮੇਧੁਨੀਸ',ਨੀਧੁਮੇਗੁਰੇ,ਗੁਰੇਸ\n\nਮਧਿਅਮ\n\nਸ਼ੜਜ\n\nਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਮਪਧਸੰ\n\nਸੰਨੀਧਪ, ਮਪ,ਧੁਨੀਧੁਪ,ਮਗਰੇੋਸ\n\nਧੁਨੀ ਧੁਪ, ਮਗ, ਸਰੋਮ,ਗਸਰੇਗਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

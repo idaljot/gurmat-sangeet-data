@@ -1,0 +1,8 @@
+{
+  "page": 20,
+  "section": "notation",
+  "text": "17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ\n\nਮੁਖ ਅੰਗ\n\n18. ਰਾਗ ਰਾਮਕਲੀ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਗੰਧਾਰ\nਧੈਵਤ\n\nਸ਼ੁਧ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਗਮਪ, ਧਨੀਸੰ\nਸੰਨੀਧਨੀਪ,ਮਗਰੇੋਮਗ,ਪਰੋਸ\n\nਸਰੇਗਮਪ,ਗਰੇਮਗ,ਪਰੇਸ\n\nਭੈਰਵ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ\n\nਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਸਗ.ਮਪ,ਧੁਨੀਸੰ\nਸੰਨੀਧੁਪ,ਮੇਪਧੁਨੀਧੁਪ,ਗਮਰੇਸ\n\nਧੁ ਪ, ਮੇਪ, ਧੁਠੀਧੁਪ,ਗਮਰੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

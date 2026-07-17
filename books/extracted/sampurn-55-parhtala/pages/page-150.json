@@ -1,0 +1,8 @@
+{
+  "page": 150,
+  "section": "essay",
+  "text": "ਪਦ ਅਰਥ :\n\nਹ ਰੱ ਹ\n\nਸਾਰਗ ਮਹਲਾ ੫ ਘਰੁ ੬\nਪੜਤਾਲ ॥\nਸੁਭ ਬਚਨ ਬੋਲਿ ਗੁਨ ਅਮੋਲ ॥\nਕਿੰਕਰੀ ਬਿਕਾਰ ॥ ਦੇਖੁ ਰੀ ਬੀਚਾਰ ॥\nਗੁਰ ਸਬਦੁ ਧਿਆਇ ਮਹਲੁ ਪਾਇ ॥\nਹਰਿ ਸੰਗਿ ਰੰਗ ਕਰਤੀ ਮਹਾ ਕੇਲ ॥੧॥ ਰਹਾਉ ॥\nਸੁਪਨ ਰੀ ਸੰਸਾਰੁ ॥ ਮਿਥਨੀ ਬਿਸਥਾਰੁ ॥\nਸਖੀ ਕਾਇ ਮੋਹਿ ਮੇਹਿਲੀ ਪ੍ਰਿਅ ਪ੍ਰੀਤਿ ਰਿਦੈ ਮੇਲ ॥੧॥\nਸਰਬ ਰੀ ਪ੍ਰੀਤਿ ਪਿਆਰੁ ॥ ਪ੍ਰਭੁ ਸਦਾ ਰੀ ਦਇਆਰੁ ॥\nਕਾਂਏਂ ਆਨ ਆਨ ਰੁਚੀਐ ॥ ਹਰਿ ਸੰਗਿ ਸੰਗਿ ਖਚੀਐ ॥\nਜਉ ਸਾਧਸੰਗ ਪਾਏ ॥ ਕਹੁ ਨਾਨਕ ਹਰਿ ਧਿਆਏ ॥\nਅਬ ਰਹੇ ਜਮਹਿ ਮੇਲ ॥੨॥੧॥੧੩੦॥\n\n(ਅੰਗ ੧੨੨੯)\n\nਬੋਲਿ = ਉਚਾਰਿਆ ਕਰ। ਕਿੰਕਰੀ = ਦਾਸੀ। ਕਿੰਕਰ = ਦਾਸ। ਕਿੰਕਰੀ ਬਿਕਾਰ = ਹੇ ਵਿਕਾਰਾਂ ਦੀ ਦਾਸੀ!\nਰੀ = ਹੇ ਜੀਵ-ਇਸਤ੍ਰੀ! ਮਹਲੁ = ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਥਾਂ। ਸੰਗਿ = ਨਾਲ। ਰੰਗ ਕਰਤੀ = ਆਨੰਦ ਮਾਏਦੀ ।\nਕੋਲ = ਆਨੰਦ। ਮਿਥਨੀ = ਨਾਸਵੰਤ। ਸਖੀ = ਹੈ ਸਖੀ! ਕਾਇ = ਕਿਉਂ। ਮੋਹਿ = ਮੋਹ ਵਿਚ।\nਮੋਹਿਲੀ = ਮੋਹ ਵਿਚ ਫਸੀ ਹੈ। ਪ੍ਰਿਅ ਪ੍ਰੀਤਿ = ਪਿਆਰੇ ਦੀ ਪ੍ਰੀਤ। ਰਿਦੈ = ਹਿਰਦੇ ਵਿਚ ਦਇਆਰੁ =\nਦਇਆਲ। ਕਾਂਏਂ = ਕਿਉਂ। ਆਨ ਆਨ = ਹੋਰ ਹੋਰ (ਪਦਾਰਥਾਂ ਵਿਚ)। ਰੁਚੀਐ = ਪ੍ਰੀਤ ਬਣਾਈ ਹੋਈ ਹੈ।\n\nਸੰਗਿ = ਨਾਲ। ਖਚੀਐ = ਮਸਤ ਰਹਿਈ ਚਾਹੀਦਾ ਹੈ। ਜਉ = ਜਦੋਂ। ਰਹੋ = ਮੁੱਕ ਜਾਂਦਾ ਹੈ। ਜਮਹਿ\n\nਮੇਲ = ਜਮਾਂ ਨਾਲ ਵਾਹ।\n\n142 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

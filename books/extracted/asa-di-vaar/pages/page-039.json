@@ -1,0 +1,8 @@
+{
+  "page": 39,
+  "section": "notation",
+  "text": "ਪਉੜੀ ( ੪ ਮਾਤਰਾ )\n\n੬੫)\n\n(ਅੰਗ ੪\n\nਨ ਹਰ ਇੱ ੭ ਇ ਏ ਇੰ ਲੈ ਉਇ ਆਇ ਲੈ ਇੱ ਘਟਿ ਲੈ ਤੋ ਛੇ ਇੰ ੭\nਨ = ਊ $ ਨਟ ਨੰ ਹਲ ਨ % ਏ $ ਨ ਫ ਤੇ ੪ ਨ\n] <ਊ% ਜਿ ਊਿਇਇ॥ਦਘਉ॥ਤਸਨਸਟ\n2 ਨ ੩ ਨ ਅਨ ਲਅਲ ਤੇ ਨਲ ਤੋਂ ਆ ਆ\nਟਿਪ ਇਟ ਉਦੇ ਉੱ£ ਸਤ ਇਤ ਇੱ ਟੇ ੭ ਇਸ\n£ਛ ੨ ₹ਏ ਉਏ ਉਇ ॥£ ਉਆ ਦਏ ਇਡੇ ਛ\n£#੮॥੧ €$॥ ੬2 $% ਏਏ ੩ ੩॥%\n੩॥੧ ੧੩੭੬ ੧ ਏ ਨੂੰਹ ਵੋ ਭਿਤ ੰ ੇੂ ਤਏ\n\n38:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

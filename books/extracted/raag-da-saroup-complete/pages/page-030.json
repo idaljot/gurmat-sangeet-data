@@ -1,0 +1,8 @@
+{
+  "page": 30,
+  "section": "notation",
+  "text": "30.1 ਰਾਗ ਪ੍ਰਭਾਤੀ ਦੱਖਣੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ- ਵਕਰ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਗੰਧਾਰ\n\nਸੰਵਾਦੀ ਧੈਵਤ\n\nਸੁਰ : ਗੰਧਾਰ, ਧੈਵਤ, ਨਿਸ਼ਾਦ, ਕੋਮਲ\nਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ\n\nਆਰੋਹ : ਸ, ਮ ਰੇ, ਗੁ ਮ ਪ, ਨੀ ਧੁ ਪ, ਸੱ\nਅਵਰੋਹ : ਸੰਨੀ ਧੁ, ਪਮਗੁ.ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਮ ਰੇ, ਗੁ ਮਪ, ਠੀ ਧੁਪ\n30.2 ਰਾਗ ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ\n\nਥਾਟ ਭੈਰਵ\n\nਜਾਤੀ ਸ਼ਾੜਵ-ਔੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _: ਆਰੋਹ ਵਿਚ ਮਧਿਅਮ\n\nਸਮਾਂ : ਸਵੇਰ ਦਾ\n\nਆਰੋਹ ੩ ਸਰੇੋਗਪਧ,ਨੀਧਨੀ-ਪ,ਧਸੰ\nਅਵਰੋਹ : ਸੰਧੁਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਨੀ ਧ ਨੀ-ਪ, ਗ ਪ ਧੁ ਪਗੁ ਰੋ ਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 34,
+  "section": "notation",
+  "text": "(੧੪ ਮਾਤਰਾ)\n\nਅਤਰਾ ਆੜਾ ਚਾਰਤਾਲ\n\n(੨)\n\nਇਤ [26੬ ਤਿਉ ੨/ 'ਟਲਿ ਵਲਿ\n0 'ਇਗ) `1ਟ/0 ਤਚਿ ਇਿ/ਇ ਵ੪ਇਿ\n੩ ਰਿ ਵਿ ਤਾ। (ਇਨ (ਉਇ\n= ਪਠਡ ਧਠਛਿ ੮੬ ਕੁ'ੜ ਠੇ'ੜ\n੨੩ ਹਠ % 1੮ % ਟ ਪ੍ਰੰ! 'ਇ/ਡ ਇੰ\n੨, ਧੌਠਝ 1 ਦਲ (ਰਿ ,ਠਿਠਿਂ\n9 > ਪੰ! _ਧੰਟ ਪੰ _ > 1੨) ॥ਪ੍ਰੰ2 ।%\n£ ਤਫ ਮਦ ਪਰਲ ਧੌਠ& ।ਟਲਿ\n੨੦ ੪ ੮00 ਦਿ ਗਿ ਮਦ ਪ੍ਰ |ਟ੭॥\n੫੧ 'ਟ/ਠਿ '2ਚਿ ਪਏ ੨॥੭ ,੍ਰਿਲ\nਚ >। ਮਲਗ਼ ਇਸ) ੭ ਨ\n੨: ਤੇ ।£ _9੦॥£ ਪ੍‌ੰਠਮਾਂ ਪੈਨ ਇੰ ਉਡ\n੩੫ ਨ ॥%' ਗਲਪ੍ਰੀਂ `'ਟ> ੮0\" ,ਇਰਿ\nਦਾ ਤਾਰ! ਮਨ ਇ ਧੌਠਰਿ 'ਟਿਧੰ) । %\n\nਅੰਤਰਾ ਚਾਰਤਾਲ (੧੨ ਮਾਤਰਾ)\n\n(੩)\n\n੫ ਤ ਇਮ '॥੨) 'ਟਿਤਿ॥ 9\n੮ ਤਇ 'ਦਿਇਿੰ ਚ ੮ ਡਿ%\n੩ | =ਪਏ ਟੂਰ #ਦਵਏ ਪਟ ਇ\n੨. ਟ। ਧੰਨ ਦਲ 020\n੨6 ਧਟ% ' ਤਿਮ ਮਲਪ੍ਰ `੨%\n੮ ਧੌਠ ਨ) `ਿ ਇਿ ਮਨਿ 'ਇਿ\n੨ ਨ ਧੰਠ।ਏ ਦਿਰ >%\n੫ >ਗ ਧੌਠ।ਇ ਇੰ ਤਮ\nਚ ਝਛ 'ਤਅ% ਪਟ ਧਠਰੰਏ\nਵਾ: ਲਿ _?#ਿ ਪਟ `!ਇ੭\n੮੫ ਅਲ ਪ੍ਰ _ਦ ਗ੍ਰੰ ੫੬ ਮਨ %\nਦਾ ਅਲ ਡਿ ਤ਼ ਮਨਿ\n\nਰਚਨਾਵਲੀ\n\n26:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

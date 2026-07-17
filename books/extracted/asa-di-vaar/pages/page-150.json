@@ -1,0 +1,8 @@
+{
+  "page": 150,
+  "section": "notation",
+  "text": "ਨਾ ਨ ਕ ਅ ਗੈ 5\nਮ ਮ ਮਪ ਪ ਪ ਪ\nਸੋ 5 5 ਮਿ ਲੈ 5\nਮ ਮ ਮ ਗ ਗ ਗ\nਜਿ ਖ ਟੇ ਘਾ 5 ਲੇ\nਰੇ ਰੇ ਰੇ ਸ ਸ ਸ\nਦੇ 5 5 ਇ 5 5\nਮਭ੧॥\nਜਿਉ ਜੋਰੂ ਸਿਰਨਾਵਣੀ ਆਵੈ ਵਾਰੋ ਵਾਰ ॥\n\nਜੂਠੇ ਜੂਠਾ ਮੁਖਿ ਵਸੈ ਨਿਤ ਨਿਤ ਹੋਇ ਖੁਆਰੁ ॥\n\nਸੂਚੇ ਏਹਿ ਨ ਆਖੀਅਹਿ ਬਹਨਿ ਜਿ ਪਿੰਡਾ ਧੋਇ ॥\n\nਸੂਚੇ ਸੇਈ ਨਾਨਕਾ ਜਿਨ ਮਨਿ ਵਸਿਆ ਸੋਇ ॥੨॥\n\n(ਅੰਗ ੪੭੨)\n\nਪਦ ਅਰਥ:\nਝੂਠਾ। ਏਹਿ = ਅਜੇਹੇ ਮਨੁੱਖ। ਸੂਚੇ = ਸੁੱਚੇ, ਪਵਿੱਤਰ। ਆਖੀਅਹਿ ਆਖੇ ਜਾਂਦੇ ਹਨ। ਜਿ = ਜੋ ਮਨੁੱਖ। ਸੋਈ = ਉਹੀ ਮਨੁੱਖ। ਜਿਨ\nਮਨਿ = ਜਿਨ੍ਹਾਂ ਦੇ ਮਨ ਵਿਚ। ਸੋਇ = ਉਹ ਪ੍ਰਭੂ।\n\n149:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

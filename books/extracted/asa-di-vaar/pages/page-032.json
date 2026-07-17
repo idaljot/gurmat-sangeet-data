@@ -1,0 +1,8 @@
+{
+  "page": 32,
+  "section": "essay",
+  "text": "ਦੀਨ ਦਇਆਲ ਸੁਇ ਬੇਨਤੀ ਹਰਿ ਪ੍ਰਭ ਹਰਿ ਰਾਇਆ ਰਾਮ ਰਾਜੇ ॥\nਰਹਉ ਮਾਗਉ ਸਰਵਿ ਹਰਿ ਨਾਮ ਕੀ ਹਰਿ ਹਰਿ ਮੁਖਿ ਪਾਇਆ ॥\nਭਗਤਿ ਵਛਲੁ ਹਰਿ ਬਿਰਦੁ ਹੈ ਹਰਿ ਲਾਜ ਰਖਾਇਆ ॥\nਜਨੁ ਨਾਨਕੁ ਸਰਛਾਗਤੀ ਹਰਿ ਨਾਮਿ ਤਰਾਇਆ ॥੪॥੮॥੧੫॥\n(ਅੰਗ ੪੪੮-੪੪੯)\nਪਦ ਅਰਥ :\n\nਦਇਆਲ = ਹੈ ਦਇਆ ਦੇ ਘਰ! ਪ੍ਰਭ = ਹੇ ਪ੍ਰਭੂ! ਹਰਿ ਰਾਇਆ = ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ ! ਹਉ = ਮੈਂ। ਮਾਗਉ =\nਮਾਗਉਂ, ਮੈਂ ਮੰਗਦਾ ਹਾਂ। ਸਰਇਿ = ਆਸਰਾ, ਉਟ। ਮੁਖਿ = ਮੁਖ ਵਿਚ। ਭਗਤਿ ਵਛਲੁ = ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਨ\nਵਾਲਾ। ਬਿਰਦੁ = ਮੁੱਢ ਕਦੀਮਾਂ ਦਾ ਸੁਭਾਉ। ਲਾਜ = ਇੱਜ਼ਤ। ਨਾਮਿ = ਨਾਮ ਦੀ ਰਾਹੀਂ ।\n\n31:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

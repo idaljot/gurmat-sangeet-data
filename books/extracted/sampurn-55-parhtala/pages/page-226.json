@@ -1,0 +1,8 @@
+{
+  "page": 226,
+  "section": "notation",
+  "text": "੨੬ਪ੍ਰ: ' 81ਟ\n\n(੩,੦੫੨ ੨੧ ੨੩੧ : ,੪.=੬1੮ 55\n\n6 ਸੰਪੂਰਣ ਔੜਵ | ਪੰਚਮ ਦੋਵੇਂ | ਅਵਰੋਹ | ਰਾਤਦਾ | ਸਗਮਰੇ, ਮੋ | ਸੰਧਪ, ਮੇਧਪ, | ਸਮਗਮੇਪ, ਧਪ,ਮ,ਗ\nਮਧਿਅਮ | ਵਿਚ ਦੂਜਾ ਪਧਨੀਸੰ ਗਮਰੇਸ ਮਵੇਸ\nਅਤੇ | ਨਿਸ਼ਾਦ | ਪਹਿਰ\nਧੈਵਤ\nਗੰਧਾਰ\nਦਾ\nਅਵਰੋਹ\nਵਿਚ\nਅਲਪ\nਪ੍ਰਯੋਗ\n\n7 ਸੰਪੂਰਣ ਵਕਰ | ਮਸਿਅਮ ਸਾਰੇ ਕੋਈ ਰਾਤਦਾ | ਸ. ਗਮ,ਪਗ | ਸੱਧ,ਨੀਪ,ਮ |ਸਗਮ,ਮਪਮ,ਗਮ,ਰੇ\n\nਸੰਪੂਰਣ ਸ਼ੁੱਧ ਨਹੀਂ ਦੂਜਾ ਮ, ਰੈਗਮਧ, | ਗ, ਰੈਗ, ਮਪ, ਗਮਪ,ਸਰੇਸ\nਪਹਿਰ ਧਨੀਸ ਸਰੇਸ\n\n8 ਸੰਪੂਰਣ-ਸੰਪੂਰਣ | ਧੈ ਰਿਸ਼ਭ, ਕੋਈ ਪ੍ਰਭਾਤ ਸਰੇ, ਗਮਪ |ਸੰਨੀਧੁਧੁਪ,ਮ ਮਧੁਧੁਪ,ਗਮਰੇਰੇ\nਧੈਵਤ, ਨਹੀ ਧੁ, ਨੀ ਸੰ ਗ, ਰੇ, ਸ ਸ\nਕਮਲ\n\n9 ਔੜਵ-ਔੜਵ | ਰਿਸ਼ਭ ਅਵਰੋਹ | ਗੰਧਾਰ, | ਦਿਨ ਦਾ | ਸਰੇਮਪਨੀ | ਸੌਨਮੈਪਮਰੇ, | ਨੀ ਸਰੇ, ਮਰੇ, ਪਮਰੇ,\nਵਿਚ ਧੈਵਤ ਤੀਜਾ ਸਂ ਸ ਨੀਸ\nਕੋਮਲ, ਪਹਿਰ\nਨਿਸ਼ਾਦ\n\n10 ਸੰਪੂਰਣ ਸੰਪੂਰਣ ਮਧਿਅਮ ਦੋਨੋਂ ਕੋਈ ਰਾਤ ਦਾ | ਸ, ਰੇਗਮ,ਮ | ਸੰ.ਧਨੁੀਪ,ਮ | ਸਰੈਗਮ,ਮਰੇਪ,ਧਨ੍ਹੀ\nਨਿਸ਼ਾਦ ਨਹੀਂ ਤੀਸਰਾ | ਰ# ਪ, ਨੀ ਧ ਗਮ, ਰੈਸ ਪ,ਮਰੇਸ\nਦਾ ਪਹਿਰ ਨੀਸੰ\nਪ੍ਰਯੋਗ, (ਬਰਸਾਤ\nਬਾਕੀ ਦੀ ਰੁੱਤ\nਸ਼ੁੱਧ ਸੁਰ ਵਿਚ ਹਰ\n\nਸਮੇਂ)\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

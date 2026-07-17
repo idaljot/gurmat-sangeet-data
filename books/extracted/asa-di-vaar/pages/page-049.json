@@ -1,0 +1,8 @@
+{
+  "page": 49,
+  "section": "notation",
+  "text": "( ਕਹਿਰਵਾ ੮ ਮਾਤਰਾ )\n\nਰਾਗੁ ਆਸਾ\n\n(ਅੰਗ ੪੪੯)\n\nਅਜ ੦ ੦੮ ਗਜ ੦੭ ੦\n\nਲਤ ਪਨ ਦਿ ਪੈਨ ਅਲ ੮ %) ੭ |ਲ\n\nਲਾ ਲਾ\n\n % ਦੇ ੦ ਹਿ ਪੁੱ ਅਲ % ਦ ਪ੍ਰੰਏ ਤ ਪ੍ਰੰਏ\n\nਦ ਜਤ ਗਿ ਜ (ਅਨ ਫ਼ ਟ ਜਿਤ ਜਿ\n\n[ਨ ਨੂ ੫੩ ਜ ਦੇ ਦ ਇ,6 >ਿ ਕਰੋ #\n\nਗਲ ੪ ਜਿ 0 ਜਿ ਨ!\nਦਿ ਪ੍ਰੰਠ ਦ ਅਘ ਮਾ ਠਿ!\n ਲ ਦਿ % _ ਤਾ ਪਟ !\nਤਿ£ ਵ€ਨੋ > ਗਿ!\nਜਿ ਮੱਲ % ਪ੍ਰ\nਜਿ ਪ੍ਰ ਮਨ % ਦ ਲੁ\nਜਿ ੦ ਦਿ 0)  #ਲ\n>ਲਦ ਉਹ ੰ=ਲ'\n\nਮਲ #ਲ\n\n48:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

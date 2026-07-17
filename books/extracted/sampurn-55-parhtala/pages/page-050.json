@@ -1,0 +1,8 @@
+{
+  "page": 50,
+  "section": "essay",
+  "text": "ਸਾਰਗ ਮਹਲਾ ੩ ॥\nਜਪਿ ਮਨ ਸਿਰੀ ਰਾਮੁ ॥\nਰਾਮ ਰਮਤ ਰਾਮੁ ॥\nਸਤਿ ਸਤਿ ਰਾਮੁ ॥\nਬੋਲਹੁ ਭਈਆ ਸਦ ਰਾਮ ਰਾਮੁ ਰਾਮੁ ਰਵਿ ਰਹਿਆ ਸਰਬਗੇ ॥੧॥ ਰਹਾਉ ॥\nਰਾਮੁ ਆਪੇ ਆਪਿ ਆਪੇ ਸਭੁ ਕਰਤਾ ਰਾਮੁ ਆਪੇ ਆਪਿ ਆਪਿ ਸਭਤੁ ਜਗੇ ॥\nਜਿਸੁ ਆਪਿ ਕ੍ਰਿਪਾ ਕਰੇ ਮੇਰਾ ਰਾਮ ਰਾਮ ਰਾਮ ਰਾਇ ਸੋ ਜਨੁ ਰਾਮ ਨਾਮ ਲਿਵ ਲਾਗੇ ॥੧॥\nਰਾਮ ਨਾਮ ਕੀ ਉਪਮਾ ਦੇਖਹੁ ਹਰਿ ਸੰਤਹੁ ਜੋ\nਭਗਤ ਜਨਾਂ ਕੀ ਪਤਿ ਰਾਖੈ ਵਿਚਿ ਕਲਿਜੁਗ ਅਗੇ ॥\n\nਜਨ ਨਾਨਕ ਕਾ ਅੰਗੁ ਕੀਆ ਮੇਰੈ ਰਾਮ ਰਾਇ ਦੁਸਮਨ ਦੂਖ ਗਏ ਸਭਿ ਭਗੇ ॥੨॥੬॥੧੩॥\n(ਅੰਗ ੧੨੦੨)\n\nਪਦ ਅਰਥ :\n\nਮਨ = ਹੇ ਮਨ! ਰਮਤ = ਵਿਆਪਕ, ਹਰ ਥਾਂ ਮੌਜੂਦ। ਸਤਿ = ਸਦਾ ਕਾਇਮ ਰਹਿਏ ਵਾਲਾ। ਭਈਆ = ਹੇ\nਭਾਈ ! ਸਦ = ਸਦਾ। ਰਵਿ ਰਹਿਆ = ਵਿਆਪਕ ਹੈ। ਸਰਬਗੇ -(ਸਕੰਗ) ਸਭ ਕੁਝ ਜਾਣਨ ਵਾਲਾ। ਆਪੇ\n= ਆਪ ਹੀ। ਕਰਤਾ = ਕਰਨ ਵਾਲਾ। ਸਭਤੁ = ਸਭ ਥਾਈਂ। ਜਗੇ = ਜਗਤ ਵਿਚ। ਰਾਮ ਰਾਇ = ਰਾਮ\n\nਰਾਜਾ, ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ ਲਿਵ = ਲਗਨ। ਉਪਮਾ = ਵਡਿਆਈ। ਪਤਿ = ਇੱਜ਼ਤ। ਕਲਿਜੁਗ = ਵਿਕਾਰਾਂ-\nਭਰਿਆ ਜਗਤ। ਅਗੇ = ਅੱਗ ਵਿਚ, ਵਿਕਾਰਾਂ ਦੀ ਅੱਗ ਵਿਚ। ਅੰਗੁ = ਪੱਖ। ਮੇਰੈ ਰਾਮ ਰਾਇ = ਮੇਰੇ ਪ੍ਰਭੂ\nਪਾਤਿਸ਼ਾਹ ਨੇ। ਸਭਿ = ਸਾਰੇ। ਗਏ ਭਗੇ = ਭੱਜ ਗਏ, ਭੱਜ ਜਾਂਦੇ ਹਨ।\n\n42: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

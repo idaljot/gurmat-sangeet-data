@@ -1,0 +1,8 @@
+{
+  "page": 47,
+  "section": "notation",
+  "text": "(ਅੰਗ ੪੬੫)\n1 2 3 4 1 2 4\nਸ਼ 0 # 0\n\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਨਾਉ ਤੇਰਾ ਨਿਰੰ ਕਾਰੁ ਰੈ 5 5 5\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਨਾਇ _ਲਇਐ _ ਨਰਕਿ ਨ ਈ ਐ 5\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਜੀਉ ਪਿੰਡੁ ਸ ਭੁ ਸ 9\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\n\nਦੇ ਖਾਜੈ ਆ ਥਿ ਵਾ ਐ\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\n\nਜੇ ਲੋੜਹਿ ਚੰ ਗਾ ਪ ਣਾ ।\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਕਰਿ ਪੁੰਨ ਹੁ ਨੀਚ ਦਾ ਈ ਐ\nਰੇਂਰੇਂ ਰੇਰੇਂ ਰੇਰੇਂ ਰੇਰੇਂ ਰੇਂਗ ਗੰਗ ॥ ॥\n\nਜੇ । ਜਰ ਵਾਣਾ ਪ ਰ ਹ ਰੈ\nਰੇਂਰੇਂ ਰੇਰੇਂ ਰੇਰੇਂ ਧਧ ਸੱਸ ਸੱਸ ਸੱਸ ਸੱਸ\nਜਰੁ ਵੇਸ ਕਰੇ ਦੀ ਆ ਈ ਐ 8\nਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ\n\nਕੋ ਰਹੈ ਨ ਭਰੀਐ ਪਾ ਈ ਐ 5\nਮਮ ਮਪ ਧਧ ਧਧ ਸੱਸ ਸੱਸ ਸੱਸ ਸੱਸ\n\nਕੋ ਰਹੈ ਨ ਭਰੀਐ ਪਾ ਈ । 5\nਨੀਸੰ ਸਾ ਸਾ ਸਾ ਸ ਸਾ ਸਾ ਸਾ\nਐ । । । । 5 5\n\n46:: ਆਸਾ ਦੀ ਵਾਰ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

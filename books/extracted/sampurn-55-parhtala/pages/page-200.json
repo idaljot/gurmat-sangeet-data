@@ -1,0 +1,8 @@
+{
+  "page": 200,
+  "section": "essay",
+  "text": "ਮਲਾਰ ਮਹਲਾ ੫ ॥\nਗੁਰ ਪ੍ਰੀਤਿ ਪਿਆਰੇ ਚਰਨ ਕਮਲ ਰਿਦ ਅੰਤਰਿ ਧਾਰੇ ॥੧॥ ਰਹਾਉ ॥\nਦਰਸੁ ਸਫਲਿਉਂ ਦਰਸੁ ਪੇਖਿਓ ਗਏ ਕਿਲਬਿਖ ਗਏ ॥\nਮਨ ਨਿਰਮਲ ਉਜੀਆਰੇ ॥੧॥\nਬਿਸਮ ਬਿਸਮੈ ਬਿਸਮ ਭਈ ॥\nਅਘ ਕੋਟਿ ਹਰਤੇ ਨਾਮ ਲਈ ॥\nਗੁਰ ਚਰਨ ਮਸਤਕੁ ਡਾਰਿ ਪਹੀ ॥\nਪ੍ਰਭ ਏਕ ਤੂੰਹੀ ਏਕ ਤੁਹੀ ॥\nਭਗਤ ਟੇਕ ਤੁਹਾਰੇ ॥\n\nਜਨ ਨਾਨਕ ਸਰਨਿ ਦੁਆਰੇ ॥੨॥੪॥੨੬॥\n(ਅੰਗ ੧੨੭੨)\n\nਪਦ ਅਰਥ :\n\nਚਰਨ ਕਮਲ = ਕੋਲ ਫੁੱਲਾਂ ਵਰਗੇ ਸੋਹਏ ਹਰਿ = ਚਰਨ। ਰਿਦ ਅੰਤਰਿ = ਹਿਰਦੇ ਦੇ ਅੰਦਰ। ਧਾਰੇ = (ਮੈਂ)\nਟਿਕਾ ਲਏ ਹਨ। ਸਫਲਿਉ = ਫਲ ਦੇ ਗਿਆ ਹੈ। ਪੇਖਿਉਂ = ਵੇਖ ਲਿਆ ਹੈ। ਕਿਲਬਿਖ = (ਸਾਰੇ) ਪਾਪ!\nਉਜੀਆਰੇ = ਰੌਸ਼ਨ, ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਵਾਲਾ। ਬਿਸਮ = ਅਸਚਰਜ, ਹੈਰਾਨ। ਭਈ = ਹੋ ਗਈ।\n\nਅਘ = ਪਾਪ। ਕੋਟਿ = ਕ੍ਰੋੜਾਂ । ਰਰਤੋ = ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ। ਲਈ = ਲਿਆਂ, ਸਿਮਰਿਆਂ। ਗੁਰ\nਚਰਨ = ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਉੱਤੇ। ਮਸਤਕ = ਮੱਥਾ। ਡਾਰਿ = ਰੱਖ ਕੇ। ਪਰੀ = ਪੈਂਦੇ ਹਨ। ਪ੍ਰਭ - ਹੇ ਪ੍ਰਭੂ !\n\nਟੇਕ = ਆਸਰਾ।\n\n192 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

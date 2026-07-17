@@ -1,0 +1,8 @@
+{
+  "page": 109,
+  "section": "notation",
+  "text": "ਰਾਗ ਧਨਾਸਰੀ ਪੜਤਾਲ ਸਥਾਈ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(ਅੰਗ ੬੮੩)\n\n੦ ਤਹ ਸਿ ਤਤ >- % `!ਇ ੭\n੫: ਤ 8 > 9: ੭” ੧੩੪ 1 40\nਦੁ ਲੇ ੪ ਤਿ% - ੧ ਤ\n੨ ੦ ਫੇ. ਇ (੪ ਇਸ ਦੇ\n੨੧ ' ।6 ਇਟ 46 ਗਿ ਧੈਠ, ਪ੍ਰ\nਦ ਇਂ ਇ  ਡੂੱ ਟ ਤਾਂ ਤ ਚ\n੩ (ਪੰ 1 ਛ ੬ ਟੇ ਵਿ\n੨, ਪੰਠ। 2 ।ਟ ਇ ਪ੍ਰ ।ਦ: 0)\n66 ਗਤ ਇਤ ਜਦ 0 ਜਦ 0\n[ ਤਦ ਠਿ ਪਲ _ਨਿ॥ ੨9 6, 2\n੨ ਜ ਇ ਚ: ॥9 ਮਦ |ਲ ਲੂੰ 9\n੫੧ ਜਿ ੧8 ਦ 09 ਦਿ! ਜਿ ਨ, #£\nਚ ਧਠ % ੨ਾ। ਵਿ ਪ੍ਰੰ£ ਤਾ ।\n੨੧ ਧੋਣ ਭੂ, ਪੈਠ। ਰਿ ਇੱ ਪਏ\nਟ੫ ਧਠ % ਦਿ 69 ੭“ ਝ \"ਹੇ ੭\n੮ ਪੈਠ 9 (ਚ ਠਿ ੨ ਪਰ ਭਿ) ਰਿ\n\n101 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

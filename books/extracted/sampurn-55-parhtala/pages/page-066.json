@@ -1,0 +1,8 @@
+{
+  "page": 66,
+  "section": "essay",
+  "text": "ਕਾਨੜਾ ਮਹਲਾ ੬ ॥\nਹਰਿ ਗੁਨ ਗਾਵਹੁ ਜਗਦੀਸ ॥\nਏਕਾ ਜੀਹ ਕੀਚੈ ਲਖ ਬੀਸ ॥\nਜਪਿ ਹਰਿ ਹਰਿ ਸਬਦਿ ਜਪੀਸ ॥\nਹਰਿ ਰੋ ਹੋ ਕਿਰਪੀਸ ॥੧॥ ਰਹਾਉ ॥\nਹਰਿ ਕਿਰਪਾ ਕਰਿ ਸੁਆਮੀ ਹਮ ਲਾਇ ਹਰਿ ਸੇਵਾ ਹਰਿ ਜਪਿ ਜਪੇ ਹਰਿ\nਜਪਿ ਜਪੇ ਜਪੁ ਜਾਪਉ ਜਗਦੀਸ ॥\nਤੁਮਰੇ ਜਨ ਰਾਮੁ ਜਪਹਿ ਤੇ ਊਤਮ ਤਿਨ ਕਉ ਹਉ ਘੁਮਿ ਘੁਮੇ ਘੁਮਿ ਘੁਮਿ ਜੀਸ ॥੧॥\nਹਰਿ ਤੁਮ ਵਡ ਵਡੇ ਵਡੇ ਵਡ ਊਚੇ ਸੋ ਕਰਹਿ ਜਿ ਤੁਧੁ ਭਾਵੀਸ ॥\nਜਨ ਨਾਨਕ ਅੰਮ੍ਰਿਤੁ ਪੀਆ ਗੁਰਮਤੀ ਧਨੁ ਧੰਨੁ ਧਨੁ ਧੰਨੁ ਧੰਨੁ ਗੁਰੂ ਸਾਬੀਸ ॥੨॥੨॥੮॥\n(ਅੰਗ ੧੨੯੬-੧੨੯੭)\nਪਦ ਅਰਥ :\nਗੁਨ ਜਗਦੀਸ = ਜਗਤ ਦੇ ਈਸ = ਪ੍ਰਭੂ ਦੇ ਗੁ ਜੀਹ = ਜੀਭ। ਕੀਚੈ = ਕਰ ਲੋਈ ਚਾਹੀਦੀ ਹੈ। ਸਬਦਿ =\nਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ। ਜਪੀਸ = ਜਪਦ-ਯੋਗ। ਹੋ = ਹੇ ਭਾਈ! ਕਿਰਪੀਸ = ਕਿਰਪਾ ਦਾ ਈਸ, ਕਿਰਪਾ\nਦਾ ਮਾਲਕ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਹਮ = ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ । ਸੇਵਾ = ਭਗਤੀ। ਜਪਿ ਜਪੇ ਜਾਪਉ = ਜਪ\nਜਪ ਕੇ ਜਪਦਾ ਰਹਾਂ, ਸਦਾ ਹੀ ਜਪਦਾ ਰਹਾਂ। ਜਪਹਿ = (ਜਿਹੜੇ) ਜਪਦੇ ਹਨ। ਤੇ = ਉਹ (ਬਹੁ-ਵਚਨ)।\nਹਉ ਘੁਮਿ ਘੁਮੇ = ਮੈਂ ਕੁਰਬਾਨ ਹਾਂ। ਜੀਸ = ਜਾਂਦਾ ਹਾਂ। ਸੋ ਕਰਹਿ = ਤੂੰ ਉਹ ਕੁਝ ਕਰਦਾ ਹੈਂ। ਜਿ =\nਜਿਹੜਾ ਕੰਮ। ਭਾਵੀਸ = ਚੰਗਾ ਲੱਗਦਾ ਹੈ। ਅੰਮ੍ਰਿਤੁ = ਆਤਮਕ ਜੀਵਨ ਦੇਏ ਵਾਲਾ ਨਾਮ-ਜਲ। ਸਾਬੀਸ =\n\n58:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 142,
+  "section": "essay",
+  "text": "ਨਟ ਪੜਤਾਲ ਮਹਲਾ ੫ ॥\nਕੋਊ ਹੈ ਮੇਰੋ ਸਾਜਨੁ ਮੀਤੁ ॥\nਹਰਿ ਨਾਮੁ ਸੁਨਾਵੈ ਨੀਤ ॥\nਬਿਨਸੈ ਦੁਖੁ ਬਿਪਰੀਤਿ ॥\nਸਭੁ ਅਰਪਉ ਮਨੁ ਤਨੁ ਚੀਤੁ ॥੧॥ ਰਹਾਉ ॥\nਕੋਈ ਵਿਰਲਾ ਆਪਨ ਕੀਤ ॥\nਸੰਗਿ ਚਰਨ ਕਮਲ ਮਨੁ ਸੀਤ ॥\nਕਰਿ ਕਿਰਪਾ ਹਰਿ ਜਸੁ ਦੀਤ ॥੧॥\nਹਰਿ ਭਜਿ ਜਨਮੁ ਪਦਾਰਥੁ ਜੀਤ ॥\nਕੋਟਿ ਪਤਿਤ ਹੋਹਿ ਪੁਨੀਤ ॥\nਨਾਨਕ ਦਾਸ ਬਲਿ ਬਲਿ ਕੀਤ ॥੨॥੧॥੧੦॥੧੯॥\n(ਅੰਗ ੯੮੦)\nਪਦ ਅਰਥ :\nਕੋਊ = ਕੋਈ ਵਿਰਲਾ । ਨੀਤ = ਸਦਾ। ਬਿਨਸੈ = ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ। ਬਿਪਰੀਤਿ = ਉਲਟੀ ਪ੍ਰੀਤ, ਮਾੜੇ ਪਾਸੇ\nਦੀ ਪ੍ਰੀਤ। ਅਰਪਉ = ਅਰਪਉਂ, ਮੈਂ ਭੇਟਾ ਕਰ ਦਿਆਂ। ਚੀਤੁ = ਚਿੱਤ। ਕੀਤ = ਕੀਤਾ ਹੈ, ਬਣਾਇਆ ਹੈ।\nਆਪਨ = ਆਪਈ। ਸੰਗਿ = ਨਾਲ। ਸੀਤ = ਸੀਤਾ ਹੋਇਆ ਹੈ, ਜੋੜਿਆ ਹੈ। ਕਰਿ = ਕਰ ਕੇ। ਦੀਤ = ਦਿੱਤਾ\nਹੈ। ਭਜਿ = ਭਜ ਕੇ, ਸਿਮਰ ਕੇ। ਜਨਮੁ ਪਦਾਰਥੁ = ਕੀਮਤੀ ਮਨੁੱਖਾ ਜੀਵਨ। ਜੀਤ = ਜਿੱਤਿਆ, ਕਾਮਯਾਬ\nਬਈਾਇਆ। ਕੋਟਿ = ਕ੍ਰੋੜਾਂ। ਪਤਿਤ = ਵਿਕਾਰਾਂ ਵਿਚ ਡਿੱਗੇ ਹੋਏ, ਵਿਕਾਰੀ। ਹੋਹਿ = ਹੋ ਜਾਂਦੇ ਹਨ। ਪੁਨੀਤ =\nਪਵਿੱਤਰ। ਬਲਿ ਕੀਤ = ਸਦਕੇ ਕੀਤਾ।\n\n134 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

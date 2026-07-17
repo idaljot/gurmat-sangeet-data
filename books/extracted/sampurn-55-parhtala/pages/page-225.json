@@ -1,0 +1,8 @@
+{
+  "page": 225,
+  "section": "notation",
+  "text": "੩੬੬੍ਰਿ4 : “ਹਟ\n\n-(੬੧੩੯੦੬੫੨ £ਤ =੫੩੪ : ,੩=੬1੧55\n\nਲੜੀ | ਰਾਗ ਜਾਤੀ ਦੀ | ਸੰਵਾਦੀ | ਸੁਰ (ਰਜਿਤ ਸਮਾਂ ਆਰੋਹ ਅਵਰੋਹ ਮੁੱਖ ਅੰਗ\n1 ਆਸਾ ਔੜਵ-ਸੰਪੁਰਣ | ਮੰਧਿਅਮ | ਸ਼ੜਜ ਸਾਰੇ ਗੰਧਾਰ ਸਵੇਰ |ਸਰੇਮਪਧਸੰ| ਸੰਨੀਧਪ,ਮ, ਰੇ ਮਪ, ਧਸੰ,ਨੀਧਪ\n= ਸਵਰ _| ਨਿਸ਼ਾਦ | ਅਤੇ ਸ਼ਾਮ ਗਰੇ,ਸਗਰੇਗ ਮ,ਗਰੇਗਸ\nਸ਼ੁਧ ਆਰੋਹ (ਸੰਧੀ ਸ\nਪ੍ਰਕਾਸ)\n2 | ਧਨਾਸਰੀ ਔੜਵ-ਸੰਪੂਰਣ | ਪੰਚਮ | ਸ਼ੜਜ | ਗੰਧਾਰ | ਆਰੋਹ | ਦਿਨਦਾ | ਸਗੁਮਪਨੁ | ਸੰਨੀਧਪ,ਮਪ [ਨੀਸ,ਗੁਮਪ,ਨੁੀਧਪ,ਮ\nਕੋਮਲ ਵਿਚ ਤੀਸਰਾ ॥੨॥ ਗੁਰੇਸ ਪ ਗੁ, ਰੇ, ਸ\nਰਿਸ਼ਭ | ਪਹਿਰ\nਧੈਵਤ\n3 ਸੂਹੀ ਸੰਪੂਰਛ-ਸੰਪੂਰਣ | ਪੰਚਮ | ਸੁੜਜ | ਸੰਪੂਰਣ | ਕੋਈ _| ਦਿਨ ਦਾ | ਸਰੇਗਮਪ, | ਸੰਨਮੈਧਪ,ਮ | ਗਮਗਰੇ,ਗਮਨ[/ਸਧ\nਨਹੀਂ\nਦੂਜਾ ਨੀਧਨੀਸ ਗਰੇ, ਗਰੇਸ ਪ, ਪਮਗ, ਮਗ, ਰੋਗ\nਪਹਿਰ ਰੇ,ਸ\n4 | ਬਿਲਾਵਲ ਸੰਪੂਰਣ ਧੈਵਤ | ਗੰਧਾਰ | ਸਾਰੇ ਕੋਈ | ਦਿਨ ਦਾ | ਸਰੇਗਮਪ, | ਸੰਨੀਧ,ਪ,ਮ |ਗਰੇ,ਗਮਧਪ,ਮਗ,ਮ\n< ਨਹੀਂ\nਸ਼ੁੱਧ ਦੂਜਾ ਧਨੀਸੰ ਗ, ਰੇਸ ਫੇਸ\nਪਹਿਰ\n5 | ਰਾਮਕਲੀ ਸ਼ਾੜਵ-ਸੰਪੂਰਣ | ਧੈਵਤ | ਰਿਸ਼ਭ | ਰਿਸ਼ਭ | _ਆਰੋਹ | ਸਵੇਰ ਦਾ | ਸਗ, ਮਪ, ਧੁ | ਸੰ ਨੀ ਸੁਪ, ਮ੭ [ਧੁਪ,ਮੇਪ,ਧੁਨੀਧੁਪ,ਗ\nਧੈਵਤ ਵਿਚ ਪਹਿਲਾ ਨੀਸ ਪਥੁਨੀਧੁਪ,ਗ ਸੜੇ\nਕੋਮਲ, | ਰਿਸ਼ਭ | ਪਹਿਰ ਮਰੇ[ਸ\nਦੋਵੇਂ\nਮਧਿਅਮ\nਦੋਵੇਂ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

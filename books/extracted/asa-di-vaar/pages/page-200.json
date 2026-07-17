@@ -1,0 +1,8 @@
+{
+  "page": 200,
+  "section": "notation",
+  "text": "ਪਉੜੀ ( ੪ ਮਾਤਰਾ )\n\n(ਅੰਗ ੪੭੪)\n\nਐਚ\n੧ ਸਾ\n। ੦ ਇਿ\n। ਇੱ ਘਇ ੍\n15 ਅ 9 ਇ ੍‌ 2 ਇੰ\nਰ੍ । ਭਿ ਇ\nਇਆ ਇੱ ਲ ਇਆ ਇੰ\nਰ ਨ ਸੀ [ਠ\n'ਇ ਧਨ -ਇ ਰ ...\nਰ੍ ਇੰ 9] ਦਿ ਦਿ\nਸੋ ੬॥ ੬\nਸੋ ੨ ੦$\nਸੀ ਰਾ ੍\nਵਿ ਭ ਇੰ ੭ ਇਿ ਰ ...\nਫਟ ਰ ..\nਇ ਲਟ ਝ ਟਿ\nਇ ਜਿ ਡਟ ਚ ਇ ਰ\nਇ ਇਟ ਇਿ ਰ੍ ਜਾ\nਰ੍ ਣ ਪਟ “ ਧੰਟ\nਟਿ ਮਰੇ # ਪੰਟੋ ! ਟ\nਣਿ “€ ਪਨ 00 ਰ\nਗਿ\nਪੰਨੂ #ਝ ਪੰਠ # ਪੰਠ ੍‌ ਜਾ\nਟੇ ਸੀ ੬%॥ ਕਿ\nਰ੍ ਇਵ ਟੰ ਟ\nਇ ਇੰ ਇਹ ਇ ਰ੍\n!ਟ ਇ [ਟ ਰ ੫.\nਟ £ $ ਜਿ. ਇ\n੧ ੰ£ ਘ ਇੰ, ੮\nਸੋ ੧ ਕਿ\nਇਿ ਹ ਨਿੰ ਈਂ ਇਿ ਇੰ ਇੰ\nਇ ਇੰ ਇਆ ਇ ੭ ਇ\n' ਟ\n\n199:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

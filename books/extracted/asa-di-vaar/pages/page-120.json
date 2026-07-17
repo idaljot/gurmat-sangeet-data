@@ -1,0 +1,8 @@
+{
+  "page": 120,
+  "section": "essay",
+  "text": "ਸਲੋਕੁ ਮ੧ ੧ ॥\nਸਿੰਮਲ ਰੁਖੁ ਸਰਾਇਰਾ ਅਤਿ ਦੀਰਘ ਅਤਿ ਮੁਚੁ ॥\nਉਇ ਜਿ ਆਵਹਿ ਆਸ ਕਰਿ ਜਾਹਿ ਨਿਰਾਸੇ ਕਿਤੁ ॥\nਫਲ ਫਿਕੇ ਫੁਲ ਬਕਬਕੇ ਕੰਮਿ ਨ ਆਵਹਿ ਪਤ ॥\nਮਿਠਤੁ ਨੀਵੀ ਨਾਨਕਾ ਗੁਣ ਚੰਗਿਆਈਆ ਤਤੁ ॥\nਸਭੁ ਕੋ ਨਿਵੈ ਆਪ ਕਉ ਪਰ ਕਉ ਨਿਵੈ ਨ ਕੋਇ ॥\nਧਰਿ ਤਾਰਾਜੂ ਤੋਲੀਐ ਨਿਵੈ ਸੁ ਗਉਰਾ ਹੋਇ ॥\nਅਪਰਾਧੀ ਦੂਣਾ ਨਿਵੈ ਜੋ ਹੰਤਾ ਮਿਰਗਾਹਿ ॥\nਸੀਸਿ ਨਿਵਾਇਐ ਕਿਆ ਥੀਐ ਜਾ ਰਿਦੈ ਕੁਸੁਧੇ ਜਾਹਿ ॥੧॥\n\n(ਅੰਗ ੪੭੦)\nਪਦ ਅਰਥ:\nਸਰਾਇਰਾ = ਸਿੱਧਾ। ਦੀਰਘ = ਲੰਮਾ। ਮੁਚੁ = ਵੱਡਾ, ਮੋਟਾ। ਕਿਤੁ = ਕਿਉਂ। ਪਤ = ਪੱਤਰ । ਮਿਠਤੁ = ਮਿਠਾਸ।\nਨੀਵੀ = ਨੀਵੇਂ ਰਹਿ ਵਿਚ। ਤਤੁ = ਸਾਰ। ਆਪ ਕਉ = ਆਪਏ ਮਤਲਬ ਵਾਸਤੇ, ਆਪਏ ਲਈ। ਗਉਰਾ = ਭਾਰਾ।\nਹੰਤਾ = ਮਾਰਨ ਵਾਲਾ। ਸੀਸ ਨਿਵਾਇਐ = ਜੇ ਨਿਰਾ ਸਿਰ ਨਿਵਾਇਆ ਜਾਏ। ਕੁਸੁਥੈ = ਖੋਟੇ ।\n\n119:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

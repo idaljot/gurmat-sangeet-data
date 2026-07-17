@@ -1,0 +1,8 @@
+{
+  "page": 56,
+  "section": "essay",
+  "text": "ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ ਮੈ ਚਿਰੀ ਵਿਛੁੰਨੇ ਰਾਮ ਰਾਜੇ ॥\n\nਮੇਰਾ ਮਨੁ ਤਨੁ ਬਹੁਤੁ ਬੈਰਾਗਿਆ ਹਰਿ ਨੈਏ ਰਸਿ ਭਿੰਨੇ ॥\n\nਮੈ ਹਰਿ ਪ੍ਰਭੁ ਪਿਆਰਾ ਦਸਿ ਗੁਰੁ ਮਿਲਿ ਹਰਿ ਮਨੁ ਮੰਨੇ ॥\nਹਉ ਮੂਰਖੁ ਕਾਰੈ ਲਾਈਆ ਨਾਨਕ ਹਰਿ ਕੰਮੇ ॥੩॥\n\n(ਅੰਗ ੪੪੯)\nਪਦ ਅਰਥ :\n\nਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਰਾਹੀਂ। ਪਿਆਗੇ = ਹੇ ਪਿਆਰੇ ਹਰੀ! ਸੈ = ਮੈਨੂੰ। ਬੈਰਾਗਿਆ = ਓਦਰਿਆ ਹੋਇਆ ਹੈ। ਰਸਿ =\n\n(ਪ੍ਰੇਮ) ਜਲ ਨਾਲ। ਭਿੰਨੇ = ਭਿੱਜੇ ਹੋ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਮੰਨੇ = ਪਤੀਜ ਜਾਏ । ਹਉ = ਮੈਂ।\n\n55:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

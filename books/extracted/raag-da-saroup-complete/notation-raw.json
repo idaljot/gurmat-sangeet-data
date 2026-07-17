@@ -1,0 +1,3314 @@
+[
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ $ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ \"ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ । ਸਮਰ \"ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇ,ਮਪ,ਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਮਗਰੇਪ,ਗੁਰੇਗੁਸਰੇਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 1,
+    "image": "notation/page-001-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਪ, ਧ ਮ ਗ ਮ, ਰੋ ਪ, \"ਗੁ, ਰੇਗੁਸਰੇਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 2,
+    "image": "notation/page-002-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ 2 ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 2,
+    "image": "notation/page-002-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 2,
+    "image": "notation/page-002-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ 2 ਸੰਨੀਧੁਮਪ,ਧੁਪਮਗ,ਗਰੇਸਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 2,
+    "image": "notation/page-002-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ । ਮਧੁਪ,ਧੁਮਪਗਮ,ਰੇਗਰੇਸਨੀ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 2,
+    "image": "notation/page-002-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ 2 ਸੰਨੀਧਮੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 2,
+    "image": "notation/page-002-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ 2 ਸਨੀਧ,ਮੇਧਮੇਗਰੇਸ,ਰੇਗਰੇਸਨੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 3,
+    "image": "notation/page-003-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ __: ਪੰਚਮ ਤੇ ਗੰਧਾਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 3,
+    "image": "notation/page-003-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ 2 ਸੰਨੀਧੁਪ,ਮਗਰੇੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 3,
+    "image": "notation/page-003-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ 2 ਸਰੇਮਪ,ਧੁਮਪਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 3,
+    "image": "notation/page-003-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 3,
+    "image": "notation/page-003-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ 2 ਸੰਨੀਧੁਪਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 3,
+    "image": "notation/page-003-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ 2 ਨੀਧੁਪ,ਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 4,
+    "image": "notation/page-004-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ ਤੇ ਪੰਚਮ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 4,
+    "image": "notation/page-004-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ 2 ਸੱਨੀਧੁਮ,ਰੇਸਨੀਧੁਸਨੀਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 4,
+    "image": "notation/page-004-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ 2 ਧੁ ਮ, ਰੇ ਮ, ਰੇ ਸ,ਨੀਧੁਸਨੀਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 4,
+    "image": "notation/page-004-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਗਮੇਪ,ਮੇਧਨੀਸੰਰੁੱਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 4,
+    "image": "notation/page-004-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 5,
+    "image": "notation/page-005-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 5,
+    "image": "notation/page-005-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਸੰਨੀਧਸੰਨੀਧਪ,ਮੇਗ-ਮਗਮੇਗਸ, ਰੇਗਰੇਸ.ਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 5,
+    "image": "notation/page-005-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 5,
+    "image": "notation/page-005-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਸੰਨੀ ਧੁਪ, ਮੇ ਗ-ਮਗ, ਮੇ ਗਰੇ,ਨੀ ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 6,
+    "image": "notation/page-006-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 6,
+    "image": "notation/page-006-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 6,
+    "image": "notation/page-006-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 6,
+    "image": "notation/page-006-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 6,
+    "image": "notation/page-006-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਪਮੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 6,
+    "image": "notation/page-006-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 7,
+    "image": "notation/page-007-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗੁਮਪਧੁ,ਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 7,
+    "image": "notation/page-007-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗੁਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 7,
+    "image": "notation/page-007-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਰੋ ਗੁ ਰੂ, ਸ, ਨੀ ਸ, ਧੁ, ਪ ਮ ਗੁ ਰੂੰ, ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 7,
+    "image": "notation/page-007-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗਰੇਮੇਪਮੇਧੁਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 7,
+    "image": "notation/page-007-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ, ਮਰੋਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 7,
+    "image": "notation/page-007-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਰੋਗਮੇਪਧਮਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗਉੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ 2 ਸਾਰੇ ਸਵਰ ਸ਼ੁਧ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ 2 ਸਰੇਮਪਧਸ'",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਤੂ ਸਾਨੀਧਪ,ਮ,ਗਰੇ,ਸਗਰੇਗਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ $ ਰੇਮਪ,ਧਸ,ਨੀਧਪਮ,ਗਰੇਗਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ? ਸਰੇਮਪਥੁਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀ, ਧੁ, ਪਮਗੁਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 8,
+    "image": "notation/page-008-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਮਪਧੁ,ਮਪਗੁ,ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : 'ਸ, ਰੋ ਮ, ਪ, ਧੁ ਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧੁਪਮ,ਪਧੁਮਪਗੁਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਪਮ,ਧੁਪਧੁਮਪ,ਗੁਰੇੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਅਸਰੋਹ ਵਿਚ ਗੰਧਾਰ, ਨਿਸਾਦ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਤੂ ਸ ਰੇਗਸ,ਰੇਮਪਧ,ਪਧਸ'",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਤੂ ਸੱ, ਨੀ ਧ ਪ, ਧ ਮ ਗੁ-ਰੇ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 9,
+    "image": "notation/page-009-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਧਨੀਪਧਸੱਨੀਧਪ,ਮਪਗੁ-ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਆਸਾਵਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 10,
+    "image": "notation/page-010-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗੁਜਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 10,
+    "image": "notation/page-010-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗੁਜਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 10,
+    "image": "notation/page-010-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਗੁਜਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 11,
+    "image": "notation/page-011-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਮਪਥਧੁਮ,ਪਧੁਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 11,
+    "image": "notation/page-011-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰ ਠੀ ਧੁ ਪ, ਮ \"ਗੁ ਰੋ ਸ, ਰੇ ਨੀ ਸ ਰੋ ਗ ਮਪ, ”ਗੁ ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 11,
+    "image": "notation/page-011-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਨੀ ਧੁ ਪ, ਮਪ”ਗੁ ਰੇਸ,ਰੇਨੀਸਰੋਗਮ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 11,
+    "image": "notation/page-011-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਨੀ,ਸਗਮਪਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 11,
+    "image": "notation/page-011-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਨੀਧਪ,ਧਗਮਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 11,
+    "image": "notation/page-011-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ 2 ਸਗਮਪ,ਧਨੁੀਧਪ,ਗਮ,ਪਮਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 12,
+    "image": "notation/page-012-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ? ਸਰੇਮਪ, ਧਨੁੀਪ,ਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਵਡਹੰਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 12,
+    "image": "notation/page-012-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ? ਸੰਨੀਪ, ਧਮਗਰੇ,ਸਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਵਡਹੰਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 12,
+    "image": "notation/page-012-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ? ਸਰੇਮਪਨੀਪ,ਧਮਗਰੇ,ਸਨੀਪੁ,ਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਵਡਹੰਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 12,
+    "image": "notation/page-012-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸ,ਰੇਮਪ,ਧਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਵਡਹੰਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 12,
+    "image": "notation/page-012-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ? ਸੰਨੀ ਧ ਪ, ਮ,ਰੇਮਗ,ਸਰੇਨ੍ੀਧਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਵਡਹੰਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 12,
+    "image": "notation/page-012-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਰੋਮਪ,ਮ,ਰੋਮਗਸਰੇਨੀਧੁਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਵਡਹੰਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 13,
+    "image": "notation/page-013-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੋਰਠਿ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 13,
+    "image": "notation/page-013-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੋਰਠਿ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 13,
+    "image": "notation/page-013-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਨੀ ਸ, ਗੁ ਮ ਪ, ਨੀਂ ਧ ਪ, ਮ ਪ ਗੁ, ਰੋ, ਸ / ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੋਰਠਿ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 14,
+    "image": "notation/page-014-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਜੈਤਸਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 14,
+    "image": "notation/page-014-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਜੈਤਸਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 14,
+    "image": "notation/page-014-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਜੈਤਸਰੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 15,
+    "image": "notation/page-015-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨਿਸ਼ਾਦ ਆਰੋਹ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬੈਰਾੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 15,
+    "image": "notation/page-015-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬੈਰਾੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 15,
+    "image": "notation/page-015-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਠੀ ਸਗ ਮਪ,ਨੀ ਪ, ਗਮ ਗ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬੈਰਾੜੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 16,
+    "image": "notation/page-016-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਗਮ ਪ, ਨੂਂ ਪ, ਗੁ ਰੋ ਸਰੇ ਨੀ ਸ / ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਤਿਲੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 16,
+    "image": "notation/page-016-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਤਿਲੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ਸਰੇਗਮਪ,ਮਪਗੁਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ, ਮਧਿਅਮ, ਤੀਵਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ ਪੰਚਮ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਸੰਰੇਂ ਨੀਧੁਮੇਧੁਮੇਮਗ,ਮੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 17,
+    "image": "notation/page-017-block-9.png",
+    "layout": "inline-line",
+    "raw_text": "ਪ ਨੀ ਧ, ਨੀ ਸੰ, ਰੇ ਨੀ ਧੁ, ਮੇ ਮਗ,ਮੇਗਰੇਸ / ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸੂਹੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 18,
+    "image": "notation/page-018-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 18,
+    "image": "notation/page-018-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 18,
+    "image": "notation/page-018-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 19,
+    "image": "notation/page-019-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਪੰਚਮ ਆਰੋਹ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 19,
+    "image": "notation/page-019-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 19,
+    "image": "notation/page-019-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 20,
+    "image": "notation/page-020-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 20,
+    "image": "notation/page-020-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 20,
+    "image": "notation/page-020-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਲਾਵਲ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਅਵਰੋਹ ਵਿਚ ਮਧਿਅਮ ਤੀਬਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇੋਗਪ,ਧੁਪ,ਧੁਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗ,ਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਰੋ, ਗਪ,ਧੁਪ,ਮਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਦੋਵੇਂ ਮਧਿਅਮ ਅਤੇ ਧੈਵਤ ਗੰਧਾਰ ਦਾ ਅਵਰੋਹ ਵਿਚ ਅਲਪ ਪ੍ਰਯੋਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਗਮਰੇ,ਮੇਪਧਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਧਪ, ਮੇ ਧਪ,ਗਮਰੋਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 21,
+    "image": "notation/page-021-block-9.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ? ਸਮਗਮੇਪ, ਧਪ,ਮ,ਗਮਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਰਾਮਕਲੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ ਸਾਰੇ ਸ਼ੁਧ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਸ, ਗਮ, ਪਗਮ,ਰੋਗਮਧ,ਧਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਸੰ ਧ, ਨੀ ਪ, ਮ ਗ ਰੇ ਗਮਪ,ਸਰੋਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ਸਗਮ.ਮਪਮਗਮ,ਰੇਗਮਪ,ਸਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਸਰੇਗਮੇਪਧਨੀਧਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਸੰਨੀਧੁਪ,ਮੇਨੀਧਮੇਗ,ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 22,
+    "image": "notation/page-022-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਨਟ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 23,
+    "image": "notation/page-023-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਗਮਪ,ਧਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 23,
+    "image": "notation/page-023-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ.ਮੇਪਧੁਨੀਧੁਪਮਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 23,
+    "image": "notation/page-023-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ? ਪਧਨੀਧਪ,ਮੇਪਧੁਨੀਧੁਪਪਧਪਗ,ਰੇ,ਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 23,
+    "image": "notation/page-023-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਗਮਪ,ਪਸੇਪ,ਧਮਪ,ਧਸੰਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 23,
+    "image": "notation/page-023-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਗੁਰੇ,ਪਗੁਰੇਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 23,
+    "image": "notation/page-023-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਸਗਮਪ,ਪਧਪਗਮ,ਪਮੇਪ,ਨੁੀਧਪ,ਮਪਗੁਰੋਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਰੇ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ? ਸਗ,ਮਪਥਧੁ,ਨੀਧੁਪ,ਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧੁ,ਪ,ਮਧੁਮਪ,ਮਗਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ? ਨੀ ਧ,ਪ,ਮਧੁਮਪ,ਮਗਰੇੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਠੀ ਸ, ਗੁ ਮੇ ਪ, ਨੀ ਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਨੀਧਪ,ਮੇਗੁਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 24,
+    "image": "notation/page-024-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਨੀ ਨੂਂ ਧ ਪ, ਮੇ ਪ, ਮੇ ਗੁ, ਰੇ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਮਾਰੂ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਮ, ਮ ਪ, ਧਪ, ਨੀਧ ਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਂਧਪ,ਸੇਪਧਪਮ,ਮਰੇੋਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਔਗ 2 ਸ, ਮ, ਮਪ, ਧ ਪ, ਮ, ਪਮ, ਰੇ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ਤੂ ਸਰੇ, ਗਮਪਧੁ,ਨੀਸੱਂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ਤੂ ਸੱਨੀਧੁਧੁਪ,ਮਗ,ਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 25,
+    "image": "notation/page-025-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ । ਗਮਧੁਧੁਪ,ਗਮਰੇਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕੇਦਾਰਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਸਾਰੇ ਸ਼ੁੱਧ ਸੁਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਗਮਧਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪਮ,ਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਰਿਸ਼ਭ, ਪੰਚਮ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ? ਸ, ਮ, ਮਗ, ਮੇਧ,ਨੀਧਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ੜੁ ਸੰ, ਰੋ ਨੀ ਧ ਸੰ, ਰੇੱ' ਨੀ ਧੁਪ, ਮੇਗ, ਮੇਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 26,
+    "image": "notation/page-026-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ? ਸ ਮ,ਮ,ਗ,ਰੇੇਂ ਨੀਧਸੱ, ਰੇਂ ਨੀਧੁਪ, ਮੇਗਰੇੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਸੰਤ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਮਪਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ੜੁ ਸੰਨੀਪਮਰੇ,ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ 2 ਠੀਸਰੇ, ਮਰੇ, ਪਮਰੇ,ਨੀਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਦੋਨੋਂ ਨਿਸ਼ਾਦ ਦਾ ਪ੍ਰਯੋਗ, ਬਾਕੀ ਸ਼ੁੱਧ ਸੁਰ,",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ? ਸ, ਰੇਗਮ,ਮਰੇਪ,ਨੁੀਧਨੀਸ'",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ ? ਸੰ, ਧਨੀਪ, ਮਗਮ,ਰੋਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 27,
+    "image": "notation/page-027-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ? ਸਰੇਗਮ, ਮਰੋਪ, ਧਨੀਪ,ਮਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਸਾਰੰਗ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗੁਮਪ,ਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰ. ਨੀ ਪ, ਮ ਪ, ਗੁਮ ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਸਰੇਗੁਮਰੇ,ਸਰੇਨੀਸ,ਰੇਪਗੁਮਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ ੨ ਮਧਿਅਮ ਤੀਬਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਗਮੇਧਨੀਸ'",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਪ,ਮੇਗਨੀਰੇਸਾ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 28,
+    "image": "notation/page-028-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਸ, ਨੀ ਰੋ ਗ, ਪ ਮੇ ਗ ਰੇ, ਨੀ ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਮਧਿਅਮ ਤੀਬਰ, ਬਾਕੀ ਸੁਰ ਸ਼ੁੱਧ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਮੇ ਧਨੀ ਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰ. ਧ ਪ, ਗ, ਰੇ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਠੀ ਰੇਗ,ਗਮੇਧਪ,ਧਪਗ,ਰੋਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਸ਼ੁਧ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗਪਧਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਨੀਪ,ਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 29,
+    "image": "notation/page-029-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੜ ਪਧਸੰਨੀਧਨੀਪ,ਪਧ,ਗਪਧਪਧ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਕਲਿਆਣ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੁਰ : ਗੰਧਾਰ, ਧੈਵਤ, ਨਿਸ਼ਾਦ, ਕੋਮਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸ, ਮ ਰੇ, ਗੁ ਮ ਪ, ਨੀ ਧੁ ਪ, ਸੱ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀ ਧੁ, ਪਮਗੁ.ਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਸ, ਮ ਰੇ, ਗੁ ਮਪ, ਠੀ ਧੁਪ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _: ਆਰੋਹ ਵਿਚ ਮਧਿਅਮ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ ੩ ਸਰੇੋਗਪਧ,ਨੀਧਨੀ-ਪ,ਧਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਧੁਪ,ਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 30,
+    "image": "notation/page-030-block-9.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਨੀ ਧ ਨੀ-ਪ, ਗ ਪ ਧੁ ਪਗੁ ਰੋ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸਰੇਗਪਧੁਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸੰਨੀਧਨੀਪ,ਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ ੨ ਰੋਗਪਧਪਥੁ,ਸੰਨੀਧਨੀਪਗਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਧੈਵਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਰੋਹ : ਸ,ਰੇਗ ਮਪ,ਨੀਸੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਵਰੋਹ : ਸਨੀਧਪ,ਧਮ,ਰੇਗੁਰੇਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "raag-da-saroup-complete",
+    "page": 31,
+    "image": "notation/page-031-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਮੁੱਖ ਅੰਗ : ਰੋਗੁਰੇਸਨ੍ੀਧੁਪੁਰੇ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗ ਬਿਭਾਸ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  }
+]

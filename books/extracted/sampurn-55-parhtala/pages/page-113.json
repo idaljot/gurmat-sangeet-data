@@ -1,0 +1,8 @@
+{
+  "page": 113,
+  "section": "notation",
+  "text": "(੧) ਰਾਗ ਧਨਾਸਰੀ ਪੜਤਾਲ ਸਥਾਈ ਚਾਰਤਾਲ (੧੨ ਮਾਤਰਾ)\n\n105 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n(ਅੰਗ ੬੮੩)\n1 2 3 4 ੭ 6 7 8 9 10111 12\n% 0 2 0 3\nਸੱ ਸੱ ਸੱ ਨੀਂ ਧ ਪ ਗੁ ਗੁ ਮ ਪ ਪ ਪ\nਹ ਲ ਤਿ ਸੁ ੩ ਥੁ ਪ ਲ ਤਿ ਸੁ ੩ ਥੁ\nਪ ਪ ਪ ਗੁ ਮ ਪ ਗੁ ਗੁ ਰੇ ਨੀ ਸ ਸ\nਨਿ ਤ 5 ਸੁ 5 ਬੁ [ਸਿਮ ਰ ਨੋ ਨਾ ੩ ਮੁ\nਨੀ ਸ ਗੁ ਮ ਪ ਪ ਨੀ ਨੀ ਨੀ ਸੱ ਸੱ ਸੱ\nਗੋ ਬਿੰਦ ਕਾ |ਸ ਦਾ |ਲੀ 5 5 ਜੈ 5 5\n(੨) ਸਥਾਈ ਏਕਤਾਲ (੧੨ ਮਾਤਰਾ)\n1 2 3 4 5 6 7 8 9 10111 12\n% 0 2 0 3 4\nਸੱ ਸੱ ਸੱ ਨੀ ਧ ਪ ਨੀ ਨੀ ਨੀ ਸੱ ਸੱ ਸੱ\nਮਿ ਟ ਹਿ ਕ ਮਾ ਣੇ ਪਾ 9 ਪ ਚਿ | ਰਾ ਣੇ\nਨੀ ਨੀ ਧ ਧ ਪ ਸਮ ਸਮ ਗੁਮ _ਪਮ | ਗੁਰੇ _ਸ\nਸਾਧ |ਸੰਗ ਤਿ|ਮਿ ਲਿ | ਮੁ ਆ |ਜੀ 5 ਜੈ 5\n(੧) ਅੰਤਰਾ ਦੀਪਚੰਦੀ (੧੪ ਮਾਤਰਾ)\n1 2 4 5 6 7 8 9 10 11 12 13 14\nਸ਼ 2 0\nਪ 'ਪ ਪ.ਪ ਪ ਗੁ ਗੁ ਗੁ [ਮਮ ਸਮ ਮ\nਰਾ 8੩ ਜ ੩ ੩ ੩ [ਜੋ ੩ ੩ |ਬ ਨ ੩ $\nਪ ਪ ਨੀ ਨੀ ਨੀ ਨੁੀ| ਸ ਸ ਸ ਸੱਸ ਸੰ ਸੰ\nਬਿਸ ਰੰ ਹ ੩ ਰਿ ੧|ਮਾ ੧ ੩ |ਇ ਆ 3੩  $\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

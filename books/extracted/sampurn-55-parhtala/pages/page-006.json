@@ -1,0 +1,8 @@
+{
+  "page": 6,
+  "section": "notation",
+  "text": "ਦੋ-ਸ਼ਬਦ\nਪੜਤਾਲ ਸ੍ਰੀ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ\nਰਾਗ ਬਿਲਾਵਲ\n1. _ਬੋਲਹੁ ਭਈਆ ਰਾਮ ਨਾਮੁ ਪਤਿਤ ਪਾਵਨੋ\nਰਾਗ ਨਟ ਨਾਰਾਇਨ\n2. ਮੇਰੇ ਮਨ ਸੇਵ ਸਫਲ ਹਰਿ ਘਾਲ\nਰਾਗ ਨਟ\n\n4. ਕੋਈ ਆਨਿ ਸੁਨਾਵੈ ਹਰਿ ਕੀ ਹਰਿ ਗਾਲ\nਰਾਗ ਸਾਰੰਗ\n\n5. ਜਪਿ ਮਨ ਜਗੰਨਾਥ ਜਗਦੀਸਰੋ ਜਗਜੀਵਨੋ\nਜਪਿ ਮਨ ਨਰਹਰੇ ਨਰਹਰ ਸੁਆਮੀ\n\nਜਪਿ ਮਨ ਮਾਧੋ ਮਧੁਸੂਦਨੋ\n\nਜਪਿ ਮਨ ਨਿਰਭਉ\n\nਜਪਿ ਮਨ ਗੋਵਿੰਦੁ ਹਰਿ ਗੋਵਿੰਦੁ ਗੁਣੀ ਨਿਧਾਨੁ\n10. ਜਪਿ ਮਨ ਸਿਰੀ ਰਾਮੁ\n\nਰਾਗ ਮਲਾਰ\n\n11. ਹਰਿ ਜਨ ਬੋਲਤ ਸ੍ਰੀਰਾਮ ਨਾਮਾ\n\n12. ਰਾਮ ਰਾਮ ਬੋਲਿ ਬੋਲਿ ਖੋਜਤੇ ਬਡਭਾਗੀ\nਰਾਗ ਕਾਨੜਾ\n\n13. ਮਨ ਜਾਪਹੁ ਰਾਮ ਗੁਪਾਲ\n\n14. ਹਰਿ ਗੁਨ ਗਾਵਹੁ ਜਗਦੀਸ\n\n15. ਭਜੁ ਰਾਮੋ ਮਨਿ ਰਾਮ\n\n16. ਸਤਿਗੁਰ ਚਾਟਉ ਪਗ ਚਾਟ\n\n17. ਜਪਿ ਮਨ ਗੋਬਿਦ ਮਾਧੋ\n\n18. ਹਰਿ ਜਸੁ ਗਾਵਹੁ ਭਗਵਾਨ\n\nਰਾਗ ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ\n\n19. ਜਪਿ ਮਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨ\n\n੨\n\n46\n49\n\n53\n58\n62\n66\n71\n75\n\n73\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,15 @@
+{
+  "pages_processed": 217,
+  "section_counts": {
+    "front-matter": 2,
+    "notation": 121,
+    "essay": 92,
+    "other": 2
+  },
+  "blocks_bordered_table": 48,
+  "blocks_inline_line": 119,
+  "shabad_match_high": 6,
+  "shabad_match_medium": 0,
+  "shabad_match_none": 109,
+  "shabad_match_attempts": 115
+}

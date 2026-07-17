@@ -1,0 +1,8 @@
+{
+  "page": 7,
+  "section": "notation",
+  "text": "ਪੜਤਾਲ ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ\n\nਰਾਗ ਆਸਾ\n\n20. ਬਿਕਾਰ ਮਾਇਆ ਮਾਦਿ ਸੋਇਓ ਸੂਝ ਬੂਝ ਨ ਆਵੈ\n21. ਬਾਪਾਰਿ ਗੋਵਿੰਦ ਨਾਏ\n\n22. ਕੋਊ ਬਿਖਮ ਗਾਰ ਤੋਰੈ\n\n23. ਕਾਮੁ ਕੋਧੁ ਲੋਭੁ ਤਿਆਗੁ\n\n24. ਹਰਖ ਸੋਗ ਬੈਰਾਗ ਅਨੰਦੀ ਖੇਲੁ ਰੀ ਦਿਖਾਇਓ\nਰਾਗ ਧਨਾਸਰੀ\n\n25. ਹਰਿ ਚਰਨ ਸਰਨ ਗੋਬਿੰਦ ਦੁਖ ਭੰਜਨਾ\n26. ਹਲਤਿ ਸੁਖੁ ਪਲਤਿ ਸੁਖੁ\n\nਰਾਗ ਸੂਹੀ\n\n27. ਪ੍ਰੀਤਿ ਪ੍ਰੀਤਿ ਗੁਰੀਆ ਮੋਹਨ ਲਾਲਨਾ\n\n28. ਰਾਸਿ ਮੰਡਲੁ ਕੀਨੋ ਆਖਾਰਾ\n\n29. ਤਉ ਮੈ ਆਇਆ ਸਰਨੀ ਆਇਆ\nਰਾਗ ਬਿਲਾਵਲ\n\n30. ਮੋਹਨ ਨੀਦ ਨ ਆਵੈ\n\n31. ਮੋਰੀ ਅਹੰ ਜਾਇ ਦਰਸਨ ਪਾਵਤ ਹੇ\nਰਾਗ ਰਾਮਕਲੀ\n\n32. ਨਰਨਰਹ ਨਮਸਕਾਰ\n\n33. ਰੂਪ ਰੰਗ ਸੁਗੰਧ ਭੋਗ ਤਿਆਗਿ\n\nਰਾਗ ਨਟ\n\n34. ਕੋਊ ਹੈ ਮੇਰੋ ਸਾਜਨੁ ਮੀਤੁ\n\nਰਾਗ ਭੈਰਉ\n\n35. ਪਰਤਿਪਾਲ ਪ੍ਰਭ ਕ੍ਰਿਪਾਲ ਕਵਨ ਗੁਨ ਗਨੀ\nਰਾਗ ਸਾਰੰਗ\n\n36. ਸੁਭ ਬਚਨ ਬੋਲਿ ਗੁਨ ਅਮੋਲ\n\n37. ਕੰਚਨਾ ਬਹੁ ਦਤ ਕਰਾ\n\n38. ਰਾਮ ਰਾਮ ਰਾਮ ਜਾਪਿ ਰਮਤ ਰਾਮ ਸਹਾਈ\n39. ਹਰਿ ਹਰੇ ਹਰਿ ਮੁਖਹੁ ਬੋਲਿ\n\n40. ਨਾਮ ਭਗਤਿ ਮਾਗੁ ਸੰਤ\n\n41. ਗੁਨ ਲਾਲ ਗਾਵਉ ਗੁਰ ਦੇਖੇ\n\n83\n87\n91\n94\n97\n\n100\n104\n\n107\n111\n114\n\n118\n123\n\n127\n131\n\n134\n\n138\n\n142\n146\n150\n154\n158\n162\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

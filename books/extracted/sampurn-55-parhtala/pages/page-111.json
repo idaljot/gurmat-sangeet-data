@@ -1,0 +1,8 @@
+{
+  "page": 111,
+  "section": "notation",
+  "text": "(੩) ਅੰਤਰਾ ਆੜਾ ਚਾਰਤਾਲ ( ੧੪ ਮਾਤਰਾ)\n\n2 3 4 5 6 7 8 9 10 11 12 13 14\n੩ 2 0 3 0 4 0\nਨੀ ਨੀ|ਨੀ ਨੀ|ਨੀ ਨੀ|ਨੀ ਨੀ [ਸੰਨੀ ਧ | ਪ ਪਪ\nਪ ਤਿਤ| ਉ ਧਾਰ ਣਾ|ਜੀ ਅ [ਜੰ ਤ [ਤਾ ੩ਰ ਣਾ\nਗੁ ਗੁਮਮ।ਪ ਪ|ਨੀ ਨੀ ਸੰ ਸੰ |ਸ\nਬੇ ਦ | ਉ ਚਾਰ|ਨ ਹੀ|ਅੰ ਤੁ ਪਾ ਇ | ਓ 5 $\n(੪) ਅੰਤਰਾ ਰੂਪਕ (੭ ਮਾਤਰਾ)\n1 2 3 4 5 7\n੩ 2\nਸ ਸ ਸ ਨੀ ਧ ਪ\nਗੁਣਹ ਸੁ ਸਾ ਗ ਰਾ 3\nਗੁ ਮ ਪ ਨੀਂ ਧ ਪ ਪ\n। ਹ ਸ ਰਤ ਨਾ ਗ ਰਾ\nਗੱ ਗੱ ਗੱ ਰੇ ਰੇ ਸਂ\nਗ ਤਿ ਵ ਲੁ ੩\nਨੀ ਧ ਪ ਮ ਗੁ ਰੇ\nਨਾ ਨ ਕ ਗਾਂ ਇ ਓ 5\n\n103 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

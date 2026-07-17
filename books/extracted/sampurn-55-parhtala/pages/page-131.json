@@ -1,0 +1,8 @@
+{
+  "page": 131,
+  "section": "essay",
+  "text": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੫ ॥\nਮੋਰੀ ਅਹੰ ਜਾਇ ਦਰਸਨ ਪਾਵਤ ਹੈ ॥\nਰਾਚਹੁ ਨਾਥ ਹੀ ਸਹਾਈ ਸੰਤਨਾ ॥\nਅਬ ਚਰਨ ਗਹੇ ॥੧॥ ਰਹਾਉ ॥\nਆਹੇ ਮਨ ਅਵਰੁ ਨ ਭਾਵੈ ਚਰਨਾਵੈ ਚਰਨਾਵੈ ਉਲਝਿਉ ਅਲਿ ਮਕਰੰਦ ਕਮਲ ਜਿਉ ॥\nਅਨ ਰਸ ਨਹੀ ਚਾਹੈ ਏਕੈ ਹਰਿ ਲਾਹੈ ॥੧॥\nਅਨ ਤੋਂ ਟੂਟੀਐ ਰਿਖ ਤੋਂ ਛੂਟੀਐ ॥\nਮਨ ਹਰਿ ਰਸ ਘੂਟੀਐ ਸੰਗਿ ਸਾਧੂ ਉਲਟੀਐ ॥\nਅਨ ਨਾਰੀ ਨਾਰੀ ਰੇ ॥\nਨਾਨਕ ਪ੍ਰੀਤਿ ਚਰਨ ਚਰਨ ਹੋ ॥੨॥੨॥੧੨੯॥\n(ਅੰਗ ੮੩੦)\nਪਦ ਅਰਥ :\nਮੋਰੀ = ਮੇਰੀ। ਅਰੰ = ਹਉਮੈ। ਜਾਇ = ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ। ਰਾਚਹੁ = ਰਚੇ ਰਹੋ, ਮਿਲੇ ਰਹੋ। ਸਹਾਈ ਸੰਤਨਾ\n\n= ਸੰਤਾਂ ਦੇ ਸਹਾਈ। ਅਬ = ਹੁਏ। ਗਹੋ = ਫੜੇ ਹਨ। ਆਹੇ = ਚਾਹੁੰਦਾ ਹੈ, ਪਸੰਦ ਕਰਦਾ ਹੈ। ਮਨ ਨ ਭਾਵੈ\n\n= ਮਨ ਨੂੰ ਚੰਗਾ ਨਹੀਂ ਲੱਗਦਾ। ਅਵਰੁ = ਕੋਈ ਹੋਰ ਪਦਾਰਥ। ਚਰਨਾਵੈ = ਚਰਨਾਂ ਵਲ ਹੀ ਆਉਂਦਾ ਹੈ।\n\nਅਲਿ = ਭੌਰਾ। ਮਕਰੰਦ = ਫੁੱਲ ਦੀ ਧੂੜੀ। ਅਨ = ਹੋਰ। ਲਾਰੈ = ਲੱਭਦਾ ਹੈ। ਤੋਂ = ਤੋਂ। ਅਨ ਤੋ = ਹੋਰ\n(ਪਦਾਰਥਾਂ ਦੇ ਮੋਹ) ਤੋਂ। ਟੂਟੀਐ = ਸੰਬੰਧ ਤੋੜ ਲਈਦਾ ਹੈ। ਰਿਖ = ਇੰਦ੍ਰ। ਛੂਟੀਐ = (ਪਕੜ ਤੋਂ) ਖ਼ਲਾਸੀ\n\nਪ੍ਰਾਪਤ ਕਰ ਲਈਦੀ ਹੈ। ਘੂਟੀਐ = ਚੁੰਪੀਦਾ ਹੈ। ਸਾਧੂ = ਗੁਰੂ। ਸੰਗਿ = ਸੰਗਤਿ ਵਿਚ। ਉਲਟੀਐ = (ਬ੍ਰਿਤੀ)\nਪਰਤ ਜਾਂਦੀ ਹੈ। ਗੇ = ਹੇ ਭਾਈ !\n\n123 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

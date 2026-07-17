@@ -1,0 +1,3176 @@
+[
+  {
+    "book": "asa-di-vaar",
+    "page": 2,
+    "image": "notation/page-002-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਗੰਧਾਰ ਨਿਸ਼ਾਦ ਆਰੋਹ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 3,
+    "image": "notation/page-003-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 4,
+    "image": "notation/page-004-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਧੁਨੀ = ਸੁਰ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 5,
+    "image": "notation/page-005-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਪਰ >% 'ਤ #ਟ ੮. ਧੁਨ / ਮੰ ₹ ਪਉ ਲੇ ਡਿ ਅਏ ਸਾ: / ਫ਼ ਦ ਊਪੰਟ ਊੰ %> 2੧ / ਨ > ਊੰ ਦ 6 =% / ੦ ।੦। ੦) । 69 / ੦ ।੦। ੦) । 69 / ੦ ਤੇ । 0 । 06 / 9 ਨਾ /ਠਿ । 6) ਇਟ ੦ / ੭ ਜਿ ਧੰਨ ਟਇ 9 ਦਿ 9",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 7,
+    "image": "notation/page-007-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 9,
+    "image": "notation/page-009-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-candidate-line-found",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 11,
+    "image": "notation/page-011-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "4 ਪ੍੍‌ਠ ਤੇ ੭ ਛ ਊ' ੜ / ਟ। ਜ/2 ੨ ਸਤ ਹਟ ਗਿ ॥ ਉਏ ਲ ਮਲ ॥੦ / ਟੇ ਦਲ = 09 ੭ / ਠਿ ਜਨਾ 0) ਗਿ ੦",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 13,
+    "image": "notation/page-013-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਟਿ % ਟਨ ਇਆ ਇੰ ਦੇ ਇੰ ੭ ਇੰ 9 # ਦਿ ਘ ਤੋ ਇਟ ਇਨ / £ ਦੂੰ ਏ ਉਏ ਨ $ $ ਰੀ / ਇਸ ਇਇੰ£ ਨੰ ਇਨਿੰ'ਲਨ ਤਹ ਛਲ ਤੋ ਇਉ ੭ / ਇ ਯ ਇਕ ਇੰ ਨੰ ੪ ਜਿ ਇ ਪੋ ਉਹ ਪੋ ਉਘੇ ਉਇ % / ਵਨ ੧ ॥॥੬॥॥ ਇਏ ਉਏ ੫",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 15,
+    "image": "notation/page-015-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-candidate-line-found",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 17,
+    "image": "notation/page-017-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਇਆ ਜ ਲੂ 9 1੬ ਜ ਇਤਿ ਠਿ 7 ਪੈਰ ਪਟ ਲੇ ਪੁੰਨ / !ਦ ਮੇ ਧੋ ੭ ਫ਼ ਅ2 ਟ % 'ਦ ਮੇ !ਟ ਮਦ ਮ0 ਜਤ 07 / ਜ਼ #ਲ ਧੋਠ # ਨੇ ਨੰ 2 /2 ਅਲ ਇਟ ਸ਼ਿ ਟਿ ਲਿ ਮਾ ਇਿ / ਇਲਲ>ਛਤੋ ਲੋ ਇੱ ਛ ! / ਸਹ ਉਸ ੦ ਭਿ 0 ਜਿ 00 ਇ ਲਨ ਇਉ 0!",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 19,
+    "image": "notation/page-019-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "!£ ਉ ੭ ਪੰ ਦ ਉਿ £ ਪ੍ਰ ? ੧6 ਊਟ 091 > ੧? 2 09) / [2 ਭਿਜ ਏਸ ਭਿ ਜ਼ ਇਤਿ ਪਟ ਸ ਠਿ ਪੈਨ ਪਉ ੫ / ।ਇ & ਪੁੰਠ ਨ ਟ %ਵ ॥ਇ ਫਟ ੭੮ ੪ %ਤ ਇਿ / ।ਟ ਨਨ ਇਿਸ਼ ਇਫਿਇਿ ਮਿ ਇਟ % ਜਿ ਇ ਦਿ ਲੂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 21,
+    "image": "notation/page-021-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 23,
+    "image": "notation/page-023-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਿ & ਵੇ ਨਾਪ ਇੱ ਪਟ ਆ ਵੇ & ਟੇ ਛੇ ਇਤ ਡੰ ਟੇ ਉਤੇ ਉੰਦ / ਨੰ ੭ ਨੰ ਛ ਨੰਆ ਨ ਇੰ ਏ ਇੰ ਲੈ ਇੰ 9 ਇੰਦ ਤੋ ਛੇ ਨ / ਇਆ ਨੂ ਲ ਨੂ ਨੰ ਇੰ ਟਿੰ ਭਾ ਇਹ ਲੇ ਇ॥ ਤੋਂ ਲ ਨਲ / ੧ ਦੈ? ਏ% ਉਏ <ਏ ਉਟ ਊ ਇਉ ਤਣ ਤਣ / ਇ ੬%$ £ 6 ਟੇ ਉਏ ਉਇ % $£ ਊਂ ਤੇ & ਤੇ &",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 25,
+    "image": "notation/page-025-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-candidate-line-found",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 27,
+    "image": "notation/page-027-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਇ ਸਿ ਟ ਸਿ 2 ਘ੍‌ ਮਨ ਇਟ ਦਿ &ਿ੍‌ ਅਨ ਸਿ 2 ।ਲ / 09 ਦ> ਪਏ ॥ ਅ% ਦਿ ਇਮ ਦਿ ੧ਨ ' ਟਿ ਇਟ ਓਟ / ਇ > ਨੇ ੮ £ਇ / ੦ ਜਦ ੦) ਤਿਹ) ੦ ਜ ੦ ਜਿ ੦",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 27,
+    "image": "notation/page-027-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "09 %ਜ ਦਿ ਹਾ ਜ਼ਿ! / ਨ £ ਝੇ > ਣੂਂ ਹ ਪੰ ! / [ਫਟ ਲ ਿ 6 ਦ ੦ ਵਿ ਲਿ / [ਟ ਤਿ ਇ ਝਿ ਤਨ ਇਇ ਝੜ / [ਟ & ? &ਿ੍‌ ਜ ਇਿ੍‌ #ਟ ਲਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 29,
+    "image": "notation/page-029-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਦਿ ਪ੍ਰ ਦਿ ਇਟ ਗਿ ਇਟ ਇਿ ਦਿ ਖਤ ਦਿ € ਟ ਫ਼ ਟਲਿ £/9ਟਿ ਹਿੰ ਜੇ ਇ ਨ ਲਿ ਇਟ ਜ਼ ਟ/ਨ ਨੇ ਇ £ਿ |; / ਇ ।ਲ ਫਟ |ਲ ਅਲ ਇ ਐ> % ਇਟ |ਲ £ ਲਿ 2 ਅਨ 67 ਵਿ | ਦਿ ਲਿ ਪਟ ਇ ੦ ਇ ਇਟ % ਹਾ ।ਨ#ਦ ਲੂ / ਦਿ /ਟ ਦਿ /ਲਰੋਂ 2 09) ।੮ |) ਦਿ ਪੁੰਨ ਦ % ਫਟ ਫ਼ |ਟ ਇ। ' ਇ ਵਿ ਫ਼ਿ ਜਾ ਫ਼ 2 ਇਟ ਇਹ ਉਇ 06 ਲ [ 0 / ਦਿ _€9 ਦਿ ਪਰੋ £ % |ਟ ੦ ਦਿ ਸ਼ ਦਿ 9 ਫਟ ਲ |ਟ 6 'ਇ ਦਿ /0 ਜਲ ਤਹ & ਵਿ % ਉਵ 0€'ਦ |ਨ [ਟ 0",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 33,
+    "image": "notation/page-033-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 35,
+    "image": "notation/page-035-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 37,
+    "image": "notation/page-037-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਲ ਗੁ ਜੇ ਇਮ ਭਿ ਤਾ ਧਰ ਟ੍ਰਿ ਇਤ ਇ> ਫ਼ / ਟ 187 ਇ ੮ ਇਨਾ ।ਲ ਜਾ । ਇ ॥ ਪ੍ਰ ਤ ੦ / ਧੌਲ ਤਜ ਜਦ ਜਦ ਨਿ ਨਾ ਲਿ ਜਿ ਦਿ ਪੰ ਜਦ ਛ ਜਦ ਇ / ਲਿ ਤਦ ਪ੍ਰੰਏ ੮ ਇਸ 00 ਜਿ 0 ਦ ਪ੍ਰੰ£ 7 ਇਿ ਟ ਪ੍ਰੰ£",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 39,
+    "image": "notation/page-039-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "£ਛ ੨ ₹ਏ ਉਏ ਉਇ ॥£ ਉਆ ਦਏ ਇਡੇ ਛ / ਨ ਹਰ ਇੱ ੭ ਇ ਏ ਇੰ ਲੈ ਉਇ ਆਇ ਲੈ ਇੱ ਘਟਿ ਲੈ ਤੋ ਛੇ ਇੰ ੭ / ਨ = ਊ $ ਨਟ ਨੰ ਹਲ ਨ % ਏ $ ਨ ਫ ਤੇ ੪ ਨ / 2 ਨ ੩ ਨ ਅਨ ਲਅਲ ਤੇ ਨਲ ਤੋਂ ਆ ਆ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 41,
+    "image": "notation/page-041-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "੨੦ /# ਤ &ਮਲ & & ਦ 0 ਤ ੦0 ਪ੍ਰੰਠ [ਟ ੦ ਜਿ 1੦ & ਵਿ 06) % ਮਿ ਪ੍ਰ ਇਟ ੦ਮ੦ ੦ ਟ ੦ / ੮੨ ਦ ਪ੍ਰ ਤ ੭ ਜਦ % ਦਿ % ਦ ਲੂ ਨ % ਟ ਪ੍ਰੰ£ ਦਿ 99 ਤਦ ਲਿਟ %ਦਿ 69 07 08 ਇਿ % ਦ ਪ੍ਰੰ£ ਦਿ ੦ / `ਚ ਦਰ ਜਤ % ਜਿ 06ਅਲ % ਜਟ ਲਿ 2 % ਜਿ 0&ਮਲ 67 ਦ ਪ੍ਰੰਏ ਜੇ _% ਮੋਨ % ਜਿ ੦ ਦਿ % ਜਿ &ਮੋਲ 99 / ਟਾ, ਦ ਛਤ> % ਜ਼ ਇਨ ਛ ਤੇ % ਮਾ ਪ੍ਰੰ£ ਅਨ ੭ > ਨਿ ਜ ੦੦ ਲਿ ਨ % > ਲਿ ਮ ਪ੍ਰੰਏ 7 ਰਿ ਨ % / ੨ ਸਇ॥ਤ ੦ ਦਿ ਰਿ ਟਿ .ਇ ੮ :ਿ ਹ ੦ ਦਿ ਨਿ |ਟ 6੦7 ਜ ਨੰਦ ੭> ਗਿ % ਨਿ ਟਿ %ਅਲ ੦ ਇਿ €9 / ੪ > ੧80੭ ਲੂ ਤਿ ਇ ਦਿ ਫਿ ਟ ਪਏ ਨ ॥ ਤੂ 2 ਦਿਤਿ ਤ ਪਨ £ %ਦ ਜ਼ ਫਿ ਤਿ ੭ ॥ ੬ ਇਤ |ਲ ਦਿ ਤਿ / ਰਾ |ਲ ਜਤ % ਮ ਪ੍ਰ ਦਿ % ਲਿਹ ੦ਜ ੦ ਦਿ % 'ਦ ਪੰ !ਦ ੦ ੪60 09 ਪੰ ਦ ਜ਼ ।6 ਦਿ % / - ਨਨ ਲਤ ਆ==ਦ॥ਲਤੇ ਫ਼ ਦ ਛਪ >> ੩੪੨ ਦਏ ਸ:!ਟ ਓ ਦਾ ਠਿ ਦਿ ਜਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 43,
+    "image": "notation/page-043-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 45,
+    "image": "notation/page-045-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨ.ਅਜ % ਤ ਪ੍ਰ ਤ ੭ਜ> ਅਜ ੦ ਜਤ ਠਿੰ ਤਨ % ਫਟ ਇ ਇਟ 60੦ ਸਟ %ਇ ਕਿ ਉਇ & ਤਨ ੦ | 0 / ਦ ਰੰ ਦ਼ ਛ % ਜਿ |ਲ ੮ 0777 ਅਘ ੮ ਅ 0 ੜੋ `ਇ ੧6 ! ।ਲ ਮਲ ੭ ਦਿ ੮ ॥ਧਟ ਦਿ ੦",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1 2 3 4 1 2 4",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਦੇ ਖਾਜੈ ਆ ਥਿ ਵਾ ਐ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਜੇ ਲੋੜਹਿ ਚੰ ਗਾ ਪ ਣਾ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਜੇ । ਜਰ ਵਾਣਾ ਪ ਰ ਹ ਰੈ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ / ਕੋ ਰਹੈ ਨ ਭਰੀਐ ਪਾ ਈ ਐ 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਕੋ ਰਹੈ ਨ ਭਰੀਐ ਪਾ ਈ । 5 / ਨੀਸੰ ਸਾ ਸਾ ਸਾ ਸ ਸਾ ਸਾ ਸਾ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 47,
+    "image": "notation/page-047-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਐ । । । । 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 49,
+    "image": "notation/page-049-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "[ਨ ਨੂ ੫੩ ਜ ਦੇ ਦ ਇ,6 >ਿ ਕਰੋ # / ਦ ਜਤ ਗਿ ਜ (ਅਨ ਫ਼ ਟ ਜਿਤ ਜਿ / ਲਤ ਪਨ ਦਿ ਪੈਨ ਅਲ ੮ %) ੭ |ਲ / ਅਜ ੦ ੦੮ ਗਜ ੦੭ ੦ / ਗਲ ੪ ਜਿ 0 ਜਿ ਨ! / ਜਿ ਪ੍ਰ ਮਨ % ਦ ਲੁ / ਲ ਦਿ % _ ਤਾ ਪਟ ! / ਜਿ ੦ ਦਿ 0) #ਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 51,
+    "image": "notation/page-051-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "[ਤ [ਉਤ ਅ < ਰਣ ਦ ਨ ਪਦੇ ਊ 0੪ “ਦੇ ਏ ਪਟ ਇੰ, / ਤ ਪ੍ਰ ਦ ੭ ਤ ਪੁੰਨ ਦ ੭ ' % ੬ % ਵਿ ਇ ਵਿ 10 ਮਗ ਉ ਲਤ ਇਟ % / = %।ਟ 18) ਤ ੧੪ £ 8 ਪੰ ਟਿ ਇ/ਇ ਨਮ ਲਿ # #£ ਇਟ ਜਿ ਤਾ ਇੰ £ 1੦) / ਲੋਟ ਨਿ = ਉਇ 1੮ ੧੨੮ $ ਦਿ ਡਿ £ ॥2 76 ਪੁੱ ੮ 2 ੜ#ਦ ਰਿ / ਨ ਇੱ = ਪ੍ਰ = ਆ > ੬ 1ਟ ॥ # ਪ੍ਰੱਊ ਪੰ ਦੇ । 7 ਪੁਛੇ ਦਿ ਲਾ ਪੌਠ ਛ > ਲੂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 53,
+    "image": "notation/page-053-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 55,
+    "image": "notation/page-055-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1 2 3 4 1 2 4",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 55,
+    "image": "notation/page-055-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਜਿਨਿ __ਵਿਚਹੁ ਮੋ ਹੁ ਚੁ ਕਾ ਇ ਆ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 55,
+    "image": "notation/page-055-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਉਤ ਮੁ ਏਹੁ __ ਬੀਚਾਰੁ ਹੈ 9 9 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 55,
+    "image": "notation/page-055-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ / ਜਗ ਜੀਵਨੁ ਦਾ ਤਾ ਪਾ ਇ ਆ 8",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 55,
+    "image": "notation/page-055-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਜਗ ਜੀਵਨੁ ਦਾ ਤਾ ਪਾ ਇ 5 5 / ਨੀਸੰ ਸਾ ਸਾ ਸਾ ਸ ਸਾ ਸਾ ਸਾ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 55,
+    "image": "notation/page-055-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਆ 5 5 5 5 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 57,
+    "image": "notation/page-057-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "[ਇ ਜੜੇ ਡ == ਦਲ, ਦੋ ੪; ਜਦ ਦਹ > (2 ਦਆੜਲ>ਸਣ ਇਟ ਦਲ / % ਜਨ ੪ /€ ਫਟ % ੮ ਭਿ; > 69 ਮੰ ਪ੍ਰੱ£ ਫਿ 99 ਜਿ %ਉ % ਵਿ ਪ੍ਰ ਫ ੦ਜ ੦) ੪ ਰਲ 6) ਇਟ 69 / ਟ ਇਤ % ੮ ਪ੍ਰੰ£ ਦ % 'ਟ 6੭ & ਟ % ਦਿ 6 ਤਾ ਜਾਂ % ਦਿ ਪੁੱਟ ਟ ੦ ਨ ਲਿ ਟ % ੦ ਦਿ % / ਦ ਪੋ ਨ ਪੰ ਤਿ ੭ ਦਿ ਇਿ ਟ ॥ਿ ਤ ਪ੍ਰ ਤੂ ੪ ਦ02 ਜਤ % ਉਇ ਲਿ ਪੱਟ ਫਿਟ ਨ ਸਟ ਇਤ |ਡ ਦਿ /ਟ / ਦ ਪਤ % ਜ ਪੋਲ ਆ ੪੦ ਜਦ |67ਜ ੦ ਜਿ 06)02 07 ਦ ਗ੍ਰਏ ਸੇ ੦ ਮਲ ਇਸ ੦& ੮ ਅ ਜਿ ੪6 ਐਲ 07 / ਮੱਠ ਨ ੬: ਦਿ 9੪ !ਟ #£ 2 ਊਂ ਨ ਲੂ ਦ |ਲ ੦ ਜਿ ਗਿ & ਮਲ ਗਿ /€ ਜਿ ਅਲ ਉਇ ੦0 ਪ੍ਰੰਠ [ਟ ੦ / ਲੱਦ ਅਜ & ਦਿ % ' ਲਿ ੭ % ਮਹ ਪ੍ਰ ਦਿ % % ਉਇ ੦੭6 ਪ੍ਰ ਜਿ % ੮ 09): ਅਜ 6 ਦਿ %)",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 59,
+    "image": "notation/page-059-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 61,
+    "image": "notation/page-061-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 65,
+    "image": "notation/page-065-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਦ ਧ੍ਰੰ£ ਤੇ ਧੰਨ ਤੂ ਉਹ ' ਮਲ ਇਨ ਨ ਤੂ & ਦ % ਤ ।ਨ £ ਨ ੯ ਹਿ 2 #ਓ ੭ |ਨ ਲੂ 7 ।ਨ ਦਿ /ਨਿ / % ਜਦ ਗਮ ਫ਼ | % ੮ ਪੈੌ੍‌ਹਹੇ ੭ %ਮਨ & |ਟ 69 ਜਿ % 0) 'ਟਿ 0) 09 ਧੰ2 ! ੦ ਅਨ ੦ ੦ / ਧੌਠੋ ਤ ੭ ਦਿ ਲਿਟ % ਦ ਲ਼ਿ ੭ ਲਿਓ & | 67 ਮੁ ਪ੍ਰੰਏ ੦ ਮਦ ਨਿੰ ੭ ਜਿ ਇਟ ੦੦ ੪ ਟ 67 / ਟ % ਜਨ ੦ ਦ਼ /ਠਿ ਦਿ % ੮ ।ਇ ੭ ਪੈ) ੮ ਪ੍ਰੰਹੰ ਨ % ਨ. ਗਿ ੦ ਦਿ €9 % ਤਾ ਪ੍ਰੰਏ % ਦ ਪ੍ਰੰ2 ਦਿ ੦ / ਦਲਿਤ &ਜ 0ਅਲ 6 ਫਟ &ਜ 0 ਹਿ 09/ਲ 09 ਦ 00 0) ਹਲ 0 09 ਜਗ ਜਿ &%੦ ੦) / ।ਲ ਜਤ ੦ 0 ਪੁੰਟਾਂ ਚ % ੮ ੦ > % 0 ਪੁੰਹਾਂ ਦਿ %9 ।ਲ ਦਿ 0%ਲ % % ਦ ਪ੍ਰ ਇ ਜ਼ ੧ ਦਿ %) / ਓਇ: ਦੇ /੭ ਮਾ ਕੂ ਦਿ ਇ 6 ਪੰਠ ਕਰ 2 ਜ ਦੂ ਦਲ ਪਰ > ਖ਼ ਗਨ ਇ0ਜ ਜਿ ਦ ਨਿ £#ਨ ਜ ਹਿ ਦਿ ਪ੍ਰੰ£",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 67,
+    "image": "notation/page-067-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਟ ਪ੍ਰ > ਛ > 6 ੪ ਪੰ ਦੇ ਧੋ ਇ ਇ ਜੇ !ਟ ੧ ਚ / ਡ੭ੜ ੭> ੦ ੦ ਇਟ |2 ਫਟ ੦ |2 ਤ ੦੦ ।ਿ / ਹਰਿ ਨ ਨਿ 7 ਇ ਣਿ ਗਿ; 'ਇ ਦਿ ਲਿ ਟਿ % 7 ਅਠ 2 ਟਿ / ਹ।ਲਨਜਿ?ਤ । ਜਿ [0 ਉਇ ਗਿ ਇਟ ੧6 ਇਿ ਨਿ ਹਿ ਹੋਏ ॥ਿ / > ਲੇ ਦ ਬਦ ਲੈ ਦ ੧੪ ।£ ੦੧29 ਜ ਦਿ ਇਿ |) ਦਿ /ਏ / ਓਸ 0੮ ੮ ਜਿ ਇ ਹਟ % ਦਿ ਪ੍ਰੀ! ਨ 'ਲਿ ਟਿ ਠਿੰ ਟ %",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 68,
+    "image": "notation/page-068-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਲਖ ਸੁਰਤੀ ਲਖ ਗਿਆਨ ਧਿਆਨ ਪੜੀਅਹਿ ਪਾਠ ਪੁਰਾਣ ॥",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": 1709,
+      "confidence": "high",
+      "method": "exact-line-search(words=all)",
+      "similarity": 1.0,
+      "matched_verse": "ਲਖ ਨੇਕੀਆ ਚੰਗਿਆਈਆ ਲਖ ਪੁੰਨਾ ਪਰਵਾਣੁ ॥",
+      "ang": 467,
+      "raag": "ਰਾਗੁ ਆਸਾ",
+      "writer": "Guru Nanak Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 69,
+    "image": "notation/page-069-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1੨ ੧6 1੨ ਜਿ ! ਗ੍ਰਹ ॥ਤ= ਝਿ ਦਿ ਇ #ਏ ਨੂੰ ਤੇ ੭ ਕੰ £ ੧ $ੂ £ ੦ / 1 ਲੂ !ਟ ।ਲ ਦਿ ਪ੍ਰੰਏ ਇਿ ਲ਼ਿ ਜ ਚਿ “£ ਪ੍ਰੰਟ ।ਏ ਜਨ ਲਿ ਇਟ ਇ ਇ % ਤਮ ਪ੍ਰੰਹ ਮਨ ਇ / ਪਰ ਇੱ ਤੇ ਲੇ ਭੂ ਲੇ ਇਨ = ਨੂੰ ਤੇ ਤਾ ਨ ਉਇ ਇ ਦ ਫ #੮ ਪੈ / 'ਟ ਇੰ = ':% ।ਨ ਦੇ #£ ਧੋਠ ਇੰ ਦੇ ਨ ਟ ੧ ੨ ਚੇ ਦੇ ਉਨ ਇੰਪੰਟ ਡ ਦ ਛਿ / !£ ਲਤ ਲੇਇ ਸ਼ ਜ ਇਧੰਟ ਸ਼ ੨ 6 ਟ ਊ, > ਪੰ ਦਾ ਪਏ । ਉਠ 8 > ਤਾ / ਲਇ=ਛ॥ਛ= ਉਪਟਛ> ਲਨ > ਲੂ ਮਦ ਤਪ ੧ ਪੂ ਟੇ ਉਇ / ਛੂ ਦ 0ਇ ਜਿ ਟ ਘੜ ਫਟ 060 ਅਲ ਤਾ 6 £ਿ ਛੂ ਟ ੭ ਜ> % ੬ 00",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 71,
+    "image": "notation/page-071-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਟਿੰ9ਆ ਨ ਇਛ ਦਿ ਚ ਦਿ ਝੈ ਇਹ ਇੰ ਦੇ ਤੋਂ ਭਿ ਨੰ ਭਿ / ਨ ੭ਇਛ ਇੰ “ਇਿਇਇ “ਇਏ ਦਿ ਘਨ $ ਕੋ ਏ ਇੰ ੭ / (ਇ ੭ ਇ& ਇੰ ਇਛ ਇਏ ਇ& ਦਿ ੦ ਇ % ਤੋ ਉੰ ਉੱਊਂ ਫ਼ / ਇ ੭੬ ਉਇ ੭ ਛੇ ਇਟ ਇੰ ਇ ਇਨ ਦਿ ਇ ਤੋਂ #ਨ ਨਟ / £ ਆਏ ੮ ਨੂ ਨੈ £ ੦ ਏਵ ਉ£ ਇਏ ਇਏ ਇਤ / ਦਏ £ ਦੇ ਇੱ ਦਏ ਇਆ ਤਉ ਤੇ ਛੇ ਤੇ ਛੇ / ਇਿ ਇ ਨ ਊਂ ਇਨ ਇ ੧? ਇਟ ਤੈਂ ਇਏ ਤੇ & ਟੇ ਲਵ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 73,
+    "image": "notation/page-073-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 77,
+    "image": "notation/page-077-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਹੀ = “ਆ ਦ- ਸ਼ ਦ 48 ਲਓ / 'ਇਰਟ ਦੇ ੭ ਹੂੰ. ਓ % ! ਲ ਜ ਲਾਧੌਠ % ਦਿ % / ਇ ਪੱਟ ।ਦ ਜਿ ਸਾ ਪ੍ਰੰ£ ।ਦ ਅਗ ਅਲ > £ਪੈੱਠ /੭ ਦ ਹ / ਅਤਿ 0 ਜਿ 0 ਜਿ 0 ਤਾ ੭0 ੦ਜ> ੭ ਜਿ ੦ / ਟ ਛੂ ।£ ਲੂ ।ਟ ਲੂ ॥ ਛੂ ਤੇ ਛੂ ਇ ਲੂ ਤੇ ੂ । ਇੂ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 79,
+    "image": "notation/page-079-block-1.png",
+    "layout": "inline-line",
+    "raw_text": ",ਏ ਸਤਿ, ਇੰ ਤਿਉ. ਇਤਿ ਮਨ ਨੇ ਇਹ ਇੰ 6 ਦੇ ।ਅ / (ਏ ਭੰ ਤੇ ਨੂੰ ॥ ਤਿਉ $ ਤੇ ਉਇ ਉਇ ਦੂ ਇਤ ਕੇ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 81,
+    "image": "notation/page-081-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 83,
+    "image": "notation/page-083-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਹ ਇਤ ਇ ਦਿ ਭਟ ਇਤ ਜਤ 7 ਪੈਨ ਦਿ 9 % ਠਿ!£ ਓਸ ॥6ਤ %॥ ਛੂ ਨ । ਦਿ ਨ); ਟ ੦ / ਠ. ੭ ਜਨ ਲ ਦਿ %ਇ % ਤਾ & ੨ ੪6 ਦਿ ਫ਼ ਟਿ 97 ਹੋਏ ਦਿ ੭ਜ ਤਜ ੪ ਪ੍ਰੰਏਤ ੜਾ ੦ € / ਤਾ ਡਿ > ਝ ਦਿ ਇ ਵਟ ਇ ੭ “ਫਟ ਜਤ €ਿ੍‌ ਦਿ #ਲ਼ !ਟ 1 ਇਉ ॥) ਤ/ਡ > 010 ਲਿ > ਲਿ ਦਿ ਇ॥ ਟ 01 / ਗਜ ੦ ਜ ੪6ਅਲ 6) ਫਟ ੪ ਜਿ ੮ ਦਿ 69ਮਲ 67 & ਮਲ 9 ਪੁੰਠ % ਦ ੦ਜਿ ੦ ! ੦ ੦ ਮਦ ਤਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "error: 'resultsInfo'",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 85,
+    "image": "notation/page-085-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 87,
+    "image": "notation/page-087-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "6 ਊਂ ਤੇ £ ਨ ੪ ਤੋ ਹੈ . “ਨ ਤੱ # ਤੇ 6 ਉਏ ਦੇ ਪਊ ਯ / [ਇ ਨ ਤਹ ਤੋ ਕਉ ਇੱ ਤਿ 2? “ਡਟ ਜਿ ਪੰ ਏਕੇ ਉਏ ਆ / ਤੋ ਸੜੇ ਤੋਣ ਤੋ 9 ਤੋ= ਤੇ 6 ਤੈ ਏ ਇਆ ਤੇ ਓਇ % / ਤੇ ਉਤ ਕੇ ਆੜ ਉੱਠੇ ਅਤੇ ਹਟ ਆਉ ਨੰ ਆ ਉਇ ੭",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 89,
+    "image": "notation/page-089-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 91,
+    "image": "notation/page-091-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 93,
+    "image": "notation/page-093-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੪",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 95,
+    "image": "notation/page-095-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 97,
+    "image": "notation/page-097-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਫ਼ ਉਤ ਉਂਜ ਤਉਨਆ ਤੇ ਊ ਤਉ ਰਿ ਦੇ = / ਇਇਤ ਨ% ਨੂੰ ਤੇ ਜਿ ਨੰ ਤੇ ਉਤ ਇਉ ਲਟ / ਤੋ ੭ ਤੋ 2 ਤੋ 95 ਤੋ & ਤੇ ਪੰ ਤੇ 2 ਤਿ ੭ ਇਕੋ ੭! / ਤਹ ਭ ਟਨ ਤੇ ੩ <<",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 99,
+    "image": "notation/page-099-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 101,
+    "image": "notation/page-101-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 103,
+    "image": "notation/page-103-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 105,
+    "image": "notation/page-105-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 107,
+    "image": "notation/page-107-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 109,
+    "image": "notation/page-109-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "(ਏ ਪਰ ਤਿਸ $ਏ “ਏ ਤਿ # ਉਇ ਐ ਤ ਹੂੰ ਇਏ ਉਪ ਹੇ ੨ ਆ / ਤੋ 2 ਤੋ ਓ ਤੇ ੬ ਤੋਂ ॥ ਤੋਂ $ ਤੇ ਓਇ ਇ ਹਿ ਇ ਇਉਂ ਨਿਊ ੭ / ਤੋ ਇਤ £ ਤੇ ਝੇ ਤੋ ਨ ੜੇ ਆ ਤੇ ਨਿ ਨਰੰ9ਨ ਤਿਉ ਤਿਸ ਸਾ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 111,
+    "image": "notation/page-111-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 113,
+    "image": "notation/page-113-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 115,
+    "image": "notation/page-115-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 117,
+    "image": "notation/page-117-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨ ਇਤ ਵਨ ਉਤ ਲਤ ਆ ਤੇ ਦੂੰ ਟੇ / ਟੇ ੦ ਟੇ ਨੰ ਕੇ ਟੇ ਅੜੇ ਨ ਅਤ ਅਉ ਆ ਉਨ / ਤੋ ਤੇ £ ਤੇ % ਤੋ ਨਿ ਤੋਂ ੭ ਤੂਂ ਇ ਵਿ ਪੰ ਕੰ ਇ ਤਿਂ ਪਏ ਇੰ ਪੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 119,
+    "image": "notation/page-119-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 121,
+    "image": "notation/page-121-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 123,
+    "image": "notation/page-123-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1 2 4 1 2 4",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਕਪ ਰੰ ਰੂ ਪ ਸੁ ਹਾ ਵ ਣਾ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੰ ਦਾ ਚੰ ਗਾਂ ਪ ਣਾ 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਪੇ ਹੀ ਕੀ ਤਾ ਵ ਣਾ 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਰਾਹਿ __ ਭੀੜੈ ਅ ਗੈ ਜਾ ਵ ਣਾ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਨੰ ਗਾ ਦੋਜ ਕਿ ਚਾ ਲਿ ਆ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਤਾ ਦਿਸੈ ਖ਼ ਰਾ ਡ ਰਾ ਵ ਣਾ / ਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ / ਕਰਿ ਅ ਉਗ ਣ ਪ ਛੋਤਾ ਵ ਣਾ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 125,
+    "image": "notation/page-125-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਕਰਿ ਅ ਉਗ ਣ ਪ ਛੋਤਾ ਵ 8 / ਸੱ ਸੱ ਸੱ ਸੱ ਸੱ ਸੱ ਸੱ ਸੱ / ਣਾ 5 5 5 5 5 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 127,
+    "image": "notation/page-127-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 127,
+    "image": "notation/page-127-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "- ਪੰ? ਮਦ ਇਿ % ਦਿ 21 / 2 2 0 _ ਤਾ , ਜੇ ਪੁੱਟ ?",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 127,
+    "image": "notation/page-127-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮਹ ਤਜ ਇ ਤਾ ਲੂ ਦਿ ਠਿ #ਟ / ਜਿ ਹਟ ਇੰ /9 > ।ਨ ਦਿ / & ਤੇ ਜਿ ਤੇ 9 ਅਲ ਪ੍ਰੱਏ ਇ / ੭ ਭਜ ਪ੍ਰ ਤ ੦ ਦਿ ੦",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 129,
+    "image": "notation/page-129-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "'ਇ ਭਿ, £੪> ੧ ਦ £ ਇ ।, ਰਿ ਟ ਗਿ ਦਿ ਡੇ ਇੰ ॥ਅ ਹਰਿ ਇ0> ਇਉ ਇਧੈਠ ਛ > ਸਾ ਨ %> / !ਟ ।ਠ ਜਨ ।ਗ £ ਪ੍ਰੰਨ ਟ ੧0) ੮ 090 ਜਤ ੦ ੦ ੮ ॥0 _ 7 /0 'ਿ #ਓ 0 ਅਏ £ਿ ਪ੍ਰ ਤ ਫ਼ ੭ ੦ ਨ /ਏ | / ਦਿ ਗਲ ਗਤਿ ਅਘ ਜਤ ੪6 ਦਿ 902 ਅਜ ੦ ਜਤ 0 'ਇ /) ਦ ਜਦ ਨ 09 ਦਿ ੭ ।67 ੮ ੮ ਜਿ ਦਿ / ਦਿ ਦਏ ਲਵ ਪਏ ਦਲ ਦੇ ਉਇ ਅਟਲ ਫਜਣਫਿਦ / ਇਟ ਓਿ ਨ % ਜ਼ ੪ਅ> % ਟ/€ ਤਨ % ਦ ਅਮਨ % ਤੂੰ ਇਟ ੦੦ ੦੮ ੦606 ਤ ਲਿ ਤਾ % ਟਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 131,
+    "image": "notation/page-131-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "=| ਇ%,ਨੇ ਇ > ਭਿਨਦ ਰਿ ਇ 6 $ਟ ੨ ਪਏ ਦਰਿ ਇੰ ਨੂੰ ਨ੍ਿਨਗ ੪ ਰਹੋ ਲਤ ਚੇ ਦ ਲੂ / ਦਿ _6) ਅਲ 6) 7 09 % ਦਿ _€1 ਅਲ ਪ੍ਰ ਜਿ 9 ਜਤ €& ਟਿ % ਦ ਪੁੰਜ ਨ ਦਿ % ਜਿ % ੭ ਜ ॥ਿ) / £ ਲੂ > ਲੂ > ਲੂ £ ਪੁੱ £ ਲਤਾ ਛੂ ਟ ੧੮ ਪੱ > ।:ਇ 02 09 ਇਟ %ਤ ਲਿ ਤਾ ਲੂ ਤਪ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 133,
+    "image": "notation/page-133-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 135,
+    "image": "notation/page-135-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "'ਏ 3 6 ਇਤ ਹੋ ਏ # ਏ ॥ ਪੁੰਟੂ ਹੋ ੭” ਲੇ ਪੁੰਟੂ ਡਿ #ਪੰਹ ਤਿਉ ੜਜਨਿ= ਕਦ ਰਿ / ਦਿ ਪੈ ਤਹ % ਜਿ % ਤਾ ੧ ਜ ਕੌਲ ਨਾ ਪੈਜ ੭ ਇ % ਤ ੭ % ਤ ਅਚ 0 ਮ ਪ੍ਰ ਨ ੦) ਦਿ ੬ / ਟ % ਨਾ ਧੰਨ ਨ ਹਿਤ ੭> ੦ ਨ ।੭ ।੦ ਓਨੇ ਨ ੭ ਇਅਗਤ ੦੬ ਅਜ ੦ ਇਨ ਦਿ ਦਿ / ਚ ।€ ੭ 6 ਦਿ ੭0੦09 ਜ 0 ੮ ਧਨ | ਦਿ € [ਟ ਗਿ ਤੱ ਡੇ ਦਿ ਪੰ9 ਤਲ ਧੋ ੭ ਤਾ 0੭ > ਪ੍ਰੰ£",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1 2 4 1 2 4",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਤਾ ਸਾਈ ਕਾ ਰ ਕ ਰਾ ਇ ਸੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੋ ਸੇਵ ਕੁ ਸੇਵਾ ਕ 3 ਰੇ 3",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਜਿਸ ਨੋ ਹੁਕ ਮੁ ਸ ਨਾ ਇ ਸੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਤਾ ਖਸਮੈ ਕਾ ਮਹਲੁ ਪਾ ਇ ਸੀ 3",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਖਸ ਮੈ ਭਾਵੈ ਸੋ ਕ ਰੇ 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-7.png",
+    "layout": "inline-line",
+    "raw_text": "ਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ / ਤਾ 5 5 5 5 5 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 137,
+    "image": "notation/page-137-block-8.png",
+    "layout": "inline-line",
+    "raw_text": "ਦਰ ਗਹ ਧੈ ਧਾ ਜਾ ਇ 5 5 / ਸਂ ਸਂ ਸਂ ਸਂ ਸਂ ਸਂ ਸਂ ਸਂ / ਸੀ 5 5 5 5 5 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 139,
+    "image": "notation/page-139-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 139,
+    "image": "notation/page-139-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਨੀ - ਉ = = ਪੰ > ੪ ਦੇ =ਲ ਦਲ ਦ ਦੂ > ਉਵ ਇਆ ਛੇ ਦੇ ਚ / ਸਿ #£ 'ਦ ।੨ ਸ਼ ਪ੍ਰ ਚ 2 ਸ ਪੰ ।ਲ ੧੧ ਹਿਲ ਲੂੰ > ਜਿ £ 6## ਪੰ ਜ ੦ ਪੌਠ / ਡ ਪੁੰਨ ੮ ੭ ਨਅਟ | ੦ਜ ੦ ਟ ੦ ੦ €7 ਜਿ ਅਉ &ਮਲ ਸਿ ਗਤ / ਤ ਠਿ £ ਧ੍ਰੰ£ ਨ ਪੰਨੇ ।ਟ ਮੰਡ ਤ 0) ੮ % 0 ਪ੍ਰੰਏ ।੮#ਟ ਜ ਪੰ ਦ ੭ 20 ਤਾ / ਨ ਲਿ ਮਲ ਗਿ ? | ਮਨ ਲਿ 7 ਨਿਂ ਅਨ /2 ।ਟ ੭ %£ ਪੰਨੂੰ ਤ ਛਿ ਸਿ ੧2 ਗਏ ਿ ਅਟ ਜਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 140,
+    "image": "notation/page-140-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਮ ਮ ਮ ਪ ਪ ਪ ਪ / ਹਿ ਰ ਦਾ ਸੁ ਧੁ ਹੈ 8 / ਮ ਮ ਮ ਗ ਗ ਰੇ ਰੇ / ਹ 5 ਰਿ ਭਗ ਤਿ ਹ ਰਿ / ਗ ਗ ਗ ਰੇ ਰੇ ਸ ਸ / ਲੀ 5 5 ਜੈ 5 5 ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 141,
+    "image": "notation/page-141-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਦਿ ਪੈਰ ਮਨ % ਫਟ ੪ ਦਿ % ੦ ਤ ਨਿ ਸਿ ਟ ਗਜ ਜਨ % % ਯੋ / ਦਦ /ਏ !ਟ ਜ਼ਿ,6 ਇੰ ,6 10 “ ਹੂ > ਫਿ ਇੰ £ ੧0 '੨ ਪੰ #> & ਤੇ ਛ ੪ ੧9 ਜ / ਦਿ € ਫਟ ੪% ਟ/੍ਹ ੮ ਇਿ ਦ06ੜ 71 ।€€ਇਿ ਟ ਅ9 ਜਦ ੦ ਤਾ ਭਿ ੭ ਉਤ / ਦਿ 6 ਟ % ਤ ਪ੍ਰ ਟਲ ਦਟ ਠਿਿੰ ਨ ॥। 00 % > ਲਿ £ ਪੈਨ ੭ /ਏ ਡ ।ਤ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 142,
+    "image": "notation/page-142-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਅੰ ਤ ਰਿ ਪੂ 5 ਜਾ / ਪ ਪ ਪ ਮ ਮ ਮ / ਪ ੜ ਹਿ ਕ ਤੇ ਬਾ / ਮ ਮ ਮ ਗ ਰੇ ਰੇ / ਸੰ ਜ ਮੁ ਤੁ ਰ ਕਾ / ਸ ਸ ਸ ਸ ਸ ਸ / ਭਾ 9 9 ਈ 9 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 143,
+    "image": "notation/page-143-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1 2 3 4 5 6",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 143,
+    "image": "notation/page-143-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਸ ਸ ਸਰੇ ਗ ਗ ਗ / ਸਾ ਣ ਸ ਖਾ 9 ਣੇ / ਰੇ ਰੇ ਰੇਧੁ ਸ ਸ ਸ / ਕ ਰ ਹਿ ਨਿ ਵਾ ਜ / ਸ ਸ ਸਰੇ ਸ ਸ ਸ / ਛੁ 5 ਰੀ ਵਗਾ ਇ ਨਿ / ਰੇ ਰੇ ਰੇਧੁ ਸ ਸ ਸ / ਤਿਨ ਗ ਲਿ ਤਾ 5 ਗ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 143,
+    "image": "notation/page-143-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਮ ਮ ਮ ਰੇਮ ਮ ਮ / ਤਿ 9 ਨ ਘ 9 ਰਿ / ਮਪ ਪ ਪ ਪ ਪ ਪ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 143,
+    "image": "notation/page-143-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਧ ਧ ਧ ਧ ਧ ਧ / ਉ ਨਹਾ ਭਿ ਆਵ ਹਿ 9 / ਧਸ ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ / ਓ 5 ਈ ਸਾ 5 ਦ / ਸੱ ਸੱ ਰੇਂ ਗੰ ਗੰ ਗੰ / ਕੂ 5 ੜੀ ਰਾ $ ਸਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 143,
+    "image": "notation/page-143-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਕੂ ੜਾ ਵਾ ਪਾ ਰੁ 5 / ਧ ਧ ਧ ਪ ਮ ਮ / ਕੂ 5 ਝੁ ਝੋ ੩ ਲਿ / ਗ ਗ ਰੇ ਸ ਸ ਸ / ਕ ਰ ਹਿ ਆ ਹਾਂ ਰੁ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 145,
+    "image": "notation/page-145-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਵਿ ਇਟ ਉਵ ੭ ਲੋ ਨਪੀਆ ਉਆ ਇਆ ਯੇ ਘਟ / ਇਇ॥ਇਏਇ॥ਇ ੭ਇ ੭ ੭ ਤੋ ਨ ੭ / ਇੰ ੭ ਇਏ ਉਚ ਨੰ & ਵੇ ਸਤ\" ਨੰ ਤੋ ਉੰ ਇੱ / ੬੬੩ ੦%% ਏ ਉਏ ਉਏ ਇਏ ਉਤ ਤੇ / ਇ$ ਇ% ਇਉ ਇਏ ਇੰ ਉਇ? ਇਇ ਇਤ ਨ ਤੋ ਨੂੰ ਦ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 147,
+    "image": "notation/page-147-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 149,
+    "image": "notation/page-149-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨ =.ਦੜ = ਡੇ ਛਡ ਆ ਟ ਪੰਡ ਅਲ ਲਹ = ॥£ %> 2; ਹੂੰ ਨੈ ਜ / ਏ ੭, ੧ ।੧, ਨ ਇੱ ਚ, ਯ ਇੱ ਕੰ ਇੱ ਘ ਦੇ 2 ੬ % ਕੰਠ ਦੇ ਯ / ਦਿ /ਛ £ %/ ਦਿ % !ਧ /£ ਦਿ ॥# £ ਪੋਹ ਦਿ #੭ £ ਪ੍ਰ ।ਨ /ਠਿ 0 09 £ ਅਲ ]ਤ / & ਮਲ ੪) [ਟ ੪ ਅਲ ਗ ਇਿ €ਦ ਇ ਇਟ ਗਿਆਨ ਮਲ ਦ ਪਲ ਟ ਇਟ ਇਸ ਅਮਾ / ਦਿ ਡਿ ਟ ੭ ਦਿ % ਫਟ & ਦਿ ਇ ਇਟ ੪ ਦਿ 69 ਇਟ €9 ਜਸ ੭ ੦ ੭ ਟਿਪ੍ਰਏ ਤਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 150,
+    "image": "notation/page-150-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨਾ ਨ ਕ ਅ ਗੈ 5 / ਮ ਮ ਮਪ ਪ ਪ ਪ / ਸੋ 5 5 ਮਿ ਲੈ 5 / ਮ ਮ ਮ ਗ ਗ ਗ / ਜਿ ਖ ਟੇ ਘਾ 5 ਲੇ / ਰੇ ਰੇ ਰੇ ਸ ਸ ਸ / ਦੇ 5 5 ਇ 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": 1741,
+      "confidence": "high",
+      "method": "exact-line-search(words=all)",
+      "similarity": 1.0,
+      "matched_verse": "ਜਿਉ ਜੋਰੂ ਸਿਰਨਾਵਣੀ ਆਵੈ ਵਾਰੋ ਵਾਰ ॥",
+      "ang": 472,
+      "raag": "ਰਾਗੁ ਆਸਾ",
+      "writer": "Guru Nanak Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 151,
+    "image": "notation/page-151-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "[= ਛਲ ਲਏ\" ॥ ੮ 2 ਏਹ ਨ ਗੰ ੬੪9੦ ਲੂ ਪਟ ਉ 2 ਅਨ ਇ / 'ਏ &੧,6 ਠਿ ਇ % ਟੂ % ਇੰ % ,ੇ ਛੇ ਇੰ ਪੂ ੭ ੭੭੮ % ਪੁੱਠੇ ਰੰ 2 ੭ / ਦਿ _ਇਮ|ਟ ੪) ਦਿ ਨ % ਦਿ ਹੈ ॥ #ਇ ਦਿ ਪ੍ਰੰਏ |£ ੦9 !ਦ 16 ! ਪ੍ਰ ਜਦ ੭ ਜਨ %'ਉ / ਦਿ _% £ ਪੁੰਨ ਚ % ਫਟ % ਦਿ 6 ਫਟ % ਦਿ 9 ਟਿ 69 ! ਪੰ !ਫ %॥ਜ ਜਿਤ % ਦਿ / ਦਿ #“ਇ |ਟ # ਦਿ > ਇਟ |ਨ ਦਿ ਡਿਮ[ਟ 6 ਦਿ 2 |ਟ 01 ਜੜ ਜਰ >ਪ੍ਰਜ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 152,
+    "image": "notation/page-152-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "੭ ੨ ੩ ੨ % ਸੰ. & / ੦ ੨ ਕੀ 2੧ ੦ ੨ 0 / ੨ ੨ ਨੂ 3: & %% / ੦ ਦੇ ੩ 2੭੦ ੦੦ / ੦ ੦੧ ਬਰ ੨ ਪ੍ਰੋ ੧ %",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": 1742,
+      "confidence": "high",
+      "method": "exact-line-search(words=all)",
+      "similarity": 1.0,
+      "matched_verse": "ਤੁਰੇ ਪਲਾਣੇ ਪਉਣ ਵੇਗ ਹਰ ਰੰਗੀ ਹਰਮ ਸਵਾਰਿਆ ॥",
+      "ang": 472,
+      "raag": "ਰਾਗੁ ਆਸਾ",
+      "writer": "Guru Nanak Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 153,
+    "image": "notation/page-153-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਇੰ “ਨ ਏ ਇੰ ਨਉ ਝੋ ਨੰ ਨੰ ਦਿ ਪਨ ਤੇ ਨੂੰ ਇੰ ਘ% / ਇਛ ਉਪ ਉਏ ਇਟ ਆ ਇਏ ਦੂ $ ਪਤੇ 6 ਨਿਊ / ਇ % ੬ ਇ ਇਿੰ ਚ ਇੰ ਇ ਇੰ ਇ ਇੰ ਪੰ ਇਹ ਇੰ ਇ ਤੇ ੫2 ਇੱ ਰੇ / ਇਆ ਇਏ ਇੰ ੩ ਨੰ ਝੇ ਨੰ 9 ਨ ੮ 9 ਇਆ ਤੋ ਉਇ / ਇਆ ਨੂ ਇੱ ਇਏ ਇੱ ਚ ਏ & ਇੰ ੫ ਇਏ ਇਉ ਤਏ ਤੇ ਛੇ / ਨ ਉ£ ਹਉ ਇਆ ਇਤ ਇੰ ਉਇ ਨ ਸਏ ਤਿ ।ਐ ਤੇ ।ਅ / ਟ ਇਉ ਇਉਂ ਇਉ ਇਇ ਤਏ ਤੋ / ਉਪ ਵੋ > ਪੇ 2 ਉ ਟੇ ਉਇ & ਤੋ ਊਂ ਏ ਚ ਤੋ 9",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 155,
+    "image": "notation/page-155-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 157,
+    "image": "notation/page-157-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 158,
+    "image": "notation/page-158-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "5 5 ਭੁ ਕੋ 5 ਇ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "error: 'resultsInfo'",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 159,
+    "image": "notation/page-159-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 161,
+    "image": "notation/page-161-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 163,
+    "image": "notation/page-163-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "| ਊਂ ਭਿ ਡਂ ਇਤਿ ਜ?ਇ ਇ ਤਿ ਜਿਉ ਹੂ ਹਉ ਛ ਕੇ ਛ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 165,
+    "image": "notation/page-165-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 167,
+    "image": "notation/page-167-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਦ ਧ੍ੰ ਦਿ % ਫਟ ।6ਦਿ % ੭ ਉਇ 09 % ਇਿ %॥ / ਦ ਫਂ ਦ ੭ ਦਹ ਦੇ % ਪੰ? 'ਟਿ ਗਏ ' ਪ੍ਰੰਏ ਮਦ ਡਿ / ਇੂ੍‌ ਓ ਲਟ ।ਨ ਦਿ ਇ ਮੱ £ ਇ ਟਿ ਇ ਦਿ ਇ / ਦ ਇਿ “ਨ ਅਲ ੨ 94; [1 ਫਿ ਇਟ ਪੈਨ ਜਿ ॥ਿ/",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 169,
+    "image": "notation/page-169-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਹੀ” ੧ਲ ਤੇ ੧% ਮਦ ਪ੍ਰੋ? 7 ੧% ਐਸ ਤੇ “ਦਿ ਹੂ ੧੦ ਲੇ ੨ / ਜਿ #ੂ ਨੂ ਦਿ 0) ।ਿ॥ 7 09 ੦ ਦਿ € ਗਿ 0 'ਇ % ਜਮ ਇਟ ੭ਜਿ ੦ / ਤੇ ਪ£ ਤ ਧ੍ਰਏ ੮ ੯੩ ਅਲ ਛੂ ਤਾ ਨ ਇ ਜਦ ਇ ੭ ਨ) 'ਟਿ ਜਾ ਗਿਟਿਗ> ਜਿ ਤਿ / ਜਿ &% ੦ ੨ ੪ ਅਜ |% ੦ ਦਾ ਲਅਲ 0੦ |! ਅਨ & ਜਿ ਨ €) / ੯2 ਟੂ ।ਦ ਝਿ £ % ਭ % ? ਪੋਲ ਦਿ #ਏ 2 9 ਇੂ੍‌ ! ਉਨ !£ /” ਟ ੧੮)",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 170,
+    "image": "notation/page-170-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "੦ ੨ ਗੁ =੦ ੨. ਪੂਰੈ ੨ / ੭ ੩੦ ੨੦ % ਗਰ ੨. / ਘ ੨ ਗ੍ਰਂ ੨ ਤੋਂ % ੩ ੨. / ਤਰ ੫” 3 ੨ 2; ੨ ੨ ੧. / % ੨੨ ੨ ੩੭੨੦ ੨. / ੭ ੧੫ ੨੦ ੨6) ੨",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "error: 'resultsInfo'",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 171,
+    "image": "notation/page-171-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨ ਅਲ ਇਉ ਏਜਿਇ ਲੇ ਉਤ ਨੰ? ਆ ਕੋ % / ਇ ਇੱ ਤਿ ਪਉ ਚੇ ਤਿ ਇਉ ਇਤਿ ਨ $ ਪੂ ਵਹ $, ੇ ਏ, ਆ / ਤੇ ਨ ਤੇ (ਤੇ ਜੇ ਤੇ $ ਟੇ ਪਏ ਕੇ ਉਤ ੭ ਨੂੰਹ ਛੇ ਤੋ ਦਯ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 173,
+    "image": "notation/page-173-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 175,
+    "image": "notation/page-175-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 177,
+    "image": "notation/page-177-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਜ਼ ੭ ਨ ।ਠ ਦਿ ਇ ਇਟ ੪ ਤਿ ਲ ਨ ॥# ਦਿ ੪ ਇਟ % 'ਇ ਇਵ ਇਵ % ਦਿ / ਦ ॥0> ਫ਼ਿ > ਲੂ ਨ ੬੭ ਪਨ ੨ ਟਿ ਟ ਟਿਅ” ੬: ਦਿ ਡਰ ਜਦ ਦਿ ਗਿ ਜਿ / ਨ ੮ ਇ ?> ਇਨ ਦਿ % ਹਾ ਪ੍ਰ £ ੦ ਨ /ਲ ਦਿ 9; ਜਿ ।01%ਟ ਧ੍ਰੰ£ ਤ਼ _% ਮਲ / ਜਿ ਲ ੮ % 2 ਪੁਨ ਨ ੭ਜ ਇ ਜਦ ੦ ਜਤ | ਨ ੦ `!ਇ ਜਲ 2 ਲਿਟ ੪€%ਲ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 178,
+    "image": "notation/page-178-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੰ 5 5 ਸਾ ਰਿ 5 / ਸੰ ਸੰ ਧ ਸੰ ਸੰ ਸੰ / ਤਿਨ ਨੇ ਹੁ ਲ ਗਾ 5 / ਰੇ ਰੇ ਰੇ ਧ ਸਂ ਸਂ / ਰ 5 ਬ ਸੇ 5 ਤੀ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "error: 'resultsInfo'",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 178,
+    "image": "notation/page-178-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਧ ਧ ਧ ਪ ਪ ਪ / ਦੇ 8 ਖ ਨੇ 5 9 / ਮ ਗ ਗ ਰੇ ਸ ਸ / ਵੀ ਚਾ 9 ਰਿ 9 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "error: 'resultsInfo'",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 179,
+    "image": "notation/page-179-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਚ ਤੋ ਟੂ ਟੋਆ ਜਿ ਨੰ ਏ ਤਿਨ 7? / [ਇਤ ਉਏ ਐਂ ਤੇ ਉਆ ਤੇ ਇੱ 1 / ਤੋ ੭ ਤੇਲ ਤੇ ੪ ਤੋ& ਤੇ ੯ ਤੇ & ਤਿ ਪਟ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 179,
+    "image": "notation/page-179-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਸ਼ ਪ੍ਰੰਤੂ ੭ ਤੱ ਡਿ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 181,
+    "image": "notation/page-181-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "£ ਪੰ? ।ਦ ੍ਰੰ£ ਮਲ ।> ਜ: ਲ ।ਟ ਪੁੰਨੂੰ ਦ 8 ੭ 1੭ ੧ % ੦ ਦ ਕੂ / ਗਿ ਲਿ ਦਿ 9” ਇਟ % ਡ਼ ਦਿ 9 ਇ੍ਰਿਟ 9 ਪਲ / ! ਲਿ ਦਿ %ਮਨ ਫਟ % ਠਿ ਦਿ ਗਿ ਮਨ 2 |ਟ ੦ ਧਰਠ ਤੇ ੭ / ਇ ਲੂ ਦਿ ਅਲ ਪ੍ਰੰ2 ੭- ੦; ੭ ਦਿ _% ਮਦ ਪ੍ਰੰ2 ।੭- % 1 ਾ। / ਇ ਠਿਦਿ ੪ 1 ਜਿ % ਇ ਦਿ ਅਲ ੦) 7 € % ਧੌਠੋ %",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 182,
+    "image": "notation/page-182-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਮ ਮ ਮ ਮ ਪ ਪ ਧ ਧ / ਤਿ ਨ ਜ ਮੁ ਨੇ ੜਿ ਨ 8 / ਸੰ ਸੰ ਸੰ ਸੰ ਧ ਧ ਸੰ ਸੰ / ਆ 5 5 5 ਵੈ 5 5 5 / ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ ਸ / ਜ ਨ ਨਾਨ ਕ ਕ 5 ਉ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 182,
+    "image": "notation/page-182-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਹ ਰਿ ਕ੍ਰ ਪਾ ਕ । ਰਿ । / ਧ ਧ ਧ ਧ ਪ ਪ ਮ ਮ / ਨਿ ਤ ਜ ਧੈ ਹ ਰਿ ਨਾ ਮੁ / ਗ ਗ ਰੇ ਰੇ ਸ ਸ ਸ ਸ / ਹ ਰਿ ਨਾ ਮਿ ਤ ਰਾ ਵੈ 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 183,
+    "image": "notation/page-183-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 186,
+    "image": "notation/page-186-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "(6 ਪੋ ਤੇ ਆਇ ਹੱ ਤੱ ਇ ?ਇ ਪਤਿ # / ਤੋ 9 ਤੋ % ਤੋ > ਤੇ $ ਤੋ ॥ ਤੋ ਨ ਟਿ ਨ ਨ ਕੰ ਤਿ ਪੰ ਇ ਪੰ / 2 ਨਟ ਇ ਟੋਆ ਨੇ ਊਂ ਟੇ 9 ਨੇਹ / ਨੇਤ ਅੜੇ ਉੰ ਤੇ ਨਕ € ਤਿ ਇੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 188,
+    "image": "notation/page-188-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "£ ਧ੍ਰੰਠੋ ।ਚ % ਅ ਪ੍ਰ£ ॥੭- % ਇ ਦਿ ਹਿ #> 6 £ ਗਿ) ਪੰ / ਦ ਪੂ ਦਿ ਲੂੰ ਨ ੧9 ।ਟ % ਗ਼) ਦਿ 902 09 ਟ ੦ 2 / ਛ ।ਲ ਦਏ ੭ ੬, 6) ਦਿ ੭ ਆਲ ੦ ਇ ੦) / ਟ & ਦਿ %; %ਦ ਪ੍ਰ ਜ- % £ ਪ੍ਰੀ? ਦਿ ੦ ਅਲ % ੧- €੭ ਇ / ਦਏ ਇੱ ਕਦ ਵੀ >: ਛਪ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 189,
+    "image": "notation/page-189-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਨੀ ਨੀ ਧ ਧ ਪ ਪ ਪ ਪ / ਸੇ 5 ਵਿ 5 ਆ 5 5 5 / ਮ ਮ ਮ ਮ ਪ ਪ ਧ ਧ / ਭਿ 5 ਨਹਾ 5 ਸੁ 5 ਬੁ 5 / ਸੰ ਸ ਸੰ ਸੰ ਧ ਧ ਸੰ ਸੰ / ਸ 5 ਦ 5 ਹੋ 5 ਈ $ / ਸੰ ਸ ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ ਸੰ / ਜਿ ਨਹਾ ਨਾਨ ਕੁ ਸ ਤਿ ਗੁ ਰੁ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 189,
+    "image": "notation/page-189-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਭੇ 9 ਟਿ 9 ਆ 9 9 5 / ਧ ਧ ਧ ਧ ਪ ਪ ਮ ਮ / ਤਿ 8 ਨਾ 5 ਮਿ ਲਿ ਆ 8 / ਗ ਗ ਰੇ ਰੇ ਸ ਸ ਸ ਸ / ਹ 5 ਰਿ 5 ਸੋ 5 ਈ $",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 190,
+    "image": "notation/page-190-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 192,
+    "image": "notation/page-192-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 194,
+    "image": "notation/page-194-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੬",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 196,
+    "image": "notation/page-196-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਗਲ 0) ਜਿ 09 'ਇ ਗਜ ੦ ੦ ਤਿ 0) / ਮਦ ਪ੍ਰ 2 1੦ ਦਿ 'ਲ੍ਰ੍‌ ਜ ਪ੍ਰ 'ਦ ਰਿ |ਟ ਅਹ / ਗਲ _€) ਅਲ 09 'ਇ ਗ੧ / ਪਲ ਫ਼ਿ ਦਿ % 'ਟ ੧ ਹਠ ੭ ਦ ਫ਼ ਦਿ & / 'ਦ ਆ 4 4 ਪ੍ਰੀ! ਦਿ 6",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-candidate-line-found",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 198,
+    "image": "notation/page-198-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 4
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-candidate-line-found",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 200,
+    "image": "notation/page-200-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "15 ਅ 9 ਇ ੍‌ 2 ਇੰ / 'ਇ ਧਨ -ਇ ਰ ... / ਵਿ ਭ ਇੰ ੭ ਇਿ ਰ ... / ਇ ਇਟ ਇਿ ਰ੍ ਜਾ / !ਟ ਇ [ਟ ਰ ੫. / ਇ ਇੰ ਇਆ ਇ ੭ ਇ / ਰ੍ ਇੰ 9] ਦਿ ਦਿ / ਰ੍ ਣ ਪਟ “ ਧੰਟ / ਟ £ $ ਜਿ. ਇ / ਇ ਜਿ ਡਟ ਚ ਇ ਰ / ਇ ਇੰ ਇਹ ਇ ਰ੍ / ਇਿ ਹ ਨਿੰ ਈਂ ਇਿ ਇੰ ਇੰ / ਣਿ “€ ਪਨ 00 ਰ / ਇਆ ਇੱ ਲ ਇਆ ਇੰ / ੧ ੰ£ ਘ ਇੰ, ੮",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 201,
+    "image": "notation/page-201-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਤਿਸੁ ਕਹੀ ਐ 5 ਸਾ ਬਾ ਸਿ 5 / ਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 201,
+    "image": "notation/page-201-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਨਾਲਿ ਖਸ ਸ ਚਲੈ ਅ ਰ ਦਾ ਸਿ / ਸੱ ਸ ਸੱ ਸੱ ਸੱ ਸ ਸ ਸੱ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 201,
+    "image": "notation/page-201-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "5 5 5 5 5 5 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 202,
+    "image": "notation/page-202-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "[[=ਣ£ 2. 4% ਪੀ! >: ਡਿ ਪੀ! ਪੰ #> ਪੰ >- ਰਤ / ।ਟ ।ਲ ਦਿ %ਲ ਲਿ ਇਟ % ਵਿ ਪਏ ਦਿ ੦੦ ਜ/|ਟ €੭ / ਇਿ ਪ੍ਰ ਦਿ ੭ ਅਨ 6 € ਇ ਦਿ _% “ ਪ੍ਰ ।ਟ ੦% / ਦਿ) ਦਿ ਅਨ ਮਨ ਡਿ ਟਿ /ਇ ਹਠਿ ਦਿ ਮਨ ਐਨ ਨ੍ਰਿ£ % / ! & ਦਿ % ਮਦ ਪ੍ਰੰ2 7- ੦ ੦ ਦਿ %ਮਲ 69 ਹ- 69 / ਟ ਠਿ' ਦਿ ਓ੪/ਨ ਜਿ 1. % ।£ ਕਰ ਦਿ ਇੰ ਨ ੧6 )' ਲੂ / ਦਿ % ਦਿ ਪਦ ।੯॥ਜ- % 6 ਦਿ ੦2 6) 7 €9",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 205,
+    "image": "notation/page-205-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਧ ਧ ਧ ਸੱ ਸੱ ਸੱ / ਸਾ ਹਿ ਬ ਤੁ ਠੈ ਜੋ / ਗ ਗੰ ਰੇ ਸੱ ਸੱ ਸ / ਮਿ 5 5 ਲੈ 5 ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": 1763,
+      "confidence": "high",
+      "method": "exact-line-search(words=all)",
+      "similarity": 1.0,
+      "matched_verse": "ਏਹ ਕਿਨੇਹੀ ਚਾਕਰੀ ਜਿਤੁ ਭਉ ਖਸਮ ਨ ਜਾਇ ॥",
+      "ang": 475,
+      "raag": "ਰਾਗੁ ਆਸਾ",
+      "writer": "Guru Angad Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 206,
+    "image": "notation/page-206-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 1,
+      "cols": 3
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 206,
+    "image": "notation/page-206-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "46 ੮ ੦ ਪੁੰਠ ਫ਼ ਦਿ €% / 08 ਝ ਇ # ਪਏ > / ਠਿ ਹਿ % ਹਿ 0977 ੦ / % ਦਿ ਪਲ ਜਿ % “ ਪ੍ਰੰ£",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 208,
+    "image": "notation/page-208-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "2 4 1 2 4",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 208,
+    "image": "notation/page-208-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਨਾਨ ਕ ਅੰਤ ਨ ਜਾ ਪ ਨੀ ।",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 208,
+    "image": "notation/page-208-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "ਹਰਿ ਤਾ ਕੇ 5 ਪਾ ਰਾ ਵਾ ਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 208,
+    "image": "notation/page-208-block-4.png",
+    "layout": "inline-line",
+    "raw_text": "ਆਪਿ ਕਰਾ ਏ 5 ਸਾ ਖ ਤੀ 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 208,
+    "image": "notation/page-208-block-5.png",
+    "layout": "inline-line",
+    "raw_text": "ਇਕ ਨਹਾ ਗ ਲੀ ਜੰ ਜੀ ਰੀ ਆ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 208,
+    "image": "notation/page-208-block-6.png",
+    "layout": "inline-line",
+    "raw_text": "ਇਕ ਤੁਰੀ ਚੜ ਹਿ ਬਿ ਸੀ ਰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 209,
+    "image": "notation/page-209-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਹਉ ਕੈ ਸਿਉ _ ਕਰੀ ਖੁ ਕਾ ਰ 5 / ਧਧ ਧਧ ਧਧ ਮਮ ਪਪ ਪਪ ਪਪ ਪਪ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 209,
+    "image": "notation/page-209-block-2.png",
+    "layout": "inline-line",
+    "raw_text": "ਸੱ ਸ ਸੱ ਸੱ ਸ ਸ ਸੱ ਸ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 209,
+    "image": "notation/page-209-block-3.png",
+    "layout": "inline-line",
+    "raw_text": "5 5 5 5 5 5 5 5",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 210,
+    "image": "notation/page-210-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "[ਂ = ਲਤ >% ਏ ਭਿ £ / ਇ ਪ੍ਰ ਦਿ ੦੭ ਅਠ ਇ ੦ ਇਿ ਦਿ / ਟ | ਦਿ %ਅਲ ਢਲ | ੦ ੦ ਦਿ / ਟ ਜਿ) ਦਿ ਮਲ ਇਟ % ਇਟ ਇ ਦਿ / 2 ।ਲ ਪੱਟ “ਨ ਊਂ ਇਏ ਨਵ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 211,
+    "image": "notation/page-211-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਅਲ 09 ਇਿ 69 ਤਜ ੦ 99 ਅਉ % ੭ ਇਟ ੦ / ਅਠ ਲਿਟ % ਡਿ ੭ ਪਏ ਜਪ ! ਇਉ ਨ ੮ 9 ਭਿ ਲੂ / ਅਲ 0 ਇਟ 09 ਇਤ ੦% ੦ ੦ ਗਲ ਪਏ ੦ ਇਟ 0 / ਅਲ 1 ਤਿੰ. ਲੂ ਰੋਏ ਤ #£ ਤਾ ਤਾ ਰਿ ਨ ਮਏ ਤੇ ਇ ॥ਿ ਪ੍ਰ / ਅਲ ਇੰ) ਹਿ- €9 ੮ ੦ 091 ! ਲਿ ਦਿ ੦ 0) ਅਲ 09 / ਮਦ ਡਿੰ ਜ- % ਪਲ = 02 ਅ£ ! ਇੰ ਪੰ ਹਟ ਪਦ ਫ਼ਿ / ਅਲ ਦਿ - % ਿ ਹਠ % ਛੇ ` ।ਇ ਮੋ % ੭ ਦਿ 99",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": 1765,
+      "confidence": "high",
+      "method": "exact-line-search(words=3)",
+      "similarity": 0.873,
+      "matched_verse": "ਇਕਿ ਨਿਹਾਲੀ ਪੈ ਸਵਨਿੑ ਇਕਿ ਉਪਰਿ ਰਹਨਿ ਖੜੇ ॥",
+      "ang": 475,
+      "raag": "ਰਾਗੁ ਆਸਾ",
+      "writer": "Guru Nanak Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 212,
+    "image": "notation/page-212-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਦ 48 ੨ ।0) ਦ ੮; ੮ /ਇ' / /ਡ ਜਿ /ਡ ੮ ਪੁੰਠ' 7 ਪੰ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 213,
+    "image": "notation/page-213-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "ਗੰ ਗ ਗੰ ਗੰ ਰੇਂ ਰੇਂ ਸੱ ਸ / ਇ ਕਿ ਉਪ ਰਿ ਰਹ ਨਿ ਥ ੜੇ / ਨੀ ਨੀ ਨੀ ਨੀ ਧ ਧ ਧ ਧ / ਤਿ ਨਹਾ ਸਵਾ ਰੇ ਨਾ ਨ ਕਾ 8 / ਪ ਮ ਗ ਰੇ ਸ ਸ ਸ ਸ / ਜਿ ਨ ਕ ਉ ਨਦ ਰਿ ਕ ਰੇ",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": 1766,
+      "confidence": "high",
+      "method": "exact-line-search(words=all)",
+      "similarity": 1.0,
+      "matched_verse": "ਆਪੇ ਸਾਜੇ ਕਰੇ ਆਪਿ ਜਾਈ ਭਿ ਰਖੈ ਆਪਿ ॥",
+      "ang": 475,
+      "raag": "ਰਾਗੁ ਆਸਾ",
+      "writer": "Guru Angad Dev Ji"
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 214,
+    "image": "notation/page-214-block-1.png",
+    "layout": "bordered-table",
+    "raw_text": null,
+    "table_shape": {
+      "rows": 2,
+      "cols": 6
+    },
+    "raag": "ਰਾਗੁ ਆਸਾ",
+    "taal": "ਤਾਲ ੧੨",
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  },
+  {
+    "book": "asa-di-vaar",
+    "page": 216,
+    "image": "notation/page-216-block-1.png",
+    "layout": "inline-line",
+    "raw_text": "1 2 3 4 2 3 4",
+    "raw_text_flag": "low-confidence-ocr: inter-syllable spacing likely collapsed, do not parse as tokenized data",
+    "raag": null,
+    "taal": null,
+    "shabad_match": {
+      "shabad_id": null,
+      "confidence": "none",
+      "method": "no-match-any-tier",
+      "matched_verse": null
+    },
+    "status": "draft",
+    "needs_manual_transcription": true
+  }
+]

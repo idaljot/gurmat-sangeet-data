@@ -1,0 +1,8 @@
+{
+  "page": 193,
+  "section": "essay",
+  "text": "[_ਦਵ ਮਲ]\nਮਲਾਰ ਮਹਲਾ ੫ ॥\nਮਨੁ ਘਨੈ ਭ੍ਰਮੈ ਬਨੈ ॥\nਉਮਕਿ ਤਰਸਿ ਚਾਲੈ ॥\nਪ੍ਰਭ ਮਿਲਬੇ ਕੀ ਚਾਹ ॥੧॥ ਰਹਾਉ ॥\nਤ੍ਰੈ ਗੁਨ ਮਾਈ ਮੋਹਿ ਆਈ ਕਹੰਉ ਬੇਦਨ ਕਾਰਿ ॥੧॥\nਆਨ ਉਪਾਵ ਸਗਰ ਕੀਏ ਨਹਿ ਦੂਖ ਸਾਕਹਿ ਲਾਹਿ ॥\nਭਜੁ ਸਰਨਿ ਸਾਧੂ ਨਾਨਕਾ ਮਿਲੁ ਗੁਨ ਗੋਬਿੰਦਹਿ ਗਾਹਿ ॥੨॥੨॥੨੪॥\n\n(ਅੰਗ ੧੨੭੨)\n\nਪਦ ਅਰਥ :\n\nਘਨੈ ਬਨੈ = ਸੰਘਏ ਜੰਗਲ ਵਿਚ। ਭ੍ਰਮੈ = ਭਟਕਦਾ ਰਹਿੰਦਾ ਹੈ। ਉਮਕਿਤ = ਉਮਾਹ ਵਿਚ ਆ ਕੇ।\nਰਸਿ = ਆਨੰਦ ਨਾਲ। ਮਿਲਬੇ ਕੀ = ਮਿਲਦ ਦੀ। ਚਾਹ = ਤਾਂਘ। ਤ੍ਰੈ ਗੁਣ ਮਾਈ = ਤਿੰਨਾਂ ਗੁਣਾਂ ਵਾਲੀ\nਮਾਇਆ। ਮੋਹਿ = ਮੈਨੂੰ। ਮੋਹਿ ਆਈ = ਮੇਰੇ ਉੱਤੇ ਵਾਰ ਕਰਦੀ ਹੈ। ਕਹੰਉ - ਮੈਂ ਦੱਸਾਂ। ਬੇਦਨ = ਦੁੱਖ। ਕਾਰਿ\n= ਕਿਸ ਨੂੰ! ਆਨ ਉਪਾਵ = ਹੋਰ ਹੀਲੇ। ਆਨ = (ਅਧ) । ਉਪਾਵ = (ਲਫ਼ਜ਼ ਉਪਾਉ ਤੋਂ ਬਹੁ-ਵਚਨ) ।\nਸਗਰ = ਸਗਲੇ, ਸਾਰੇ। ਸਾਕਹਿ ਲਾਹਿ = ਲਾਹ ਸਕਦੇ, ਉਤਾਰ ਸਕਦੇ। ਸਾਧੂ = ਗੁਰੂ। ਮਿਲੁ = ਮਿਲਿਆ\nਰਹੁ। ਗਾਹਿ = ਗਾਹ ਕੇ, ਚੁੱਭੀ ਲਾ ਕੇ।\n\n185 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 199,
+  "section": "notation",
+  "text": "(੪) ਅੰਤਰਾ ਆੜਾ-ਚਾਰਤਾਲ (੧੪ ਮਾਤਰਾ)\n\n3 45੪67 ੬੩੬9 10111 12113 14\n੩ 2 0 3 0 4 0\nਸ ਸੱ. ਸੰਨੀ ਨੀ|ਪ -ਪ|!ਗੁ ਗੁ |ਮ ਰੇ `ਸ\nਸਾ ਸੰ ਗਿ |ਰਾ ਮਈ ਆਰ 5 [ਸੁ ਪਾਇ ਓਂ\nਮ ਰੇ ਰੇ | ਪ ਪ ਨੀਧ _ਨੀਸ' | ਨੀਪ ਮਪ | ਗੁਮ _ ਰੇਸ\nਨਾ ਕ ੩ ਜਾ ੩ |ਕੈ ੪ ਭਾਵ ਨੀ|ਨੀ ੩ ਕੀ 5\n\n191 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

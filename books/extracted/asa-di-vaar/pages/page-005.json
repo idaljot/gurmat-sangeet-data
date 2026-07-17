@@ -1,0 +1,8 @@
+{
+  "page": 5,
+  "section": "notation",
+  "text": "ਰਾਗੁ ਆਸਾ ਤ੍ ਨਮ\n\n੬੨)\n\n(ਅੰਗ ੪\n\nਸਮ\n\nਸਮ\n\nਸਮ\n\nਗੋਲ\n\nਗੋਲ\n\n੦ ।੦। ੦) । 69\n\n੦ ।੦। ੦) । 69\n7\n\n੦ ਤੇ । 0 । 06\n\n9 ਨਾ /ਠਿ । 6) ਇਟ ੦\nਪਰ >% 'ਤ #ਟ ੮. ਧੁਨ\nਮੰ ₹ ਪਉ ਲੇ ਡਿ ਅਏ ਸਾ:\nਫ਼ ਦ ਊਪੰਟ ਊੰ %> 2੧\n੭ ਜਿ ਧੰਨ ਟਇ 9 ਦਿ 9\n\nਨ > ਊੰ ਦ 6 =%\n\n4:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

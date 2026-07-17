@@ -1,0 +1,8 @@
+{
+  "page": 151,
+  "section": "notation",
+  "text": "( ਦਾਦਰਾ ੬ ਮਾਤਰਾ )\n\nਰਾਗੁ ਆਸਾ\n\n(ਅਗ ੪੭੨)\n\nਦਿ _ਇਮ|ਟ ੪) ਦਿ ਨ  % ਦਿ ਹੈ ॥ #ਇ ਦਿ ਪ੍ਰੰਏ |£ ੦9 !ਦ 16 ! ਪ੍ਰ ਜਦ ੭ ਜਨ %'ਉ\nਦਿ _% £ ਪੁੰਨ ਚ % ਫਟ % ਦਿ 6 ਫਟ % ਦਿ 9 ਟਿ 69 ! ਪੰ !ਫ %॥ਜ ਜਿਤ % ਦਿ\nਦਿ #“ਇ |ਟ # ਦਿ > ਇਟ |ਨ ਦਿ ਡਿਮ[ਟ 6 ਦਿ 2 |ਟ 01 ਜੜ ਜਰ >ਪ੍ਰਜ\n'ਏ &੧,6 ਠਿ ਇ % ਟੂ % ਇੰ % ,ੇ ਛੇ ਇੰ ਪੂ ੭ ੭੭੮ % ਪੁੱਠੇ ਰੰ 2 ੭\nਅਮਲ |ਲ ਇ &ਅਦ % ਇਿ 670ਲ % £ ਪ੍ਰ” ਇਟ 0 4 ਨ ਧੰਠ ੫੦  %\n[= ਛਲ ਲਏ\" ॥ ੮ 2 ਏਹ ਨ ਗੰ ੬੪9੦ ਲੂ ਪਟ ਉ 2 ਅਨ ਇ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

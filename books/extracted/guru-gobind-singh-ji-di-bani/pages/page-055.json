@@ -1,0 +1,8 @@
+{
+  "page": 55,
+  "section": "notation",
+  "text": "                    ਰਾਗ ਧਨਾਸਰੀ\n                 ਤਾਲ ਦਾਦਰਾ ੬ ਮਾਤਰਾ\n\n\nਸਥਾਈ\n\n  ੧        ੨          ੩          ੪     ੫       ੬\n  ਣ                              ੦\n  ਧਾ      ਧਿੰ        ਨਾ          ਧਾ    ਤਿੰ    ਨਾ\n  ਗੁ       ਗੁ         ਰੇ         ਗੁ    ਗੁ     ਗੁ\n  ਹ       ਰਿ          ਕੇ         ਨੈ    ਸ਼      ਨਾ\n .ਨੁੀ     .ਨੁੀ       .ਨੁੀ        ਸ     ਸ      ਸ\n  ਜ        ਲ          ਜ          ਠ     ਸ਼      ਏ\n\n\nਅੰਤਰਾ\n\n  ਗੁ      ਗੁ         ਮ           ਪ     ਨੁੀ   ਨੁੀਨੁੀ\n  ਦਿ      ਪ          ਤ           ਜੋ    ਤਿ    ਦਿਨ\n ਸਂਸਂ     ਸਂ         ਸਂ          ਨੁੀ   ਸਂ     ਸਂ\n ਮਨਿ      ਦੁ         ਤਿ          ਮੁ     ਖ     ਤੇ\n ਗੁਂਗੁਂ   ਰੇਂ        ਸਂ          ਨੁੀ    ਧ     ਪ\n ਕਬ       ਹੂੰ         ਨ          ਮੁੰ   ਦਿ     ਤ\n  ਮ       ਗੁ         ਰੇ          ਸ     ਸ      ਸ\n   ਭ       ਸ਼          ਸ਼          ਏ    ਸ਼       ਸ਼\n\n\n\n\n                            ੪੮\n\f",
+  "status": "draft",
+  "extraction_method": "gurmukhi-utils",
+  "notes": "section heuristic: inner bordered table + numeric matra header row."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 6,
+  "section": "essay",
+  "text": "ਸਲੋਕੁ ਮ੧ ੧ ॥\nਬਲਿਹਾਰੀ ਗੁਰ ਆਪਏ ਦਿਉਹਾੜੀ ਸਦ ਵਾਰ ॥\nਜਿਨਿ ਮਾਏਸ ਤੋਂ ਦੇਵਤੇ ਕੀਏ ਕਰਤ ਨ ਲਾਗੀ ਵਾਰ ॥੧॥\n\n(ਅੰਗ ੪੬੨)\n\nਪਦ ਅਰਥ :\n\nਦਿਉਹਾੜੀ = ਦਿਹਾੜੀ ਵਿਚ। ਸਦ ਵਾਰ = ਸਉ (ਸੌ) ਵਾਰੀ। ਜਿਨਿ = ਜਿਸ (ਗੁਰੂ) ਨੇ। ਮਾਏਸ ਤੋ = ਮਨੁੱਖ ਤੋਂ|\nਕਰਤ = ਬਈਉਂਦਿਆਂ। ਵਾਰ = ਦੇਰ, ਚਿਰ।\n\n5:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 28,
+  "section": "notation",
+  "text": "ਥਾਟ ਕਾਫੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਧੈਵਤ\n\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਰੇਗੁਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰ. ਨੀ ਪ, ਮ ਪ, ਗੁਮ ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸਰੇਗੁਮਰੇ,ਸਰੇਨੀਸ,ਰੇਪਗੁਮਰੇਸ\n29. ਰਾਗ ਕਲਿਆਣ\n\nਥਾਟ : ਕਲਿਆਣ\n\nਸੁਰ ੨ ਮਧਿਅਮ ਤੀਬਰ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਗਮੇਧਨੀਸ'\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਮੇਗਨੀਰੇਸਾ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਨੀ ਰੋ ਗ, ਪ ਮੇ ਗ ਰੇ, ਨੀ ਰੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}
