@@ -235,12 +235,12 @@
     },
     "page_prose": "ਬਾਟ ਪੂਰਵੀ\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਅਰੋਹ ਸਰੇਗਰੇ, ਮੇਪਧੁਪ, ਮੇਧੁਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀਧਸੰਨੀਧਪ,ਮੇਗ-ਮਗਮੇਗਸ, ਰੇਗਰੇਸ.ਨੀਸ\nਮੁੰਖ ਅੰਗ ਮੇਧੁਪ,ਨੀਧਪਮੇਗ-ਸ,ਰੇਗਰੇਸਨੀ,ਸ\n\n3.7 ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ\n\nਥਾਟ ਪੂਰਵੀ\n\nਵਾਦੀ ਰਿਸ਼ਭ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਸ਼ਾਮ\n\nਅਰੋਹ ਸਰੇਗਰੇ,ਗਮੇਪਧੁਪ,ਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀ ਧੁਪ, ਮੇ ਗ-ਮਗ, ਮੇ ਗਰੇ,ਨੀ ਰੇਸ\n\nਮੁੰਖ ਅੰਗ\n\nਪਮੇਗਮਗ,ਮੇਗਰੇਸ,ਨੀਧੁਸਨੀਰੇਸ\n",
     "raag_number": "3.6",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਦੀਪਕੀ",
     "parent_raag_number": "3",
     "raag_number_inferred": true,
     "needs_split_review": false,
     "raag_numbers_candidate": null,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
     "manifest_id": "raag-da-saroup-complete-0010",
@@ -285,12 +285,12 @@
     },
     "page_prose": "ਥਾਟ ਮਾਰਵਾ\nਵਾਦੀ ਪੰਚਮ\n\nਆਰੋਹ : ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਸਰੇਗਰੇ, ਧਮਗਮ,ਰੇਗੁ,ਰੇਗਸਰੇਨੀਸ\n\n3.9 ਰਾਗ ਗਉੜੀ ਮਾਲਵਾ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ\nਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀਪਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ\n",
     "raag_number": "3.8",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਝ",
     "parent_raag_number": "3",
     "raag_number_inferred": true,
     "needs_split_review": false,
     "raag_numbers_candidate": null,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
     "manifest_id": "raag-da-saroup-complete-0012",
@@ -341,12 +341,12 @@
     },
     "page_prose": "ਥਾਟ ਆਸਾਵਰੀ\n\nਜਾਤੀ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗੁਮਪਧੁ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗੁਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋ ਗੁ ਰੂ, ਸ, ਨੀ ਸ, ਧੁ, ਪ ਮ ਗੁ ਰੂੰ, ਸ\n\n3.11 ਰਾਗ ਗਉੜੀ ਸੋਰਠਿ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਰੇਗਰੇਮੇਪਮੇਧੁਨੀਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਮਰੋਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਮੇਪਧਮਰੇ,ਸ\n",
     "raag_number": "3.10",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਲਾ",
     "parent_raag_number": "3",
     "raag_number_inferred": true,
     "needs_split_review": false,
     "raag_numbers_candidate": null,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
     "manifest_id": "raag-da-saroup-complete-0014",
@@ -748,26 +748,43 @@
     "raag_gurmukhi_guess": "ਰਾਗ ਬੈਰਾੜੀ",
     "images": [
       "notation/page-015-block-1.png",
-      "notation/page-015-block-2.png",
-      "notation/page-015-block-3.png"
+      "notation/page-015-block-2.png"
     ],
     "ocr_fields": {
       "ਮੁੱਖ ਅੰਗ": ""
     },
     "page_prose": "13. ਰਾਗ ਬੈਰਾੜੀ\n\nਮੁੱਖ ਅੰਗ\n\n14. ਰਾਗ ਤਿਲੰਗ\n\nਵਕਰ ਸੰਪੂਰਣ\nਗੰਧਾਰ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ ਕੋਮਲ, ਮਧਿਅਮ ਤੀਵਰ\nਨਿਸ਼ਾਦ ਆਰੋਹ\nਠੀਰੋਗਪ,ਮੇਗ,ਮੇਧਸ\n\nਸੰਨੀਧਪ,ਮੇਗ,ਪਗ,ਰੇਸ\n\nਪਧਗ, ਮੇਪ,ਮੇਗ,ਮੇਰੇਗ,ਰੇਸ\n\nਐੜਵ-ਔੜਵ\n\nਗੰਧਾਰ\n\nਨਿਸ਼ਾਦ\n\nਰਿਸ਼ਭ, ਧੈਵਤ\nਰਿਸ਼ਭ ਤੇ ਧੈਵਤ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗਮਪਨੀਸ'\nਸਾਂਨੀਪਮਗ,ਸ\n\nਠੀ ਸਗ ਮਪ,ਨੀ ਪ, ਗਮ ਗ,ਸ\n",
-    "raag_number": null,
-    "raag_name_as_printed": null,
+    "raag_number": "13",
+    "raag_name_as_printed": "ਰਾਗ ਬੈਰਾੜੀ",
     "parent_raag_number": null,
     "raag_number_inferred": false,
-    "needs_split_review": true,
-    "raag_numbers_candidate": [
-      "13",
-      "14"
-    ],
-    "numbering_note": "Page shows 2 numbered heading(s) (13 ਰਾਗ ਬੈਰਾੜੀ, 14 ਰਾਗ ਤਿਲੰਗ) for 1 clustered item(s) here -- block-level notation extraction was too sparse/scrambled to safely attribute blocks to the right raag. Needs human review of the source page image."
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
   },
   {
     "manifest_id": "raag-da-saroup-complete-0030",
+    "page_range": [
+      15,
+      15
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬੈਰਾੜੀ",
+    "images": [
+      "notation/page-015-block-3.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "13. ਰਾਗ ਬੈਰਾੜੀ\n\nਮੁੱਖ ਅੰਗ\n\n14. ਰਾਗ ਤਿਲੰਗ\n\nਵਕਰ ਸੰਪੂਰਣ\nਗੰਧਾਰ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ ਕੋਮਲ, ਮਧਿਅਮ ਤੀਵਰ\nਨਿਸ਼ਾਦ ਆਰੋਹ\nਠੀਰੋਗਪ,ਮੇਗ,ਮੇਧਸ\n\nਸੰਨੀਧਪ,ਮੇਗ,ਪਗ,ਰੇਸ\n\nਪਧਗ, ਮੇਪ,ਮੇਗ,ਮੇਰੇਗ,ਰੇਸ\n\nਐੜਵ-ਔੜਵ\n\nਗੰਧਾਰ\n\nਨਿਸ਼ਾਦ\n\nਰਿਸ਼ਭ, ਧੈਵਤ\nਰਿਸ਼ਭ ਤੇ ਧੈਵਤ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗਮਪਨੀਸ'\nਸਾਂਨੀਪਮਗ,ਸ\n\nਠੀ ਸਗ ਮਪ,ਨੀ ਪ, ਗਮ ਗ,ਸ\n",
+    "raag_number": "14",
+    "raag_name_as_printed": "ਰਾਗ ਤਿਲੰਗ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0031",
     "page_range": [
       16,
       16
@@ -775,26 +792,43 @@
     "cluster_confidence": "medium",
     "raag_gurmukhi_guess": "ਰਾਗ ਤਿਲੰਗ",
     "images": [
-      "notation/page-016-block-1.png",
+      "notation/page-016-block-1.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ\n\nਮੁੱਖ ਅੰਗ\n\n15. ਰਾਗ ਸੂਹੀ\n\nਮੁੱਖ ਅੰਗ\n\n'ਖਮਾਜ-ਕਾਫੀ\n\nਗੰਧਾਰ\n\nਸ਼ੁੱਧ ਨਿਸ਼ਾਦ\n\nਆਰੋਰ ਵਿਚ ਰਿਸ਼ਭ ਅਤੇ ਧੈਵਤ,\nਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਨੀਸਗਮਪਨੀਪ,ਮਪਨੀਸੰ\nਸੰਨੀਧਪ,ਮਪ.ਗੁਰੇਸ\n\nਗਮ ਪ, ਨੂਂ ਪ, ਗੁ ਰੋ ਸਰੇ ਨੀ ਸ\n\nਬਿਲਾਵਲ\nਪੰਚਮ\nਸ਼ੁੜਜ\n\nਸਪੂਰਣ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਨੀਧਨੀਸ\nਸੰਨੀਧਪ,ਮਗਰੇ,ਗਰੇਸ\n\nਗਮਗਰੇ, ਗਮਨੁੀਧਪ,ਪਮਗ,ਮਗ,ਰੋਗਰੇ,ਸ\n",
+    "raag_number": "14.1",
+    "raag_name_as_printed": "ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ",
+    "parent_raag_number": "14",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0032",
+    "page_range": [
+      16,
+      16
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਤਿਲੰਗ",
+    "images": [
       "notation/page-016-block-2.png"
     ],
     "ocr_fields": {
       "ਮੁੱਖ ਅੰਗ": ""
     },
     "page_prose": "14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ\n\nਮੁੱਖ ਅੰਗ\n\n15. ਰਾਗ ਸੂਹੀ\n\nਮੁੱਖ ਅੰਗ\n\n'ਖਮਾਜ-ਕਾਫੀ\n\nਗੰਧਾਰ\n\nਸ਼ੁੱਧ ਨਿਸ਼ਾਦ\n\nਆਰੋਰ ਵਿਚ ਰਿਸ਼ਭ ਅਤੇ ਧੈਵਤ,\nਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਨੀਸਗਮਪਨੀਪ,ਮਪਨੀਸੰ\nਸੰਨੀਧਪ,ਮਪ.ਗੁਰੇਸ\n\nਗਮ ਪ, ਨੂਂ ਪ, ਗੁ ਰੋ ਸਰੇ ਨੀ ਸ\n\nਬਿਲਾਵਲ\nਪੰਚਮ\nਸ਼ੁੜਜ\n\nਸਪੂਰਣ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਨੀਧਨੀਸ\nਸੰਨੀਧਪ,ਮਗਰੇ,ਗਰੇਸ\n\nਗਮਗਰੇ, ਗਮਨੁੀਧਪ,ਪਮਗ,ਮਗ,ਰੋਗਰੇ,ਸ\n",
-    "raag_number": null,
-    "raag_name_as_printed": null,
+    "raag_number": "15",
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ",
     "parent_raag_number": null,
     "raag_number_inferred": false,
-    "needs_split_review": true,
-    "raag_numbers_candidate": [
-      "14.1",
-      "15"
-    ],
-    "numbering_note": "Page shows 2 numbered heading(s) (14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ, 15 ਰਾਗ ਸੂਹੀ) for 1 clustered item(s) here -- block-level notation extraction was too sparse/scrambled to safely attribute blocks to the right raag. Needs human review of the source page image."
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0031",
+    "manifest_id": "raag-da-saroup-complete-0033",
     "page_range": [
       17,
       17
@@ -815,15 +849,15 @@
     },
     "page_prose": "ਬਾਟ ਕਾਫੀ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ\n\nਅਵਰੋਹ ਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ ਸਰੇਗਮਪ,ਮਪਗੁਰੇ,ਸ\n\n15.2 ਰਾਗ ਸੂਹੀ ਲਲਿਤ\n\nਬਾਟ ਪੂਰਵੀ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਸੰਪੂਰਣ ਸਾੜਵ\n\nਵਾਦੀ ਮਥਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਸੁਰ ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ, ਮਧਿਅਮ, ਤੀਵਰ\nਵਰਜਿਤ ਸੁਰ ਪੰਚਮ\n\nਸਮਾਂ ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ\n\nਅਵਰੋਹ ਸੰਰੇਂ ਨੀਧੁਮੇਧੁਮੇਮਗ,ਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ\n\nਪ ਨੀ ਧ, ਨੀ ਸੰ, ਰੇ ਨੀ ਧੁ, ਮੇ ਮਗ,ਮੇਗਰੇਸ\n",
     "raag_number": "15.1",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ ਕਾਫੀ",
     "parent_raag_number": "15",
     "raag_number_inferred": true,
     "needs_split_review": false,
     "raag_numbers_candidate": null,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0032",
+    "manifest_id": "raag-da-saroup-complete-0034",
     "page_range": [
       17,
       17
@@ -853,7 +887,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0033",
+    "manifest_id": "raag-da-saroup-complete-0035",
     "page_range": [
       18,
       18
@@ -869,15 +903,15 @@
     },
     "page_prose": "ਮੁੱਖ ਅੰਗ\n\nਗੰਧਾਰ\n\nਸਾਰੇ ਸ਼ੁੱਧ\n\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਧਨੀਸੰ\nਸੰਨੀਧ, ਪ,ਮਗ,ਰੇਸ\n\nਗਰੇ,ਗਮਧਪ,ਮਗ,ਮਰੇਸ\n\n16.1 ਰਾਗ ਬਿਲਾਵਲ ਦੱਖਣੀ\n\nਮੁੱਖ ਅੰਗ\n\nਵੇਲਾਵਲੀ\n\nਰਿਸ਼ਭ\n\nਪੰਚਮ\n\nਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਰੇ, ਮਪ,ਧਸੰ\nਸੰਨੀ, ਧਪ,ਮਗੁਰੇਸ\n\nਸਰੇ, ਮਪ, ਮਗੁਰੇ, ਸਨੀਸ\n",
     "raag_number": "16",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲੁ",
     "parent_raag_number": null,
     "raag_number_inferred": true,
     "needs_split_review": false,
     "raag_numbers_candidate": null,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0034",
+    "manifest_id": "raag-da-saroup-complete-0036",
     "page_range": [
       18,
       19
@@ -901,7 +935,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0035",
+    "manifest_id": "raag-da-saroup-complete-0037",
     "page_range": [
       19,
       19
@@ -924,21 +958,20 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0036",
+    "manifest_id": "raag-da-saroup-complete-0038",
     "page_range": [
       19,
-      20
+      19
     ],
     "cluster_confidence": "medium",
     "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
     "images": [
-      "notation/page-019-block-3.png",
-      "notation/page-020-block-1.png"
+      "notation/page-019-block-3.png"
     ],
     "ocr_fields": {
       "ਮੁੱਖ ਅੰਗ": ""
     },
-    "page_prose": "16.2 ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ\n\nਮੁੱਖ ਅੰਗ\n\n17. ਰਾਗ ਗੋਂਡ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਮਧਿਅਮ\n\nਸ਼ਡਜ਼\n\nਸ਼ੁਧ\n\nਪੰਚਮ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਸਗ, ਮਰੇਸ, ਗਮਧ, ਨੀ, ਸੰ\n\nਸੰਨੀਧਪ, ਧਮ,ਪਗ,ਮਰੇ,ਸ\n\nਗਮਧਪਮ,ਪਗ,ਮਰੇ,ਸ\n\nਸ਼ੁਧ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ,\nਸਰੇਗਮ,ਪਨੀਧਨੀਸੰ\n\nਸੰਨੀਧਨੀਪ,ਮਗ,ਰੇੋਸ\n\nਰੇਗਮ,ਪਮ,ਮਪਨੀਧਨੀਸੰਨੀਧਨੀਪ,ਧਮ\n\n---\n17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ\n\nਮੁਖ ਅੰਗ\n\n18. ਰਾਗ ਰਾਮਕਲੀ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਗੰਧਾਰ\nਧੈਵਤ\n\nਸ਼ੁਧ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਗਮਪ, ਧਨੀਸੰ\nਸੰਨੀਧਨੀਪ,ਮਗਰੇੋਮਗ,ਪਰੋਸ\n\nਸਰੇਗਮਪ,ਗਰੇਮਗ,ਪਰੇਸ\n\nਭੈਰਵ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ\n\nਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਸਗ.ਮਪ,ਧੁਨੀਸੰ\nਸੰਨੀਧੁਪ,ਮੇਪਧੁਨੀਧੁਪ,ਗਮਰੇਸ\n\nਧੁ ਪ, ਮੇਪ, ਧੁਠੀਧੁਪ,ਗਮਰੇਸ\n",
+    "page_prose": "16.2 ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ\n\nਮੁੱਖ ਅੰਗ\n\n17. ਰਾਗ ਗੋਂਡ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਮਧਿਅਮ\n\nਸ਼ਡਜ਼\n\nਸ਼ੁਧ\n\nਪੰਚਮ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਸਗ, ਮਰੇਸ, ਗਮਧ, ਨੀ, ਸੰ\n\nਸੰਨੀਧਪ, ਧਮ,ਪਗ,ਮਰੇ,ਸ\n\nਗਮਧਪਮ,ਪਗ,ਮਰੇ,ਸ\n\nਸ਼ੁਧ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ,\nਸਰੇਗਮ,ਪਨੀਧਨੀਸੰ\n\nਸੰਨੀਧਨੀਪ,ਮਗ,ਰੇੋਸ\n\nਰੇਗਮ,ਪਮ,ਮਪਨੀਧਨੀਸੰਨੀਧਨੀਪ,ਧਮ\n",
     "raag_number": "17",
     "raag_name_as_printed": "ਰਾਗ ਗੋਂਡ",
     "parent_raag_number": null,
@@ -948,7 +981,28 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0037",
+    "manifest_id": "raag-da-saroup-complete-0039",
+    "page_range": [
+      20,
+      20
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-020-block-1.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ\n\nਮੁਖ ਅੰਗ\n\n18. ਰਾਗ ਰਾਮਕਲੀ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਗੰਧਾਰ\nਧੈਵਤ\n\nਸ਼ੁਧ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਗਮਪ, ਧਨੀਸੰ\nਸੰਨੀਧਨੀਪ,ਮਗਰੇੋਮਗ,ਪਰੋਸ\n\nਸਰੇਗਮਪ,ਗਰੇਮਗ,ਪਰੇਸ\n\nਭੈਰਵ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ\n\nਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਸਗ.ਮਪ,ਧੁਨੀਸੰ\nਸੰਨੀਧੁਪ,ਮੇਪਧੁਨੀਧੁਪ,ਗਮਰੇਸ\n\nਧੁ ਪ, ਮੇਪ, ਧੁਠੀਧੁਪ,ਗਮਰੇਸ\n",
+    "raag_number": "17.1",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ",
+    "parent_raag_number": "17",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0040",
     "page_range": [
       20,
       20
@@ -964,19 +1018,16 @@
       "ਮੁੱਖ ਅੰਗ": ""
     },
     "page_prose": "17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ\n\nਮੁਖ ਅੰਗ\n\n18. ਰਾਗ ਰਾਮਕਲੀ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਗੰਧਾਰ\nਧੈਵਤ\n\nਸ਼ੁਧ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਗਮਪ, ਧਨੀਸੰ\nਸੰਨੀਧਨੀਪ,ਮਗਰੇੋਮਗ,ਪਰੋਸ\n\nਸਰੇਗਮਪ,ਗਰੇਮਗ,ਪਰੇਸ\n\nਭੈਰਵ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ\n\nਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਸਗ.ਮਪ,ਧੁਨੀਸੰ\nਸੰਨੀਧੁਪ,ਮੇਪਧੁਨੀਧੁਪ,ਗਮਰੇਸ\n\nਧੁ ਪ, ਮੇਪ, ਧੁਠੀਧੁਪ,ਗਮਰੇਸ\n",
-    "raag_number": null,
-    "raag_name_as_printed": null,
+    "raag_number": "18",
+    "raag_name_as_printed": "ਰਾਗ ਰਾਮਕਲੀ",
     "parent_raag_number": null,
     "raag_number_inferred": false,
-    "needs_split_review": true,
-    "raag_numbers_candidate": [
-      "17.1",
-      "18"
-    ],
-    "numbering_note": "Page shows 2 numbered heading(s) (17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ, 18 ਰਾਗ ਰਾਮਕਲੀ) for 1 clustered item(s) here -- block-level notation extraction was too sparse/scrambled to safely attribute blocks to the right raag. Needs human review of the source page image."
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0038",
+    "manifest_id": "raag-da-saroup-complete-0041",
     "page_range": [
       21,
       21
@@ -1007,7 +1058,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0039",
+    "manifest_id": "raag-da-saroup-complete-0042",
     "page_range": [
       21,
       21
@@ -1036,7 +1087,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0040",
+    "manifest_id": "raag-da-saroup-complete-0043",
     "page_range": [
       22,
       22
@@ -1065,7 +1116,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0041",
+    "manifest_id": "raag-da-saroup-complete-0044",
     "page_range": [
       22,
       22
@@ -1092,7 +1143,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0042",
+    "manifest_id": "raag-da-saroup-complete-0045",
     "page_range": [
       23,
       23
@@ -1119,7 +1170,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0043",
+    "manifest_id": "raag-da-saroup-complete-0046",
     "page_range": [
       23,
       23
@@ -1146,7 +1197,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0044",
+    "manifest_id": "raag-da-saroup-complete-0047",
     "page_range": [
       24,
       24
@@ -1177,7 +1228,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0045",
+    "manifest_id": "raag-da-saroup-complete-0048",
     "page_range": [
       24,
       24
@@ -1204,7 +1255,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0046",
+    "manifest_id": "raag-da-saroup-complete-0049",
     "page_range": [
       25,
       25
@@ -1230,7 +1281,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0047",
+    "manifest_id": "raag-da-saroup-complete-0050",
     "page_range": [
       25,
       25
@@ -1259,7 +1310,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0048",
+    "manifest_id": "raag-da-saroup-complete-0051",
     "page_range": [
       26,
       26
@@ -1286,7 +1337,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0049",
+    "manifest_id": "raag-da-saroup-complete-0052",
     "page_range": [
       26,
       26
@@ -1315,7 +1366,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0050",
+    "manifest_id": "raag-da-saroup-complete-0053",
     "page_range": [
       27,
       27
@@ -1342,7 +1393,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0051",
+    "manifest_id": "raag-da-saroup-complete-0054",
     "page_range": [
       27,
       27
@@ -1373,7 +1424,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0052",
+    "manifest_id": "raag-da-saroup-complete-0055",
     "page_range": [
       28,
       28
@@ -1394,15 +1445,15 @@
     },
     "page_prose": "ਥਾਟ ਕਾਫੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਧੈਵਤ\n\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਰੇਗੁਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰ. ਨੀ ਪ, ਮ ਪ, ਗੁਮ ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸਰੇਗੁਮਰੇ,ਸਰੇਨੀਸ,ਰੇਪਗੁਮਰੇਸ\n29. ਰਾਗ ਕਲਿਆਣ\n\nਥਾਟ : ਕਲਿਆਣ\n\nਸੁਰ ੨ ਮਧਿਅਮ ਤੀਬਰ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਗਮੇਧਨੀਸ'\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਮੇਗਨੀਰੇਸਾ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਨੀ ਰੋ ਗ, ਪ ਮੇ ਗ ਰੇ, ਨੀ ਰੇਸ\n",
     "raag_number": "28",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਕਾਨੜਾ",
     "parent_raag_number": null,
     "raag_number_inferred": true,
     "needs_split_review": false,
     "raag_numbers_candidate": null,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0053",
+    "manifest_id": "raag-da-saroup-complete-0056",
     "page_range": [
       28,
       28
@@ -1431,7 +1482,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0054",
+    "manifest_id": "raag-da-saroup-complete-0057",
     "page_range": [
       29,
       29
@@ -1460,7 +1511,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0055",
+    "manifest_id": "raag-da-saroup-complete-0058",
     "page_range": [
       29,
       29
@@ -1489,7 +1540,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0056",
+    "manifest_id": "raag-da-saroup-complete-0059",
     "page_range": [
       30,
       30
@@ -1520,7 +1571,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0057",
+    "manifest_id": "raag-da-saroup-complete-0060",
     "page_range": [
       30,
       30
@@ -1549,7 +1600,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0058",
+    "manifest_id": "raag-da-saroup-complete-0061",
     "page_range": [
       31,
       31
@@ -1576,7 +1627,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0059",
+    "manifest_id": "raag-da-saroup-complete-0062",
     "page_range": [
       31,
       31

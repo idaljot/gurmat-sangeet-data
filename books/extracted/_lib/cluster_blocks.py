@@ -167,14 +167,33 @@ def cluster_sampurn_55(blocks):
 FIELD_ORDER = ["ਥਾਟ", "ਜਾਤੀ", "ਵਾਦੀ", "ਸੰਵਾਦੀ", "ਸੁਰ", "ਵਰਜਿਤ ਸੁਰ", "ਸਮਾਂ", "ਆਰੋਹ", "ਅਵਰੋਹ", "ਮੁੱਖ ਅੰਗ"]
 FIELD_RANK = {label: i for i, label in enumerate(FIELD_ORDER)}
 
-# page 10: only 3 blocks were cropped for what turns out to be 2 raag entries ("5. ਰਾਗ
-# ਗੁਜਰੀ", "6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ", confirmed against page-010.json's full-page prose, which
-# does carry both numbered headings even though the block-level notation extraction
-# missed most of the field lines). Field-order detection didn't catch the boundary
-# because neither block after it carries a recognizable early-order label. Block 3's
-# raw text ("ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ") matches prose appearing after the "6." heading, with no
-# further heading before it -- a safe, position-grounded split, not a content guess.
-RAAG_DA_SAROUP_MANUAL_SPLITS = {"notation/page-010-block-3.png"}
+# These pages packed 2 raag entries' blocks into 1 cluster because field-order detection
+# never saw a recognizable early-order label after the boundary. Confirmed by rendering
+# the actual source PDF pages (pdftoppm) and reading them directly -- every one of these
+# is a clean, single-column, unambiguous page; the earlier suspicion of column-order OCR
+# scrambling (filed as issue #10) was a mis-diagnosis caused by relying on the full-page
+# tesseract text (which *does* garble reading order on some pages) instead of the actual
+# rendered page image. Each split point below is grounded in matching a block's raw text
+# against the correct raag's field values as read from the rendered page:
+#   page 10: "5. ਰਾਗ ਗੁਜਰੀ" | "6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ" -- block 3 ("ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ") is raag 6's
+#     Varjit Sur value.
+#   page 15: "13. ਰਾਗ ਬੈਰਾੜੀ" | "14. ਰਾਗ ਤਿਲੰਗ" -- block 3 ("ਠੀ ਸਗ ਮਪ,ਨੀ ਪ, ਗਮ ਗ,ਸ") matches
+#     raag 14's Mukh Ang value.
+#   page 16: "14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ" | "15. ਰਾਗ ਸੂਹੀ" -- block 1 is 14.1's Mukh Ang value;
+#     block 2 (bare "ਮੁੱਖ ਅੰਗ") is raag 15's own Mukh Ang label (value not captured).
+#   page 20: "17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ" | "18. ਰਾਗ ਰਾਮਕਲੀ" -- block 2 ("ਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ") matches
+#     raag 18's Varjit Sur value.
+RAAG_DA_SAROUP_MANUAL_SPLITS = {
+    "notation/page-010-block-3.png",
+    "notation/page-015-block-3.png",
+    "notation/page-016-block-2.png",
+    # page 20 block 1 (bare "ਮੁਖ ਅੰਗ") would otherwise get absorbed into the still-open
+    # "17. ਰਾਗ ਗੋਂਡ" cluster carried over from page 19 (whose own Mukh Ang value is
+    # already complete there) -- it's actually 17.1's label, so it needs its own split
+    # too, not just a split before block 2.
+    "notation/page-020-block-1.png",
+    "notation/page-020-block-2.png",
+}
 
 
 def cluster_raag_da_saroup(blocks):
@@ -252,30 +271,22 @@ def parent_raag_number(number):
     return number.rsplit(".", 1)[0]
 
 
-# Numbers this book's OCR dropped entirely from the page text (no heading line at
-# all), even though the entry's own field content is present and complete on the
-# page. Found by reading each affected page's full prose end-to-end: in every case
-# the gap falls strictly between two confirmed numbers with no other candidate
-# fitting (e.g. 3.5 then 3.7, nothing else between -- so 3.6 is the only possibility).
-# Confirmed by spot-checking books/extracted/raag-da-saroup-complete/pages/page-*.json.
+# Numbers/names this book's OCR text layer dropped entirely (no heading line in
+# notation-raw.json's page prose), even though the entry's own field content is present
+# and complete on the page. Originally found by sequence (e.g. 3.5 then 3.7, nothing
+# else between -- so 3.6 is the only possibility) and left nameless; **confirmed
+# verbatim, name included, by rendering the actual source PDF page with `pdftoppm` and
+# reading it directly** (`pdftoppm -r 200 -f N -l N -png "books/Raag Da Saroup
+# Complete.pdf" out`) -- the printed heading is there, tesseract's text extraction just
+# missed it on these specific pages.
 RAAG_DA_SAROUP_GAP_NUMBERS = {
-    5: "3.6",    # between 3.5 (page 4) and 3.7 (page 5)
-    6: "3.8",    # between 3.7 (page 5) and 3.9 (page 6)
-    7: "3.10",   # between 3.9 (page 6) and 3.11 (page 7)
-    17: "15.1",  # between 15 (page 16) and 15.2 (page 17)
-    18: "16",    # 16.1 (found on this same page) is a Bilaval sub-raag, so a base
-                 # "16" raag must exist as its parent; this headingless entry is the
-                 # only candidate on the page
-    28: "28",    # between 27 (page 27) and 29 (page 28)
+    5: ("3.6", "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਦੀਪਕੀ"),   # between 3.5 (page 4) and 3.7 (page 5)
+    6: ("3.8", "ਰਾਗ ਗਉੜੀ ਮਾਝ"),           # between 3.7 (page 5) and 3.9 (page 6)
+    7: ("3.10", "ਰਾਗ ਗਉੜੀ ਮਾਲਾ"),         # between 3.9 (page 6) and 3.11 (page 7)
+    17: ("15.1", "ਰਾਗ ਸੂਹੀ ਕਾਫੀ"),        # between 15 (page 16) and 15.2 (page 17)
+    18: ("16", "ਰਾਗ ਬਿਲਾਵਲੁ"),            # between 16.2/17 (page 19) and 16.1 (same page)
+    28: ("28", "ਰਾਗ ਕਾਨੜਾ"),              # between 27 (page 27) and 29 (page 28)
 }
-
-# Pages where 2 numbered headings were found in the page's prose but only 1 raag-entry
-# cluster resulted -- unlike the page-10 manual split above, these show signs of
-# column-order OCR scrambling (e.g. a bare "ਮੁੱਖ ਅੰਗ" label appearing mid-entry, out of
-# this book's normal field order, and/or far fewer cropped blocks than the prose has
-# field lines), so no block-position-based split can be trusted here. Flagged for a
-# human to review the source page image rather than guessed.
-RAAG_DA_SAROUP_NEEDS_SPLIT_REVIEW = {15, 16, 20}
 
 
 def attach_raag_da_saroup_numbering(items):
@@ -298,31 +309,19 @@ def attach_raag_da_saroup_numbering(items):
     for page_no, page_items in items_by_start_page.items():
         page_headings = headings_by_page.get(page_no, [])
 
-        if page_no in RAAG_DA_SAROUP_NEEDS_SPLIT_REVIEW:
-            names = ", ".join(f"{num} {name}" for num, name in page_headings)
-            note = (
-                f"Page shows {len(page_headings)} numbered heading(s) ({names}) for "
-                f"{len(page_items)} clustered item(s) here -- block-level notation "
-                "extraction was too sparse/scrambled to safely attribute blocks to "
-                "the right raag. Needs human review of the source page image."
-            )
-            for it in page_items:
-                blank(it, note, needs_review=True)
-                it["raag_numbers_candidate"] = [n for n, _ in page_headings]
-            continue
-
         remaining = page_items
         if len(page_items) == len(page_headings) + 1 and page_no in RAAG_DA_SAROUP_GAP_NUMBERS:
-            gap_number = RAAG_DA_SAROUP_GAP_NUMBERS[page_no]
+            gap_number, gap_name = RAAG_DA_SAROUP_GAP_NUMBERS[page_no]
             gap_item = page_items[0]
             gap_item["raag_number"] = gap_number
-            gap_item["raag_name_as_printed"] = None
+            gap_item["raag_name_as_printed"] = gap_name
             gap_item["parent_raag_number"] = parent_raag_number(gap_number)
             gap_item["raag_number_inferred"] = True
             gap_item["needs_split_review"] = False
             gap_item["numbering_note"] = (
-                "Heading not captured by OCR; number inferred from sequence (falls "
-                "between the two nearest confirmed numbers, with no other candidate)."
+                "Heading dropped by tesseract's text extraction on this page; number "
+                "and name confirmed by rendering the source PDF page directly (see "
+                "RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
             )
             remaining = page_items[1:]
 

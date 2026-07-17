@@ -6341,11 +6341,11 @@
     "status": "draft",
     "needs_manual_transcription": true,
     "raag_number": "3.6",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਦੀਪਕੀ",
     "parent_raag_number": "3",
     "raag_number_inferred": true,
     "needs_split_review": false,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
     "manifest_id": "raag-da-saroup-complete-0010",
@@ -6399,11 +6399,11 @@
     "status": "draft",
     "needs_manual_transcription": true,
     "raag_number": "3.8",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਝ",
     "parent_raag_number": "3",
     "raag_number_inferred": true,
     "needs_split_review": false,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
     "manifest_id": "raag-da-saroup-complete-0012",
@@ -6460,11 +6460,11 @@
     "status": "draft",
     "needs_manual_transcription": true,
     "raag_number": "3.10",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਲਾ",
     "parent_raag_number": "3",
     "raag_number_inferred": true,
     "needs_split_review": false,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
     "manifest_id": "raag-da-saroup-complete-0014",
@@ -6920,10 +6920,37 @@
       15,
       15
     ],
-    "block_count": 3,
+    "block_count": 2,
     "images": [
       "notation/page-015-block-1.png",
-      "notation/page-015-block-2.png",
+      "notation/page-015-block-2.png"
+    ],
+    "shabad_ids": [],
+    "raags": [
+      "ਰਾਗ ਬੈਰਾੜੀ"
+    ],
+    "taals": [],
+    "status": "draft",
+    "needs_manual_transcription": true,
+    "raag_number": "13",
+    "raag_name_as_printed": "ਰਾਗ ਬੈਰਾੜੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0030",
+    "book": "raag-da-saroup-complete",
+    "item_type": "raag-entry",
+    "cluster_confidence": "medium",
+    "cluster_basis": "field-order-based entry-boundary detection within raag group",
+    "page_range": [
+      15,
+      15
+    ],
+    "block_count": 1,
+    "images": [
       "notation/page-015-block-3.png"
     ],
     "shabad_ids": [],
@@ -6933,19 +6960,15 @@
     "taals": [],
     "status": "draft",
     "needs_manual_transcription": true,
-    "raag_number": null,
-    "raag_name_as_printed": null,
+    "raag_number": "14",
+    "raag_name_as_printed": "ਰਾਗ ਤਿਲੰਗ",
     "parent_raag_number": null,
     "raag_number_inferred": false,
-    "needs_split_review": true,
-    "numbering_note": "Page shows 2 numbered heading(s) (13 ਰਾਗ ਬੈਰਾੜੀ, 14 ਰਾਗ ਤਿਲੰਗ) for 1 clustered item(s) here -- block-level notation extraction was too sparse/scrambled to safely attribute blocks to the right raag. Needs human review of the source page image.",
-    "raag_numbers_candidate": [
-      "13",
-      "14"
-    ]
+    "needs_split_review": false,
+    "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0030",
+    "manifest_id": "raag-da-saroup-complete-0031",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -6954,9 +6977,36 @@
       16,
       16
     ],
-    "block_count": 2,
+    "block_count": 1,
     "images": [
-      "notation/page-016-block-1.png",
+      "notation/page-016-block-1.png"
+    ],
+    "shabad_ids": [],
+    "raags": [
+      "ਰਾਗ ਤਿਲੰਗ"
+    ],
+    "taals": [],
+    "status": "draft",
+    "needs_manual_transcription": true,
+    "raag_number": "14.1",
+    "raag_name_as_printed": "ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ",
+    "parent_raag_number": "14",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0032",
+    "book": "raag-da-saroup-complete",
+    "item_type": "raag-entry",
+    "cluster_confidence": "medium",
+    "cluster_basis": "field-order-based entry-boundary detection within raag group",
+    "page_range": [
+      16,
+      16
+    ],
+    "block_count": 1,
+    "images": [
       "notation/page-016-block-2.png"
     ],
     "shabad_ids": [],
@@ -6966,19 +7016,15 @@
     "taals": [],
     "status": "draft",
     "needs_manual_transcription": true,
-    "raag_number": null,
-    "raag_name_as_printed": null,
+    "raag_number": "15",
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ",
     "parent_raag_number": null,
     "raag_number_inferred": false,
-    "needs_split_review": true,
-    "numbering_note": "Page shows 2 numbered heading(s) (14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ, 15 ਰਾਗ ਸੂਹੀ) for 1 clustered item(s) here -- block-level notation extraction was too sparse/scrambled to safely attribute blocks to the right raag. Needs human review of the source page image.",
-    "raag_numbers_candidate": [
-      "14.1",
-      "15"
-    ]
+    "needs_split_review": false,
+    "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0031",
+    "manifest_id": "raag-da-saroup-complete-0033",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7002,14 +7048,14 @@
     "status": "draft",
     "needs_manual_transcription": true,
     "raag_number": "15.1",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ ਕਾਫੀ",
     "parent_raag_number": "15",
     "raag_number_inferred": true,
     "needs_split_review": false,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0032",
+    "manifest_id": "raag-da-saroup-complete-0034",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7041,7 +7087,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0033",
+    "manifest_id": "raag-da-saroup-complete-0035",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7063,14 +7109,14 @@
     "status": "draft",
     "needs_manual_transcription": true,
     "raag_number": "16",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲੁ",
     "parent_raag_number": null,
     "raag_number_inferred": true,
     "needs_split_review": false,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0034",
+    "manifest_id": "raag-da-saroup-complete-0036",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7099,7 +7145,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0035",
+    "manifest_id": "raag-da-saroup-complete-0037",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7127,19 +7173,18 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0036",
+    "manifest_id": "raag-da-saroup-complete-0038",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
     "cluster_basis": "field-order-based entry-boundary detection within raag group",
     "page_range": [
       19,
-      20
+      19
     ],
-    "block_count": 2,
+    "block_count": 1,
     "images": [
-      "notation/page-019-block-3.png",
-      "notation/page-020-block-1.png"
+      "notation/page-019-block-3.png"
     ],
     "shabad_ids": [],
     "raags": [
@@ -7156,7 +7201,35 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0037",
+    "manifest_id": "raag-da-saroup-complete-0039",
+    "book": "raag-da-saroup-complete",
+    "item_type": "raag-entry",
+    "cluster_confidence": "medium",
+    "cluster_basis": "field-order-based entry-boundary detection within raag group",
+    "page_range": [
+      20,
+      20
+    ],
+    "block_count": 1,
+    "images": [
+      "notation/page-020-block-1.png"
+    ],
+    "shabad_ids": [],
+    "raags": [
+      "ਰਾਗ ਬਿਲਾਵਲ"
+    ],
+    "taals": [],
+    "status": "draft",
+    "needs_manual_transcription": true,
+    "raag_number": "17.1",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ",
+    "parent_raag_number": "17",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0040",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7177,19 +7250,15 @@
     "taals": [],
     "status": "draft",
     "needs_manual_transcription": true,
-    "raag_number": null,
-    "raag_name_as_printed": null,
+    "raag_number": "18",
+    "raag_name_as_printed": "ਰਾਗ ਰਾਮਕਲੀ",
     "parent_raag_number": null,
     "raag_number_inferred": false,
-    "needs_split_review": true,
-    "numbering_note": "Page shows 2 numbered heading(s) (17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ, 18 ਰਾਗ ਰਾਮਕਲੀ) for 1 clustered item(s) here -- block-level notation extraction was too sparse/scrambled to safely attribute blocks to the right raag. Needs human review of the source page image.",
-    "raag_numbers_candidate": [
-      "17.1",
-      "18"
-    ]
+    "needs_split_review": false,
+    "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0038",
+    "manifest_id": "raag-da-saroup-complete-0041",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7221,7 +7290,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0039",
+    "manifest_id": "raag-da-saroup-complete-0042",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7252,7 +7321,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0040",
+    "manifest_id": "raag-da-saroup-complete-0043",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7283,7 +7352,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0041",
+    "manifest_id": "raag-da-saroup-complete-0044",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7313,7 +7382,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0042",
+    "manifest_id": "raag-da-saroup-complete-0045",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7343,7 +7412,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0043",
+    "manifest_id": "raag-da-saroup-complete-0046",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7373,7 +7442,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0044",
+    "manifest_id": "raag-da-saroup-complete-0047",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7405,7 +7474,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0045",
+    "manifest_id": "raag-da-saroup-complete-0048",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7435,7 +7504,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0046",
+    "manifest_id": "raag-da-saroup-complete-0049",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7465,7 +7534,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0047",
+    "manifest_id": "raag-da-saroup-complete-0050",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7496,7 +7565,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0048",
+    "manifest_id": "raag-da-saroup-complete-0051",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7526,7 +7595,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0049",
+    "manifest_id": "raag-da-saroup-complete-0052",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7557,7 +7626,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0050",
+    "manifest_id": "raag-da-saroup-complete-0053",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7587,7 +7656,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0051",
+    "manifest_id": "raag-da-saroup-complete-0054",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7619,7 +7688,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0052",
+    "manifest_id": "raag-da-saroup-complete-0055",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7643,14 +7712,14 @@
     "status": "draft",
     "needs_manual_transcription": true,
     "raag_number": "28",
-    "raag_name_as_printed": null,
+    "raag_name_as_printed": "ਰਾਗ ਕਾਨੜਾ",
     "parent_raag_number": null,
     "raag_number_inferred": true,
     "needs_split_review": false,
-    "numbering_note": "Heading not captured by OCR; number inferred from sequence (falls between the two nearest confirmed numbers, with no other candidate)."
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0053",
+    "manifest_id": "raag-da-saroup-complete-0056",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7681,7 +7750,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0054",
+    "manifest_id": "raag-da-saroup-complete-0057",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7712,7 +7781,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0055",
+    "manifest_id": "raag-da-saroup-complete-0058",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7743,7 +7812,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0056",
+    "manifest_id": "raag-da-saroup-complete-0059",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7775,7 +7844,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0057",
+    "manifest_id": "raag-da-saroup-complete-0060",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7806,7 +7875,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0058",
+    "manifest_id": "raag-da-saroup-complete-0061",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
@@ -7836,7 +7905,7 @@
     "numbering_note": null
   },
   {
-    "manifest_id": "raag-da-saroup-complete-0059",
+    "manifest_id": "raag-da-saroup-complete-0062",
     "book": "raag-da-saroup-complete",
     "item_type": "raag-entry",
     "cluster_confidence": "medium",
