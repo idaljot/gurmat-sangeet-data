@@ -54,6 +54,15 @@
   .field input.sargam { font-family: ui-monospace, Menlo, Consolas, monospace; }
   .field .hint { font-size: .74rem; color: var(--muted); }
   .preview { background: #1e1b16; color: #f3ead6; padding: 8px 10px; border-radius: 6px; font-size: .95rem; font-family: ui-monospace, Menlo, Consolas, monospace; min-height: 1.4em; }
+  /* Gurmukhi display marks — komal (r g d n) underlined, teevra Ma (m) overlined.
+     Standard convention; not yet stated in SARGAM.md (flagged, see issue tracker). */
+  .gmk-komal, .gmk-teevra {
+    display: inline-flex; flex-direction: column; align-items: center;
+    line-height: 1; vertical-align: middle; padding: 0 2px;
+  }
+  .gmk-mark { width: 65%; height: 2px; background: currentColor; }
+  .gmk-komal .gmk-mark { order: 2; margin-top: 3px; }
+  .gmk-teevra .gmk-mark { order: -1; margin-bottom: 3px; }
   .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
   @media (max-width: 640px) { .row2 { grid-template-columns: 1fr; } }
   fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; }
@@ -90,13 +99,25 @@
 </div>
 
 <script>
-/* ---- Reused, unmodified from demo/index.html's render() ---- */
+/* ---- Adapted from demo/index.html's render(): same base map, but komal/teevra
+   now get a distinct display mark instead of collapsing onto the shuddh glyph. ---- */
 const MAP = {
   gurmukhi: { S:"ਸ", R:"ਰ", r:"ਰ", G:"ਗ", g:"ਗ", m:"ਮ", M:"ਮ", P:"ਪ", D:"ਧ", d:"ਧ", N:"ਨ", n:"ਨ" }
 };
+const KOMAL_CHARS = new Set(["r", "g", "d", "n"]);
+const TEEVRA_CHARS = new Set(["m"]);
+function escapeHtml(str) {
+  return str.replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+}
 function renderSargam(notationStr) {
   if (!notationStr) return "";
-  return notationStr.replace(/[SRrGgmMPDdNn]/g, ch => MAP.gurmukhi[ch] || ch);
+  return escapeHtml(notationStr).replace(/[SRrGgmMPDdNn]/g, ch => {
+    const glyph = MAP.gurmukhi[ch];
+    if (!glyph) return ch;
+    if (KOMAL_CHARS.has(ch)) return `<span class="gmk-komal">${glyph}<span class="gmk-mark"></span></span>`;
+    if (TEEVRA_CHARS.has(ch)) return `<span class="gmk-teevra"><span class="gmk-mark"></span>${glyph}</span>`;
+    return glyph;
+  });
 }
 
 const STORAGE_KEY = "raag-entry-poc-v1";
@@ -223,7 +244,7 @@ function selectItem(id) {
   ["aroh", "avroh", "pakad"].forEach(k => {
     const input = document.getElementById(`f-${k}`);
     const preview = document.getElementById(`preview-${k}`);
-    const update = () => { preview.textContent = renderSargam(input.value) || "(preview)"; };
+    const update = () => { preview.innerHTML = renderSargam(input.value) || "(preview)"; };
     input.addEventListener("input", update);
     update();
   });

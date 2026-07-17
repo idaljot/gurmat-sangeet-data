@@ -49,6 +49,15 @@
   .badge.draft { background: #fff1e2; color: var(--draft); border: 1px solid #f0d2ab; }
   .section-label { font-size: .74rem; text-transform: uppercase; letter-spacing: .06em; color: var(--gold); margin: 8px 0 2px; }
   .sur { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 1.02rem; letter-spacing: .04em; background: #faf6ec; padding: 6px 10px; border-radius: 6px; white-space: pre-wrap; }
+  /* Gurmukhi display marks — komal (r g d n) underlined, teevra Ma (m) overlined.
+     Standard convention; not yet stated in SARGAM.md (flagged, see issue tracker). */
+  .gmk-komal, .gmk-teevra {
+    display: inline-flex; flex-direction: column; align-items: center;
+    line-height: 1; vertical-align: middle; padding: 0 2px;
+  }
+  .gmk-mark { width: 65%; height: 2px; background: currentColor; }
+  .gmk-komal .gmk-mark { order: 2; margin-top: 3px; }
+  .gmk-teevra .gmk-mark { order: -1; margin-bottom: 3px; }
   .applies { font-size: .85rem; color: var(--forest); margin: 4px 0 0; }
   .prov { font-size: .78rem; color: var(--muted); margin: 8px 0 0; border-left: 2px solid var(--line); padding-left: 8px; }
   .prov.approved { border-left-color: var(--approved); }
@@ -198,11 +207,22 @@ const SHABADS = {
 const MAP = {
   gurmukhi:   { S:"ਸ", R:"ਰ", r:"ਰ", G:"ਗ", g:"ਗ", m:"ਮ", M:"ਮ", P:"ਪ", D:"ਧ", d:"ਧ", N:"ਨ", n:"ਨ" }
 };
+const KOMAL_CHARS = new Set(["r", "g", "d", "n"]);
+const TEEVRA_CHARS = new Set(["m"]);
+function escapeHtml(str) {
+  return str.replace(/[&<>"]/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[ch]));
+}
 let currentScript = "roman";
 function render(notationStr, script) {
   if (script === "roman") return notationStr;
   const map = MAP[script];
-  return notationStr.replace(/[SRrGgmMPDdNn]/g, ch => map[ch] || ch);
+  return escapeHtml(notationStr).replace(/[SRrGgmMPDdNn]/g, ch => {
+    const glyph = map[ch];
+    if (!glyph) return ch;
+    if (KOMAL_CHARS.has(ch)) return `<span class="gmk-komal">${glyph}<span class="gmk-mark"></span></span>`;
+    if (TEEVRA_CHARS.has(ch)) return `<span class="gmk-teevra"><span class="gmk-mark"></span>${glyph}</span>`;
+    return glyph;
+  });
 }
 
 function badge(status){ return `<span class="badge ${status}">${status === "approved" ? "✓ approved" : "draft — unverified"}</span>`; }
@@ -274,7 +294,7 @@ document.getElementById("toggle").addEventListener("click", e => {
   if (e.target.tagName !== "BUTTON") return;
   currentScript = e.target.dataset.script;
   [...e.currentTarget.querySelectorAll("button")].forEach(b => b.classList.toggle("active", b === e.target));
-  document.querySelectorAll(".sur").forEach(el => { el.textContent = render(decodeURIComponent(el.dataset.sur), currentScript); });
+  document.querySelectorAll(".sur").forEach(el => { el.innerHTML = render(decodeURIComponent(el.dataset.sur), currentScript); });
 });
 
 draw();
