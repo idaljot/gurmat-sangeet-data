@@ -94,6 +94,16 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
     confirmed home in `raag.schema.json`/`SCHEMA.md` (values don't consistently match
     `komal`/`teevra`/`vadi`/`samvadi`); "Mukh Ang" plausibly maps to `pakad` but isn't
     confirmed. Not guessed at — captured verbatim in a flagged passthrough field instead.
+    - **"Sur" field clarified (Daljot):** it lists which swaras of the raag are
+      komal / teevra / shuddh — i.e. the raag's note-set (swar-vistaar), a distinct field,
+      not `pakad`. Capture as its own field; do not collapse into an existing one.
+    - **"Mukh Ang" researched (2026-07-16):** mainstream raag theory treats *Mukhya
+      Ang / Mukh Ang* as **synonymous with Pakad** (both = the essential defining
+      phrase/notes; "pakad is also known as mukhyaanga"), whereas *Chalan* is the broader
+      full-movement grammar. So `Mukh Ang → pakad` is the conventional mapping (nuance:
+      mukhya-ang may hold a small *set* of phrases, so long multi-phrase entries edge
+      toward chalan). Recommend mapping to `pakad`, keeping raw text verbatim, Ustaad-ji to
+      confirm. Sources: ragajunglism.org glossary, tanarang.com, Wikipedia Pakad/Chalan.
   - **2 demo entries wired up** (Siree Raag, Raag Gauri) in `data/raags.json`, via the
     real tool, `status: "draft"`. Deliberately conservative: only non-sur fields
     (thaat/jati/samvadi/varjit/time) were filled from reading the page text; **Aroh/
@@ -190,16 +200,28 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 ## Open decisions / dependencies (human-gated)
 
 - **Notation data-model gap (GitHub issue #4)** — hand-encoded real taal-grid crops into
-  SARGAM strings; found 3 concrete gaps. **1 of 3 resolved**: Daljot confirmed "S" =
-  sustain, and the non-linear beat usage is explained (matra-9 restart convention).
-  **2 still open**: no stated lyric-alignment rule, no field for taal-bol. **Still blocks
-  the taal-grid transcription tool's data-entry format** (Guru Gobind Singh Ji Di Bani,
-  Sampurn 55 Parhtala) — does not block Raag Da Saroup's tool (built, see above) or
-  anything already done (extraction, clustering). Needs Baljeet.
-- **Raag field-mapping gap (GitHub issue #6)** — Raag Da Saroup's "Sur" field has no
-  confirmed home in `raag.schema.json`/`SCHEMA.md`; "Mukh Ang"→`pakad` mapping is
-  plausible but unconfirmed. Doesn't block the tool (captured in a flagged passthrough
-  field) — affects where 2 of ~10 fields ultimately land once Baljeet weighs in.
+  SARGAM strings; found 3 concrete gaps. **1 of 3 resolved (now with an external
+  citation)**: "S" = elongate/sustain — Daljot's reading, corroborated by a standard
+  Bhatkhande-based reference (raag-hindustani.com: "a symbol resembling a large 'S' ...
+  elongated or sustained"); the matra-9 restart layout is documented in the same source
+  (bandish beginning on the 9th Teentaal beat is notated from column 9, each line its own
+  lyric+notation rows), so it's a standard convention, not a gap. **2 still open, both for
+  Baljeet**: (a) state the beat↔syllable alignment rule explicitly (the reference confirms
+  the "which syllable to which beat" model; our spec just never writes it down), and (b)
+  add a `taalBol` field (the traditional system has a dedicated rhythm-marker row). Does
+  not block Raag Da Saroup's tool (built, above) or anything already done.
+- **Raag field-mapping gap (GitHub issue #6)** — **now largely answered, pending Baljeet
+  sign-off.** "Sur" (Daljot): lists which swaras are komal/teevra/shuddh — the raag's
+  note-set; keep as its own field, don't fold into `pakad`. "Mukh Ang" (researched
+  2026-07-16): mainstream theory treats Mukh Ang / Mukhya Ang as synonymous with *pakad*
+  (Chalan is the broader movement grammar), so `Mukh Ang → pakad` is the conventional
+  mapping — recommend it, keep raw text verbatim, Ustaad ji to confirm. Doesn't block the
+  tool (passthrough field).
+- **Ustaad-ji confirmations (working rules, documented but not authority-confirmed)** —
+  the matra-9 *universality* ("shabad lines ~always start at matra 9 in 16-matra taal") is
+  Daljot's personal-experience rule: the *mechanism* is documented but the ~99% frequency
+  is parampara-specific and Teentaal-16-specific (other taals have different sam/khali).
+  Batch with the `Mukh Ang → pakad` confirmation for his review.
 - **Reference-implementation domain not finalized** — docs say `ShabadSwar.com`; the live
   Gurbani-search site is currently pointed at `GurbaniSargam.com`. Not settled; don't
   mass-rename the docs until it is.
