@@ -80,6 +80,18 @@ def main():
             "images": item["images"],
             "ocr_fields": ocr_fields,
             "page_prose": prose,
+            # book's own hierarchical numbering ("1", "2.1", "4.1.1", ...) -- see
+            # cluster_blocks.py's attach_raag_da_saroup_numbering(). raag_number is
+            # None (with needs_split_review True) when clustering couldn't safely
+            # attach it; raag_number_inferred is True when OCR dropped the heading
+            # but the ordinal was still unambiguous from context.
+            "raag_number": item.get("raag_number"),
+            "raag_name_as_printed": item.get("raag_name_as_printed"),
+            "parent_raag_number": item.get("parent_raag_number"),
+            "raag_number_inferred": item.get("raag_number_inferred", False),
+            "needs_split_review": item.get("needs_split_review", False),
+            "raag_numbers_candidate": item.get("raag_numbers_candidate"),
+            "numbering_note": item.get("numbering_note"),
         })
 
     out_path = BOOK_DIR / "worksheet.json"

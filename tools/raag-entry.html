@@ -139,8 +139,16 @@ function renderSidebar() {
   list.innerHTML = worksheet.map(item => {
     const isSaved = !!saved[item.manifest_id];
     const isActive = item.manifest_id === activeId;
-    return `<li><button data-id="${item.manifest_id}" class="${isSaved ? "saved" : ""} ${isActive ? "active" : ""}">
-      ${item.manifest_id.replace("raag-da-saroup-complete-", "#")} — ${(item.raag_gurmukhi_guess || "?").slice(0,18)}
+    // book's own hierarchical numbering (e.g. "3.1") -- indent by nesting depth so
+    // sub-raags visually nest under their parent. See numbering_note/
+    // needs_split_review for items clustering couldn't confidently number.
+    const depth = item.raag_number ? (item.raag_number.match(/\./g) || []).length : 0;
+    const numberLabel = item.raag_number
+      ? item.raag_number + (item.raag_number_inferred ? "*" : "")
+      : (item.needs_split_review ? "⚠" : "?");
+    const titleAttr = item.numbering_note ? ` title="${item.numbering_note.replace(/"/g, "&quot;")}"` : "";
+    return `<li><button data-id="${item.manifest_id}" class="${isSaved ? "saved" : ""} ${isActive ? "active" : ""}" style="padding-left:${8 + depth * 14}px"${titleAttr}>
+      <strong>${numberLabel}</strong> ${item.manifest_id.replace("raag-da-saroup-complete-", "#")} — ${(item.raag_name_as_printed || item.raag_gurmukhi_guess || "?").slice(0,18)}
     </button></li>`;
   }).join("");
   list.querySelectorAll("button").forEach(b => b.onclick = () => selectItem(b.dataset.id));

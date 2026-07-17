@@ -41,13 +41,13 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 - **Extraction Phase B (full run, 4 in-scope books) done and merged to `main`** (PR #2).
   See `books/extracted/EXTRACTION.md`. 607 pages, 749 notation blocks extracted (all
   `status: draft`, all flagged `needs_manual_transcription`).
-- **Block-clustering done**: the 749 raw blocks are now clustered into **302 real
+- **Block-clustering done**: the 749 raw blocks are now clustered into **303 real
   transcription items** in `books/extracted/manifest.json` — see `books/extracted/MANIFEST.md`
-  for the book-specific clustering logic, and two real over-merge bugs that were found by
+  for the book-specific clustering logic, and three real over-merge bugs that were found by
   spot-checking crop images and fixed (not left latent). Per-book: Guru Gobind Singh Ji Di
   Bani 63, Asa Di Vaar 120 (least trustworthy grouping — conservative same-page-only),
-  Sampurn 55 Parhtala 61, Raag Da Saroup Complete 58. **Use these counts, not the 749
-  raw-block count, for effort planning.**
+  Sampurn 55 Parhtala 61, Raag Da Saroup Complete 59 (was 58 — see below). **Use these
+  counts, not the 749 raw-block count, for effort planning.**
 - **Shabad identification mechanism corrected**: the plan named "GurbaniNow" — that API
   is dead (deprecated upstream, confirmed non-functional: its own documented example
   query returns zero results). Using **BaniDB** instead (`banidb` PyPI package, same
@@ -80,7 +80,7 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
   taal-grid transcription tool (Guru Gobind Singh Ji Di Bani, Sampurn 55 Parhtala) is
   still not built. **Raag Da Saroup Complete is a separate, unblocked path** (below) —
   its entries don't hit any of these three gaps.
-- **Raag-entry proof-of-concept built** (`tools/raag-entry.html`): for each of the 58
+- **Raag-entry proof-of-concept built** (`tools/raag-entry.html`): for each of the 59
   Raag Da Saroup Complete items, shows the crop image(s) + prefilled raw-OCR reference +
   a structured form (names, thaat, jati, vadi, samvadi, varjit, time, aroh, avroh, pakad,
   plus a passthrough field for the book's unmapped "Sur" field), with a live SARGAM
@@ -110,6 +110,32 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
     Avroh/Pakad were left empty** rather than have AI assert a sur transcription — the
     raw OCR guess for those fields is preserved in `notes` only, clearly labeled
     unverified. The 56 remaining items are untouched, waiting on a human with the tool.
+  - **Sub-raag hierarchy fixed (2026-07-16), item count 58 → 59:** root cause was
+    `guess_raag()` in `extraction_common.py` only capturing the *first* raag heading per
+    page and stamping it on every block that page, so sub-raag entries (e.g. Gauri's
+    3.1-3.11) all silently inherited the parent raag's name. Fixed with a new pass,
+    `attach_raag_da_saroup_numbering()` in `cluster_blocks.py`, that reads each page's
+    numbered heading ("1.", "2.1", down to 3 levels deep — "4.1.1") straight from the
+    page's own OCR'd prose and attaches `raag_number`/`parent_raag_number`/
+    `raag_name_as_printed` to each item — nothing fabricated, numbers are either verbatim
+    or (rarely, flagged) inferred where OCR dropped a heading but the ordinal was
+    unambiguous from context. Found and fixed one more real over-merge this way (page 10,
+    2 raags in 1 cluster — the 58→59 count change); **3 items still need human review**
+    (`needs_split_review: true`, pages 15/16/20 — signs of column-order OCR scrambling,
+    not auto-split to avoid guessing). Full writeup: `books/extracted/MANIFEST.md`'s "Raag
+    Da Saroup's numbering/hierarchy" section. Schema question filed as **issue #9**
+    (no `parentRaag`/`raagNumber` field exists in `raag.schema.json` yet — Baljeet call);
+    the column-scrambling finding filed as **issue #10**. Tool sidebar
+    (`tools/raag-entry.html`) now shows the numbering, indented by nesting depth.
+  - **Gurmukhi komal/teevra display bug fixed:** the Gurmukhi render map in both
+    `tools/raag-entry.html` and `demo/index.html` collapsed komal (`r g d n`) and teevra
+    (`m`) onto the same glyph as shuddh, making them visually indistinguishable — despite
+    the canonical ASCII storage being correctly case-sensitive per SARGAM.md (display-only
+    bug). Fixed with a CSS flexbox-wrapped mark (underline for komal, overline for teevra)
+    — plain `text-decoration`/`border` on the span didn't render reliably given Gurmukhi
+    font ascent metrics, confirmed via headless-Chrome screenshots before landing on the
+    flex approach. SARGAM.md doesn't state an exact Gurmukhi marking convention, so this
+    implements the standard one and flags it as **issue #8** for SARGAM.md to document.
 - **Asees-font legacy mapping: partial breakthrough, not yet applied.** Contrary to Phase
   A's "0% confidence, unmapped" conclusion, bridging through a downloaded `.gmf` mapping
   table (`custom-font-mapping/mapping.sgphar.0.5`) before `gurmukhi-utils` recovers real
@@ -151,18 +177,20 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
    ~~Raag-entry tool (Raag Da Saroup Complete)~~ **DONE (proof of concept):**
    `tools/raag-entry.html` — cropped image(s) + prefilled raw OCR + structured form +
    live SARGAM render-back preview + `data/raags.json` export. Verified working in a
-   real browser. 2 of 58 items wired up as a demo (non-sur fields only — see Current
-   State); 56 remain for a human with the tool. Schema gap found along the way: issue #6
-   ("Sur" field / "Mukh Ang"→`pakad` mapping) — Baljeet's call, not blocking the tool.
+   real browser. 2 of 59 items wired up as a demo (non-sur fields only — see Current
+   State); 57 remain for a human with the tool (3 of those flagged `needs_split_review`
+   — see issue #10 — and need a look at the source page image before transcription).
+   Schema gaps found along the way: issue #6 ("Sur" field / "Mukh Ang"→`pakad` mapping)
+   and issue #9 (raag hierarchy/`parentRaag` field) — Baljeet's call, not blocking the tool.
 4. **v0.1 target (recommended scope):** Sampurn 55 Parhtala (61 real shabad-notation
-   items, per `manifest.json`) + Raag Da Saroup (58 real raag-entry items, tool now
+   items, per `manifest.json`) + Raag Da Saroup (59 real raag-entry items, tool now
    exists for this half). Publish as `draft`, then Ustaad-ji-approved.
    - **Sequencing note: Raag Da Saroup is NOT blocked by issue #4.** Its entries are
      raag-reference fields (Thaat/Jaati/Vaadi/Samvadi/Aroh/Avroh/Mukh Ang) — single-line
      Aroh/Avroh sur with no taal grid, no lyric syllables, and no bold-`S` cell, so all
      three issue-#4 gaps (beat↔syllable alignment, `S` semantics, taal-bol) are moot. It
      can therefore be the **first proof-of-concept slice** — the tool now exists;
-     transcribe the remaining 56, get Ustaad-ji approval, publish the first `approved`
+     transcribe the remaining 57, get Ustaad-ji approval, publish the first `approved`
      records, wire into the reference site — all *while* the taal-grid books (Sampurn 55,
      Guru Gobind) wait on issue #4.
 5. **Approval:** sit with Ustaad ji; he confirms entries; flip `draft` → `approved`.
@@ -178,8 +206,8 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 - ~20 min per shabad-notation, ~10 min per raag-entry (unchanged rates; now applied to
   real item counts, not raw block counts).
 - **Full corpus solo: ~170–230 hrs — not the plan.**
-- **v0.1 slice (Sampurn 55 [61 items] + Raag Da Saroup [58 items]): ~30 hrs** (61×20min +
-  58×10min), splittable → ~10–15 hrs personal share with 1–2 helpers. Slightly higher
+- **v0.1 slice (Sampurn 55 [61 items] + Raag Da Saroup [59 items]): ~30 hrs** (61×20min +
+  59×10min), splittable → ~10–15 hrs personal share with 1–2 helpers. Slightly higher
   than the earlier rough ~23hr guess, same order of magnitude.
 - **Guru Gobind Singh Ji Di Bani (61 shabad-notations + 2 taal-reference legends):
   ~21 hrs.**

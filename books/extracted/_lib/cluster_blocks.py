@@ -167,6 +167,15 @@ def cluster_sampurn_55(blocks):
 FIELD_ORDER = ["ਥਾਟ", "ਜਾਤੀ", "ਵਾਦੀ", "ਸੰਵਾਦੀ", "ਸੁਰ", "ਵਰਜਿਤ ਸੁਰ", "ਸਮਾਂ", "ਆਰੋਹ", "ਅਵਰੋਹ", "ਮੁੱਖ ਅੰਗ"]
 FIELD_RANK = {label: i for i, label in enumerate(FIELD_ORDER)}
 
+# page 10: only 3 blocks were cropped for what turns out to be 2 raag entries ("5. ਰਾਗ
+# ਗੁਜਰੀ", "6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ", confirmed against page-010.json's full-page prose, which
+# does carry both numbered headings even though the block-level notation extraction
+# missed most of the field lines). Field-order detection didn't catch the boundary
+# because neither block after it carries a recognizable early-order label. Block 3's
+# raw text ("ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ") matches prose appearing after the "6." heading, with no
+# further heading before it -- a safe, position-grounded split, not a content guess.
+RAAG_DA_SAROUP_MANUAL_SPLITS = {"notation/page-010-block-3.png"}
+
 
 def cluster_raag_da_saroup(blocks):
     blocks_sorted = sorted(blocks, key=lambda b: (b["page"], b["image"]))
@@ -183,6 +192,7 @@ def cluster_raag_da_saroup(blocks):
             current is None
             or (raag and current_raag and raag != current_raag)
             or (rank is not None and rank <= last_rank)
+            or b["image"] in RAAG_DA_SAROUP_MANUAL_SPLITS
         )
         if starts_new:
             if current is not None:
@@ -203,6 +213,133 @@ def cluster_raag_da_saroup(blocks):
     if current is not None:
         clusters.append(current)
     return clusters
+
+
+# Raag Da Saroup Complete numbers its raags hierarchically in the printed book: "1.
+# Raag A", "2. Raag B", "2.1 Raag B sub-raag", "2.1.1 ..." etc. That numbering isn't in
+# notation-raw.json (block-level crops only capture field label:value pairs, not
+# headings) -- it only survives in each page's full-page prose text
+# (books/extracted/raag-da-saroup-complete/pages/page-NNN.json). This section attaches
+# it to already-clustered raag-entry items as a best-effort, non-fabricating pass: every
+# number attached is either read verbatim from a heading, or -- where OCR dropped a
+# heading outright -- inferred ONLY when the surrounding sequence makes the missing
+# ordinal unambiguous (never a guess about raag *content*, just which position an
+# already-fully-clustered entry occupies).
+RAAG_HEADING_RE = re.compile(r"^(\d+(?:\.\d+)*)\.?\s+(ਰਾਗ.*)$")
+
+
+def extract_raag_headings(slug):
+    """page_no -> ordered list of (number_str, name_str) parsed from that page's
+    extracted prose. Best-effort regex match on numbered raag headings (e.g. '3.1
+    ਰਾਗੁ ਗਉੜੀ ਗੁਆਰੇਰੀ'); returns exactly what's printed, nothing invented."""
+    pages_dir = EXTRACTED / slug / "pages"
+    headings = {}
+    for page_path in sorted(pages_dir.glob("page-*.json")):
+        page_no = int(re.search(r"page-(\d+)", page_path.stem).group(1))
+        text = json.load(open(page_path, encoding="utf-8"))["text"]
+        found = []
+        for line in text.split("\n"):
+            m = RAAG_HEADING_RE.match(line.strip())
+            if m:
+                found.append((m.group(1), m.group(2).strip()))
+        headings[page_no] = found
+    return headings
+
+
+def parent_raag_number(number):
+    if number is None or "." not in number:
+        return None
+    return number.rsplit(".", 1)[0]
+
+
+# Numbers this book's OCR dropped entirely from the page text (no heading line at
+# all), even though the entry's own field content is present and complete on the
+# page. Found by reading each affected page's full prose end-to-end: in every case
+# the gap falls strictly between two confirmed numbers with no other candidate
+# fitting (e.g. 3.5 then 3.7, nothing else between -- so 3.6 is the only possibility).
+# Confirmed by spot-checking books/extracted/raag-da-saroup-complete/pages/page-*.json.
+RAAG_DA_SAROUP_GAP_NUMBERS = {
+    5: "3.6",    # between 3.5 (page 4) and 3.7 (page 5)
+    6: "3.8",    # between 3.7 (page 5) and 3.9 (page 6)
+    7: "3.10",   # between 3.9 (page 6) and 3.11 (page 7)
+    17: "15.1",  # between 15 (page 16) and 15.2 (page 17)
+    18: "16",    # 16.1 (found on this same page) is a Bilaval sub-raag, so a base
+                 # "16" raag must exist as its parent; this headingless entry is the
+                 # only candidate on the page
+    28: "28",    # between 27 (page 27) and 29 (page 28)
+}
+
+# Pages where 2 numbered headings were found in the page's prose but only 1 raag-entry
+# cluster resulted -- unlike the page-10 manual split above, these show signs of
+# column-order OCR scrambling (e.g. a bare "ਮੁੱਖ ਅੰਗ" label appearing mid-entry, out of
+# this book's normal field order, and/or far fewer cropped blocks than the prose has
+# field lines), so no block-position-based split can be trusted here. Flagged for a
+# human to review the source page image rather than guessed.
+RAAG_DA_SAROUP_NEEDS_SPLIT_REVIEW = {15, 16, 20}
+
+
+def attach_raag_da_saroup_numbering(items):
+    """Mutates raag-da-saroup-complete manifest items in place, adding raag_number /
+    parent_raag_number / raag_name_as_printed (or an explicit review flag when the
+    numbering can't be safely attached). See module docstring above."""
+    headings_by_page = extract_raag_headings("raag-da-saroup-complete")
+    items_by_start_page = {}
+    for it in items:
+        items_by_start_page.setdefault(it["page_range"][0], []).append(it)
+
+    def blank(it, note, needs_review):
+        it["raag_number"] = None
+        it["raag_name_as_printed"] = None
+        it["parent_raag_number"] = None
+        it["raag_number_inferred"] = False
+        it["needs_split_review"] = needs_review
+        it["numbering_note"] = note
+
+    for page_no, page_items in items_by_start_page.items():
+        page_headings = headings_by_page.get(page_no, [])
+
+        if page_no in RAAG_DA_SAROUP_NEEDS_SPLIT_REVIEW:
+            names = ", ".join(f"{num} {name}" for num, name in page_headings)
+            note = (
+                f"Page shows {len(page_headings)} numbered heading(s) ({names}) for "
+                f"{len(page_items)} clustered item(s) here -- block-level notation "
+                "extraction was too sparse/scrambled to safely attribute blocks to "
+                "the right raag. Needs human review of the source page image."
+            )
+            for it in page_items:
+                blank(it, note, needs_review=True)
+                it["raag_numbers_candidate"] = [n for n, _ in page_headings]
+            continue
+
+        remaining = page_items
+        if len(page_items) == len(page_headings) + 1 and page_no in RAAG_DA_SAROUP_GAP_NUMBERS:
+            gap_number = RAAG_DA_SAROUP_GAP_NUMBERS[page_no]
+            gap_item = page_items[0]
+            gap_item["raag_number"] = gap_number
+            gap_item["raag_name_as_printed"] = None
+            gap_item["parent_raag_number"] = parent_raag_number(gap_number)
+            gap_item["raag_number_inferred"] = True
+            gap_item["needs_split_review"] = False
+            gap_item["numbering_note"] = (
+                "Heading not captured by OCR; number inferred from sequence (falls "
+                "between the two nearest confirmed numbers, with no other candidate)."
+            )
+            remaining = page_items[1:]
+
+        for it, (num, name) in zip(remaining, page_headings):
+            it["raag_number"] = num
+            it["raag_name_as_printed"] = name
+            it["parent_raag_number"] = parent_raag_number(num)
+            it["raag_number_inferred"] = False
+            it["needs_split_review"] = False
+            it["numbering_note"] = None
+
+        for it in remaining[len(page_headings):]:
+            blank(
+                it,
+                "Unmatched against any heading found on this page's prose -- needs manual review.",
+                needs_review=True,
+            )
 
 
 def cluster_asa_di_vaar(blocks):
@@ -271,6 +408,8 @@ def build_manifest():
                 "status": "draft",
                 "needs_manual_transcription": True,
             })
+
+    attach_raag_da_saroup_numbering([x for x in manifest if x["book"] == "raag-da-saroup-complete"])
     return manifest, stats
 
 

@@ -18,14 +18,15 @@ to manual transcription regardless of clustering confidence.**
 | Guru Gobind Singh Ji Di Bani | 68 | 63 | 61 shabad-notation + 2 taal-reference | 63 / 0 / 0 |
 | Asa Di Vaar | 167 | 120 | 120 notation-fragment | 0 / 16 / 104 |
 | 2 Sampurn 55 Parhtala | 330 | 61 | 61 shabad-notation | 0 / 60 / 1 |
-| Raag Da Saroup Complete | 184 | 58 | 58 raag-entry | 0 / 58 / 0 |
-| **Total** | **749** | **302** | | |
+| Raag Da Saroup Complete | 184 | 59 | 59 raag-entry | 0 / 59 / 0 |
+| **Total** | **749** | **303** | | |
 
 Sanity check against Phase A's earlier rough estimates: Sampurn 55 Parhtala's 61 items
-lines up well with Phase A's "~55 shabads" guess; Raag Da Saroup's 58 items is roughly
+lines up well with Phase A's "~55 shabads" guess; Raag Da Saroup's 59 items is roughly
 2x Phase A's "~30 raags" guess, which makes sense once you look at the actual pages —
 several base raag names have 2-3 variant entries each (confirmed visually), so "~30 raag
-*names*" and "~58 raag *entries*" are both correct, just counting different things.
+*names*" and "~59 raag *entries*" are both correct, just counting different things.
+(Was 58; see "Raag numbering/hierarchy" below — one more over-merge found and fixed.)
 
 **This changes the effort estimate's unit from "block" to "item" — use these counts, not
 the 749 raw-block count, for planning manual transcription work.**
@@ -86,6 +87,52 @@ opening the actual crop images, not by staring at the extracted fields:
 Both are documented in `books/extracted/_lib/cluster_blocks.py`'s comments at the
 exact point they're guarded against, so a future re-run doesn't reintroduce them
 silently.
+
+## Raag Da Saroup's numbering/hierarchy (sub-raags)
+
+The printed book numbers raags hierarchically -- "1. Raag A", "2. Raag B", "2.1 Raag B
+sub-raag", down to "4.1.1" (3 levels seen). That numbering isn't in `notation-raw.json`
+(block-level crops only capture field label:value pairs, not headings) and the per-block
+`raag` tag (`guess_raag()` in `extraction_common.py`) only takes the *first* raag mention
+on the whole page and stamps it on every block on that page -- so every sub-raag entry
+on a page silently inherited its parent's name, hiding the hierarchy entirely (e.g. Gauri
+sub-raags 3.1-3.11 all showed up tagged just `ਰਾਗੁ ਗਉੜੀ`).
+
+Fixed by a new pass, `attach_raag_da_saroup_numbering()` in `cluster_blocks.py`, that
+reads each page's full-page prose text (which *does* carry the numbered headings) and
+attaches `raag_number` / `parent_raag_number` / `raag_name_as_printed` to each already-
+clustered item. Nothing about raag content is invented -- every number is either read
+verbatim off a heading, or (rarely) inferred when OCR dropped a heading outright but the
+missing ordinal was unambiguous from context (flagged `raag_number_inferred: true`).
+
+**One more real over-merge found this way (now 3 total, count corrected 58 -> 59):**
+page 10 packed 2 raags ("5. ਰਾਗ ਗੁਜਰੀ", "6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ") into a single cluster --
+neither of that page's 3 cropped blocks triggered the field-order boundary check. Fixed
+with a targeted manual split (`RAAG_DA_SAROUP_MANUAL_SPLITS`), justified by the block's
+raw text matching prose that falls after the "6." heading.
+
+**3 items still need human review before their number can be trusted**
+(`needs_split_review: true`, manifest IDs `-0029`, `-0030`, `-0037` — pages 15, 16, 20).
+These pages each show 2 numbered headings collapsing into 1 cluster too, but *unlike*
+page 10, they show signs of column-order OCR scrambling (a bare "ਮੁੱਖ ਅੰਗ" label
+appearing mid-entry, out of the book's normal field order, and far fewer cropped blocks
+than the page's prose has field lines) -- there's no reliable position-based signal to
+say which block belongs to which raag, so rather than guess, both candidate numbers are
+recorded (`raag_numbers_candidate`) and the item is left unsplit pending a look at the
+actual page image. **This may indicate the book uses a 2-column table layout on some
+pages that the current single-column OCR pass (`--psm 4`) doesn't read in true order** --
+worth a wider look if more such pages turn up outside this book's raag-entries.
+
+5 further items have `raag_number_inferred: true` (numbers `3.6`, `3.8`, `3.10`, `15.1`,
+`16`, `28`) -- their heading line was dropped by OCR entirely, but the entry's own field
+content is present and complete, and the surrounding numbered headings make the missing
+ordinal unambiguous (e.g. nothing but a headingless entry sits between confirmed `3.5`
+and `3.7`, so it can only be `3.6`).
+
+`parent_raag_number` is carried on every numbered item (e.g. `3.1`'s parent is `3`) so
+sub-raags can nest under their base raag once a schema field exists for it -- **no such
+field exists yet in `raag.schema.json`**; this is a schema question for Baljeet, tracked
+in [issue #9](https://github.com/idaljot/gurmat-sangeet-data/issues/9), not decided here.
 
 ## `manifest.json` record shape
 
