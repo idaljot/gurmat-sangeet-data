@@ -77,12 +77,20 @@ This distinction is the reason the dataset can be trusted. Do not drop it.
 
 ### Identifiers
 
-- **`shabadIds`** — an **array** of shabad identifiers as used by the GurbaniNow /
-  SikhiToTheMax ecosystem (e.g. `["JK3"]`). One notation may apply to several shabads
-  (see "many-to-many" below), so this is **always an array** — a single-shabad
-  notation is simply an array of one. Each ID is alphanumeric, case-sensitive, and
-  globally unique across sources (Guru Granth Sahib Ji, Sri Dasam Granth, Vaaran Bhai
-  Gurdas Ji, Bhai Nand Lal Ji).
+- **`shabadIds`** — an **array** of shabad identifiers as used by the **BaniDB**
+  (`api.banidb.com`, KhalisFoundation) / Shabad OS ecosystem — e.g. `[2779]`. (The
+  original plan named "GurbaniNow" for this; that API is dead — deprecated upstream and
+  confirmed non-functional, including its own documented example query. BaniDB is the
+  same broad lineage, actively maintained, and is what this repo's extraction pipeline
+  already uses — see `books/extracted/_lib/shabad_match.py`.) One notation may apply to
+  several shabads (see "many-to-many" below), so this is **always an array** — a
+  single-shabad notation is simply an array of one. Each ID is an **integer**, globally
+  unique across sources (Guru Granth Sahib Ji, Sri Dasam Granth, Vaaran Bhai Gurdas Ji,
+  Bhai Nand Lal Ji). Note: the open-source **Shabad OS Database** (a downloadable SQLite
+  snapshot of the same data, for offline use — see issue #3) exposes the identical ID
+  under its `sttm_id` column, confirmed by direct lookup — so `shabadIds` values are
+  portable between a live BaniDB call and a local Shabad OS Database file without
+  translation.
 - **`verseId`** — OPTIONAL. Identifies a specific line (pankti) within a shabad,
   used to point at the exact sthayi line rather than inferring it (e.g. from rahaao).
   Same ecosystem's line identifier. Meaningful only for a single-shabad record; leave
@@ -170,7 +178,7 @@ shabad, and one notation may serve several shabads. See below.
 [
   {
     "notationId": "n-0001",              // stable, unique within this dataset
-    "shabadIds": ["JK3"],                // one OR MORE shabads this notation applies to
+    "shabadIds": [2779],                 // one OR MORE shabads this notation applies to (BaniDB integer IDs)
     "verseId": null,                     // OPTIONAL: exact sthayi line (single-shabad only)
     "appliesToNote": "",                 // OPTIONAL: human context when spanning many shabads
 
@@ -217,7 +225,7 @@ A notation that spans a whole paath is one record with many `shabadIds`:
 ```jsonc
 {
   "notationId": "n-0042",
-  "shabadIds": ["SKM1", "SKM2", "SKM3", "…"],   // every pada it applies to
+  "shabadIds": [3157, 3158, 3159],      // every pada it applies to (illustrative IDs — continues for all of Sukhmani Sahib)
   "appliesToNote": "Standard Sukhmani Sahib paath dhun — same for every pada",
   "title": "Sukhmani Sahib",
   "raag": "Gauri",
