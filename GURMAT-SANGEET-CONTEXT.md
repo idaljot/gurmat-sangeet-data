@@ -131,6 +131,19 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
     `parentRaag`/`raagNumber` field exists in `raag.schema.json` yet — Baljeet call);
     issue #10 (the column-scrambling theory) closed as a mis-diagnosis. Tool sidebar
     (`tools/raag-entry.html`) shows the numbering, indented by nesting depth.
+  - **Cross-checked against the 60 canonical Gurbani raags (Daljot, 2026-07-16):** all 60
+    matched a book item 1:1. The 62 vs 60 difference is **3 extras + 1 missing** (net +2),
+    not a clean 2 extras — verified against the rendered source pages, not assumed:
+    - Extras (real headings in this book, not among the 60 Gurbani raags): `6.1 ਰਾਗ
+      ਦੇਵਗੰਧਾਰ` (Devgandhar), `16.2 ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ` (Bilaval Mangal), `4.1.1 ਰਾਗ ਆਸਾਵਰੀ
+      ਸੁਪੰਗ` (Asavari Supang — checked closely since it sits where the canonical list has
+      "Asa Asavari"; rendered page 9 directly and confirmed the printed heading really
+      says ਸੁਪੰਗ, not an OCR misread of ਆਸਾ).
+    - Missing: **Asa Asavari** (canonical #20, SGGS p.409) — no entry anywhere in this
+      book. The Asa family here goes 4 → 4.1 → 4.1.1 → 4.2 with no gap in the numbering,
+      so this looks like the source book itself never covered this raag (an editorial
+      scope difference — this book is a general raga reference, not specifically an SGGS
+      raag index — not an extraction bug).
   - **Gurmukhi komal/teevra display bug fixed:** the Gurmukhi render map in both
     `tools/raag-entry.html` and `demo/index.html` collapsed komal (`r g d n`) and teevra
     (`m`) onto the same glyph as shuddh, making them visually indistinguishable — despite
