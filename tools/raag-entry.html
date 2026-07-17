@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Raag Da Saroup Complete — Entry Tool (PROOF OF CONCEPT)</title>
+<style>
+  :root {
+    --ink: #23201b; --muted: #6b6459; --line: #e4ddcf; --bg: #faf7f0;
+    --card: #ffffff; --gold: #9a6b1f; --forest: #2f5d3a;
+    --draft: #b25c00; --warn: #a11d1d; --prefill: #fff8e8;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 15px/1.5 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  .poc-banner {
+    background: #fff4f4; border-bottom: 2px solid #f0c9c9; color: var(--warn);
+    padding: 10px 16px; font-size: .88rem; text-align: center;
+  }
+  .layout { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; }
+  @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } }
+  .sidebar { border-right: 1px solid var(--line); padding: 14px; overflow-y: auto; max-height: 100vh; }
+  .sidebar h1 { font-size: 1rem; margin: 0 0 4px; }
+  .sidebar .sub { color: var(--muted); font-size: .78rem; margin: 0 0 12px; }
+  .progress { font-size: .82rem; margin: 0 0 10px; padding: 8px 10px; background: var(--card); border: 1px solid var(--line); border-radius: 8px; }
+  .item-list { list-style: none; margin: 0; padding: 0; }
+  .item-list li { margin: 2px 0; }
+  .item-list button {
+    width: 100%; text-align: left; background: none; border: 1px solid transparent;
+    padding: 6px 8px; border-radius: 6px; cursor: pointer; font-size: .82rem; color: var(--ink);
+  }
+  .item-list button:hover { background: #f2ede1; }
+  .item-list button.active { background: var(--forest); color: #fff; }
+  .item-list button.saved::before { content: "✓ "; color: var(--forest); }
+  .item-list button.active.saved::before { color: #cfe8d6; }
+  .main { padding: 20px 24px 60px; overflow-y: auto; }
+  h2 { font-size: 1.1rem; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: .85rem; margin: 0 0 16px; }
+  .crops { display: flex; gap: 10px; flex-wrap: wrap; margin: 0 0 18px; }
+  .crops img { max-width: 100%; max-height: 260px; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
+  .ocr-ref { background: #faf6ec; border: 1px dashed var(--line); border-radius: 8px; padding: 10px 12px; font-size: .82rem; margin: 0 0 18px; white-space: pre-wrap; font-family: ui-monospace, Menlo, Consolas, monospace; max-height: 160px; overflow-y: auto; }
+  .ocr-ref summary { cursor: pointer; font-family: -apple-system, sans-serif; color: var(--gold); font-size: .85rem; margin-bottom: 6px; }
+  form { display: grid; gap: 12px; }
+  .field { display: grid; gap: 3px; }
+  .field label { font-size: .8rem; color: var(--muted); }
+  .field label .req { color: var(--warn); }
+  .field label .flag { color: var(--warn); font-weight: 600; }
+  .field input[type=text], .field textarea {
+    font: inherit; padding: 7px 9px; border: 1px solid var(--line); border-radius: 6px; width: 100%;
+  }
+  .field input.prefilled, .field textarea.prefilled { background: var(--prefill); border-color: #e6cf8c; }
+  .field input.sargam { font-family: ui-monospace, Menlo, Consolas, monospace; }
+  .field .hint { font-size: .74rem; color: var(--muted); }
+  .preview { background: #1e1b16; color: #f3ead6; padding: 8px 10px; border-radius: 6px; font-size: .95rem; font-family: ui-monospace, Menlo, Consolas, monospace; min-height: 1.4em; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 640px) { .row2 { grid-template-columns: 1fr; } }
+  fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; }
+  legend { font-size: .82rem; color: var(--gold); padding: 0 6px; }
+  .actions { display: flex; gap: 10px; margin-top: 8px; flex-wrap: wrap; }
+  button.primary, button.secondary {
+    font: inherit; padding: 8px 16px; border-radius: 6px; cursor: pointer; border: 1px solid var(--forest);
+  }
+  button.primary { background: var(--forest); color: #fff; }
+  button.secondary { background: #fff; color: var(--ink); border-color: var(--line); }
+  .badge-draft { display: inline-block; font-size: .72rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: #fff1e2; color: var(--draft); border: 1px solid #f0d2ab; vertical-align: middle; }
+</style>
+</head>
+<body>
+
+<div class="poc-banner">
+  PROOF OF CONCEPT — Raag Da Saroup Complete only (58 items). Everything saved here is
+  <code>status: "draft"</code>. Nothing here is transcribed by AI — sur/notation fields are
+  prefilled with raw OCR guesses only, clearly marked, and must be re-typed by a human
+  reading the crop image. See <code>GURMAT-SANGEET-CONTEXT.md</code> and
+  <code>books/extracted/MANIFEST.md</code> for full context.
+</div>
+
+<div class="layout">
+  <div class="sidebar">
+    <h1>Raag entries</h1>
+    <p class="sub">books/extracted/raag-da-saroup-complete/worksheet.json</p>
+    <div class="progress" id="progress">loading…</div>
+    <ul class="item-list" id="item-list"></ul>
+  </div>
+  <div class="main" id="main">
+    <p>Loading worksheet…</p>
+  </div>
+</div>
+
+<script>
+/* ---- Reused, unmodified from demo/index.html's render() ---- */
+const MAP = {
+  gurmukhi: { S:"ਸ", R:"ਰ", r:"ਰ", G:"ਗ", g:"ਗ", m:"ਮ", M:"ਮ", P:"ਪ", D:"ਧ", d:"ਧ", N:"ਨ", n:"ਨ" }
+};
+function renderSargam(notationStr) {
+  if (!notationStr) return "";
+  return notationStr.replace(/[SRrGgmMPDdNn]/g, ch => MAP.gurmukhi[ch] || ch);
+}
+
+const STORAGE_KEY = "raag-entry-poc-v1";
+let worksheet = [];
+let saved = {}; // manifest_id -> record
+
+function loadSaved() {
+  try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); }
+  catch (e) { saved = {}; }
+}
+function persistSaved() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+}
+
+let activeId = null;
+
+function renderSidebar() {
+  const list = document.getElementById("item-list");
+  list.innerHTML = worksheet.map(item => {
+    const isSaved = !!saved[item.manifest_id];
+    const isActive = item.manifest_id === activeId;
+    return `<li><button data-id="${item.manifest_id}" class="${isSaved ? "saved" : ""} ${isActive ? "active" : ""}">
+      ${item.manifest_id.replace("raag-da-saroup-complete-", "#")} — ${(item.raag_gurmukhi_guess || "?").slice(0,18)}
+    </button></li>`;
+  }).join("");
+  list.querySelectorAll("button").forEach(b => b.onclick = () => selectItem(b.dataset.id));
+
+  const n = Object.keys(saved).length;
+  document.getElementById("progress").textContent = `${n} / ${worksheet.length} saved as draft`;
+}
+
+function fieldRow(key, label, opts = {}) {
+  const rec = saved[activeId] || {};
+  const ocrValue = opts.ocrKey ? (worksheet.find(w => w.manifest_id === activeId).ocr_fields[opts.ocrKey] || "") : "";
+  const value = rec[key] !== undefined ? rec[key] : ocrValue;
+  const isPrefilled = rec[key] === undefined && ocrValue;
+  const tag = opts.textarea ? "textarea" : "input";
+  const typeAttr = opts.textarea ? "" : `type="text"`;
+  const cls = [opts.sargam ? "sargam" : "", isPrefilled ? "prefilled" : ""].filter(Boolean).join(" ");
+  const flagLabel = opts.flag ? `<span class="flag">${opts.flag}</span> ` : "";
+  const reqLabel = opts.required ? `<span class="req">*</span> ` : "";
+  // select-all on focus for prefilled fields: these hold an untrustworthy OCR guess
+  // meant to be fully overwritten, not edited in place -- without this, a normal
+  // click-then-type interaction appends new text after the stale guess instead of
+  // replacing it (caught by testing the tool in a real browser, not just reading code).
+  const selectOnFocus = isPrefilled ? `onfocus="this.select()"` : "";
+  const el = opts.textarea
+    ? `<textarea id="f-${key}" class="${cls}" rows="2" ${selectOnFocus}>${value}</textarea>`
+    : `<input ${typeAttr} id="f-${key}" class="${cls}" value="${(value || "").replace(/"/g, "&quot;")}" ${selectOnFocus} />`;
+  const hint = opts.hint ? `<div class="hint">${opts.hint}</div>` : "";
+  return `<div class="field">
+    <label for="f-${key}">${reqLabel}${flagLabel}${label}</label>
+    ${el}
+    ${hint}
+  </div>`;
+}
+
+function selectItem(id) {
+  activeId = id;
+  const item = worksheet.find(w => w.manifest_id === id);
+  const rec = saved[id] || {};
+
+  const cropsHTML = item.images.map(img =>
+    `<img src="../books/extracted/raag-da-saroup-complete/${img}" alt="${img}" />`
+  ).join("");
+
+  document.getElementById("main").innerHTML = `
+    <h2>${item.manifest_id} <span class="badge-draft">draft</span></h2>
+    <p class="meta">Pages ${item.page_range[0]}–${item.page_range[1]} · cluster confidence: ${item.cluster_confidence} · raag guess: ${item.raag_gurmukhi_guess || "?"}</p>
+
+    <div class="crops">${cropsHTML}</div>
+
+    <details class="ocr-ref" open>
+      <summary>Reference: surrounding page text (as extracted — low-confidence OCR, read against the images above)</summary>
+      ${item.page_prose.replace(/</g, "&lt;")}
+    </details>
+
+    <form id="entry-form" onsubmit="return false;">
+      <fieldset>
+        <legend>Names</legend>
+        <div class="row2">
+          ${fieldRow("names_roman", "Roman name", { required: true, hint: "Type this — no reliable auto-transliteration from Gurmukhi." })}
+          ${fieldRow("names_gurmukhi", "Gurmukhi name", { ocrKey: null })}
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Musical structure</legend>
+        <div class="row2">
+          ${fieldRow("thaat", "Thaat", { hint: "See page text above (ਥਾਟ)." })}
+          ${fieldRow("jati", "Jati", { hint: "ਜਾਤੀ, e.g. \"Audava-Sampurna\"." })}
+        </div>
+        <div class="row2">
+          ${fieldRow("vadi", "Vadi", { hint: "ਵਾਦੀ" })}
+          ${fieldRow("samvadi", "Samvadi", { hint: "ਸੰਵਾਦੀ" })}
+        </div>
+        ${fieldRow("varjit", "Varjit (omitted swars)", { ocrKey: "ਵਰਜਿਤ ਸੁਰ", hint: "Comma-separated, e.g. \"Ga, Dha\". Prefilled from raw OCR — verify against image." })}
+        ${fieldRow("time", "Time (Samay)", { ocrKey: "ਸਮਾਂ", hint: "ਸਮਾਂ — traditional association only, not a rule (see SCHEMA.md)." })}
+      </fieldset>
+
+      <fieldset>
+        <legend>Sur (notation) — verify carefully against the crop image</legend>
+        ${fieldRow("aroh", "Aroh", { ocrKey: "ਆਰੋਹ", sargam: true, hint: "Canonical SARGAM string (see SARGAM.md). Prefilled value is a RAW OCR GUESS in the book's own Gurmukhi-consonant sur notation — re-read from the image and re-type in canonical SARGAM, don't just trust this." })}
+        <div class="preview" id="preview-aroh"></div>
+        ${fieldRow("avroh", "Avroh", { ocrKey: "ਅਵਰੋਹ", sargam: true, hint: "Same caution as Aroh." })}
+        <div class="preview" id="preview-avroh"></div>
+        ${fieldRow("pakad", "Pakad (from \"Mukh Ang\")", { ocrKey: "ਮੁੱਖ ਅੰਗ", sargam: true, flag: "mapping unconfirmed — issue #6", hint: "\"Mukh Ang\" plausibly = pakad, not confirmed by Baljeet/Ustaad ji yet. See issue #6." })}
+        <div class="preview" id="preview-pakad"></div>
+        ${fieldRow("sur_unmapped", "\"Sur\" field (no schema home yet)", { ocrKey: "ਸੁਰ", flag: "unmapped — issue #6", hint: "This book's ਸੁਰ field has no confirmed home in raag.schema.json. Captured verbatim here so nothing is lost; do not force it into another field." })}
+      </fieldset>
+
+      <fieldset>
+        <legend>Provenance</legend>
+        ${fieldRow("sourceNote", "Source note", { textarea: true, hint: "Free text — flag anything uncertain here too." })}
+      </fieldset>
+
+      <div class="actions">
+        <button type="button" class="primary" id="save-btn">Save as draft</button>
+        <button type="button" class="secondary" id="clear-btn">Clear this entry</button>
+      </div>
+    </form>
+  `;
+
+  ["aroh", "avroh", "pakad"].forEach(k => {
+    const input = document.getElementById(`f-${k}`);
+    const preview = document.getElementById(`preview-${k}`);
+    const update = () => { preview.textContent = renderSargam(input.value) || "(preview)"; };
+    input.addEventListener("input", update);
+    update();
+  });
+
+  document.getElementById("save-btn").onclick = () => saveActive();
+  document.getElementById("clear-btn").onclick = () => {
+    delete saved[activeId];
+    persistSaved();
+    selectItem(activeId);
+    renderSidebar();
+  };
+
+  renderSidebar();
+}
+
+function saveActive() {
+  const get = id => document.getElementById(id)?.value || "";
+  saved[activeId] = {
+    names_roman: get("f-names_roman"),
+    names_gurmukhi: get("f-names_gurmukhi"),
+    thaat: get("f-thaat"),
+    jati: get("f-jati"),
+    vadi: get("f-vadi"),
+    samvadi: get("f-samvadi"),
+    varjit: get("f-varjit"),
+    time: get("f-time"),
+    aroh: get("f-aroh"),
+    avroh: get("f-avroh"),
+    pakad: get("f-pakad"),
+    sur_unmapped: get("f-sur_unmapped"),
+    sourceNote: get("f-sourceNote"),
+  };
+  persistSaved();
+  renderSidebar();
+  alert("Saved as draft (in this browser's local storage). Use \"Export data/raags.json\" when ready.");
+}
+
+function exportRaagsJson() {
+  const out = {};
+  for (const [id, rec] of Object.entries(saved)) {
+    if (!rec.names_roman) continue; // required field -- skip incomplete
+    out[rec.names_roman] = {
+      names: {
+        roman: rec.names_roman,
+        gurmukhi: rec.names_gurmukhi || "",
+        alternates: []
+      },
+      thaat: rec.thaat || "",
+      jati: rec.jati || "",
+      aroh: rec.aroh || "",
+      avroh: rec.avroh || "",
+      pakad: rec.pakad || "",
+      vadi: rec.vadi || "",
+      samvadi: rec.samvadi || "",
+      komal: [],
+      teevra: [],
+      varjit: (rec.varjit || "").split(",").map(s => s.trim()).filter(Boolean),
+      time: rec.time || "",
+      season: "",
+      mood: "",
+      notes: rec.sur_unmapped ? `Book's "Sur" field (unmapped, see issue #6): ${rec.sur_unmapped}` : "",
+      resources: [],
+      status: "draft",
+      sourceNote: [rec.sourceNote, "Extracted via raag-entry.html proof-of-concept tool from Raag Da Saroup Complete", id].filter(Boolean).join(" — "),
+      sourceRef: "book:raag-da-saroup-complete",
+      reviewedBy: null,
+      reviewedOn: null
+    };
+  }
+  const blob = new Blob([JSON.stringify(out, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "raags.draft-export.json";
+  a.click();
+}
+
+fetch("../books/extracted/raag-da-saroup-complete/worksheet.json")
+  .then(r => r.json())
+  .then(data => {
+    worksheet = data;
+    loadSaved();
+    renderSidebar();
+    const exportBtn = document.createElement("div");
+    exportBtn.style.padding = "10px 14px";
+    exportBtn.innerHTML = `<button class="secondary" onclick="exportRaagsJson()" style="width:100%">Export data/raags.json (draft)</button>`;
+    document.querySelector(".sidebar").appendChild(exportBtn);
+    if (worksheet.length) selectItem(worksheet[0].manifest_id);
+  })
+  .catch(err => {
+    document.getElementById("main").innerHTML = `<p style="color:#a11d1d">Failed to load worksheet.json: ${err}. Serve this directory over HTTP (not file://) — e.g. <code>python3 -m http.server</code> from the repo root — so fetch() can load the JSON.</p>`;
+  });
+</script>
+</body>
+</html>

@@ -1,1 +1,60 @@
-{}
+{
+  "Siree Raag": {
+    "names": {
+      "roman": "Siree Raag",
+      "gurmukhi": "ਰਾਗ ਸਿਰੀਗਾਗ",
+      "alternates": []
+    },
+    "thaat": "Poorbi",
+    "jati": "Audava-Sampurna",
+    "aroh": "",
+    "avroh": "",
+    "pakad": "",
+    "vadi": "",
+    "samvadi": "Pancham",
+    "komal": [],
+    "teevra": [],
+    "varjit": [
+      "ਗੰਧਾਰ ਧੈਵਤ"
+    ],
+    "time": "",
+    "season": "",
+    "mood": "",
+    "notes": "Book's \"Sur\" field (unmapped, see issue #6): $ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ | aroh (raw OCR, unverified): 'ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ' | avroh (raw OCR, unverified): 'ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ \"ਰੇਸ' | pakad (raw OCR, unverified): 'ਸਮਰ \"ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ'",
+    "resources": [],
+    "status": "draft",
+    "sourceNote": "DEMO ENTRY for raag-entry.html proof-of-concept. Non-sur fields read from page text by Claude; Aroh/Avroh/Pakad/Sur deliberately left as raw OCR prefill (NOT verified) -- needs a human reading the crop image, per project policy on notation. — Extracted via raag-entry.html proof-of-concept tool from Raag Da Saroup Complete — raag-da-saroup-complete-0001",
+    "sourceRef": "book:raag-da-saroup-complete",
+    "reviewedBy": null,
+    "reviewedOn": null
+  },
+  "Raag Gauri": {
+    "names": {
+      "roman": "Raag Gauri",
+      "gurmukhi": "ਰਾਗੁ ਗਉੜੀ",
+      "alternates": []
+    },
+    "thaat": "Bhairav",
+    "jati": "",
+    "aroh": "",
+    "avroh": "",
+    "pakad": "",
+    "vadi": "",
+    "samvadi": "Pancham",
+    "komal": [],
+    "teevra": [],
+    "varjit": [
+      "Dha (in Aroh only)"
+    ],
+    "time": "First watch of night (ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ)",
+    "season": "",
+    "mood": "",
+    "notes": "Book's \"Sur\" field (unmapped, see issue #6): 2 ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ | avroh (raw OCR, unverified): '2 ਸੰਨੀਧੁਮਪ,ਧੁਪਮਗ,ਗਰੇਸਨੀਸ' | pakad (raw OCR, unverified): 'ਮਧੁਪ,ਧੁਮਪਗਮ,ਰੇਗਰੇਸਨੀ,ਸ'",
+    "resources": [],
+    "status": "draft",
+    "sourceNote": "DEMO ENTRY for raag-entry.html proof-of-concept. Non-sur fields read from page text by Claude; Aroh/Avroh/Pakad/Sur deliberately left as raw OCR prefill (NOT verified) -- needs a human reading the crop image, per project policy on notation. — Extracted via raag-entry.html proof-of-concept tool from Raag Da Saroup Complete — raag-da-saroup-complete-0003",
+    "sourceRef": "book:raag-da-saroup-complete",
+    "reviewedBy": null,
+    "reviewedOn": null
+  }
+}

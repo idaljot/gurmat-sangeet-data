@@ -30,8 +30,11 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 
 - Repo live on Cloudflare Pages (landing `index.html`, `vision.html`, `demo/`).
 - Committed to `main`: `SCHEMA.md`, `SARGAM.md`, `CLAUDE.md`, `README.md`, `LICENSE`
-  (proposed CC BY-NC 4.0), empty `data/*.json`, stub `schema/*.json`, and the 7 source
-  PDFs in `books/`.
+  (proposed CC BY-NC 4.0), stub `schema/*.json`, and the 7 source PDFs in `books/`.
+  `data/raags.json` / `data/sources.json` now hold 2 explicitly-authorized **demo**
+  entries from the raag-entry proof-of-concept (see below) — not a general go-ahead to
+  populate real data; `data/notations.json` is still empty and stays that way until
+  Baljeet's schema review.
 - **Ma convention SETTLED (shuddha-set):** `M` = shuddh, `m` = teevra. Scripts: Roman +
   Gurmukhi only (Bhatkhande dropped).
 - **Extraction Phase A (calibration) done**; see `books/extracted/_sample/PHASE_A_REPORT.md`.
@@ -68,11 +71,35 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
   taal-grid crops into SARGAM strings to test the schema against reality. Confirmed
   (word-for-word, against a resolved `shabad_id`'s matched verse) that sur cells align
   1:1 with lyric syllables — but three concrete gaps exist: no per-beat lyric-alignment
-  rule is ever stated, the bold "S" cells' meaning (sustain? literal Sa-as-syllable?) is
-  genuinely ambiguous from the source alone, and taal-bol (rhythm syllables) has no field
-  anywhere in the schema. **Do not build the transcription tool's data-entry format until
-  this gets a look from Baljeet** (and, for the musical-semantics question, Ustaad ji) —
-  everything else (extraction, clustering) is unaffected and can proceed.
+  rule is ever stated, taal-bol (rhythm syllables) has no field anywhere in the schema,
+  and (partially resolved) the bold "S" cells — **Daljot confirmed: "S" means hold the
+  sur** (a sustain marker) — plus the non-linear beat usage seen in one example is now
+  explained (a shabad line conventionally restarts at matra 9 of a 16-matra taal rather
+  than continuing from the previous line's matra 9, ~99% of the time), not a random
+  encoding gap. **Still gated**: the beat-alignment and taal-bol gaps remain, so the
+  taal-grid transcription tool (Guru Gobind Singh Ji Di Bani, Sampurn 55 Parhtala) is
+  still not built. **Raag Da Saroup Complete is a separate, unblocked path** (below) —
+  its entries don't hit any of these three gaps.
+- **Raag-entry proof-of-concept built** (`tools/raag-entry.html`): for each of the 58
+  Raag Da Saroup Complete items, shows the crop image(s) + prefilled raw-OCR reference +
+  a structured form (names, thaat, jati, vadi, samvadi, varjit, time, aroh, avroh, pakad,
+  plus a passthrough field for the book's unmapped "Sur" field), with a live SARGAM
+  render-back preview, saving to `localStorage` and exporting schema-shaped
+  `data/raags.json` JSON. Verified working end-to-end in a real browser (not just read —
+  actually driven with Puppeteer): sidebar navigation, image loading, live preview,
+  save/export all confirmed. One real bug found by that testing and fixed: prefilled OCR
+  fields didn't select-all on focus, so a normal click-and-type would append a
+  correction after the stale OCR guess instead of replacing it.
+  - **Schema gap found and filed (GitHub issue #6)**: this book's "Sur" field has no
+    confirmed home in `raag.schema.json`/`SCHEMA.md` (values don't consistently match
+    `komal`/`teevra`/`vadi`/`samvadi`); "Mukh Ang" plausibly maps to `pakad` but isn't
+    confirmed. Not guessed at — captured verbatim in a flagged passthrough field instead.
+  - **2 demo entries wired up** (Siree Raag, Raag Gauri) in `data/raags.json`, via the
+    real tool, `status: "draft"`. Deliberately conservative: only non-sur fields
+    (thaat/jati/samvadi/varjit/time) were filled from reading the page text; **Aroh/
+    Avroh/Pakad were left empty** rather than have AI assert a sur transcription — the
+    raw OCR guess for those fields is preserved in `notes` only, clearly labeled
+    unverified. The 56 remaining items are untouched, waiting on a human with the tool.
 - **Asees-font legacy mapping: partial breakthrough, not yet applied.** Contrary to Phase
   A's "0% confidence, unmapped" conclusion, bridging through a downloaded `.gmf` mapping
   table (`custom-font-mapping/mapping.sgphar.0.5`) before `gurmukhi-utils` recovers real
@@ -109,22 +136,25 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 1. ~~Phase B extraction (4 in-scope books)~~ **DONE**, merged to `main`.
 2. ~~Block-clustering (749 raw blocks → real transcription items)~~ **DONE.**
    `books/extracted/manifest.json` / `MANIFEST.md`.
-3. **Transcription workflow** — build a simple tool: cropped notation images + a structured
-   entry form that outputs schema-ready JSON. Goal: make the manual step low-effort and
-   splittable among classmates. **Blocked on issue #4** (notation data-model gap) — don't
-   build the data-entry format until that's resolved, to avoid redoing entered data.
+3. **Transcription workflow — taal-grid tool (Guru Gobind Singh Ji Di Bani, Sampurn 55):
+   still BLOCKED on issue #4.** Don't build that data-entry format until it's resolved.
+   ~~Raag-entry tool (Raag Da Saroup Complete)~~ **DONE (proof of concept):**
+   `tools/raag-entry.html` — cropped image(s) + prefilled raw OCR + structured form +
+   live SARGAM render-back preview + `data/raags.json` export. Verified working in a
+   real browser. 2 of 58 items wired up as a demo (non-sur fields only — see Current
+   State); 56 remain for a human with the tool. Schema gap found along the way: issue #6
+   ("Sur" field / "Mukh Ang"→`pakad` mapping) — Baljeet's call, not blocking the tool.
 4. **v0.1 target (recommended scope):** Sampurn 55 Parhtala (61 real shabad-notation
-   items, per `manifest.json`) + Raag Da Saroup (58 real raag-entry items). Publish as
-   `draft`, then Ustaad-ji-approved.
+   items, per `manifest.json`) + Raag Da Saroup (58 real raag-entry items, tool now
+   exists for this half). Publish as `draft`, then Ustaad-ji-approved.
    - **Sequencing note: Raag Da Saroup is NOT blocked by issue #4.** Its entries are
      raag-reference fields (Thaat/Jaati/Vaadi/Samvadi/Aroh/Avroh/Mukh Ang) — single-line
      Aroh/Avroh sur with no taal grid, no lyric syllables, and no bold-`S` cell, so all
      three issue-#4 gaps (beat↔syllable alignment, `S` semantics, taal-bol) are moot. It
-     can therefore be the **first proof-of-concept slice** — build the raag-entry tool,
-     transcribe, get Ustaad-ji approval, publish the first `approved` records, wire into
-     the reference site — all *while* the taal-grid books (Sampurn 55, Guru Gobind) wait on
-     issue #4. Only remaining gate for it is a light confirmation of `raag.schema.json`'s
-     fields (Baljeet), which is far smaller than the notation-model question.
+     can therefore be the **first proof-of-concept slice** — the tool now exists;
+     transcribe the remaining 56, get Ustaad-ji approval, publish the first `approved`
+     records, wire into the reference site — all *while* the taal-grid books (Sampurn 55,
+     Guru Gobind) wait on issue #4.
 5. **Approval:** sit with Ustaad ji; he confirms entries; flip `draft` → `approved`.
 6. **Full corpus:** incremental / community-fed (esp. the two large Guru Nanak volumes —
    the Asees partial-fix above may unblock these sooner than expected, pending the 3
@@ -160,11 +190,16 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 ## Open decisions / dependencies (human-gated)
 
 - **Notation data-model gap (GitHub issue #4)** — hand-encoded real taal-grid crops into
-  SARGAM strings; found 3 concrete gaps (no stated lyric-alignment rule, ambiguous `S`-cell
-  semantics needing a musical answer, no field for taal-bol). **Blocks the transcription
-  tool's data-entry format** — doesn't block anything already done (extraction,
-  clustering). Needs Baljeet (schema) and ideally Ustaad ji (the `S`-cell semantics
-  question specifically).
+  SARGAM strings; found 3 concrete gaps. **1 of 3 resolved**: Daljot confirmed "S" =
+  sustain, and the non-linear beat usage is explained (matra-9 restart convention).
+  **2 still open**: no stated lyric-alignment rule, no field for taal-bol. **Still blocks
+  the taal-grid transcription tool's data-entry format** (Guru Gobind Singh Ji Di Bani,
+  Sampurn 55 Parhtala) — does not block Raag Da Saroup's tool (built, see above) or
+  anything already done (extraction, clustering). Needs Baljeet.
+- **Raag field-mapping gap (GitHub issue #6)** — Raag Da Saroup's "Sur" field has no
+  confirmed home in `raag.schema.json`/`SCHEMA.md`; "Mukh Ang"→`pakad` mapping is
+  plausible but unconfirmed. Doesn't block the tool (captured in a flagged passthrough
+  field) — affects where 2 of ~10 fields ultimately land once Baljeet weighs in.
 - **Reference-implementation domain not finalized** — docs say `ShabadSwar.com`; the live
   Gurbani-search site is currently pointed at `GurbaniSargam.com`. Not settled; don't
   mass-rename the docs until it is.
@@ -179,9 +214,9 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 - **Asa Di Vaar's item count needs a human pass** — 120 clustered items, but 104 are
   single-block/low-confidence; effort estimate for this book is a 15-40hr range pending
   review. See MANIFEST.md.
-- **Baljeet** — technical schema review (now has two concrete items queued: shabad-ID
-  format already fixed for review, notation data-model gap in issue #4); gates populating
-  canonical `data/*.json`.
+- **Baljeet** — technical schema review (now has three concrete items queued: shabad-ID
+  format already fixed for review, notation data-model gap in issue #4, raag field-mapping
+  gap in issue #6); gates populating canonical `data/*.json`.
 - **Anmol** — remaining vision/faithfulness questions (expected end of week), multiplicity
   framing, governance (who may approve).
 - **Licensing** — CC BY-NC 4.0 proposed; needs the family's explicit blessing before publishing.

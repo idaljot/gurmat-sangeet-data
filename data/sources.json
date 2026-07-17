@@ -1,1 +1,9 @@
-{}
+{
+  "book:raag-da-saroup-complete": {
+    "type": "book",
+    "title": "Raag Da Saroup Complete",
+    "author": "Bhai Jaspal Singh Ji",
+    "year": null,
+    "note": "Extracted via OCR (Phase B) and clustered into raag-entry items (books/extracted/manifest.json). Entries in data/raags.json sourced from this book are status:\"draft\" and unverified until Ustaad ji confirms."
+  }
+}
