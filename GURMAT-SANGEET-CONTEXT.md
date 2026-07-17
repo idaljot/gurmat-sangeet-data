@@ -44,6 +44,20 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
   query returns zero results). Using **BaniDB** instead (`banidb` PyPI package, same
   ecosystem, actively maintained) via `books/extracted/_lib/shabad_match.py`. Validated
   against a known SGGS line before use.
+  - **`SCHEMA.md` not yet reconciled with this.** The contract still names "GurbaniNow"
+    and gives an example ID `"JK3"` (alphanumeric); BaniDB's real `shabad_id` is a plain
+    integer. Pinned fix, intentionally not yet applied — see open decisions.
+  - **Offline source validated (GitHub issue #3):** the Shabad OS Database (same
+    open-source family as `gurmukhi-utils`, already a dependency) ships a downloadable
+    SQLite file. Its `sttm_id` column is the same scheme BaniDB exposes as `shabad_id`
+    (confirmed: local `sttm_id=2779` returns the identical already-validated shabad), so
+    every `shabad_id` stored in Phase B resolves against a local copy with zero rework.
+    Decision (bundle offline vs. call BaniDB live) gated on the reference site's hosting;
+    trade-offs + next step captured in issue #3.
+- **Phase B completeness verified** against git history: all 4 books at exact page counts
+  (131 / 217 / 228 / 31), no gaps or duplicates. The `notation/` subfolder only holds
+  crops for `notation`-tagged pages (by design, not a shortfall). Open polish item: page 1's
+  empty-text note is generic boilerplate rather than page-specific — pending decision.
 - **Asees-font legacy mapping: partial breakthrough, not yet applied.** Contrary to Phase
   A's "0% confidence, unmapped" conclusion, bridging through a downloaded `.gmf` mapping
   table (`custom-font-mapping/mapping.sgphar.0.5`) before `gurmukhi-utils` recovers real
@@ -113,6 +127,20 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 
 ## Open decisions / dependencies (human-gated)
 
+- **`SCHEMA.md` shabad-ID reconciliation** — replace the "GurbaniNow" naming and the
+  `"JK3"` example with BaniDB's integer `shabad_id` format (and note the Shabad OS
+  `sttm_id` equivalence). Cheap, pinned, not yet done. Do it in the same pass as the
+  schema/notation-model review below so the contract is fixed once.
+- **Offline shabad-ID source (issue #3)** — bundle the Shabad OS SQLite vs. call BaniDB
+  live. Gated on the reference site's hosting setup. Not on the critical path.
+- **Reference-implementation domain not finalized** — docs say `ShabadSwar.com`; the live
+  Gurbani-search site is currently pointed at `GurbaniSargam.com`. Not settled; don't
+  mass-rename the docs until it is.
+- **Notation data-model vs. reality** — the taal-grid crops interleave sur (as Gurmukhi
+  consonants), `S` sustains, and lyric syllables per beat; `SARGAM.md` models a single
+  melodic beat-token line. Confirm one canonical sur string per shabad-line can represent
+  this (hand-encode 2–3 real grids and render back) or extend the spec **before** any
+  transcription tool is built. Gated with Baljeet's schema review.
 - **Asees→Unicode mapping** — a partial machine-assisted path now exists (see above), but
   still ask Anmol whether the digitizer has a cleaner conversion table or the original
   word-processor source, which could resolve the 3 remaining residual error classes
