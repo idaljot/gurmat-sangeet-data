@@ -153,6 +153,27 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
     font ascent metrics, confirmed via headless-Chrome screenshots before landing on the
     flex approach. SARGAM.md doesn't state an exact Gurmukhi marking convention, so this
     implements the standard one and flags it as **issue #8** for SARGAM.md to document.
+  - **Entry-tool UX overhaul DONE (2026-07-17, commit `bb2163f`)**: rewrote
+    `tools/raag-entry.html` around the real workflow of transcribing 60+ entries, after
+    testing every interaction in a real browser (not just reading the code). Fixed a real
+    data-loss bug — typing did nothing until an explicit "Save as draft" click, so
+    navigating away first silently discarded it; now every field autosaves per keystroke.
+    Also fixed a related correctness quirk where one full-form save made every OCR-
+    prefilled field look "verified" even if a human never touched it. Added: a live
+    warning when a sur field (Aroh/Avroh/Pakad) still contains Gurmukhi script (the single
+    most likely real mistake — canonical SARGAM is Roman-only); click-to-zoom lightbox on
+    crop images; a parent breadcrumb for sub-raags (e.g. 3.1 → 3) so Thaat/Vadi can be
+    cross-checked against the base raag; Prev/Next navigation (buttons + arrow keys);
+    sidebar search + filter chips (All/To do/Reviewed/Flagged) + a real progress bar; an
+    explicit "Mark as reviewed" step separate from autosave, so progress reflects human
+    confidence, not just "some field has a value"; the header now shows the raag's actual
+    name, not just the manifest ID; and download/restore of a full local-progress JSON
+    backup, so a contributor's work survives a cleared cache and can be handed off/merged
+    — previously `localStorage` was a single point of failure with no way out. **The tool
+    is ready for transcription to begin.** No data-model or export-shape changes.
+  - **`plan.html` added** — a single-page live progress tracker (fetches `data/raags.json`
+    client-side for transcribed/approved counts) alongside the roadmap, critical path, and
+    parked items already tracked here. Companion view, not a replacement for this file.
 - **Asees-font legacy mapping: partial breakthrough, not yet applied.** Contrary to Phase
   A's "0% confidence, unmapped" conclusion, bridging through a downloaded `.gmf` mapping
   table (`custom-font-mapping/mapping.sgphar.0.5`) before `gurmukhi-utils` recovers real
@@ -191,16 +212,21 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
    `books/extracted/manifest.json` / `MANIFEST.md`.
 3. **Transcription workflow — taal-grid tool (Guru Gobind Singh Ji Di Bani, Sampurn 55):
    still BLOCKED on issue #4.** Don't build that data-entry format until it's resolved.
-   ~~Raag-entry tool (Raag Da Saroup Complete)~~ **DONE (proof of concept):**
-   `tools/raag-entry.html` — cropped image(s) + prefilled raw OCR + structured form +
-   live SARGAM render-back preview + `data/raags.json` export. Verified working in a
-   real browser. 2 of 62 items wired up as a demo (non-sur fields only — see Current
-   State); 60 remain for a human with the tool. Schema gaps found along the way: issue #6
-   ("Sur" field / "Mukh Ang"→`pakad` mapping) and issue #9 (raag hierarchy/`parentRaag`
-   field) — Baljeet's call, not blocking the tool.
-4. **v0.1 target (recommended scope):** Sampurn 55 Parhtala (61 real shabad-notation
-   items, per `manifest.json`) + Raag Da Saroup (62 real raag-entry items, tool now
-   exists for this half). Publish as `draft`, then Ustaad-ji-approved.
+   ~~Raag-entry tool (Raag Da Saroup Complete)~~ **DONE, including the UX overhaul
+   (2026-07-17, commit `bb2163f`):** `tools/raag-entry.html` — cropped image(s) +
+   prefilled raw OCR + structured form + live SARGAM render-back preview +
+   `data/raags.json` export, now with autosave, a live Gurmukhi-in-sur-field warning,
+   image zoom, parent breadcrumbs, prev/next nav, search/filter, an explicit reviewed
+   marker, and backup/restore. Verified working end-to-end in a real browser. **Ready for
+   human transcription to begin.** 2 of 62 items wired up as a demo (non-sur fields only —
+   see Current State); 60 remain for a human with the tool. Schema gaps found along the
+   way: issue #6 ("Sur" field / "Mukh Ang"→`pakad` mapping) and issue #9 (raag
+   hierarchy/`parentRaag` field) — Baljeet's call, not blocking the tool.
+4. **v0.1 target (reaffirmed core slice):** **Raag Da Saroup Complete (62 real raag-entry
+   items) is the v0.1 core** — unblocked, data reconciled, tool built and ready. Sampurn 55
+   Parhtala (61 real shabad-notation items) is a secondary v0.1-scope book but stays
+   blocked on issue #4's taal-grid gaps, so it does not gate Raag Da Saroup starting.
+   Publish Raag Da Saroup as `draft` first, then Ustaad-ji-approved.
    - **Sequencing note: Raag Da Saroup is NOT blocked by issue #4.** Its entries are
      raag-reference fields (Thaat/Jaati/Vaadi/Samvadi/Aroh/Avroh/Mukh Ang) — single-line
      Aroh/Avroh sur with no taal grid, no lyric syllables, and no bold-`S` cell, so all
