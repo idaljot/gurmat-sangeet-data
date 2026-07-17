@@ -116,6 +116,15 @@ parampara of **Bhai Jaspal Singh Ji**. Reference implementation: ShabadSwar.com.
 4. **v0.1 target (recommended scope):** Sampurn 55 Parhtala (61 real shabad-notation
    items, per `manifest.json`) + Raag Da Saroup (58 real raag-entry items). Publish as
    `draft`, then Ustaad-ji-approved.
+   - **Sequencing note: Raag Da Saroup is NOT blocked by issue #4.** Its entries are
+     raag-reference fields (Thaat/Jaati/Vaadi/Samvadi/Aroh/Avroh/Mukh Ang) — single-line
+     Aroh/Avroh sur with no taal grid, no lyric syllables, and no bold-`S` cell, so all
+     three issue-#4 gaps (beat↔syllable alignment, `S` semantics, taal-bol) are moot. It
+     can therefore be the **first proof-of-concept slice** — build the raag-entry tool,
+     transcribe, get Ustaad-ji approval, publish the first `approved` records, wire into
+     the reference site — all *while* the taal-grid books (Sampurn 55, Guru Gobind) wait on
+     issue #4. Only remaining gate for it is a light confirmation of `raag.schema.json`'s
+     fields (Baljeet), which is far smaller than the notation-model question.
 5. **Approval:** sit with Ustaad ji; he confirms entries; flip `draft` → `approved`.
 6. **Full corpus:** incremental / community-fed (esp. the two large Guru Nanak volumes —
    the Asees partial-fix above may unblock these sooner than expected, pending the 3
