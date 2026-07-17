@@ -1,0 +1,8 @@
+{
+  "page": 9,
+  "section": "notation",
+  "text": "(ਰੂਪਕ ੭ ਮਾਤਰਾ)\n\nਰਾਗੁ ਆਸਾ\n\n(ਅੰਗ ੪੬੩)\n\nਇਤ ਗਿ ਜਦ ।6ਇ ਇ\n\nਹ੧ਨ ਦਿ # ਮਲ ਲ ਇਟ\n\nਸਂ\n\nਲਿ ੭ ਦੂ 2 ਪੰ ।ਟ ਲੂ\n\nਤਣ 09), ਦ਼ ਜਗਿ ਮਨ ਇ ਦਿ\nਨਾ ਇ ਮੋਨ ਦਿ ਮਨ ਲ ਮਨ\n\n[ 'ਹ ਮੰਡ ਮਦ 099 ਐਨ ਇਮ ਦਿ\n\n#ਸ ਧੰਠ ।ਗ । 9 ਦ ।ਲ\n\nਗਿ ਭ ਪ੍ਰੰਏ । ਲਏ 0\n\n0 ਹਟ ਮੰ > ਦਿ: ਦਿ “ਝੜ\n\n8:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

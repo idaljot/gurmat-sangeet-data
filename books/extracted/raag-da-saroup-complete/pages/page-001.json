@@ -1,0 +1,8 @@
+{
+  "page": 1,
+  "section": "notation",
+  "text": "1. ਰਾਗ ਸਿਰੀਗਾਗ\n\nਥਾਣ ਪੂਰਬੀ\nਜਾਤੀ । ਔੜਵ-ਸੰਪੂਰਣ\n\nਸੰਵਾਦੀ ਪੰਚਮ\n\nਸੁਰ $ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ ਧੈਵਤ\n\nਆਰੋਹ ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ\n\nਅਵਰੋਹ ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ \"ਰੇਸ\n\nਮੁੱਖ ਅੰਗ । ਸਮਰ \"ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ\n\n2. ਰਾਗ ਮਾਝ\n\nਥਾਟ 2 ਕਾਫੀ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇ,ਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਮਗਰੇਪ,ਗੁਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਪ, ਧ ਮ ਗ ਮ, ਰੋ ਪ, \"ਗੁ, ਰੇਗੁਸਰੇਨੀਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

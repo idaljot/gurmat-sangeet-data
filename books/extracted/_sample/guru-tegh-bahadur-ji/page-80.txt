@@ -1,0 +1,51 @@
+[EXTRACTION METHOD] pdftotext -layout, direct (page is already CID/Identity-H Unicode Gurmukhi -- font ABCDEE+Raavi[,Bold]).
+[CONFIDENCE] LOW-MEDIUM -- do not trust word-for-word. This book's embedded Raavi CID font has a confirmed corrupted/misaligned ToUnicode CMap: known-correct letters (e.g. sihari-i, ਤ ta, ਦ da, ਵ va) are substituted for each other in extraction, NOT just reordered. Verified against SGGS Ang 727 (page 80) and against a tesseract OCR pass (below) -- extraction is measurably wrong, OCR is measurably closer to the true text.
+[CONTENT] Shabad lyrics (Tilang Mahalla 9) -- VALIDATED corruption case, see REPORT.md
+[RAW PDFTOTEXT -- UNRELIABLE, kept for reference below]
+======================================================================
+
+                 ਤਿਲੰਗ ਮਹਲਾ ੯ ॥
+
+      ਹਤਰ ਜਸੁ ਰੇ ਮਨਾ ਗਾਇ ਲੈ ਜੋ ਸੰ ਗੀ ਹੈ ਿੇਰੋ ॥
+
+ਅਉਸਰੁ ਬੀਤਿਓ ਜਾਿੁ ਹੈ ਕਤਹਓ ਮਾਨ ਲੈ ਮੇਰੋ ॥੧॥ ਰਹਾਉ ॥
+
+    ਸੰ ਪ੍ਤਿ ਰਥ ਧਨ ਰਾਜ ਤਸਉ ਅਤਿ ਨੇਹੁ ਲਗਾਇਓ ॥
+
+  ਕਾਲ ਫਾਸ ਜਬ ਗਤਲ ਪ੍ਰੀ ਸਭ ਭਇਓ ਪ੍ਰਾਇਓ ॥੧॥
+
+       ਜਾਤਨ ਬਝ ਕੈ ਬਾਵਰੇ ਿੈ ਕਾਜੁ ਤਬਗਾਤਰਓ ॥
+
+  ਪ੍ਾਪ੍ ਕਰਿ ਸੁਕਤਚਓ ਨਹੀ ਨਹ ਗਰਬੁ ਤਨਵਾਤਰਓ ॥੨॥
+
+     ਤਜਹ ਤਬਤਧ ਗੁਰ ਉਪ੍ਿੇਤਸਆ ਸੋ ਸੁਨੁ ਰੇ ਭਾਈ ॥
+
+   ਨਾਨਕ ਕਹਿ ਪ੍ੁਕਾਤਰ ਕੈ ਗਹੁ ਪ੍ਰਭ ਸਰਨਾਈ ॥੩॥੩॥
+
+                                    -(ਸਰੀ ਗੁਰ ਗਰੰ ਥ ਸਾਤਹਬ ਜੀ, ਅੰ ਗ ੭੨੭)
+
+
+
+
+                        80
+
+
+======================================================================
+[TESSERACT OCR (-l pan) OF THE SAME PAGE -- cross-reference, also imperfect but closer to ground truth]
+======================================================================
+
+ਤਿਲੰਗ ਮਹਲਾ ੯ ॥
+ਹਰਿ ਜਸੁ ਰੇ ਮਨਾ ਗਾਇ ਲੈ ਜੋ ਸੰਗੀ ਹੈ ਤੇਰੋ ॥
+ਅਉਸਰੁ ਬੀਤਿਓਉ ਜਾਤੁ ਹੈ ਕਹਿਉ ਮਾਨ ਲੈ ਮੇਰੋ ॥੧॥ ਰਹਾਉ ॥
+
+ਸੰਪਤਿ ਰਥ ਧਨ ਰਾਜ ਸਿਉ ਅਤਿ ਨੇਹੁ ਲਗਾਇਉ ॥
+ਕਾਲ ਫਾਸ ਜਬ ਗਲਿ ਪਰੀ ਸਭ ਭਇਓ ਪਰਾਇਓ ॥੧॥
+
+ਜਾਨਿ ਬੂਝ ਕੈ ਬਾਵਰੇ ਤੈ ਕਾਜੁ ਬਿਗਾਰਿਉ ॥
+ਪਾਪ ਕਰਤ ਸੁਕਚਿਉ ਨਹੀ ਨਹ ਗਰਬੁ ਨਿਵਾਰਿਉ ॥੨॥
+
+ਜਿਹ ਬਿਧਿ ਗੁਰ ਉਪਦੇਸਿਆ ਸੋ ਸੁਨ ਰੇ ਭਾਈ ॥
+ਨਾਨਕ ਕਰਤ ਪੁਕਾਰਿ ਕੈ ਗਹੁ ਪ੍ਰਭ ਸਰਨਾਈ ॥੩॥੩॥
+
+-(ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ, ਅੰਗ 9੨੭)
+80

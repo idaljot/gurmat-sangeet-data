@@ -1,0 +1,8 @@
+{
+  "page": 81,
+  "section": "notation",
+  "text": "(੧੪ ਮਾਤਰਾ)\n\nਅਤਰਾ ਆੜਾ ਚਾਰਤਾਲ\n\n(੨)\n\nਤੌ >।£ ਗਿ ,% ਪੰਨੂ 9\n੮੧ ਹਾਇ ॥ਮ ਦਿ -\n0 >'ਰਿ ਅਲਰਡਿ ਦਰ ਟ੍ਰ੍‌ਯ\nਦ਼ ਫ/ਇ ਦਵਾ ਧ&% ।\n੩ । ੧੦੭ ਜਕੰਲ ਹ੭ ਹੂ ਯ\n੨, ਪੈਠ।ਗ  ਵਿਪ੍ਰਂ  ਪ੍ੰਠੂ ਡਿ ਪਰ ਡਿ\n05 [ਟਲ ਤਪੁ ਇਉ ।੦%\n£- ਊਂ” ਦਪਏ ਜ਼ ,%\n੮੨ ਗਲ ਇ ਪੰ ਇ 0) ਵਿ ।\n੫) ਗ ਇੰ ਧਠਇ _ਧੋਟ # ਠ ੭\nਚਾ ਪ੍ਰ ਤ ।ਗ ਧੰਟ੧ਨ ।\nਵਾ: `ਟ 0) ੜ ਪਰ ਧੈਠ ਫ ਹੂ ੭\n੮੫ ਧੈਠ 09, 09) ਤ ।ਲ ਪੁੱਟ ਡਿ\nਦਾ ਧਟਪਛ ਰੰ? ਜਿ । %\n\nਅੰਤਰਾ ਸਵਾਰੀ ਤਾਲ (੯ ਮਾਤਰਾ)\n\n(੩)\n\n'ਟਪੰਠੋ ਜਿ ॥ਏ >੧ਨ ਪ੍ਰੰਠੂ।ਲ ਪੰਨੂ %\n[ਟ% ਟਲ 'ਟ% ਤਚਿ ,($ % ,ਓ 91\nਇਟ ਧੌਠ ।ਗ 121੭ >%ਟ ਨੂੰ) ਹਿੰਮਤ\nਧੰਠ % ੧੦ 6: ਮਲਪ੍ਰੰਏ ਪੈਠਤ 'ਨ।ਨ0 । 06\nਨਉ ਨਲ ਮਨ'ਇ ਧਠ% ਤਾ ਚਿਂ ਸਰ 2\nਨਫ਼ ਮਲਜ਼ 'ਦ% 'ਟਿਟਿ ਸਧ੍ਰ! ,5 %\nਤਡਿ #ਲਡਿ 'ੜ ਸ਼ਾ ਪਠ£ ਲ੍ਿਇ\n੨09) ਇਏ ੪ 09 ਧੰਠ ੭ ਨਲ । %\n> ਪ੍ਰ ਇੰ 'ਚਿਧੰ? ਪੈਨ 'ਲਿ । %\n\nਰਚਨਾਵਲੀ\n\n73:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

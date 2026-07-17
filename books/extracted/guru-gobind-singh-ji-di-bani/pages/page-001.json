@@ -1,0 +1,8 @@
+{
+  "page": 1,
+  "section": "front-matter",
+  "text": "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦੀ ਬਾਣੀ :\n         ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n\n\n\n             ਸ. ਜਸਪਾਲ ਸਿੰਘ\n\n       ਸਾਬਕਾ ਅਧਿਆਪਕ (ਸੰਗੀਤ ਵਿਭਾਗ)\n        ਸੀਨੀਅਰ ਸੈਕੰਡਰੀ ਮਾਡਲ ਸਕੂਲ,\n        ਪੰਜਾਬੀ ਯੂਨੀਵਰਸਿਟੀ, ਪਟਿਆਲਾ\n\f",
+  "status": "draft",
+  "extraction_method": "cid-reorder",
+  "notes": "section heuristic: page<=2 or ISBN/Copyright/Edition/Price keyword. Known residual: subtitle's leading 'ਸ਼' (sha, in 'ਸ਼ਬਦ'/Shabad) is silently dropped in the raw PDF text layer -- NOT reconstructed, left as extracted."
+}

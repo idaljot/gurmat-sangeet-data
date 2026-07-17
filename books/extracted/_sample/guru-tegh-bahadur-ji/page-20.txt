@@ -1,0 +1,47 @@
+[EXTRACTION METHOD] pdftotext -layout, direct (page is already CID/Identity-H Unicode Gurmukhi -- font ABCDEE+Raavi[,Bold]).
+[CONFIDENCE] LOW-MEDIUM -- do not trust word-for-word. This book's embedded Raavi CID font has a confirmed corrupted/misaligned ToUnicode CMap: known-correct letters (e.g. sihari-i, ਤ ta, ਦ da, ਵ va) are substituted for each other in extraction, NOT just reordered. Verified against SGGS Ang 727 (page 80) and against a tesseract OCR pass (below) -- extraction is measurably wrong, OCR is measurably closer to the true text.
+[CONTENT] Shabad lyrics (Gauri Mahalla 9)
+[RAW PDFTOTEXT -- UNRELIABLE, kept for reference below]
+======================================================================
+
+                   ਗਉੜੀ ਮਹਲਾ ੯ ॥
+
+               ਸਾਧੋ ਰਾਮ ਸਰਤਨ ਤਬਸਰਾਮਾ ॥
+
+ਬੇਿ ਪ੍ੁਰਾਨ ਪ੍ੜੇ ਕੋ ਇਹ ਗੁਨ ਤਸਮਰੇ ਹਤਰ ਕੋ ਨਾਮਾ ॥੧॥ ਰਹਾਉ ॥
+
+   ਲੋ ਭ ਮੋਹ ਮਾਇਆ ਮਮਿਾ ਫੁਤਨ ਅਉ ਤਬਤਖਅਨ ਕੀ ਸੇਵਾ ॥
+
+    ਹਰਖ ਸੋਗ ਪ੍ਰਸੈ ਤਜਹ ਨਾਹਤਨ ਸੋ ਮਰਤਿ ਹੈ ਿੇਵਾ ॥੧॥
+
+   ਸੁਰਗ ਨਰਕ ਅੰ ਤਮਰਿ ਤਬਖੁ ਏ ਸਭ ਤਿਉ ਕੰ ਚਨ ਅਰੁ ਪ੍ੈਸਾ ॥
+
+     ਉਸਿਤਿ ਤਨੰਿਾ ਏ ਸਮ ਜਾ ਕੈ ਲੋ ਭੁ ਮੋਹੁ ਫੁਤਨ ਿੈਸਾ ॥੨॥
+
+  ਿੁਖੁ ਸੁਖੁ ਏ ਬਾਧੇ ਤਜਹ ਨਾਹਤਨ ਤਿਹ ਿੁਮ ਜਾਨਉ ਤਗਆਨੀ ॥
+
+ ਨਾਨਕ ਮੁਕਤਿ ਿਾਤਹ ਿੁਮ ਮਾਨਉ ਇਹ ਤਬਤਧ ਕੋ ਜੋ ਪ੍ਰਾਨੀ ॥੩॥੭॥
+
+                                      -(ਸਰੀ ਗੁਰ ਗਰੰ ਥ ਸਾਤਹਬ ਜੀ, ਅੰ ਗ ੨੨੦)
+
+
+
+
+                           20
+
+
+======================================================================
+[TESSERACT OCR (-l pan) OF THE SAME PAGE -- cross-reference, also imperfect but closer to ground truth]
+======================================================================
+
+ਗਉੜੀ ਮਹਲਾ ੯ ॥
+ਸਾਧੋ ਰਾਮ ਸਰਨਿ ਬਿਸਰਾਮਾ ॥
+ਬੇਦ ਪੁਰਾਨ ਪੜੇ ਕੋ ਇਹ ਗੁਨ ਸਿਮਰੇ ਹਰਿ ਕੋ ਨਾਮਾ ॥੧॥ ਰਹਾਉ ॥
+ਲੋਭ ਮੋਹ ਮਾਇਆ ਮਮਤਾ ਫੁਨਿ ਅਉ ਬਿਖਿਅਨ ਕੀ ਸੇਵਾ ॥
+ਹਰਖ ਸੋਗ ਪਰਸੈ ਜਿਹ ਨਾਹਨਿ ਸੋ ਮੂਰਤਿ ਹੈ ਦੇਵਾ ॥੧॥
+ਸੁਰਗ ਨਰਕ ਅੰਮ੍ਰਿਤ ਬਿਖੁ ਏ ਸਭ ਤਿਉ ਕੰਚਨ ਅਰੁ ਪੈਸਾ ॥
+ਉਸਤਤਿ ਨਿੰਦਾ ਏ ਸਮ ਜਾ ਕੈ ਲੋਭੁ ਮੋਹੁ ਫੁਨਿ ਤੈਸਾ ॥੨॥
+ਦੁਖੁ ਸੁਖੁ ਏ ਬਾਧੇ ਜਿਹ ਨਾਹਨਿ ਤਿਹ ਤੁਮ ਜਾਨਉ ਗਿਆਨੀ ॥
+ਨਾਨਕ ਮੁਕਤਿ ਤਾਹਿ ਤੁਮ ਮਾਨਉ ਇਹ ਬਿਧਿ ਕੋ ਜੋ ਪ੍ਰਾਨੀ ॥੩॥੭॥
+- (ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ, ਅੰਗ ੨੨੦)
+20

@@ -1,0 +1,8 @@
+{
+  "page": 87,
+  "section": "notation",
+  "text": "ਰਾਗ ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ\n\nਪ੍ਰਭਾਤੀ ਬਿਭਾਸ ਪੜਤਾਲ ਮਹਲਾ ੪ ॥\nਜਪਿ ਮਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨ ॥\nਹਰਿ ਦਰਗਹ ਪਾਵਹਿ ਮਾਨ ॥\nਜਿਨਿ ਜਪਿਆ ਤੇ ਪਾਰਿ ਪਰਾਨ ॥੧॥ ਰਹਾਉ ॥\nਸੁਨਿ ਮਨ ਹਰਿ ਹਰਿ ਨਾਮੁ ਕਰਿ ਧਿਆਨੁ ॥\nਸੁਨਿ ਮਨ ਹਰਿ ਕੀਰਤਿ ਅਠਸਠਿ ਮਜਾਨੁ ॥\nਸੁਨਿ ਮਨ ਗੁਰਮੁਖਿ ਪਾਵਹਿ ਮਾਨੁ ॥੧॥\nਜਪਿ ਮਨ ਪਰਮੇਸੁਰੁ ਪਰਧਾਨੁ ॥\nਖਿਨ ਖੋਵੈ ਪਾਪ ਕੋਟਾਨ ॥\n\nਮਿਲੁ ਨਾਨਕ ਹਰਿ ਭਗਵਾਨ ॥੨॥੧॥੭\n(ਅੰਗ ੧੩੩੭)\n\nਪਦ ਅਰਥ :\n\nਪੜਤਾਲ = ਇਸ ਸ਼ਬਦ ਨੂੰ ਗਾਵ£ ਵੇਲੇ ਤਾਲ ਮੁੜ ਮੁੜ ਪਰਤ ਹੈ।ਜਪਿ = ਜਪਿਆ ਕਰ। ਮਨ = ਹੇ\n\nਮਨ! ਨਿਧਾਨ = ਖ਼ਜ਼ਾਨਾ। ਪਾਵਹਿ = ਤੂੰ ਹਾਸਲ ਕਰੇਂਗਾ। ਮਾਨ = ਆਦਰ। ਜਿਨਿ = ਜਿਨਿ ਜਿਨਿ, ਜਿਸ\n\nਜਿਸ ਨੇ। ਤੋਂ = ਉਹ (ਬਹੁ-ਵਚਨ) । ਪਾਰਿ ਪਰਾਨ = (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘ ਗਏ। ਕਰਿ ਧਿਆਨੁ\n= ਧਿਆਨ ਕਰ ਕੇ, ਧਿਆਨ ਨਾਲ। ਕੀਰਤਿ _= ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਅਠਸਠਿ = ਅਠਾਹਠ ਤੀਰਥ।\nਮਜਾਨੁ = ਮੱਜਨ, ਇਸ਼ਨਾਨ। ਗੁਰਮੁਖਿ = ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ। ਕੋਟਾਨ ਪਾਪ = ਕ੍ਰੋੜਾਂ ਪਾਪਾਂ (ਦਾ ਨਾਸ)।\nਮਿਲੁ = ਮਿਲਿਆ ਰਹੁ।\n\n79: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

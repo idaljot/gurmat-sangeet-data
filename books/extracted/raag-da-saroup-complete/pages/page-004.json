@@ -1,0 +1,8 @@
+{
+  "page": 4,
+  "section": "notation",
+  "text": "3.4 ਰਾਗੁ ਗਉੜੀ ਬੈਰਾਗਣਿ\n\nਥਾਟ ਭੈਰਵ\nਜਾਤੀ ? ਔੜਵ- ਔੜਵ\n\nਸੰਵਾਦੀ ? ਧੈਵਤ\n\nਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ ਤੇ ਪੰਚਮ\n\nਸਮਾਂ : ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇ, ਮਧੁਨੀਸੰ\n\nਅਵਰੋਹ 2 ਸੱਨੀਧੁਮ,ਰੇਸਨੀਧੁਸਨੀਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਧੁ ਮ, ਰੇ ਮ, ਰੇ ਸ,ਨੀਧੁਸਨੀਰੇਸ\n\n3.5 ਰਾਗ ਗਉੜੀ ਦੀਪਕੀ\n\nਥਾਟ 2 ਮਾਰਵਾ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਗਮੇਪ,ਮੇਧਨੀਸੰਰੁੱਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

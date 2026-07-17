@@ -1,0 +1,8 @@
+{
+  "page": 212,
+  "section": "essay",
+  "text": "ਮਲਾਰ ਮਹਲਾ ੫ ॥\nਹੈ ਗੋਬਿੰਦ ਹੇ ਗੋਪਾਲ ਹੇ ਦਇਆਲ ਲਾਲ ॥੧॥ ਰਹਾਉ ॥\nਪ੍ਰਾਨ ਨਾਥ ਅਨਾਥ ਸਖੇ ਦੀਨ ਦਰਦ ਨਿਵਾਰ ॥੧॥\nਹੈ ਸਮ੍ਰਥ ਅਗਮ ਪੂਰਨ ਮੋਹਿ ਮਇਆ ਧਾਰਿ ॥੨॥\nਅੰਧ ਕੂਪ ਮਹਾ ਭਇਆਨ ਨਾਨਕ ਪਾਰਿ ਉਤਾਰ ॥੩॥੮॥੩੦॥\n\n(ਅੰਗ ੧੨੭੨)\n\nਪਦ ਅਰਥ :\n\nਦਇਆਲ = ਹੈ ਦਇਆ ਦੇ ਸੋਮੇ! ਲਾਲ = ਹੈ ਸੋਹਏ ਪ੍ਰਭੂ! ਪ੍ਰਾਨ ਨਾਥ = ਹੈ ਪ੍ਰਾਈਂ ਦੇ ਮਾਲਕ! ਅਨਾਥ\nਸਖੇ = ਹੇ ਨਿਖਸਮਿਆਂ ਦੇ ਮਿੱਤਰ! ਦੀਨ ਦਰਦ ਨਿਵਾਰ = ਹੇ ਗਰੀਬਾਂ ਦੇ ਦੁੱਖ ਦੂਰ ਕਰਨ ਵਾਲੇ!\nਸਮ੍ਰਥ = ਹੇ ਸਭ ਤਾਕਤਾਂ ਦੇ ਮਾਲਕ! ਅਗਮ = ਹੈ ਅਪਹੁੰਚ! ਖੂਰਨ = ਹੇ ਸਰਬ-ਵਿਆਪਕ! ਮੋਹਿ = ਮੇਰੇ\nਉੱਤੇ ਮਇਆ ਧਾਰਿ = ਦਇਆ ਕਰ। ਅੰਧ ਕੂਪ = ਅੰਨ੍ਹਾ ਖੂਹ, ਉਹ ਖੂਹ ਜਿਸ ਵਿਚ ਹਨੇਰਾ ਹੈ।\nਭਇਆਨ = ਡਰਾਉਈ। ਨਾਨਕ = ਹੈ ਨਾਨਕ !\n\n204 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

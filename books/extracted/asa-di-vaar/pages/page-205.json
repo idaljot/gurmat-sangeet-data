@@ -1,0 +1,8 @@
+{
+  "page": 205,
+  "section": "notation",
+  "text": "ਧ ਧ ਧ ਸੱ ਸੱ ਸੱ\nਸਾ ਹਿ ਬ ਤੁ ਠੈ ਜੋ\nਗ ਗੰ ਰੇ ਸੱ ਸੱ ਸ\nਮਿ 5 5 ਲੈ 5 ।\nਮਹਲਾ ੨ ॥\nਏਹ ਕਿਨੇਹੀ ਚਾਕਰੀ ਜਿਤੁ ਭਉ ਖਸਮ ਨ ਜਾਇ ॥\n\nਨਾਨਕ ਸੇਵਕੁ ਕਾਢੀਐ ਜਿ ਸੇਤੀ ਖਸਮ ਸਮਾਇ ॥੨॥\n(ਅੰਗ ੪੭੫)\n\nਪਦ ਅਰਥ :\n\nਜਿਤੁ = ਜਿਸ ਦੀ ਰਾਹੀਂ, ਜਿਸ ਦੀ ਚਾਕਰੀ ਦੇ ਕਰਨ ਨਾਲ। ਕਾਢੀਐ = ਆਖੀਦਾ ਹੈ, ਕਿਹਾ ਜਾਂਦਾ ਹੈ। ਜਿ = ਜੋ\n\nਸੇਵਕ। ਸਮਾਇ = ਲੀਨ ਹੋ ਜਾਏ, ਸਮਾ ਜਾਏ, ਇਕ-ਰੂਪ ਹੋ ਜਾਏ।\n\n204:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

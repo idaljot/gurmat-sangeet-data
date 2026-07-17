@@ -1,0 +1,8 @@
+{
+  "page": 172,
+  "section": "notation",
+  "text": "10\n\n` ਪਏ\n\nਮਦ ਇ\n\n14\n\n13\n\n12\n\n11\n\n(੧੦ ਮਾਤਰਾ)\n\n`ਤੇ ਪ੍ਰ\n\n' ਦ੪\n\n10\n\nਅੰਤਰਾ ਝੱਪਤਾਲ\n\n(੨)\n\n “ਇ\n\nਲ\n\nਸਸ\nਅੰਤਰਾ ਦੀਪਚੰਦੀ (੧੪ ਮਾਤਰਾ)\n\n੨\nਰੇਨੀ\n\n(੩)\n\nਪੱ\n\nਪਟ\n\n[\n\n!੨॥\n\n164 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

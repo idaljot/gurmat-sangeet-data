@@ -1,0 +1,8 @@
+{
+  "page": 100,
+  "section": "essay",
+  "text": "ਸਲੋਕੁ ਮ੧ ੧ ॥\nਦੁਖੁ ਦਾਰੂ ਸੁਖੁ ਰੋਗੁ ਭਇਆ ਜਾ ਸੁਖੁ ਤਾਮਿ ਨ ਹੋਈ ॥\nਤੂੰ ਕਰਤਾ ਕਰਣਾ ਮੈ ਨਾਹੀ ਜਾ ਹਉ ਕਰੀ ਨ ਹੋਈ ॥੧॥\nਬਲਿਹਾਰੀ ਕੁਦਰਤਿ ਵਸਿਆ ॥\nਤੇਰਾ ਅੰਤੁ ਨ ਜਾਈ ਲਖਿਆ ॥੧॥ ਰਹਾਉ ॥\n\nਜਾਤਿ ਮਹਿ ਜੋਤਿ ਜੋਤਿ ਮਹਿ ਜਾਤਾ ਅਕਲ ਕਲਾ ਭਰਪੂਰਿ ਰਹਿਆ ॥\nਤੂੰ ਸਚਾ ਸਾਰਿਬੁ ਸਿਫਤਿ ਸੁਆਲਿਉ ਜਿਨਿ ਕੀਤੀ ਸੋ ਪਾਰਿ ਪਇਆ ॥\nਕਹੁ ਨਾਨਕ ਕਰਤੇ ਕੀਆ ਬਾਤਾ ਜੋ ਕਿਛੁ ਕਰਈਾ ਸੁ ਕਰਿ ਰਹਿਆ ॥੨॥\n\n(ਅੰਗ ੪੬੯)\n\nਪਦ ਅਰਥ:\n\nਤਾਮਿ = ਤਦੋਂ! ਕਰਛਾ = ਕਰਨਹਾਰ। ਮੈ ਨਾਹੀ = ਮੈਂ ਕੁਝ ਭੀ ਨਹੀਂ, ਮੇਰੀ ਕੋਈ ਪਾਂਇਆਂ ਨਹੀਂ ਹੈ। ਜਾ ਹਉ ਕਰੀ =\nਜੇ ਮੈਂ 'ਹਉ' ਆਖਾਂ, ਜੇ ਮੈਂ ਆਪਏ ਆਪ ਨੂੰ ਕੁਝ ਸਮਝ ਬੈਠਾਂ। ਨ ਹੋਈ = ਨਹੀਂ ਫਬਦਾ, ਇਹ ਗੱਲ ਫਬਦੀ ਨਹੀਂ ।\nਜਾਤਿ = ਸ੍ਰਿਸ਼ਟੀ। ਜੋਤਿ = ਰੱਬ ਦਾ ਨੂਰ। ਜੋਤਿ ਮਹਿ = ਸਾਰੀਆਂ ਜੋਤੀਆਂ ਵਿਚ, ਸਾਰੇ ਜੀਵਾਂ ਵਿਚ। ਜਾਤਾ = ਵੇਖਿਆ\nਜਾਂਦਾ ਹੈ, ਦਿੱਸ ਰਿਹਾ ਹੈ। ਅਕਲ = ਸੰਪੂਰਨ । ਕਲਾ = ਟੋਟਾ, ਹਿੱਸਾ। ਅਕਲ ਕਲਾ = ਜਿਸ ਦੇ ਵਖੋ ਵਖਰੇ ਟੋਟੇ ਨਾ\nਹੋਏ, ਇਕ-ਰਸ ਸੰਪੂਰਣ ਪ੍ਰਭੂ। ਸੁਆਲਿਉ = ਸੋਹਈ, ਸੁੰਦਰ । ਜਿਨਿ ਕੀਤੀ = ਜਿਸਨੇ (ਤੇਰੀ ਵਡਿਆਈ) ਕੀਤੀ।\nਨਾਨਕ = ਹੈ ਨਾਨਕ! ਕਹੁ ਕਰਤੇ ਕੀਆ ਬਾਤਾ = ਕਰਤਾਰ ਦੀਆਂ ਗੱਲਾਂ ਆਖ ।\n\n99: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

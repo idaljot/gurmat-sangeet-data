@@ -1,0 +1,8 @@
+{
+  "page": 25,
+  "section": "notation",
+  "text": "23. ਰਾਗ ਕੇਦਾਰਾ\n\nਥਾਟ ਕਲਿਆਣ\n\nਜਾਤੀ ਐੜਵ-ਸ਼ਾੜਵ\n\nਵਾਦੀ : ਮਥਿਅਮ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਮ, ਮ ਪ, ਧਪ, ਨੀਧ ਸੰ\nਅਵਰੋਹ : ਸੰਨੀਂਧਪ,ਸੇਪਧਪਮ,ਮਰੇੋਸ\nਮੁੱਖ ਔਗ 2 ਸ, ਮ, ਮਪ, ਧ ਪ, ਮ, ਪਮ, ਰੇ ਸ\n24. ਰਾਗ ਭੈਰਉ\n\nਥਾਟ ਭੈਰਵ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ\nਆਰੋਹ ਤੂ ਸਰੇ, ਗਮਪਧੁ,ਨੀਸੱਂ\nਅਵਰੋਹ ਤੂ ਸੱਨੀਧੁਧੁਪ,ਮਗ,ਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ । ਗਮਧੁਧੁਪ,ਗਮਰੇਰੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

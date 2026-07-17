@@ -1,0 +1,50 @@
+--- pdfinfo ---
+Producer:        iLovePDF
+ModDate:         Wed May 28 04:45:08 2025 PDT
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           131
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       2556531 bytes
+Optimized:       no
+PDF version:     1.7
+
+--- pdffonts ---
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+FNTSBS+Akaash-Bold                   CID TrueType      Identity-H       yes yes yes      8  0
+FNTSBS+Akaash-Bold                   TrueType          WinAnsi          yes yes no      15  0
+FNTSBS+Raavi-Bold                    TrueType          WinAnsi          yes yes no      20  0
+FNTSBS+Akaash                        CID TrueType      Identity-H       yes yes yes     25  0
+FNTSBS+Akaash                        TrueType          WinAnsi          yes yes no      31  0
+FNTSBS+AseesBold                     TrueType          WinAnsi          yes yes no      36  0
+FNTSBS+Century751BT-ItalicB          TrueType          WinAnsi          yes yes no      45  0
+FNTSBS+Century751BT-RomanB           TrueType          WinAnsi          yes yes no      50  0
+FNTSBS+Raavi-Bold                    CID TrueType      Identity-H       yes yes yes     56  0
+FNTSBS+Raavi                         CID TrueType      Identity-H       yes yes yes     62  0
+FNTSBS+Raavi                         TrueType          WinAnsi          yes yes no      68  0
+FNTSBS+Mangal-Bold                   CID TrueType      Identity-H       yes yes yes     73  0
+FNTSBS+Calibri                       TrueType          WinAnsi          yes yes no      79  0
+FNTSBS+Mangal-Bold                   TrueType          WinAnsi          yes yes no      85  0
+FNTSBS+AnmolLipiBold                 TrueType          WinAnsi          yes yes no      92  0
+FNTSBS+AnmolLipi                     TrueType          WinAnsi          yes yes no      97  0
+FNTSBS+AnmolLipi,Italic              TrueType          WinAnsi          yes yes no     102  0
+BCDEEE+Asees                         TrueType          WinAnsi          yes yes no     237  0
+BCDFEE+AmrLipiHeavy                  TrueType          WinAnsi          yes yes no     241  0
+BCDGEE+Wingdings-Regular             CID TrueType      Identity-H       yes yes yes    245  0
+BCDHEE+ArialMT                       TrueType          WinAnsi          yes yes no     253  0
+BCDIEE+TimesNewRomanPSMT             TrueType          WinAnsi          yes yes no     257  0
+BCDJEE+Calibri                       TrueType          WinAnsi          yes yes no     261  0
+BCDKEE+Calibri-Bold                  TrueType          WinAnsi          yes yes no    1152  0
+BCDLEE+AmrLipiHeavy                  CID TrueType      Identity-H       yes yes yes   1156  0
+BCDMEE+Dubai-Medium                  TrueType          WinAnsi          yes yes no    1418  0
+BCDNEE+TimesNewRomanPS-BoldMT        TrueType          WinAnsi          yes yes no    9052  0
+BCDOEE+Raavi                         CID TrueType      Identity-H       yes yes yes  32987  0
+BCDPEE+Arial-BoldMT                  TrueType          WinAnsi          yes yes no   41136  0

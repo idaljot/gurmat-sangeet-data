@@ -1,0 +1,8 @@
+{
+  "page": 174,
+  "section": "essay",
+  "text": "ਸਾਰਗ ਮਹਲਾ ੫ ॥\nਮਨਿ ਬਿਰਾਗੈਗੀ ॥\nਖੋਜਤੀ ਦਰਸਾਰ ॥੧॥ ਰਹਾਉ ॥\nਸਾਧੂ ਸੰਤਨ ਸੇਵਿ ਕੈ ਪ੍ਰਿਉ ਹੀਅਰੈ ਧਿਆਇਓਉ ॥\nਆਨੰਦ ਰੂਪੀ ਪੇਖਿ ਕੈ ਹਉ ਮਹਲੁ ਪਾਵਉਗੀ ॥੧॥\nਕਾਮ ਕਰੀ ਸਭ ਤਿਆਗਿ ਕੈ ਹਉ ਸਰਇਿ ਪਰਉਗੀ ॥\nਨਾਨਕ ਸੁਆਮੀ ਗਰਿ ਮਿਲੇ ਹਉ ਗੁਰ ਮਨਾਵਉਗੀ ॥੨॥੭॥੧੩੬॥\n\n(ਅੰਗ ੧੨੩੦)\n\nਪਦ ਅਰਥ :\n\nਮਨਿ = ਮਨ ਵਿਚ। ਬਿਰਾਗੈਗੀ = ਵੈਰਾਗਵਾਨ ਹੋਵੇਗੀ (ਮੇਰੀ ਜਿੰਦ), (ਮੇਰੀ ਜਿੰਦ) ਵੈਰਾਗਵਾਨ ਹੁੰਦੀ ਹੈ।\nਥੋਜਤੀ = ਖੋਜ ਕਰਦੀ ਕਰਦੀ। ਦਰਸਾਰ = ਦਰਸਨ। ਸੇਵਿ ਕੈ = ਸੇਵਾ ਕਰ ਕੇ। ਪ੍ਰਿਉ = ਪਿਆਰਾ ਪ੍ਰਭੂ।\n\nਹੀਅਰੈ = ਹਿਰਦੇ ਵਿਚ। ਪੇਖਿ ਕੈ = ਵੇਖ ਕੇ, ਦਰਸਨ ਕਰ ਕੇ। ਹਉ = ਹਉਂ, ਮੈਂ। ਮਹਲੁ = (ਪ੍ਰਭੂ-ਚਰਨਾਂ\nਵਿਚ) ਟਿਕਾਈ। ਪਾਵਉਗੀ = ਮੈਂ ਪ੍ਰਾਪਤ ਕਰਾਂਗੀ। ਕਾਮ ਕਰੀ = ਕੰਮ-ਕਾਰ, ਕੰਮ-ਧੰਧੇ। ਗਰਿ = ਗਲ ਨਾਲ।\nਗੁਰ ਮਨਾਵਉਗੀ = ਮੈਂ ਗੁਰੂ ਦੀ ਪ੍ਰਸੰਨਤਾ ਹਾਸਲ ਕਰਾਂਗੀ।\n\n166 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

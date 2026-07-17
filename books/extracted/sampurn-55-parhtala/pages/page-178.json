@@ -1,0 +1,8 @@
+{
+  "page": 178,
+  "section": "essay",
+  "text": "ਸਾਰਗ ਮਹਲਾ ੫ ॥\nਐਸੀ ਹੋਇ ਪਰੀ ॥\nਜਾਨਤੇ ਦਇਆਰ ॥੧॥ ਰਹਾਉ ॥\nਮਾਤਰ ਪਿਤਰ ਤਿਆਗਿ ਕੈ ਮਨੁ ਸੰਤਨ ਪਾਹਿ ਬੇਚਾਇਓਉ ॥\nਜਾਤਿ ਜਨਮ ਕੁਲ ਖੋਈਐ ਹਉ ਗਾਵਉ ਹਰਿ ਹਰੀ ॥੧॥\nਲੋਕ ਕੁਟੰਬ ਤੋਂ ਟੂਟੀਐ ਪ੍ਰਭ ਕਿਰਤਿ ਕਿਰਤਿ ਕਰੀ ॥\nਗੁਰਿ ਮੋ ਕਉ ਉਪਦੇਸਿਆ ਨਾਨਕ ਸੇਵਿ ਏਕ ਹਰੀ ॥੨॥੮॥੧੩੭॥\n\n(ਅੰਗ ੧੨੩੦)\n\nਪਦ ਅਰਥ :\n\nਐਸੀ = ਇਹੋ ਜਿਹੀ ਹਾਲਤ। ਹੋਇ ਪਰੀ = ਹੋ ਗਈ ਕੈ। ਜਾਨਤੇ = ਜਾਦਾ ਹੈ। ਦਇਆਰ = ਦਇਆਲ ਪ੍ਰਭੂ।\nਮਾਤਰ = ਮਾਂ। ਪਿਤਰ = ਪਿਤਾ। ਤਿਆਗਿ ਕੈ = (ਮੋਹ) ਛੱਡ ਕੇ। ਪਾਹਿ = ਪਾਸ, ਕੋਲ। ਬੋਚਾਇਓਂ = ਵੇਚ\nਦਿੱਤਾ ਹੈ। ਖੋਈਐ = ਗਵਾ ਦਿੱਤੀ ਹੈ। ਹਉ = ਹਉਂ, ਮੈਂ। ਗਾਵਉ = ਗਾਵਉਂ, ਗਾਂਦਾ ਰਹਿੰਦਾ ਹਾਂ। ਤੋ = ਤੋਂ।\nਟੂਟੀਐ = ਟੁੱਟ ਗਈ ਹੈ। ਕਿਰਤਿ = ਕ੍ਰਿਤਯ, ਨਿਹਾਲ। ਕਰੀ = ਕਰ ਦਿੱਤਾ ਹੈ। ਗੁਰਿ = ਗੁਰੂ ਨੇ। ਮੋ ਕਉ =\nਮੈਨੂੰ । ਨਾਨਕ = ਹੇ ਨਾਨਕ! ਸੇਵਿ = ਸੇਵਾ ਕਰ, ਸਰਨ ਪਿਆ ਰਹੁ।\n\n170 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

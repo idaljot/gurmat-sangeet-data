@@ -1,0 +1,8 @@
+{
+  "page": 162,
+  "section": "essay",
+  "text": "ਹ ਰੱ ਹ\n\nਸਾਰਗ ਮਹਲਾ ੫ ॥\nਹਰਿ ਰਰੇ ਹਰਿ ਮੁਖਹੁ ਬੋਲਿ ਹਰਿ ਹਰੇ ਮਨਿ ਧਾਰੇ ॥੧॥ ਰਹਾਉ ॥\nਸ੍ਰਵਨ ਸੁਨਨ ਭਗਤਿ ਕਰਨ ਅਨਿਕ ਪਾਤਿਕ ਪੁਨਹਚਰਨ ॥\nਸਰਨ ਪਰਨ ਸਾਧੂ ਆਨ ਬਾਨਿ ਬਿਸਾਰੇ ॥੧॥\nਹਰਿ ਚਰਨ ਪ੍ਰੀਤਿ ਨੀਤ ਨੀਤਿ ਪਾਵਨਾ ਮਹਿ ਮਹਾ ਪੁਨੀਤ ॥\nਸੇਵਕ ਭੈ ਦੂਰਿ ਕਰਨ ਕਲਿਮਲ ਦੋਖ ਜਾਰੇ ॥\nਕਹਤ ਮੁਕਤ ਸੁਨਤ ਮੁਕਤ ਰਹਤ ਜਨਮ ਰਹਤੇ ॥\nਰਾਮ ਰਾਮ ਸਾਰ ਭੂਤ ਨਾਨਕ ਤਤੁ ਬੀਚਾਰੇ ॥੨॥੪॥੧੩੩॥\n\n(ਅੰਗ ੧੨੩੦)\n\nਪਦ ਅਰਥ :\n\nਮੁਖਹੁ = ਮੂੰਹ ਤੋਂ। ਬੋਲਿ = ਉਚਾਰਿਆ ਕਰ। ਮਨਿ = ਮਨ ਵਿਚ। ਧਾਗੇ = ਧਾਰਿ, ਵਸਾਈ ਰੱਖ।\n\nਸ੍ਰਵਨ = ਕੰਨਾਂ ਨਾਲ। ਪਾਤਿਕ = ਪਾਪ। ਪੁਨਹਚਰਨ = (ਪਾਪਾਂ ਦੀ ਨਿਵਿਰਤੀ ਵਾਸਤੇ ਕੀਤੇ ਹੋਏ) ਪਛਤਾਵੇ\n\nਦੇ ਕਰਮ। ਸਾਧੂ = ਗੁਰੂ! ਆਨ = ਹੋਰ ਹੋਰ। ਬਾਨਿ = ਆਦਤ। ਨੀਤਿ ਨੀਤਿ = ਸਦਾ ਸਦਾ।\n\nਪਾਵਨ = ਪਵਿੱਤਰ। ਭੈ = ਡਰ (ਲਫ਼ਜ਼ 'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ)। ਕਲਿਮਲ = ਪਾਪ। ਦੋਖ = ਪਾਪ!\nਜਾਰੇ = ਸਾੜ ਦੇਂਦਾ ਹੈ। ਮੁਕਤ = ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਿਆ ਹੋਇਆ। ਰਹਤ = ਸੁਚੱਜੀ ਜੀਵਨ-ਮਰਯਾਦਾ\nਰੱਖਦਿਆਂ। ਰਹਤੇ = ਬਚ ਜਾਂਦੇ ਹਨ। ਸਾਰ ਭੂਤ = ਸਭ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਪਦਾਰਥ। ਤਤੁ = ਅਸਲੀਅਤ।\n\n154 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

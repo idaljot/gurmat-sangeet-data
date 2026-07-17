@@ -1,0 +1,8 @@
+{
+  "page": 6,
+  "section": "notation",
+  "text": "ਥਾਟ ਮਾਰਵਾ\nਵਾਦੀ ਪੰਚਮ\n\nਆਰੋਹ : ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਸਰੇਗਰੇ, ਧਮਗਮ,ਰੇਗੁ,ਰੇਗਸਰੇਨੀਸ\n\n3.9 ਰਾਗ ਗਉੜੀ ਮਾਲਵਾ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ\nਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀਪਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

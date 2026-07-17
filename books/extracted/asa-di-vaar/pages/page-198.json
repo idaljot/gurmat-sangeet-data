@@ -1,0 +1,8 @@
+{
+  "page": 198,
+  "section": "notation",
+  "text": "ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\nਰਾਗੁ ਆਸਾ\n\n(ਅੰਗ ੪੭੪)\n\n16\n\n15\n\n14\n\n13\n\nਤ਼ ਭ\nਨਹਿ ਅਨ\n\nਮਲ\n\nਰਸ\n\nਮਗ\n\n12\n\n11\n\n10\n\nਨ\n\nਧਸੰ\n\nਧਪ\n\nਸਨ\n\n੨\nਨ\n\n੨\nਨ\n\nਗਲੇ\n\nਅੱਠ\n\n੨\nਨ\n\n0\n\nਗੰ\n\n[1\n\n197:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

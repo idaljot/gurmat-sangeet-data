@@ -1,0 +1,6 @@
+# Asa Di Vaar - page 1 (cover)
+# Method: image-only cover page. Raw text layer below (near-empty); title 'ਆਸਾ ਦੀ ਵਾਰ' rendered as styled WordArt graphic, not real text.
+# STATUS: image-only / not notation-bearing. No OCR needed for archival purposes; visual only.
+--- pdftotext -layout raw ---
+0:: nk;k dh tko
+

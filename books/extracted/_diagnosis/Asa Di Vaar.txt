@@ -1,0 +1,42 @@
+--- pdfinfo ---
+Author:          hp
+Creator:         Microsoft® Word 2010
+Producer:        Microsoft® Word 2010
+CreationDate:    Tue Jun  3 07:49:05 2025 PDT
+ModDate:         Tue Jun  3 07:49:05 2025 PDT
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           217
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       4714060 bytes
+Optimized:       no
+PDF version:     1.5
+
+--- pdffonts ---
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+ABCDEE+Calibri,Bold                  TrueType          WinAnsi          yes yes no       5  0
+ABCDEE+Asees,Bold                    TrueType          WinAnsi          yes yes no       8  0
+ABCDEE+Calibri                       TrueType          WinAnsi          yes yes no      10  0
+ABCDEE+Raavi,Bold                    CID TrueType      Identity-H       yes yes yes     36  0
+ABCDEE+Raavi                         CID TrueType      Identity-H       yes yes yes     41  0
+ABCDEE+Raavi                         TrueType          WinAnsi          yes yes no      46  0
+ABCDEE+Raavi                         TrueType          WinAnsi          yes yes no      48  0
+ABCDEE+Raavi,Bold                    TrueType          WinAnsi          yes yes no      50  0
+ABCDEE+Asees                         TrueType          WinAnsi          yes yes no      54  0
+Arial,Bold                           TrueType          WinAnsi          no  no  no      56  0
+ABCDEE+Arial Unicode MS              CID TrueType      Identity-H       yes yes yes     60  0
+ABCDEE+Asees                         CID TrueType      Identity-H       yes yes yes     75  0
+ABCDEE+MS Gothic                     CID TrueType      Identity-H       yes yes yes     96  0
+ABCEEE+MS Gothic                     TrueType          WinAnsi          yes yes no     121  0
+Arial                                TrueType          WinAnsi          no  no  no     216  0
+ABCEEE+Asees,Bold                    CID TrueType      Identity-H       yes yes yes    320  0
+Times New Roman,Bold                 TrueType          WinAnsi          no  no  no     335  0
+Times New Roman                      TrueType          WinAnsi          no  no  no     345  0

@@ -1,0 +1,8 @@
+{
+  "page": 46,
+  "section": "essay",
+  "text": "[ ਰਾਗ ਸਾਰੰਗ\nਸਾਰਗ ਮਹਲਾ ੪ ਪੜਤਾਲ ॥\nਮੇਰੇ ਮਨ ਹਰਿ ਬੋਲਿ ਹਰਿ ਪੁਰਖੁ ਅਬਿਨਾਸੀ ॥੧॥ ਰਹਾਉ ॥\nਹਰਿ ਕਾ ਨਾਮੁ ਅੰਮ੍ਰਿਤੁ ਹਰਿ ਹਰਿ ਰਰੇ ਸੋ ਪੀਐ ਜਿਸੁ ਰਾਮੁ ਪਿਆਸੀ ॥\nਹਰਿ ਆਪਿ ਦਇਆਲੁ ਦਇਆ ਕਰਿ ਮੇਲੈ\nਜਿਸੁ ਸਤਿਗੁਰੂ ਸੋ ਜਨੁ ਹਰਿ ਹਰਿ ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਚਖਾਸੀ ॥੧॥\nਜੋ ਜਨ ਸੇਵਹਿ ਸਦ ਸਦਾ ਮੇਰਾ ਹਰਿ ਹਰੇ ਤਿਨ ਕਾ ਸਭੁ ਦੁਖੁ ਭਰਮੁ ਭਉ ਜਾਸੀ ॥\n\nਜਨੁ ਨਾਨਕੁ ਨਾਮੁ ਲਏ ਤਾਂ ਜੀਵੈ ਜਿਉ ਚਾਤ੍ਰਿਕੁ ਜਲਿ ਪੀਐ ਤ੍ਰਿਪਤਾਸੀ ॥੨॥੫॥੧੨॥\n(ਅੰਗ ੧੨੦੨)\n\nਪਦ ਅਰਥ :\n\nਮਨ = ਹੈ ਮਨ! ਗੁਈ ਨਿਧਾਨੁ = ਗੁਈਂ ਦਾ ਖ਼ਜ਼ਾਨਾ। ਪ੍ਰਭੋਂ = ਪ੍ਰਭੂ, ਮਾਲਕ। ਪੁਰਖੁ = ਸਰਬ-ਵਿਆਪਕ।\nਅਬਿਨਾਸੀ = ਨਾਸ-ਰਹਿਤ। ਅੰਮ੍ਰਿਤੁ = ਆਤਮਕ ਜੀਵਨ ਦੇ ਵਾਲਾ। ਸੋ = ਉਹ ਮਨੁਖ ਇਕ-ਵਚਨਗ਼।\nਧੀਐ = ਪੀਂਦਾ ਹੈ। ਪਿਆਸੀ = ਪਿਲਾਏਗਾ। ਕਰਿ = ਕਰ ਕੇ। ਚਖਾਸੀ = ਚੱਖੇਗਾ। ਸੇਵਹਿ = ਸਿਮਰਦੇ ਹਨ\n(ਬਹੁ-ਵਚਨ)। ਸਭੁ = ਸਾਰਾ। ਜਾਸੀ = ਦੂਰ ਹੋ ਜਾਇਗਾ। ਜੀਵੈ = ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦਾ ਹੈ।\nਚਾਤ੍ਰਿਕ - ਪਪੀਹਾ। ਜਲਿ = ਜਲ ਦੀ ਰਾਹੀਂ। ਜਲਿ ਪੀਐ = ਜਲ ਪੀਏ ਨਾਲ। ਤ੍ਰਿਪਤਾਸੀ = ਰੱਜ ਜਾਂਦਾ ਹੈ।\n\n38:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

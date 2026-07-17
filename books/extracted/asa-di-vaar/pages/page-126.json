@@ -1,0 +1,8 @@
+{
+  "page": 126,
+  "section": "essay",
+  "text": "ਤੂੰ ਹਰਿ ਤੇਰਾ ਸਭੁ ਕੋ ਸਭਿ ਤੁਧੁ ਉਪਾਏ ਰਾਮ ਰਾਜੇ ॥\nਕਿਛੁ ਹਾਬਿ ਕਿਸੈ ਦੈ ਕਿਛੁ ਨਾਹੀ ਸਭਿ ਚਲਹਿ ਚਲਾਏ ॥\nਜਿਨ੍ਹ ਤੂੰ ਮੇਲਹਿ ਪਿਆਰੇ ਸੇ ਤੁਧੁ ਮਿਲਹਿ ਜੋ ਹਰਿ ਮਨਿ ਭਾਏ ॥\nਜਨ ਨਾਨਕ ਸਤਿਗੁਰੁ ਭੇਟਿਆ ਹਰਿ ਨਾਮਿ ਤਰਾਏ ॥੩॥\n(ਅੰਗ ੪੫੦)\nਪਦ ਅਰਥ :\n\nਸਭੁ ਕੋ = ਹਰੇਕ ਜੀਵ। ਸਭਿ = ਸਾਰੇ। ਹਾਥਿ = ਹੱਥ ਵਿਚ। ਚਲਹਿ = ਚੱਲਦੇ ਹਨ, ਤੁਰਦੇ ਹਨ। ਪਿਆਰੇ = ਹੋ\nਪਿਆਰੇ! ਤੁਧੁ = ਤੈਨੂੰ। ਮਨਿ = ਮਨ ਵਿਚ। ਭਾਏ = ਚੰਗੇ ਲੱਗਦੇ ਹਨ। ਨਾਮਿ = ਨਾਮ ਦੀ ਰਾਹੀਂ। ਤਰਾਏ = ਪਾਰ\nਲੰਘਾਂਦਾ ਹੈ।\n\n325:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

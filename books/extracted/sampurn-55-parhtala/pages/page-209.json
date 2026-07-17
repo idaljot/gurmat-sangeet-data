@@ -1,0 +1,8 @@
+{
+  "page": 209,
+  "section": "essay",
+  "text": "ਹ ਹ\n\nਮਲਾਰ ਮਹਲਾ ੫ ॥\nਘਨੁ ਗਰਜਤ ਗੋਬਿੰਦ ਰੂਪ ॥\nਗੁਨ ਗਾਵਤ ਸੁਖ ਚੈਨ ॥੧॥ ਰਹਾਉ ॥\nਹਰਿ ਚਰਨ ਸਰਨ ਤਰਨ ਸਾਗਰ ਧੁਨਿ ਅਨਹਤਾ ਰਸ ਬੈਨ ॥੧॥\nਪਥਿਕ ਪਿਆਸ ਚਿਤ ਸਰੋਵਰ ਆਤਮ ਜਲੁ ਲੈਨ ॥\nਹਰਿ ਦਰਸ ਪ੍ਰੇਮ ਜਨ ਨਾਨਕ ਕਰਿ ਕਿਰਪਾ ਪ੍ਰਭ ਦੈਨ ॥੨॥੭॥੨੯॥\n\n(ਅੰਗ ੧੨੭੨)\n\nਪਦ ਅਰਥ :\n\nਘਨੁ = ਬੱਦਲ, ਆਤਮਕ ਜੀਵਨ ਦੇ੬ ਵਾਲੇ ਨਾਮ ਜਲ ਨਾਲ ਭਰਪੂਰ ਗੁਰੂ! ਗਰਜਤ = ਗੱਜਦਾ ਹੈ, ਵਰਖਾ\n\nਕਰਦਾ ਹੈ। ਗਾਵਤ = ਗਾਂਦਿਆਂ। ਚੈਨ = ਸ਼ਾਂਤੀ, ਠੰਢ। ਹਰਿ ਚਰਨ ਸਰਨ = ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਦੀ ਸਰਨ\n(ਵਿਚ ਰਹਿਈ)। ਤਰਨ ਸਾਗਰ = (ਸੰਸਾਰ-) ਸਮੁੰਦਰ (ਤੋਂ ਪਾਰ ਲੰਘਣ ਲਈ) ਜਹਾਜ਼। ਅਨਹਤਾ = ਇਕ-\nਰਸ, ਲਗਾਤਾਰ। ਬੈਨ = ਬਚਨ, ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਈ। ਪਬਿਕ = ਰਾਹੀ, ਮੁਸਾਫ਼ਿਰ, ਪਾਂਧੀ।\nਲੈਨ = ਹਾਸਲ ਕਰਨ ਲਈ। ਦੈਨ = ਦੇਂਦਾ ਹੈ। ਕਰਿ = ਕਰ ਕੇ।\n\n201 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

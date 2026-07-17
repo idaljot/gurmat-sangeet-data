@@ -1,0 +1,80 @@
+[EXTRACTION METHOD] pdftotext -layout. Font: Asees/Asees-Bold (Type1, WinAnsi, legacy). This is a SWARA/SUR NOTATION TABLE (Raag Siri Raag, taal info, 16-column grid) but rendered in the Asees legacy scheme, which is NOT mappable with available tooling (see page-7.txt for the same font family's failure mode). Raw pdftotext output is garbled and NOT usable as-is.
+[CONFIDENCE] NONE for raw text. tesseract OCR (below) was attempted as a fallback but Punjabi OCR on dense multi-column tabular notation is unreliable for cell-to-cell alignment -- treat as a rough aid only, verify against page-20.png directly.
+[CONTENT] SWARA/SUR NOTATION TABLE -- Raag Siri Raag, Tintaal(?), 16 matra.
+======================================================================
+
+[RAW -- GARBLED, DO NOT USE AS TEXT]
+======================================================================
+
+                   okr[ f;ohokr[ (fszB skb, ñö wksok)
+                                                                             (nzr–ñô)
+
+  1     2     3     4        5       6      7     8      9      10    11     12     13     14     15     16
+
+  %                          2                           0                          3
+                                                                                    –      ;      ;o[/   o[/
+;EkJh
+                                                                                    s      jfo    fp     B[
+
+ g      g     g     g       w/       w/     r     r     o[/     o/[    ;      ;     s      ;      ;      ;
+ ih     s     T[    s       i       fb      p     fb    ik      s      T[     s     s      w?      s     s
+
+BahX[   ga    ga    ga      w/a      ga    Bah    Bah   ;       ;      ;      ;     s      w/     w/     g
+ nk     g     Dk    s       r[       o[     g{    fS    d/     fy     nk      s     s      n       t     o[
+
+ Bh     Bh    Bh    Bh     w/g      Bh;ˆ   BhX[   gg    gw/    ro[/   o/[r   o[/;
+ Bk     s     jh    s       Ek       s      T[    s     s       s      s      s
+
+nzsok
+ –      w/    w/    g       g        g      g     g     Bh     Bh     Bh     Bh     ;ˆ     ;ˆ     ;ˆ     ;ˆ
+ s      w'    s     sh      s        wz     d     o     T{      s      ;      s     o      fj      s     s
+
+ –      Bh    Bh    Bh      Bh      Bh     Bh     Bh    ;ˆ     Bh      X[     X[    g      g      g      g
+ s      o     s     Bh      s        s      j'    fj    i       s     Vk      s     T[     s       s     s
+
+ –      w/    w/    g       g        g      g     g     Bh     Bh     Bh     Bh     ;ˆ     ;ˆ     ;ˆ     ;ˆ
+ s      e;    s{    fo      ez[      s      r{    s     n      r      fo      s     uz     d      fB     s
+
+ –      Bh    Bh    Bh      Bh      Bh     Bh     Bh    ;ˆ     Bh      X[     X[    g      g      g      g
+ s      bh    s     fg     nk        s      t?    s     uk      s      s      s     T[     s       s     s
+
+ –      Bh    ;ˆ    o/[A   o/[Arˆ    rˆ     rˆ    rˆ    o[/A   o[/A    rˆ     rˆ    o[/A   o[/A   ;ˆ     ;ˆ
+ s      ws[   d/    fy      G{       s     bk     s     th      s      ;      s     o?     s       s     s
+
+ ;ˆ     ;ˆ    ;ˆ    ;ˆ      Bh       X[     g     g     w/g    X[g    w/r    o[/;
+ s/     ok    fu    fs      B        s     nk     t?    Bk      s      T[     s
+
+                           2 :: r[o{ BkBe d/t ih dh ;zg{oD pkDh L Ppd ;[o ouBktbh
+
+
+======================================================================
+[TESSERACT OCR -- unreliable for table structure, rough aid only]
+======================================================================
+
+੭
+ਰਾਗੁ ਸਿਰੀਰਾਗੁ (ਤਿੰਨ ਤਾਲ, ੧੬ ਮਾਤਰਾ)
+(ਅੰਗ-੧੪)
+ਸ਼ 2 0 3
+-ਸ ਸਰੇ ਰੈ
+ਸਥਾਈ -.
+$ ਹਰਿ ਬਿ ਨੁ
+ਪਪਪਪ|ਮੇ ਮੇ ਗ ਗ|ਉਰੇ ਰੇ ਸਸਭਸਸ ਸ
+ਜੀਉ |ਜ ਲਿ ਬ ਲਿਜਾ ਵਉ 58੪ ਮੈ 6
+ਠੰਧੂ ਪ.ਪ ਪੁ[ਖ਼ੋ ਖੁ ਨੀ ਨੀ[ਸਸਸਸ|੩ ਮੋ ਮੋ ਪ
+ਆਪਣਾ ੩|ਗੁ ਰੁ ਪੂ ਛਿ|ਦੇ ਖਿ ਆ $੬ਅ ਵ ਰੂ
+ਨੀ ਨੀ ਨੀ ਨੀ | ਮੇਪ ਨੀਸੰ ਨੀਧੁ _ਪਪ | ਪਮੇ ਗੁਰੂ _ਰੇਗ _ ਰੇਸ
+ਨਾਹੀ [ਥਾਉ 8 $ $
+ਅੰਤਰਾ
+-ਮੇਸਮੇਪ|ਪਪਪਪ|ਨੀ ਨੀ ਨੀ ਨੀ|ਸੰ ਸੰ ਸੰ ਸੰ
+5 ਮੋ 5 ਤੀ[ਤ ਮੰ ਦ`ਰ|ਉਝਸ| ਰਹਿ ੩ $
+-ਨੀ ਨੀ ਨੀ|ਨੀ ਨੀ ਨੀ ਨੀ|ਸੰ ਨੀ ਧੂ ਧੁ [ਪ.ਪ ਪ ਪ
+ਰਤ ਨੀਤ $ ਹੋ ਹਿ|ਜ ੜੀ ਉ੬ $
+-ਮੇਸਮੇਪ|ਪਪਪ ਪ|ਨੀ ਨੀ ਨੀ ਨੀ|ਸੰ ਸੰ ਸੰ ਸੰ
+5 ਕਸ ਤੂ ਰਿ।ਕੁੰ ੩ ਗੂ |ਅ ਗੋ ਰਿ ੩ ਚੰ ਦੁ ਨਿ $
+-ਨੀ ਨੀ ਨੀ|ਨੀ ਨੀ ਨੀ ਨੀ|ਸੰ ਨੀ ਧੂ ਧੁ [ਪ.ਪ ਪ ਪ
+5 ਲੀ ਪਿਆ ੧ ਵੈ 5|ਚਾ ੧੦ ਉ $ ੦ $
+- ਨੀ ਸੰ ਰੂਂ [ਰੁੱਗ ਗੰ ਗੰ ਗੰ|ਰੇਂ ਰੂੰ ਗੰ ਗੱਂ|ਰੇਂ ਰੂੰ ਸੰ ਸੰ
+੩ ਮਤੁ ਦੇ ਖਖਿਭੂ ਲਾ ਭ|ਵੀ ਸਭ |ਰੈ ੩ $
+ਸੰ ਸੰ ਸੰ ਸੰਨੀ ਧੂ ਪ ਪ |ਮੇਪ ਧੁਪ ਮੇਗ ਰੇਸ
+ਤੇ ਰਾ ਚਿ ਤਿਨ ਆ ਵੈ|ਨਾ $ਉ $
+2 :: ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦੀ ਸੰਪੂਰਣ ਬਾਣੀ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ

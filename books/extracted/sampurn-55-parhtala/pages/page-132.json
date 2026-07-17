@@ -1,0 +1,8 @@
+{
+  "page": 132,
+  "section": "notation",
+  "text": "ਮੱਤਤਾਲ (੯ ਮਾਤਰਾ)\n\nਰਾਗ ਬਿਲਾਵਲੁ ਪੜਤਾਲ ਸਥਾਈ\n\n(ਅਗ ੮੩੦)\n\nਤਰ 2੪ ਤਨ ੪ ਟਿਟਠਿ 45 ਐਨ\n2੭ ਜਿ 9 2੭ [ਟ ਗਿ ਕੰ 9\nਤਇਿ ਅਨ ਸਪੰਠ ੧ ਠੂਿੰਜ਼\nਲੂ & ਅਸਿ ਤਨ ਪੁੰਠ ੪ ਜਤ 2\nਲ੭ /2॥ ਤਾਰ ਪੌਠ੧ਹ ੭06\nਪਲੈ ਅ2ਓਝ ਦਠਿ ਧੌਠਡ ਮਾ\nਨਹਿ ੨ ਚਿਡਿ ਵਨਿ ਪੌਟਲ\n'ਏਧੰਲ ਓਇ ਚਲ ਜ੦% ਧੌਠਲ\n'ਏਗਛ ਚਦਨੰ ਦਿ ਜ਼ ਪੌਠ ੜੇ\n\n(੧੪ ਮਾਤਰਾ)\n\nਅਤਰਾ ਆੜਾ ਚਾਰਤਾਲ\n\n(੧)\n\nਚ ॥ 1 09) _।੮#\n੮੧ ਟ ਇੰਦ ਗੰ ਮਦ ਠਿ\n% | ਏਂ ਕੋਇ ਟਟ੍ਰ\nਦਾ ਇੰ ਤੀ ਦਿ ਜਿ\n੩ ਧਠਅ 70 ਦਮ\n੦; ਧਟ ਸਿ _ਸ੧2 ਤਾ00\n66 ਜਿ ਮੋਏਨਿਂ ਅਠ\n£- ਜ।6 ਐਲ ਜ ਦਿ ਇਿ\n੨੦ ਹ 8: ਟਿਪੁੰਟ 7 ਪੈਨ\n੫੧ >ਇੰ 'ਦੜੇ ਜ॥\nਚ >॥੦ ਧੱਠ0੭ 'ਜਇ\n੮. ਦਲ ਪੰਪ) ਜਿ ।ਲ\nਫ੫ ਦਮਨ ਸਜ ਇ ਧੰਨ\nਦਾ ਦ ਦੂ _ਸ0੭ ਪੌਠ ੜੁ\n\n124 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

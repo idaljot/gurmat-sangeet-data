@@ -1,0 +1,66 @@
+# Sampurn 55 Parhtala - page 1 (front cover)
+# Method: image-only cover (decorative background + title baked into graphic). pdftotext text layer is EMPTY (no real text objects).
+# tesseract OCR mostly reads the decorative border pattern as noise; author name 'ਸ. ਜਸਪਾਲ ਸਿੰਘ' recovered correctly, title text largely lost to OCR noise from the ornate border.
+# STATUS: image-only, not notation-bearing. Not critical to extract.
+
+--- pdftotext raw (EMPTY) ---
+--- tesseract -l pan OCR (noisy, decorative cover) ---
+ਲੂ
+
+੨>੯੨੭੯੯੨੦<੦>੯੯੭><੯੦<੯੨੭<੬
+
+੨੧੬.
+
+(੧) €੨੭੯੦੭੯੦੨੭੯੦੨>੯੦੨੭੯੦੧੭੯੨੨੭੯੦੦੨੭੯>੨੭੯੨੭੯>੧੭੯>੨੭੯੯
+
+%
+॥ (ਨ
+
+ਵਿ
+
+1
+&
+ਨ
+2
+ਉਰ
+ਨ
+ਨ
+4
+ਨ
+ਨ
+ਦੇ
+1
+$
+$
+1 (2
+੍ਹ
+ਹਰ
+0
+$
+2,
+ਦੂ
+$
+ਨ
+1
+ਨ
+ਰੀ
+ਨ
+0
+$
+
+6
+
+੯੨੧੭੯੨੧੭੯੨੨੭੯੨੧੭੯੨੧੭੯੦੧>੯੨੧੨੭੯੨੨੭੯੦੨੭੯੨੧੨੭੯੧>੯੨੨੭੯੬੧)੧॥
+
+(ਰੀ
+
+ਸ. ਜਸਪਾਲ ਸਿੰਘ
+
+6
+੮੨
+
+6. ,0. ,ਹ.. .. ਹੈ
+ਵਿ ਵਿ << ਵਿ
+
+੨੦<੦੨੦੯੨੦੯੯੨੦੯੦੨੦<੦੨੦੯੦੧੦੦੨>੯੦੧੦੯੨੦੯੨੧੦੦
+

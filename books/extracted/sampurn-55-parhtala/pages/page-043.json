@@ -1,0 +1,8 @@
+{
+  "page": 43,
+  "section": "notation",
+  "text": "ਰਾਗ ਸਾਰੰਗ ਪੜਤਾਲ ਸਥਾਈ ਝੱਪਤਾਲ (੧੦ ਮਾਤਰਾ)\n\n(ਅੰਗ ੧੨੦੧)\n1 2 4 5 6 7 8 9 10\n੩ 2 0 3\nਨੀ ਨੀ ਸ ਰੇ ਰੇ ਮ ਰੇ ਨੀ ਸ ਸ\nਜ ਪਿ ਮ ਨ ਨਿ ਰ ਭ ਉ\nਮ ਮ ਪ ਪ ਪ ਨੀਂ ਮ ਪ ਪ ਪ\nਸ ਤਿ ਸ ਤਿ ਸ ਸ ਤਿ\nਮ ਮ ਪ ਨੀ ਨੀ ਸੱ ਸੰ ਨੀ ਸੱ ਸੰ\nਨਿਰ __ ਵੈਰੁ ਅ ਕਾ ਲ ਸੂ ਰ ਤਿ 3 3\nਰੇਂ ਰੇਂ ਰੇ ਰੱ ਰੇ ਹੀ ਨੀ ਸ ਸਾਂ ਸ\nਆ ਜੂ ਨੀ ੩ 5 ਸੰ ਭ ਉ 5 3\nਨੀ ਸੱ ਨੀ ਸੱ ਨੀ ਸੱ ਨੀਂ ਮ ਪ ਪ\nਮੇ ਰੇ ਮ ੩ ਨ ਅਨ _ ਦਿਨੋ ਧਿ ਆ ਇ\nਮ ਰੇ ਨੀ ਸ ਸ ਰੇ ਪਠੀ ਮਪ ਮਰੇ ਨੀਸ\nਨਿਰੰ _ਕਾਰੁ ਨਿ ਰਾ ਹਾ ਰੀ ੩ ੩ ੩ 5\nਰੇਮ ਪਠੀ ਮਪ ਮਰੇ ਨੀਸ ਰੇਮ ਪਠੀ ਮਪ ਮਰੇ ਨੀਸ\nਰੀ । ਰੋ! ਰੋ! । ਰੀ । ਰੋ! 5 ।\n\n35:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 108,
+  "section": "essay",
+  "text": "ਦਾਨ ਬਨਸਵੀ\n\nਧਨਾਸਰੀ ਮਹਲਾ ੫ ਘਰੁ ੯\nਪੜਤਾਲ ॥\n\nਹਰਿ ਚਰਨ ਸਰਨ ਗੋਬਿੰਦ ਦੁਖ ਭੰਜਨਾ ਦਾਸ ਅਪੁਨੇ ਕਉ ਨਾਮੁ ਦੇਵਹੁ ॥\nਦ੍ਰਿਸਟਿ ਪ੍ਰਭ ਧਾਰਹੁ ਕ੍ਰਿਪਾ ਕਰਿ ਤਾਰਹੁ ਭੁਜਾ ਗਹਿ ਕੂਪ ਤੇ ਕਾਢਿ ਲੇਵਹੁ ॥ ਰਹਾਉ ॥\n\nਕਾਮ ਕ੍ਰੋਧ ਕਰਿ ਅੰਧ ਮਾਇਆ ਕੇ ਬੰਧ ਅਨਿਕ ਦੋਖਾ ਤਨਿ ਛਾਦਿ ਪੂਰੇ ॥\n\nਪ੍ਰਭ ਬਿਨਾ ਆਨ ਨ ਰਾਖਨਹਾਰਾ ਨਾਮੁ ਸਿਮਰਾਵਹੁ ਸਰਨਿ ਸੂਰੇ ॥੧॥\n\nਪਤਿਤ ਉਧਾਰ ਜੀਅ ਜੰਤ ਤਾਰਈ ਬੇਦ ਉਚਾਰ ਨਹੀ ਅੰਤੁ ਪਾਇਓ ॥\nਗੁਛਹ ਸੁਖ ਸਾਗਰਾ ਬ੍ਰਹਮ ਰਤਨਾਗਰਾ ਭਗਤਿ ਵਛਲੁ ਨਾਨਕ ਗਾਇਉ ॥੨॥੧॥੫੩॥\n\n(ਅੰਗ ੬੮੩)\n\nਪਦ ਅਰਥ :\n\n= ਨਜ਼ਰ। ਪ੍ਰਭ ਹੇ ਪ੍ਰਭੂ। ਕਰਿ = ਕਰ ਕੇ। ਤਾਰਹੁ = ਪਾਰ ਲੰਘਾ ਲੈ। ਭੁਜਾ = ਬਾਂਹ। ਗਹਿ = ਫੜ ਕੇ। ਕੂਪ\n\nਤੋ = ਖੂਹ ਵਿਚੋਂ। ਕਰਿ = ਦੇ ਕਾਰਨ। ਅੰਧ = (ਬਹੁ-ਵਚਨ) ਅੰਨੇ ਹੋਏ ਹੋਏ। ਬੰਧ = ਬੰਧਨਾਂ ਵਿਚ। ਢੋਖਾ =\nਪਾਪ। ਤਨਿ = ਸਰੀਰ ਵਿਚ। ਛਾਇ = ਛਾਏ ਹੋਏ। ਪੂਰੇ = ਪੂਰੀ ਤਰ੍ਹਾਂ। ਆਨ = ਕੋਈ ਹੋਰ। ਸਰਨਿ ਸੂਰੇ = ਹੇ\nਸ਼ਰਨ ਦੇ ਸੂਰਮੇ! ਹੇ ਸ਼ਰਨ ਆਇਆਂ ਦੀ ਸਹਾਇਤਾ ਕਰ ਸਕ ਵਾਲੇ। ਪਤਿਤ ਉਧਾਰਣਾ = ਹੇ ਵਿਕਾਰੀਆਂ ਨੂੰ\nਬਚਾਏ ਵਾਲੇ ! ਬੇਦ ਉਚਾਰ = ਵੇਦਾਂ ਦਾ ਪਾਠ ਕਰਨ ਵਾਲਿਆਂ ਨੇ। ਗੁਛਫਹ ਸਾਗਰਾ = ਹੇ ਗੁਈਂ ਦੇ ਸਮੁੰਦਰ!\n\nਰਤਨਾਗਰਾ = ਹੇ ਰਤਨਾਂ ਦੀ ਖਾਏ ! ਵਛਲੂ = ਪਿਆਰ ਕਰਨ ਵਾਲਾ। ਨਾਨਕ = ਨਾਨਕ !\n\n100 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

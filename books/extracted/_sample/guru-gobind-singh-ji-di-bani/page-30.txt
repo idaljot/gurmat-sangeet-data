@@ -1,0 +1,26 @@
+[EXTRACTION METHOD] Same as page 5: legacy AnmolLipi-ASCII -> gurmukhi-utils toUnicode() -> NFC.
+[CONFIDENCE] High for the running lyric text; the pad-arth glossary's two-column layout is NOT preserved (poppler -layout collapses it to a single flowing block) -- verify against PNG for column pairing.
+[CONTENT] Shabad lyrics + word-meaning (pad-arth) glossary
+======================================================================
+
+                                ੧੨.
+
+                     ਬਿਸਨਪਦ ॥ ਸੋਰਠਿ ॥
+
+ਜੈ ਜੈ ਰੂਪ ਅਰੇਖ ਅਪਾਰ ॥
+ਜਾਸਿ ਪਾਇ ਭ੍ਰਮਾਇ ਜਹ ਤਹ, ਭੀਖ ਕੋ ਸਿਵ ਦੁਆਰ ॥
+ਜਾਸਿ ਪਾਇ ਲਗਯੋ ਨਿਸੇਸਿਹ, ਕਾਰਮਾ ਤਨ ਏਕ ॥
+ਦੇਵਤੇਸ ਸਹੰਸ੍ਰ ਭੇ ਭਗ, ਜਾਸਿ ਪਾਇ ਅਨੇਕ ॥੮੨॥
+
+
+ਪਦ - ਅਰਥ
+ਜਾਸਿ    : ਹੁਕਮ ਖੜਗ ਨੂੰ     ਤਨ        : ਦੇਰ ਉਤੇ
+ਪਾਇ    : ਮਾਰਨਾ ਮੰਡ ਕੇ     ਦੇਵਤੇਸ : ਦੇਵਤਿਆਂ ਦੇ ਸੁਆਮੀ ਇੰਦ੍ਰ ਦੇ ਸਰੀਰਪੁਰ
+ਨਿਸੇਸਿਹ : ‘ਈਸ਼ਰ ਚੰਦ’ ਨੂੰ   ਭੇ        : ਬਣ ਗਏ
+ਕਾਰਮਾ   : ਕਾਲਖ ਦਾ ਟਿਕਾਂ
+
+
+
+
+                                ੨੩
+

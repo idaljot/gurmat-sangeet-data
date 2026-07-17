@@ -1,0 +1,8 @@
+{
+  "page": 95,
+  "section": "notation",
+  "text": "ਆਸਾ ਮਹਲਾ ੫ ॥\nਬਾਪਾਰਿ ਗੋਵਿੰਦ ਨਾਏ ॥\nਸਾਧ ਸੰਤ ਮਨਾਏ ਪ੍ਰਿਅ ਪਾਏ ਗੁਨ ਗਾਏ ਪੰਚ ਨਾਦ ਤੂਰ ਬਜਾਏ ॥੧॥ ਰਹਾਉ ॥\nਕਿਰਪਾ ਪਾਏ ਸਹਜਾਏ ਦਰਸਾਏ ਅਬ ਰਾਤਿਆ ਗੋਵਿੰਦ ਸਿਉ ॥\nਸੰਤ ਸੇਵਿ ਪ੍ਰੀਤਿ ਨਾਥ ਰੰਗੁ ਲਾਲਨ ਲਾਏ ॥੧॥\nਗੁਰ ਗਿਆਨੁ ਮਨਿ ਦ੍ਰਿੜਾਏ ਰਹਸਾਏ ਨਹੀ ਆਏ ਸਹਜਾਏ ਮਨਿ ਨਿਧਾਨੁ ਪਾਏ ॥\nਸਭ ਤਜੀ ਮਨੈ ਕੀ ਕਾਮ ਕਰਾ ॥\nਚਿਰੁ ਚਿਰੁ ਚਿਰੁ ਚਿਰੁ ਭਇਆ ਮਨਿ ਬਹੁਤੁ ਪਿਆਸ ਲਾਗੀ ॥\nਹਰਿ ਦਰਸਨੇ ਦਿਖਾਵਹੁ ਮੋਹਿ ਤੁਮ ਬਤਾਵਹੁ ॥\nਨਾਨਕ ਦੀਨ ਸਰਇ ਆਏ ਗਲਿ ਲਾਏ ॥੨॥੨॥੧੫੩॥\n(ਅੰਗ ੪੦੮)\n\nਪਦ ਅਰਥ :\n\nਬਾਪਾਰਿ = ਵਪਾਰ ਵਿਚ, ਵ੬ਜ ਦੀ ਰਾਰੀਂ। ਨਾਏ = ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੇ। ਮਨਾਏ = ਪ੍ਰਸੰਨ ਕੀਤੇ। ਪ੍ਰਿਅ\nਪਾਏ = ਪਿਆਰੇ (ਦਾ ਦਰਸਨ) ਪਾਇਆ। ਪੰਚ ਨਾਦ ਤੂਰ = ਪੰਜ ਕਿਸਮਾਂ ਦੀਆਂ ਆਵਾਜ਼ਾਂ ਦੇ ਵਾਲੇ ਵਾਜੇ\nਤੰਤੀ ਸਾਜ, ਧਾਤ ਦੇ, ਫੂਕ ਨਾਲ ਵਜਾਏ ਜਾਏ ਵਾਲੇ, ਤਬਲਾ ਆਦਿਕ, ਘੜਾ ਆਦਿਕ। ਸਹਜਾਏ = ਸਹਜ\nਅਵਸਥਾ, ਆਤਮਕ ਅਡੋਲਤਾ। ਰਾਤਿਆ = ਰੰਗੇ ਗਏ। ਸਿਉ = ਨਾਲ। ਸੇਵਿ = ਸੇਵਾ ਕਰ ਕੇ। ਰੰਗ ਲਾਲਨ\n= ਪਿਆਰੇ ਪ੍ਰਭੂ ਦਾ ਪ੍ਰੇਮ ਮਨਿ = ਮਨ ਵਿਚ। ਰਹਸਾਏ = ਰਹਸ, ਖਿੜਾਉ। ਨਹੀ ਆਏ = ਜਨਮ ਮਰਨ ਦੇ\nਗੈੜ ਵਿਚ ਨਹੀਂ ਪਏ। ਨਿਧਾਨੁ = ਖ਼ਜ਼ਾਨਾ। ਮਨੈ ਕੀ = ਮਨ ਦੀ। ਕਾਮ ਕਰਾ = ਵਾਸ਼ਨਾ। ਮੋਹਿ = ਮੈਨੂੰ।\nਗਲਿ = ਗਲ ਨਾਲ।\n\n87 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 184,
+  "section": "notation",
+  "text": "ਅੰਤਰਾ ਏਕਤਾਲ (੧੨ ਮਾਤਰਾ)\n\n(8)\n\n12\n\n11\n\nਨੀਸ\n\nਨੀਸ\n\nਮਰੇ\n\n10\n\nਨੀੀਪ _ ਮਪ | ਮਰੇ\n\nਹਠ\n\nਹਠ\n\nਦਾ\n\nਮਪ _ ਨੀਸੰ | ਨੀਪ _ ਮਪ\n\n10\n\n੨:\nਨਸ\n\n10\n\nਗੋਲ\n\nਸ\n\nਨੀਸ\n\nਮਰੇ\n\nਮਲ\n\nਗਲ\n\nਮਪ _ਨੀਸ'_| ਨੀਪ ਮਪ\n\n10੪\n\n176 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

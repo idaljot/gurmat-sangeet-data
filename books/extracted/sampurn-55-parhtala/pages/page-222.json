@@ -1,0 +1,8 @@
+{
+  "page": 222,
+  "section": "notation",
+  "text": "ਤਾਲ ਚਿੰਨ | % 2 0 3 0 4 0\n\nਤਾਲ ਮਾਤਰਾ | 1 2 34567 8 9 10111 1213 14\n\nਤਾਲ ਬੋਲ | ਧਿੰ ਤਿਰਕਿਟ | ਧਿੰ ਨਾ| ਤੂ ਨਾ| ਕਤ ਤਾ|ਤਿਰਕਿਟ ਧਿੰ!ਨਾ ਧਿੰ[ਧਿੰ ਨਾ\nਦੀਪਚੰਦੀ\n\nਤਾਲ ਚਿੰਨ | % 2 0 4\n\nਤਾਲ ਮਾਤਰਾ।1 2 345੦6 78੪ 10111 12 13 14\n\nਤਾਲ ਬੋਲ |ਧਾ ਧਿੰ -|ਧਾ ਗੇ ਤਿੰ -|ਉਤਾ ਤਿੰ -|ਧਾ ਗੇ ਧਿੰ -\nਝੂਮਰਾ\n\nਤਾਲ ਚਿੰਨ | % 4 0 3\n\nਤਾਲ ਮਾਤਰਾ | 1 2 3 4 5 6 7 8 9 10 11 12 13 14\n\nਤਾਲ ਬੋਲ | ਧਿੰ _-ਧਾ _ਤਿਰਕਿਟ ! ਧਿੰ _ਧਿੰ ਧਾਗੇ _ਤਿਰਕਿਟ | ਤਿੰ _-ਤਾ _ਤਿਰਕਿਟ | ਧਿੰ _ਧਿੰ ਧਾਗੇ _ਤਿਰਕਿਟ\nਏਕਤਾਲ\n\nਤਾਲ ਚਿੰਨ | % 0 2 0 3 4\n\nਤਾਲ ਮਾਤਰਾ| 1 2 | 3 4 67 8 | 9 10 [11 12\n\nਤਾਲ ਬੋਲ | ਧਿੰ _ਧਿੰ | ਧਾਗੇ ਤਿਰਕਿਟ | ਤੂੰ ਨਾ | ਕ _ਤਾ [ਧਾਗੇ ਤਿਰਕਿਟ | ਧਿੰ ਨਾ\n\n214 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

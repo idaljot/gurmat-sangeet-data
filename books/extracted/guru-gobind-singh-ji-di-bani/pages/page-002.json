@@ -1,0 +1,8 @@
+{
+  "page": 2,
+  "section": "front-matter",
+  "text": "Guru Gobind Singh Ji Di Bani : Shabad Sur Rachnavali\nby S. Jaspal Singh\n\nCopyright © 2025 by S. JASPAL SINGH\n(91+ 98729-71282)\n\nFirst Edition: 2025.\n\nISBN: 978-93-6310-433-4\n\nPrice: 20/-\n\nTrue Sparrow Publishers\n#08 Kahlon Complex, Opp. Punjabi University\nPatiala, Punjab, India Pincode: 147002\nInsta: truesparrowpublisers, tsp_kitaab_ghar\nContact: +91 83602 08021, 99159 79774, 94784 82190\n\nAll rights reserved. No part of this publication may be reproduced, distributed, or\ntransmitted in any form or by any means, including photocopying, recording, or other\nelectronic or mechanical methods, without the prior written permission of the publisher,\nexcept in the case of brief quotations embodied in critical reviews and certain other\nnoncommercial uses permitted by copyright law.\n\nCover Design & Laser Typesetting\nTrue Sparrow Publishers\nPrinted in India\n\f",
+  "status": "draft",
+  "extraction_method": "none",
+  "notes": "section heuristic: page<=2 or ISBN/Copyright/Edition/Price keyword."
+}

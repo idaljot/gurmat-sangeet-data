@@ -1,0 +1,8 @@
+{
+  "page": 54,
+  "section": "essay",
+  "text": "ਮਲਾਰ ਮਹਲਾ ੪ ਪੜਤਾਲ ਘਰੁ ੩ ੧6 ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥\nਹਰਿ ਜਨ ਬੋਲਤ ਸ੍ਰੀਰਾਮ ਨਾਮਾ ਮਿਲਿ ਸਾਧਸੰਗਤਿ ਹਰਿ ਤੋਰ ॥੧॥ ਰਹਾਉ ॥\nਹਰਿ ਧਨੁ ਬਨਜਹੁ ਹਰਿ ਧਨੁ ਸੰਚਹੁ ਜਿਸੁ ਲਾਗਤ ਹੈ ਨਹੀ ਚੋਰ ॥੧॥\nਚਾਤ੍ਰਿਕ ਮੋਰ ਬੋਲਤ ਦਿਨੁ ਰਾਤੀ ਸੁਨਿ ਘਨਿਹਰ ਕੀ ਘੋਰ ॥੨॥\nਜੋ ਬੋਲਤ ਹੈ ਮ੍ਰਿਗ ਮੀਨ ਪੰਖੋਰੂ ਸੁ ਬਿਨੁ ਹਰਿ ਜਾਪਤ ਹੈ ਨਹੀ ਹੋਰ ॥੩॥\nਨਾਨਕ ਜਨ ਹਰਿ ਕੀਰਤਿ ਗਾਈ ਛੂਟਿ ਗਇਓ ਜਮ ਕਾ ਸਭ ਸੋਰ ॥੪॥੧॥੮॥\n\n(ਅੰਗ ੧੨੬੫)\n\nਪਦ ਅਰਥ :\n\nਹਰਿ ਜਨ = ਹੇ ਹਰੀ! ਤੇਰੇ ਭਗਤ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਤੋਰ = ਤੇਰੀ। ਬਨਜਹੁ = ਵਏਜ ਕਰੋ, ਖ਼ਰੀਦੋ।\nਸੰਚਹੁ = ਇਕੱਠਾ ਕਰੋ। ਚਾਤ੍ਰਿਕ = ਪਪੀਹਾ। ਸੁਨਿ = ਸੁਏ ਕੇ। ਘਨਿਹਰ = ਬੱਦਲ। ਘੋਰ = ਘਨਘੋਰ,\nਗਰਜ, ਸ਼ੋਰ। ਮ੍ਰਿਗ = ਪਸੂ। ਮੀਨ = ਮੱਛੀ। ਪੰਖੇਰੂ = ਪੰਛੀ। ਕੀਰਤਿ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਸੋਰ =\nਸ਼ੋਰ, ਰੌਲਾ।\n\n46:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

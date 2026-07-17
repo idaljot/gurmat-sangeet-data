@@ -1,0 +1,8 @@
+{
+  "page": 23,
+  "section": "notation",
+  "text": "ਰਾਗ ਨਟ ਪੜਤਾਲ ਸਥਾਈ ਦੀਪਚੰਦੀ (੧੪ ਮਾਤਰਾ)\n\n੮੯੭੭-੯੭੮)\n\n(ਅੰਗ\n\nਦੁ ੭ ਲਾ ਲਾ ੨ ਲਾ । ੨  %\nਸੀ ੭ 'ਦ &  & ੧ ਬੈਠ % ਤਹ. ਤਊ ! &\n੫੪ ੭  %  % ਤ਼ ਪਟ ੭ ਤਦ ੪  €&\nਦ਼ ਗੋ ਦ ਇ 09) ੨। ਪਟ ੭ ਤਹ ਮੰਨ ! ਇ\n੩ ਠਿ ੨ ੮ % ਪਟ ਧੌਠ ੭ ਧੌੋਠਟ % 2 %\n੨, ੭੮੦੪੪ ੮ ੪ ਪਟ ਧਠ ੭ ਧੌਣ % ਜਿ ਰਿ\n੦6 ਇ' ਦਰਿ ਛ ।ਠ ਧੌਠ ਦਰ ਅਨ ਧੈਠ ਮਡ ਟ ਪਟ\n= 9 ਦਿ 9 ਦਿ 9 ਹਿ ਜਿ 1੦1 ਹਿਤ ਗਤ\n੮੦ ਪਟ ਦਿ ਗ੍ਰੰਏ ਦਿ 099 ਜ਼ ਜਿ ਇ ਜਿ % ਦ ੭\n੫੧ 29 ਦਿ % ਦਿ % ਜਿ ਜਿ ਪ੍ਰਏ ਜਿ ਅਠ ਜਦ 0\nਚ ਵਰ ਦਲ !ਨ ਦਿ ਠਿ ਤ਼ 1੦ ਜ.੭ ਦਿ ਪੁੱ\nਵਾ 99 > ਪਲ 2 & ਜਿ  % `ਟ ਗਰ ਆ? %\n੮੫ ੭ ਝ ਪਰ _ਮ> ਇਿ ਜਿ  % `!ਇ ੭ ਦਿ 9\nਦਾ ਹਠਿੰ `ਤੇ ਨ 0 ਪ੍ਰੀ ਜਾ 'ਟ “ਇ ` ।ਠ  /ਛ\n\nਰਚਨਾਵਲੀ\n\n15:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

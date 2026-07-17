@@ -1,0 +1,8 @@
+{
+  "page": 218,
+  "section": "essay",
+  "text": "[_ਦਜਖਾਕੀ |\n\nਪ੍ਰਭਾਤੀ ਮਹਲਾ ੫ ॥\nਚਰਨ ਕਮਲ ਸਰਨਿ ਟੋਕ ॥\nਊਚ ਮੂਚ ਬੇਅੰਤੁ ਠਾਕੁਰੁ ਸਰਬ ਊਪਰਿ ਤੁਹੀ ਏਕ ॥੧॥ ਰਹਾਉ ॥\nਪ੍ਰਾਨ ਅਧਾਰ ਦੁਖ ਬਿਦਾਰ ਦੈਨਹਾਰ ਬੁਧਿ ਬਿਬੇਕ ॥੧॥\nਨਮਸਕਾਰ ਰਖਨਹਾਰ ਮਨਿ ਅਰਾਧਿ ਪ੍ਰਭੂ ਮੇਕ ॥\nਸੰਤ ਰੇਨੁ ਕਰਉ ਮਜਨੁ ਨਾਨਕ ਪਾਵੈ ਸੁਖ ਅਨੇਕ ॥੨॥੨॥੧੫॥\n\n(ਅੰਗ ੧੩੪੧)\n\nਪਦ ਅਰਥ :\nਟੇਕ = ਆਸਰਾ। ਮੁਚ = ਵੱਡਾ। ਅਧਾਰ = ਆਸਰਾ। ਦੁਖ ਬਿਦਾਰ = ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ।\nਦੈਨਹਾਰ = ਦੇ ਸਕਏ ਵਾਲਾ। ਬਿਬੇਕ = (ਚੰਗੇ ਮੰਦੇ ਕੰਮ ਦੀ) ਪਰਖ। ਮਨਿ = ਮਨ ਵਿਚ।\nਅਰਾਧਿ = ਆਰਾਧਨ ਕਰੋ। ਮੇਕ = ਇਕ, ਸਿਰਫ਼। ਰੈਨੁ = ਚਰਨ-ਧੂੜ। ਕਰਉ = ਕਰਉਂ, ਮੈਂ ਕਰਦਾ ਹਾਂ।\n\nਮਜਨੁ = ਇਸ਼ਨਾਨ । ਨਾਨਕ = ਹੋ ਨਾਨਕ! ਪਾਵੈ = ਹਾਸਲ ਕਰਦਾ ਹੈ।\n\n210 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

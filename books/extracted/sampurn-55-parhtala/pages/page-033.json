@@ -1,0 +1,8 @@
+{
+  "page": 33,
+  "section": "notation",
+  "text": "(੧੨ ਮਾਤਰਾ)\n\nਸਥਾਈ ਏਕਤਾਲ\n\nਰਾਗ ਸਾਰੰਗ ਪੜਤਾਲ\n\n(ਅਗ ੧੨੦੧)\n\n੧ |[ਡ੦।॥੦% 0੬ ਪੁੰਠ੍‌#% ੮ |[ਛਅ) ਅ) 'ਟ% 'ਫਟਿਇ !ਟ੪ਉ ੧੦੪\nਦ਼ ੭ € ਦਿ ਟ ੪ “ਏ ੪ ਸਿ ਰੰ\nਦਾਂ ਰ. |॥੮॥  ਇ॥6 ਮਗ 'ਟਸ਼ ਲਿਉ\n੩ |=ੜੂ ਛ#£ £ਟਿ ਪ੍ਰੰਹ9\n& ੮੧ ਰਿ ਧਰਿ `'ਟਿ%# ਪੰ ਨਗਨ ਨੂੰਗਹ\n੦੧ ੮੧੨ ੬ ਇਇ ਪੌਠੜ ਪ੍ਰੰਠੂਝਿ\nਲੇ\nਰਹ £ ॥ਠ।6 ੦੧ ਧੋਣ % ਟਲ ਧ% ਧਠ੦%\n। ਮਠ ਇ ਹਠ ੭ ਅਆ&% ਉਨੂ9 । ” ਰ੍ ਰ੍\nਲਊ ੫\n੮- ੨(6 ਇੰ ੧06 =ਇ ਹੈ ੦੨੨ ਚ ਦਬ ਧੰਠਡਿ ਦੱਤ ਜ੍ਰਿਣ ਨ੍ਰੇੜ\n੦ [ਇਉ 2 ॥ੜ ਧੌਠ ੩ `ਸੈ , |=ਪ੍ਰੰ 0੭੭ >।ਟ ੧ਨ/£ ਤਜਿ ਟਿਲਿ\n੫) [4 ਅਲ ਦਿ ਦਿ ਪੈਨ ਗਿ £\nਲੇ[ਚਢ |ਨ>੦੪॥ 02੦੪ ੨੦੪ ਨਟਇ ੭ % ਉਇ %\n&.\nਚੰ_[ਇ।6 ਜਦ ਇ £ ਲਿ ਪੈਨ\n੮੩ ₹੧|ਤ ਪਰੰਝਾਂ `।ਟ ਮੱਲ _ਅਏ ਚਿ! 'ਟਿ ਰੰ ਰਾ\n1 [ਟ ਫ =ਪ੍ਰੰ2 ਹਠ. % ਤ ਪੁਰੰਏ\n੫ _|ਤ ।ਅ ਪੰ 'ਦ ਦ ਧੌਟ।ਅ ੧॥ ੧੨੦੪\n[ਬੀ 2੫੪ ਧਠ ੭ 'ਹ- # 9\n੮ ੩ ਇਿ।£ ਧੌਠ।੦  >-੧ੰ& ਮਦ ।ਨ \"ਨਕ ਉਠਲ ਨਇ ਤਰ! (ਨ ਫੋਨ\n\nਰਚਨਾਵਲੀ\n\n25:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

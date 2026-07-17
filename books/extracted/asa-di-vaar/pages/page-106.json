@@ -1,0 +1,8 @@
+{
+  "page": 106,
+  "section": "essay",
+  "text": "ਮ੧॥\nਕੁੰਭੇ ਬਧਾ ਜਲੁ ਰਹੈ ਜਲ ਬਿਨੁ ਕੁੰਭੁ ਨ ਹੋਇ ॥\nਗਿਆਨ ਕਾ ਬਧਾ ਮਨੁ ਰਹੈ ਗੁਰ ਬਿਨੁ ਗਿਆਨੁ ਨ ਹੋਇ ॥੫॥\n(ਅੰਗ ੪੬੯)\n\nਪਦ ਅਰਥ:\n\nਕੁੰਭ = ਘੜਾ। ਕੁੰਭੇ = ਘੜੇ ਵਿਚ ਹੀ। ਬਧਾ = ਬੱਝਾ ਹੋਇਆ ਹੈ। ਰਹੈ = ਰਹਿੰਦਾ ਹੈ, ਟਿਕ ਸਕਦਾ ਹੈ। ਕੁੰਭੁ ਨ ਹੋਇ = ਘੜਾ\n\nਨਹੀਂ ਹੁੰਦਾ, ਘੜਾ ਨਹੀਂ ਬਣ ਸਕਦਾ। ਮਨੁ ਰਹੈ = ਮਨ ਟਿਕਦਾ ਹੈ ।\n\n305:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

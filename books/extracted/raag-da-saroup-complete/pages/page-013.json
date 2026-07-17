@@ -1,0 +1,8 @@
+{
+  "page": 13,
+  "section": "notation",
+  "text": "9. ਰਾਗ ਸੋਰਠਿ\n\nਮੁੱਖ ਅੰਗ\n\n10. ਰਾਗ ਧਨਾਸਰੀ\n\nਮੁੱਖ ਅੰਗ\n\nਰਿਸ਼ਭ\n\nਧੈਵਤ\n\nਦੋਵੇ' ਨਿਸ਼ਾਦ\n\nਰਾਤ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\nਸਰੇਮਪ,ਨੀਸ'\nਸੰਰੇਨੀਧਮਪਧਮਦਾਰੋਠੀਸ\n\nਸਰੇ, ਮਪ,ਨੁੀਧ,ਧਪ,ਧਮਰੇ,ਰੇਨੀਸ\n\nਪੰਚਮ,\n\nਸ਼ੜਜ\n\nਗੰਧਾਰ ਨਿਸ਼ਾਦ ਕੋਮਲ\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗੁਮਪਨੀਸ\nਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ\n\nਨੀ ਸ, ਗੁ ਮ ਪ, ਨੀਂ ਧ ਪ, ਮ ਪ ਗੁ, ਰੋ, ਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

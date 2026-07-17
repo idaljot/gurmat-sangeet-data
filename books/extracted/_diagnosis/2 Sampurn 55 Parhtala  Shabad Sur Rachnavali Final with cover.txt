@@ -1,0 +1,68 @@
+--- pdfinfo ---
+Producer:        iLovePDF
+ModDate:         Tue May 14 07:28:25 2024 PDT
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           228
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       7622749 bytes
+Optimized:       no
+PDF version:     1.4
+
+--- pdffonts ---
+Syntax Warning: Could not parse ligature component "192" of "_192" in parseCharName
+Syntax Warning: Could not parse ligature component "192" of "_192" in parseCharName
+Syntax Warning: Could not parse ligature component "192" of "_192" in parseCharName
+Syntax Warning: Could not parse ligature component "192" of "_192" in parseCharName
+Syntax Warning: Could not parse ligature component "192" of "_192" in parseCharName
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+SBWBZQ+TT285t00                      TrueType          Custom           yes yes no     237  0
+KIGHPU+TT393t00                      TrueType          Custom           yes yes yes    241  0
+ODNMDG+TTCCt00                       TrueType          Custom           yes yes no     246  0
+KDGXKF+TT392t00                      TrueType          Custom           yes yes no     250  0
+NBKGOK+TT369t00                      TrueType          Custom           yes yes no     255  0
+WCASUJ+TT36At00                      TrueType          Custom           yes yes no     259  0
+URZKJY+TT27At00                      TrueType          Custom           yes yes no     264  0
+XGXWYM+TT27Bt00                      TrueType          Custom           yes yes no     268  0
+ODNMDG+TT92t00                       TrueType          Custom           yes yes no     273  0
+ODNMDG+TT10Et00                      TrueType          Custom           yes yes no     278  0
+SNDABN+Helvetica                     Type 1C           WinAnsi          yes yes no     282  0
+KIGHPU+TTCCt00                       TrueType          Custom           yes yes yes    289  0
+WCASUJ+TT289t00                      TrueType          Custom           yes yes no     294  0
+VRYKAP+TT15Bt00                      TrueType          Custom           yes yes yes    298  0
+PJEFXS+TTCBt00                       TrueType          Custom           yes yes no     303  0
+DXCOJF+TT285t00                      TrueType          Custom           yes yes no     307  0
+SDEADL+Helvetica-Bold                Type 1C           WinAnsi          yes yes no     312  0
+MUHOSY+TT331t00                      TrueType          Custom           yes yes yes    323  0
+ODNMDG+TT332t00                      TrueType          Custom           yes yes yes    328  0
+ASPNQQ+TT23o00                       Type 1C           Custom           yes yes yes    347  0
+SDEADL+Helvetica                     Type 1C           WinAnsi          yes yes no     376  0
+ODNMDG+TT29o00                       Type 1C           Custom           yes yes yes    402  0
+KDGXKF+TTCCt00                       TrueType          Custom           yes yes yes    420  0
+ODNMDG+TT93t00                       TrueType          Custom           yes yes no     425  0
+UNDHHB+TT289t00                      TrueType          Custom           yes yes no     429  0
+MUHOSY+TT53o00                       Type 1C           Custom           yes yes yes    433  0
+VRYKAP+TT15Bt00                      TrueType          Custom           yes yes yes    438  0
+LPOJNC+TTCBt00                       TrueType          Custom           yes yes yes    443  0
+BWRIIR+TT285t00                      TrueType          Custom           yes yes no     448  0
+QUUHSV+Helvetica-Bold                Type 1C           WinAnsi          yes yes no     453  0
+UARTMS+TT56o00                       Type 1C           Custom           yes yes yes    472  0
+CLCHGF+Times-Roman                   Type 1C           WinAnsi          yes yes no     550  0
+SNDABN+Times-Bold                    Type 1C           WinAnsi          yes yes no     553  0
+SNDABN+Helvetica                     Type 1C           WinAnsi          yes yes no     561  0
+RFHCWV+TT15Bt00                      TrueType          Custom           yes yes yes    600  0
+RFFBTU+TTCBt00                       TrueType          Custom           yes yes no     605  0
+UNDHHB+TT285t00                      TrueType          Custom           yes yes no     609  0
+VLRFWH+TT289t00                      TrueType          Custom           yes yes no     614  0
+JFTFGG+TT15Bt00                      TrueType          Custom           yes yes yes    622  0
+DQNTHE+TT285t00                      TrueType          Custom           yes yes no     627  0
+ANAPBW+TT289t00                      TrueType          Custom           yes yes no     631  0
+YTPPSD+TTCBt00                       TrueType          Custom           yes yes yes    635  0

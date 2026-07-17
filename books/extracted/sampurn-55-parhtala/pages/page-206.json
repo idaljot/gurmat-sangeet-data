@@ -1,0 +1,8 @@
+{
+  "page": 206,
+  "section": "essay",
+  "text": "ਮਲਾਰ ਮਹਲਾ ੫ ॥\nਗੁਨ ਗੋਪਾਲ ਗਾਉ ਨੀਤ ॥\nਰਾਮ ਨਾਮ ਧਾਰਿ ਚੀਤ ॥੧॥ ਰਹਾਉ ॥\nਛੋਡਿ ਮਾਨੁ ਤਜਿ ਗੁਮਾਨੁ ਮਿਲਿ ਸਾਧੂਆ ਕੈ ਸੰਗਿ ॥\nਹਰਿ ਸਿਮਰਿ ਏਕ ਰੰਗਿ ਮਿਟਿ ਜਾਂਹਿ ਦੋਖ ਮੀਤ ॥੧॥\nਪਾਰਬ੍ਰਹਮ ਭਏ ਦਇਆਲ ॥\nਬਿਨਸਿ ਗਏ ਬਿਖੈ ਜੰਜਾਲ ॥\nਸਾਧ ਜਨਾਂ ਕੈ ਚਰਨ ਲਾਗਿ ॥\nਨਾਨਕ ਗਾਵੈ ਗੋਬਿੰਦ ਨੀਤ ॥੨॥੬॥੨੮॥\n(ਅੰਗ ੧੨੭੨)\nਪਦ ਅਰਥ :\n\nਗੋਪਾਲ = (ਅੱਖਰ ਗ ਦੇ ਨਾਲ ਦੋ ਲਗਾਂ ਹਨ ` ਅਤੇ _ । ਅਸਲ ਲਫ਼ਜ਼ ਗੋਪਾਲ ਹੈ। ਇਥੇ ਗੁਪਾਲ ਪੜ੍ਹਨਾ ਹੈ)\nਸ੍ਰਿਸ਼ਟੀ ਦਾ ਪਾਲਏ ਵਾਲਾ। ਗਾਉ = ਗਾਇਆ ਕਰ। ਨੀਤ = ਸਦਾ। ਚੀਤਿ = ਚਿੱਤ ਵਿਚ। ਧਾਰਿ = ਟਿਕਾਈ\nਰੱਖ। ਤਜਿ = ਤਿਆਗ ਦੇ। ਮਿਲਿ = ਮਿਲ ਕੇ। ਸਾਥੂਆ ਕੈ ਸੰਗ = ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ। ਏਕ\nਰੰਗੀ = ਇਕ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ। ਮੀਤ = ਹੈ ਮਿੱਤਰ। ਬਿਬੈ ਜੰਜਾਲ = ਵਿਸ਼ੇ-ਵਿਕਾਰਾਂ ਦੀਆਂ ਫਾਹੀਆਂ। ਕੈ\n\nਚਰਨ ਲਾਗਿ = ਦੇ ਚਰਨਾਂ ਵਿਚ ਟਿੱਕ ਕੇ। ਗਾਵੈ = ਗਾਂਦਾ ਹੈ, ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ। ਨੀਤ = ਸਦਾ।\n\n198 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

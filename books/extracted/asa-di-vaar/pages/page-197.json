@@ -1,0 +1,8 @@
+{
+  "page": 197,
+  "section": "essay",
+  "text": "ਮਹਲਾ ੨ ॥\nਹੋਇ ਇਆ ਕਰੇ ਕੰਮੁ ਆਇ ਨ ਸਕੈ ਰਾਸਿ ॥\n\nਜੇ ਇਕ ਅਧ ਚੰਗੀ ਕਰੇ ਦੂਜੀ ਭੀ ਵੇਰਾਸਿ ॥੫॥\n\n(ਅੰਗ ੪੭੪)\n\nਪਦ ਅਰਥ :\n\nਇਕ ਅਧ = ਥੋੜਾ ਬਹੁਤਾ, ਕੋਈ ਇਕ ਕੰਮ। ਵੇਰਾਸਿ = ਉਲਟ = ਖ਼ਰਾਬ।\n\n196:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

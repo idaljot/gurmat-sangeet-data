@@ -1,0 +1,8 @@
+{
+  "page": 78,
+  "section": "notation",
+  "text": "ਅੰਤਰਾ ਏਕਤਾਲ (੧੨ ਮਾਤਰਾ)\n\n(8)\n\n੫ ਝ 'ਇ09 ਦਿ ਗ੍ਰੰਏ ੮੩ ਨਾ ਆ\nਦੇ ; ਹੈਨ\nਦਾ ਨ ਇਟ ੜੋ ਅਨ ।ਨ\nਦੈ ਧੋ 1੪\n੩ ਡ ਪ੍ਰ ` ਪਊ  % ੮੧ ਪੌਠ ਡ\n੮4\n੨. ਨ & ਪਟ ੜੇ ਦਾ ਪ੍ਰੰ ਦਾ ਨ\nਜਿ\n੩ > ਦਿ\n੦6 ਪਟ. `!ਇ ਸਿ ਤ ੪\n& |= ਦ ਗੀ?\nਰੈ &.\n- ਹੈ. ਪੂ ਵਲ ਠ, ਦ £\n੮੨ ਇਿ ਗਲਿ ੧6੦ 9% ਇਿ /ਇ ਸਿ ੨6\n੫ ਇਟ ਇਿ ਧੰਟ ਮਠ ਇ 0\n=\n੭ ੮ ਗਲ\n੮\nਚ `ਟ ਗੰ ਧੌਠ ਰਿ ਮਨ ੜੇ ੫; ਅਠ\nਵਾ ਦਿ:\n੮੧  0% 6 ਦਿ! 9\n੮੫ ਜਿ:\nਦਾ [ਟ_0 ਦ ਇ ਦਿ:\n\n70: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

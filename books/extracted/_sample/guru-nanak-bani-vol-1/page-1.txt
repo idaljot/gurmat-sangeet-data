@@ -1,0 +1,6 @@
+[EXTRACTION METHOD] pdftotext -layout produced NO extractable text.
+[CONFIDENCE] N/A
+[CONTENT] Front cover -- appears to be an image (title page graphic), not
+selectable text. Consistent with prior diagnosis's "covers are images" claim
+for this book pair -- this part of the prior diagnosis IS confirmed correct.
+See page-1.png.

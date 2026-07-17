@@ -1,0 +1,8 @@
+{
+  "page": 120,
+  "section": "notation",
+  "text": "ਰਾਗ ਸੂਹੀ ਪੜਤਾਲ ਸਥਾਈ ਮੱਤਤਾਲ (੯ ਮਾਤਰਾ)\n\n(ਅੰਗ ੭੪੬)\n1 2 3 4 5 6 7 8 9\n% 2 3\nਰੇ ਰੇ ਗ ਗ ਮ ਮ ਪਮ ਗਰੇ ਸ\nਰਾ ਸਿ ਮੰਡ ਲੂ ਕੀ ਨੋ ਆ ਖਾ ਰਾ\nਸ ਸ ਨੀ ਨੀ ਧ ਧ ਪਮ ਗਰੇ ਸ\nਸਗ ਲੋ ਸਾ ਜਿ ਰਖਿ ਓ ਪਾ ਸਾ ਰਾ\n(੧) ਅੰਤਰਾ ਰੁਦਰ ਤਾਲ (੧੧ ਮਾਤਰਾ)\n1 3 4 6 7 8 9 10 11\n੩ 0 2 3 4 0 5 6 7 8 0\nਧ ਧ ਨੀ ਨੀ ਧ ਪ ਨੀ ਸੱ ਸੱ\nਬ ਹੁ ਬਿ | ਧਿ ਰੂ ਪ ਰੰ ਗ ਆ ।|ਪਾ | ਰਾ\nਰੱ ਰੇੱ ਰੇੱ ਰੇੱ ਗੱ ਗੱ ਗੱ ਗੱ ਰੇਂ ਸਾਂ\nਪੇ ੨ । ਸੀ ਭੋ ਗ ਨ ਹੀ ਹਾ 5\n(੨) ਅੰਤਰਾ ਏਕਤਾਲ (੧੨ ਮਾਤਰਾ)\n1 2 3 4 5 6 7 8 9 10111 12\n% 0 2 0 3 4\nਨੀ ਨੀ ਧ ਧ ਪ ਪ ਪਧ __ਨੀਸ' | ਸੰਨੀ _ਧਪ | ਮਗ _ ਰੇਸ\nਸ ਭਿ ਰ ਸ ਲੈ ਤ | ਬਸ ਤ ਨਿ ਰੋ ਰਾ ਰਾ\n\n112 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

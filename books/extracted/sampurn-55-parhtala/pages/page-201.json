@@ -1,0 +1,8 @@
+{
+  "page": 201,
+  "section": "notation",
+  "text": "ਰਾਗ ਮਲਾਰ ਪੜਤਾਲ ਸਥਾਈ ਦੀਪਚੰਦੀ (੧੪ ਮਾਤਰਾ)\n\n(ਅੰਗ ੧੨੭੨)\n\nਚ 79 ਨ 'ਨ੪ ਵਿ 0 ੮੧ ੭ ੦੪ ੧ [2 % ,ਓ%\n। ਜਿਆ ਜਨਾ ੨੪ |੮੦\n੮ ੮0੭ 109 = ।ਟ ਮਲ __ ਰੂੰ,ਲ\n2੧ ਜਿ ਜਲ ਨ [੮੦\n੩ ਗਏ ਰੋ ਆਏ % ੩ ਗ2% ਦਰ\nਦਾ ਜਮਡ ਤ੬ ਤਪ੍ਰ ।ਟ%\n੦, ਦ/ਡ ਦਿ ੨; ਦਏ ਪੰਠ $ੈ\n੩ ਜਇਿਦਫ ਧੌਠ।02 ਅਲਗ % -\n੨: ਜਿਨ ੭੪ ਧ੍ੌੰਟ੪ ਅਨ 9 । ੍ ਦਲ ਦਾਲ । ਤ਼ ਚਾਇ ਟ੍ਇ\n0 0\nਹੱ ਹ\n੨੧ ਜਛ ਦਰਿ ੧ਠਡੇ ਅ2/9| ਟੂ | ਚ ਨੰ ਦਾਪੁੰਠ[ >> | 'ਦਿ491  ਪ੍ਰਠ,09:\n£- ਜਦ ਤ 9 ਫ਼ 09) 9 ਇਉ ਦਿ 0੭  ਪਧੌਠ ੬ 01 `ਟ ਇ 'ਹ ਇ\n੦੦ £ ਟ੦ ੧੦ >੨% [7 [1\nਪੰ ੫੧ ਟ ਗੰ ਧੋਠਪ 2 [੪ 'ਇਲ ੩\n<<\nਨ (੪\n੫੧ ੪ ੨੦੪ 'ਇਿ0 ੨੦੪ ' --\nਚ ਧੈਠ:।9 _ਧਟ। % ਚ ' ਹੱ ਪਨ\nਚ ਦ& '੨। 'ਇ %\n੦੧ ਧੌਠਇ 1੨09 ੦੧ [ਫਟ 'ਧ€\nਵਾ  ਲ ਪੌਠ|ਲ 'ਤਿ& ਦਿ706\nਫ੫ ੪% ਪੁੰਨ ਫਟ ਦਿ:06 ੧ ਜਾਲ ਇ% >੍ ਹੁੰਠੂ 2 ਦ ੭\nਦਾ £ ਜਿ: ਧੋਠ,£ 'ਟਪ੍ਰੰ ਦਾਤਿ ਦਾ ਧਰ 1੮ ਜਿ ਦਾ ਰ&ਰਛ _' ਫ\n\n193 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

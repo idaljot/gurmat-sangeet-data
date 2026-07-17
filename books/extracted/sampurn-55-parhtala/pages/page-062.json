@@ -1,0 +1,8 @@
+{
+  "page": 62,
+  "section": "notation",
+  "text": "ਰਾਗ ਕਾਨੜਾ ਪੜਤਾਲ ਸਥਾਈ ਝੱਪਤਾਲ (੧੦ ਮਾਤਰਾ)\n\n(ਅੰਗ ੧੨੯੬)\n\n੩ ਦਇ ਟਇ 'ਨਇ ॥ % ੨ | ਦਿ ਪਲ ਪੱਲ\nਦ਼ 'ਇ ਇ # ਨੂ ਵਿ\n੨ ਅਲ ਓ ਇਤ ਨ ਇ (ਉਇ\n੨ 'ਟ ਇੰ `'ਇ ਅਹ ਪਿ\n੨੦ /ਲ ਜਿ ਧਠਇ ਨੂੰ ਚਿਤ\n੧ ਧੋਠ ਫ ਮਰਿ ਨੰ\nਛ-\n੮ ਟ ਛ ਤਾ ਇ  ਪੌਠ ਰਮ ;\n੨੦ ਚ 'ਦ ਲੂ ਪੰਠ\nਨ\n੮੦ ਦਿ ਲਿ ੨. ਊਂ ਮਾ ਲ੍ਹ| % | ੮ ਲੇ < ਪ੍ਰ ਭਿ\n੫ ਤ । ੭ ਤਾਪ ਤਾ ਮੰਨ ਰਿ ੭ ਪਠ।6 1੭ ਟੇ\n£ ੫੧ ਧਨ % ਦਿ? ਨਿ ਪੰ\nਚ ਤ਼ ਨਗ ਤਾੜ ਪੰ | ਟਨ\n&.\nਚ > ਚ ਦਿਓ\n੨. ਤ ਇ ਪੈ ਤੇ ਇੰ, ਧੌਠ ਮਨ\n੦) 'ਦ ਮਲ ਦਿ! 90\nਰਾ ਗਲ 16 ਇਿ ਪ੍ਰੰਏ ਅਏ ਪ੍ਰੰਏ ਟ ਗ੍ਰੰ£ ਸੰ\n੮੧ ਦਲ 'ਚਿਰਿਂ ਹਨ\nਦਾ ਦਲ !ਟ'ਟ।੭ ੭ ਦਾ 2 ॥ਗ 20 ਟੂ\n\n54:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,25 @@
+# Sampurn 55 Parhtala - page 228 (back cover: author bio + book contents summary + QR/publisher)
+# Text baked into cover graphic; pdftotext text layer is EMPTY.
+# Method: tesseract OCR -l pan --psm 6 on 150dpi render, spot-checked against page-228.png.
+# OCR accuracy: high on the body-text bio paragraph (correct order, correct letters); a couple of numeric/list items lost trailing digits (e.g. 'ਕਾਨੜਾ-6' -> 'ਕਾਨੜਾ-' , 'ਸਾਰੰਗ-10' -> 'ਸਾਰੰਗ-0') -- digits in dense inline lists are a weak point. 'SCAN ME' QR caption and publisher logo text not attempted (decorative/graphic elements).
+
+--- pdftotext raw (EMPTY - image-only cover) ---
+
+--- tesseract -l pan --psm 6 OCR (reliable for body prose; verify list digits) ---
+1988 ਵਿਚ ਸੀਨੀਅਰ ਸੈਕੰਡਰੀ ਮਾਡਲ ਸਕੂਲ, ਪੰਜਾਬੀ ਯੂਨੀਵਰਸਿਟੀ ਪਟਿਆਲਾ ਵਿਖੇ
+ਉਆ ਸੰਗੀਤ ਅਧਿਆਪਕ ਵਜੋਂ ਨਿਯੁਕਤ ਹੋਇਆ ਸਾਂ। ਪੰ. ਜਵਾਹਰ ਲਾਲ ਸ਼ਰਮਾ ਮੇਰੇ ਸੰਗੀਤ ਦੇ
+ਕਰਵਾ ਰਿਹਾ ਹਾਂ। ਇਸ ਵਿਚ ਸ੍ਰੀ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀਆਂ 19 ਪੜਤਾਲਾਂ ਰਾਗ ਅਨੁਸਾਰ ਇਸ ਤਰ੍ਹਾਂ ਦਰਜ ਹਨ:
+ਬਿਲਾਵਲ-1, ਨਟ ਨਾਰਾਇਨ-, ਨਟ- 2, ਸਾਰੰਗ-6, ਮਲਾਰ2, ਕਾਨੜਾ-, ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ:11 ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ
+ਜੀ ਦੀਆਂ 36 ਪੜਤਾਲਾਂ ਰਾਗ ਅਨੁਸਾਰ ਇਸ ਤਰ੍ਹਾਂ ਦਰਜ ਹਨ: ਰਾਗ ਆਸਾ-5, ਧਨਾਸਰੀ-2, ਸੂਹੀ- 3, ਬਿਲਾਵਲ-
+2, ਰਾਮਕਲੀ-2, ਨਟ, ਭੈਰਉ-1, ਸਾਰੰਗ-0, ਮਲਾਰ-8, ਪ੍ਰਭਾਤੀ-21 ਸਿਖਾਂਦਰੂਆਂ ਦੀ ਸਹੂਲਤ ਲਈ ਇਹ ਸਿਧਾਂਤਕ
+ਰੂਪ ਦੇ ਨਾਲ-ਨਾਲ ਕ੍ਿਆਤਮਕ ਰੂਪ ਵਿਚ ਵੀ ਸੁਰਲਿਪੀਬੱਧ ਕਰਾ ਕੇ ਯੂਟਿਊਬ ਉੱਤੇ ਉਪਲਬਦ ਕਰਾ ਰਿਹਾ ਹਾਂ। ਜਿਸ
+ਵਿਚ ਪੜਤਾਲਾਂ ਦਾ ਗਾਇਨ ਅਲੀ ਅਕਬਰ (ਗੁਰਮਤਿ ਸੰਗੀਤ ਵਿਭਾਗ, ਪੰਜਾਬੀ ਯੂਨੀਵਰਸਿਟੀ ) ਹੋਰਾਂ ਨੇ ਕੀਤਾ ਹੈ।
+ਰਾਗਾਂ ਦੇ ਸਰੂਪ ਦਾ ਗਾਇਨ ਦਲਬੀਰ ਵਿਰਦੀ ਜੀ ਨੇ ਕੀਤਾ ਹੈ। ਮੈਨੂੰ ਇਸ ਕਾਰਜ ਦਾ ਉੱਦਮ ਵਾਹਿਗੁਰੂ ਨੇ ਹੀ
+ਸਰਦਾਰ ਜਸਪਾਲ ਸਿੰਘ
+ਸਾਬਕਾ ਅਧਿਆਪਕ ( ਸੰਗੀਤ ਵਿਭਾਗ)
+ਸੀਨੀਅਰ ਸੈਕੰਡਰੀ ਮਾਡਲ ਸਕੂਲ,
+ਪੰਜਾਬੀ ਯੂਨੀਵਰਸਿਟੀ, ਪਟਿਆਲਾ
+ਸੰਪਰਕ: 98729-71282
+ਜਉ] _ 0111੧
+ਵਿ €੨0।1੧੩੧ ੨5੨।੧੦੧੦੦੧
+ਰਸਾਜਦਾਤ 10੧01815

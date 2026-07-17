@@ -1,0 +1,8 @@
+{
+  "page": 8,
+  "section": "essay",
+  "text": "ਪ੍੍\n\nਪ੍੍\n\n- ਮਨਿ ਬਿਰਾਗੈਗੀ\n\n- ਐਸੀ ਹੋਇ ਪਰੀ\n\n- ਲਾਲ ਲਾਲ ਮੋਹਨ ਗੋਪਾਲ ਤੂ\n- ਕਰਤ ਕੇਲ ਬਿਖੈ ਮੇਲ\n\nਰਾਗ ਮਲਾਰ\n\n46\n\n47,\n48.\n49.\n50.\n51.\n52.\n53.\n\n- ਗੁਰ ਮਨਾਰਿ ਪ੍ਰਿ ਦਇਆਰ\n\nਮਨੁ ਘਨੈ ਭ੍ਰਸੈ ਬਨੈ\n\nਪ੍ਰਿਅ ਕੀ ਸੋਭ ਸੁਹਾਵਨੀ ਨੀਕੀ\n\nਗੁਰ ਪ੍ਰੀਤਿ ਪਿਆਰੇ ਚਰਨ ਕਮਲ\nਬਰਸੁ ਸਰਸੁ ਆਗਿਆ\n\nਘਨੁ ਗਰਜਤ ਗੋਬਿੰਦ ਰੂਪ\n\nਹੇ ਗੋਬਿੰਦ ਹੇ ਗੋਪਾਲ ਹੇ ਦਇਆਲ ਲਾਲ\n\nਰਾਗ ਪ੍ਰਭਾਤੀ\n\n54\n55\n\n- ਰਮ ਰਾਮ ਰਾਮ ਰਾਮ ਜਾਪ\n. ਚਰਨ ਕਮਲ ਸਰਨਿ ਟੇਕ\n\nਰਾਗ ਦਾ ਸਰੂਪ\n\n166\n170\n173\n177\n\n181\n\n185\n188\n192\n195\n198\n201\n204\n\n207\n210\n213\n217\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

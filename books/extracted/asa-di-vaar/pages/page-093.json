@@ -1,0 +1,8 @@
+{
+  "page": 93,
+  "section": "notation",
+  "text": "ਰਾਗੁ ਆਸਾ ( ਅੱਧਾ ਤਿੰਨਤਾਲ ੧੪ ਮਾਤਰਾ )\n\n(ਅੰਗ ੪੬੮-੪੬੯)\n\n1 2 3 4 ੭ 6 7 8 9 10 11 12113 14 15 16\n1 2 0 3\nਸਥਾਈ ਸੰ ਸ ਸਾ ਸੰ ਨੀ ਧ ਪ ਪ\nਲਬੁ ਪਾ ਪੁਦੁ ਇ |ਰਾ ਜਾ ਮਹ ਤਾ\nਮ ਪ ਧ ਧਸ ਸੱ ਸੱ ਸੱ ਸੱ\nਕੂ ੜੁ ਹੋ ਆ [ਸਿ ਦਾ ਰੁ\nਧ ਧ ਧ ਧ |ਧਮ 'ਪ ਪ ਪ\nਕਾਮੁ ਨੇਬੁ ਸ ਦਿ [ਪੁ ਛੀ 5 ਐ\nਮ ਗ ਰੇ ਰੇ ਸ ਸ ਸ ਸ\nਬਹਿ _ਬਹਿ ਕ ਰੇ | ਬੀ ਚਾ 5 ਰੁ\nਅੰਤਰਾ ਮ ਮ ਮਮ|ਪ'ਪ'ਧ ਧ\nਅੰਧੀ _ਰਯਤਿ ਗਿਆ ਨ |ਵਿ ਹੂ ਕਣੀ 6\nਸੱ ਸੱ ਸੱ ਧ ਧ ਸੱ ਸੱ\nਭਾ ਹਿ ਭ ਰੇ ਮੁ ਰ ਦਾ ਰੁ\nਗੰ ਗੱ ਗੱ ਗੰ ਰੇਂ ਰੇਂ ਸਾ ਸਾ\nਗਿਆ ਨੀਨਚ _ਹਿ ਵਾਜੇ | ਵਾ ਹਿ 5\nਨੀ ਧ ਪ ਮ ਗ ਰੇ ਸ ਸ\nਰੂ ਪ ਕਰ ਹਿ [ਸੀ ਗਾਂ $ ਰੁ\n\n#ਨੋਟ : ਰਹਿੰਦੇ ਪਦ ਉਪਰੋਕਤ ਅੰਤਰੇ ਤੇ ਗਾਇਣ ਕਰੋ ਜੀ।\n\n92: ਆਸਾ ਦੀ ਵਾਰ\n\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

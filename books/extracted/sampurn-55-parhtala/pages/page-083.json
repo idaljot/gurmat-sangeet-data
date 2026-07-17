@@ -1,0 +1,8 @@
+{
+  "page": 83,
+  "section": "essay",
+  "text": "ਹ ਹ\n\nਕਾਨੜਾ ਮਹਲਾ ੪ ॥\nਹਰਿ ਜਸੁ ਗਾਵਹੁ ਭਗਵਾਨ ॥\nਜਸੁ ਗਾਵਤ ਪਾਪ ਲਹਾਨ ॥\nਮਤਿ ਗੁਰਮਤਿ ਸੁਨਿ ਜਸੁ ਕਾਨ ॥\nਹਰਿ ਹੋ ਹੋ ਕਿਰਪਾਨ ॥੧॥ ਰਹਾਉ ॥\nਤੇਰੇ ਜਨ ਧਿਆਵਹਿ ਇਕ ਮਨਿ ਇਕ ਚਿਤਿ ਤੇ ਸਾਧੂ ਸੁਖ ਪਾਵਹਿ ਜਪਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨ ॥\nਉਸਤਤਿ ਕਰਹਿ ਪ੍ਰਭ ਤੇਰੀਆ ਮਿਲਿ ਸਾਧੂ ਸਾਧ ਜਨਾ ਗੁਰ ਸਤਿਗੁਰੂ ਭਗਵਾਨ ॥੧॥\nਜਿਨ ਕੈ ਹਿਰਦੈ ਤੂ ਸੁਆਮੀ ਤੋ ਸੁਖ ਫਲ ਪਾਵਹਿ ਤੋਂ ਤਰੇ ਭਵ ਸਿੰਧੁ ਤੇ ਭਗਤ ਹਰਿ ਜਾਨ ॥\n\nਤਿਨ ਸੇਵਾ ਹਮ ਲਾਇ ਹਰੇ ਹਮ ਲਾਇ ਹਰੇ ਜਨ ਨਾਨਕ ਕੇ ਹਰਿ ਤੂ ਤੂ ਤੂ ਤੂ ਤੂ ਭਗਵਾਨ ॥੨॥੬॥੧੨॥\n\n(ਅੰਗ ੧੨੯੭)\n\nਪਦ ਅਰਥ :\n\nਜਸੁ = ਸਿਫ਼ਤ-ਸਾਲਾਹ। ਗਾਵਤ = ਗਾਂਦਿਆਂ। ਲਹਾਨ = ਲਹਿ ਜਾਂਦੇ ਹਨ। ਸੁਨਿ = ਸੁਇਆ ਕਰ। ਕਾਨ =\nਕੰਨਾਂ ਨਾਲ। ਹੋ = ਹੋ ਭਾਈ! ਕਿਰਪਾਲ = ਦਇਆਵਾਨ। ਧਿਆਵਹਿ = ਧਿਆਉਂਦੇ ਹਨ (ਬਹੁ-ਵਚਨ) । ਇਕ\nਮਨਿ = ਇਕ ਮਨ ਨਾਲ। ਇਕ ਚਿਤਿ = ਇਕ ਚਿੱਤ ਨਾਲ। ਤੋ ਸਾਧੂ = ਉਹ ਭਲੇ ਮਨੁੱਖ। ਜਪਿ = ਜਪ ਕੇ।\n\nਨਿਧਾਨ = (ਸੁਖਾਂ ਦਾ) ਖ਼ਜ਼ਾਨਾ। ਕਰਹਿ = ਕਰਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)। ਪ੍ਰਭ - ਹੇ ਪ੍ਰਭੂ! ਮਿਲਿ = ਮਿਲ ਕੇ।\nਭਗਵਾਨ = ਹੇ ਭਗਵਾਨ! ਕੈ ਹਿਰਦੈ = ਦੇ ਹਿਰਦੇ ਵਿਚ। ਸੁਆਮੀ = ਹੇ ਸੁਆਮੀ! ਤੋਂ = ਉਹ (ਬਹੁ-ਵਚਨ)।\n\nਭਵ ਸਿੰਧੁ = ਸੰਸਾਰ-ਸਮੁੰਦਰ। ਜਾਨ = ਜਾਏ। ਹਮ = ਅਸਾਨੂੰ, ਮੈਨੂੰ।\n\n75:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

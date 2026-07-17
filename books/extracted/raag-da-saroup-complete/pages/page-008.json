@@ -1,0 +1,8 @@
+{
+  "page": 8,
+  "section": "notation",
+  "text": "4. ਰਾਗੁ ਆਸਾ\n\nਥਾਟ $ ਬਿਲਾਵਲ,\n\nਵਾਦੀ 2 ਮਧਿਅਮ\n\nਸੁਰ 2 ਸਾਰੇ ਸਵਰ ਸ਼ੁਧ\n\nਆਰੋਹ 2 ਸਰੇਮਪਧਸ'\n\nਅਵਰੋਹ ਤੂ ਸਾਨੀਧਪ,ਮ,ਗਰੇ,ਸਗਰੇਗਸ\nਮੁੱਖ ਅੰਗ $ ਰੇਮਪ,ਧਸ,ਨੀਧਪਮ,ਗਰੇਗਸ\n4.1 ਰਾਗ ਆਸਾਵਰੀ\n\nਥਾਟ ਆਸਾਵਰੀ\n\nਜਾਤੀ ਐੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਗੰਧਾਰ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ ? ਸਰੇਮਪਥੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀ, ਧੁ, ਪਮਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਮਪਧੁ,ਮਪਗੁ,ਰੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

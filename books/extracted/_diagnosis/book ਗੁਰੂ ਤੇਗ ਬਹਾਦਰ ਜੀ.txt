@@ -1,0 +1,43 @@
+--- pdfinfo ---
+Author:          mpsagar1997@gmail.com
+Creator:         Microsoft® Word 2013
+Producer:        Microsoft® Word 2013
+CreationDate:    Sun Apr 16 06:08:31 2023 PDT
+ModDate:         Sun Apr 16 06:08:31 2023 PDT
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           135
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       2128554 bytes
+Optimized:       no
+PDF version:     1.5
+
+--- pdffonts ---
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+ABCDEE+Calibri                       TrueType          WinAnsi          yes yes no       5  0
+ABCDEE+Raavi,Bold                    CID TrueType      Identity-H       yes yes yes      9  0
+ABCDEE+Raavi,Bold                    TrueType          WinAnsi          yes yes no      14  0
+ABCDEE+Raavi,Bold                    TrueType          WinAnsi          yes yes no      16  0
+ABCDEE+Raavi                         CID TrueType      Identity-H       yes yes yes     18  0
+ABCDEE+Raavi                         TrueType          WinAnsi          yes yes no      23  0
+ABCDEE+Raavi                         CID TrueType      Identity-H       yes yes yes     25  0
+ABCDEE+Raavi                         TrueType          WinAnsi          yes yes no      30  0
+Arial                                TrueType          WinAnsi          no  no  no      32  0
+Times New Roman,Bold                 CID TrueType      Identity-H       yes no  yes     36  0
+ABCDEE+Calibri Light                 TrueType          WinAnsi          yes yes no      41  0
+ABCDEE+Raavi,Bold                    CID TrueType      Identity-H       yes yes yes     47  0
+ABCDEE+Courier New                   TrueType          WinAnsi          yes yes no     268  0
+ABCDEE+Calibri,Bold                  TrueType          WinAnsi          yes yes no     270  0
+ABCEEE+GurbaniAkharHeavy             TrueType          WinAnsi          yes yes no     273  0
+ABCEEE+Arial Unicode MS              TrueType          WinAnsi          yes yes no     287  0
+Times New Roman,Bold                 TrueType          WinAnsi          no  no  no     296  0
+ABCEEE+Arial Unicode MS              CID TrueType      Identity-H       yes yes yes    335  0
+ABCEEE+Nirmala UI                    CID TrueType      Identity-H       yes yes yes    401  0

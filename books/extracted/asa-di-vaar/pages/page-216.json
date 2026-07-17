@@ -1,0 +1,8 @@
+{
+  "page": 216,
+  "section": "notation",
+  "text": "ਕਰ ਕੇ। ਦੇ ਸੰਬਾਹਿ = ਸੰਬਾਹਿ ਦੇਂਦਾ ਹੈ, ਅਪੜਾਂਦਾ ਹੈ। ਤਿੰਨੈ = ਤਿਨੂ ਹੀ, ਉਸੇ ਨੇ ਆਪ ਹੀ, ਪ੍ਰਭੂ ਨੇ ਆਪ ਹੀ।\nਏਕੀ ਬਾਹਰੀ = ਇਕ ਥਾਂ ਤੋਂ ਬਿਨਾ, ਪ੍ਰਭੂ ਦੀ ਇਕ ਥਾਂ ਤੋਂ ਬਿਨਾ। ਜਾਇ = ਤਾਂ। ਰਜਾਇ = ਮਰਜ਼ੀ।\n\nਪਉੜੀ ( ੪ ਮਾਤਰਾ )\n(ਅੰਗ ੪੭੫)\n\n1 2 3 4 2 3 4\n\n# 0 ਮ 0\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਵਡੇ ਕੀਆ __ਵਡਿ ਆ ਈਆ 95 98 55\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਕਿਛੁ __ਕਹਣਾ __ਕਹਣੁ ਨ ਜਾਇ 95 95 55\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\n\nਸੋ ਕਰਤਾ ਕਾਦਰ __ਕਰੀ ਮੁ 98 98 55\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\n\nਦੇ ਜੀਆ ਰਿਜ ਕੁਸੰ ਬਾਹਿ 58 55 55\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਸਾਈ __ਕਾਰ ਕਮਾ ਵ5 ਣੀ5 98 98 55\nਸੰਸ ਸੰਸ ਸੰਸ ਨੀਧ ਸੰਸ ਸੰਸ ਸੰਸ ਸੰਸ\nਧੁਰਿ ਛੋਡੀ __ਤਿੰਨੈ ਪਾਠ ਇ5 58 58 58\n\n215:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

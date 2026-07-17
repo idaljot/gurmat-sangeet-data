@@ -1,0 +1,77 @@
+# Asa Di Vaar - page 101 (Raag Aasa, Adha Tintaal 16-matra grid: DENSER table than page 3)
+# Font: legacy WinAnsiEncoding Raavi (uni=no). pdftotext layer garbled Latin ASCII, UNUSABLE.
+# Method: tesseract OCR -l pan --psm 6 on 150dpi render.
+# OCR accuracy: DEGRADED compared to the simpler 12-column table on page 3 -- with 16 columns the cells are narrower and OCR merges adjacent cells, drops column boundaries, and introduces stray punctuation noise ('_', apostrophes, misplaced dandas). Estimate ~50-65% reliable cell recovery; the footer instructional note (prose, 1 line) OCR'd cleanly (~high accuracy) by contrast.
+# NOTATION FIDELITY VERDICT: NOT TRUSTWORTHY as automated output for this page's grid. Column density is inversely correlated with OCR grid fidelity in this book. Recommend this page (and similarly dense grids) be captured as image only and hand-transcribed rather than OCR'd.
+
+--- pdftotext -layout raw (GARBLED - reference only) ---
+                                 okr[ nk;k ( nZXk fszBskb ñö wksok )
+
+                                               (nzr ôöù)
+
+ 1      2     3      4     5      6     7        8      9        10     11    12    13    14    15    16
+  x                        2                            0                            3
+;EkJh                                                    ^        w     w     w     g     g     X      X
+                                                         s       pfb    jk    oh    e[    d     o     fs
+ ^      ;A    ;A    ;A     Bh     X     g        g
+ s      t     f;    s      nk     s     s        s
+                                                         ^        w     w     w     g     w     ro/   ;
+                                                         s       s/ok   nz    s[    B     ik    s     Jh
+ ;o/    wg   o/r    gX    ;ABh   Xg     wr       o/;
+  b      s   fy      s    nk      s      s        s
+nzsok                                                    ^        w     w     w     wr    o/    o/    o/
+                                                         s       d[y[   dk    o{    ;[    y[    o'    r[
+ ^      o/    o/     w      g     g     g        g
+ s      G     s      s     fJ     s     nk       s
+                                                         ^       w      w     w     g     g      X    X
+                                                         s       ik     ;[    y[    sk    s     fw    B
+ ^      ;A    ;A    ;A     X      X     ;A       ;A
+ s      j'    s      s     Jh     s     s        s
+                                                         ^        o/A   o/A   o/A   o/A   o/A   o/A   o/A
+                                                         s        sz{   eo    sk    eo    Dk    w?    s
+ ^      rA    rA    rA     o/A    o/A   ;A       ;A
+ s      Bk    s     s      jh     s     s        s
+                                                         ^       Bh     Bh    Bh    X     X     g     g
+                                                         s       ik     j     T[    e     oh    B     s
+ ;o/    wg   o/w    gX    ;ABh   Xg     wr       o/;
+ j'     s     s      s     Jh     s     s        s
+
+
+
+        ❀B'N L ofjzd/ gd T[go'es nzso/ s/ rkfJD eo' ih.
+
+
+
+
+                                             100:: nk;k dh tko
+
+--- tesseract -l pan --psm 6 OCR (LOW CONFIDENCE for the grid; footer note line is reliable) ---
+ਰਾਗੁ ਆਸਾ ( ਆੱਧਾ ਤਿੰਨਤਾਲ ੧੬ ਮਾਤਰਾ )
+(ਅੰਗ ੪੬੯)
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+ਸਥਾਈ ਮਮ ਮਪ '_ਪ'ਧ ਧ
+੩ ਬਲਿ ਹਾ ਰੀ [ਕੁ ਦ ਰ ਤਿ
+--ਸੰ.-ਸੰ.ਸੱਹਨੀ'ਧ.ਪ ਪ
+ਵਸਿਆ ੪ $
+----ਮ`ਮ.ਮ[ਪ 'ਮ ਗਰੇ ਸ
+5 ਤੇਰਾ ਅੰ ਤੁ ਨ ਜਾਂ ੧ ਦਈ
+ਸਰੇ __ਮਪ _ਰੇਗ __ਪਧ | ਸੰਨੀ _ਧਪ _ਮਗ _ ਰੇਸ
+ਲਖ ੧ |ਆਂ ੪ $
+ਅੰਤਰਾ ਮਮ 'ਮ |ਮਗ ਰੇ ਰੇ ਰੇ
+੩ ਦੁਖੁ ਦਾ ਰੂ |ਸੁ ਖੁ ਰੋਂ ਗੁ
+ਰੇ ਰੇਮਪ.-ਪ.'ਪ ਪ
+5ਭ ੧੦ |ਇ ਆਂ 5
+---ਮਮ.ਮ|ਪ'-ਪ'ਧ ਧ
+5 ਜਾ ਸੁ ਖੁ ਤਾ ੦ ਮਿ ਨ
+-_`ਸੰੱ..ਸੰ.ਸੱੰ।ਧ ਧ ਸੰ ਸੱ
+ਹੋ $੮੦|ਈ 5੪ $
+-..ਰੇਂ ਰੇਂ ਰੇਂ |ਰੇਂ ਰੇਂ 'ਰੋਂ 'ਰੇਂ
+5 ਤੂੰ ਕਰ ਤਾ ਕਰ ਣਾ ਮੈ 8
+-ਗੱ ਗੱ ਗੱਂ।ਰੇਂ ਰੇਂ ਸੱ ਸਿ
+ਨਾ ੪ ਹੀ $$ $
+--ਨੀਨੀਨੀ!ਧ.`ਧ`ਪ ਪ
+ਜਾ ਹ ਉ |ਕ ਰੀ ਨ
+ਸਰੇ __ਮਪ _ਰੇਮ _ਪਧ | ਸੰਨੀ _ਧਪ _ ਮਗ _ ਰੇਸ
+ਹੋ 3੩੪ |ਈ ੪ $
+ਛਨੋਟ : ਰਹਿੰਦੇ ਪਦ ਉਪਰੋਕਤ ਅੰਤਰੇ ਤੇ ਗਾਇਣ ਕਰੋ ਜੀ।
+300:: ਆਸਾ ਦੀ ਵਾਰ

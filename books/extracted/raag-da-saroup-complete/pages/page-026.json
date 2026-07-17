@@ -1,0 +1,8 @@
+{
+  "page": 26,
+  "section": "notation",
+  "text": "25. ਰਾਗ ਬਸੰਤ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਔੜਵ-ਸੰਪੂਰਣ\n\nਸੁਰ : ਸਾਰੇ ਸ਼ੁੱਧ ਸੁਰ\n\nਸਮਾਂ ? ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ (ਬਸੰਤ ਰੁੱਤ ਵਿਚ ਕਿਸੇ ਸਮੇਂ ਵੀ ਗਾਇਆ ਵਜਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।)\nਆਰੋਹ : ਸਗਮਧਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪਮ,ਗਰੇਸ\n\nਮੁੱਖ ਔਗ 2 ਗਮਧਨੀਸੰਸੰਨੀਧਪਮ,ਗਰੋਸ\n\n25.1 ਰਾਗ ਬਸੰਤ ਹਿੰਡੋਲ\n\nਥਾਟ : ਮਾਰਵਾ\nਵਰਜਿਤ ਸੁਰ _ : ਰਿਸ਼ਭ, ਪੰਚਮ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ ? ਸ, ਮ, ਮਗ, ਮੇਧ,ਨੀਧਸੰ\n\nਅਵਰੋਹ ੜੁ ਸੰ, ਰੋ ਨੀ ਧ ਸੰ, ਰੇੱ' ਨੀ ਧੁਪ, ਮੇਗ, ਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ? ਸ ਮ,ਮ,ਗ,ਰੇੇਂ ਨੀਧਸੱ, ਰੇਂ ਨੀਧੁਪ, ਮੇਗਰੇੇਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

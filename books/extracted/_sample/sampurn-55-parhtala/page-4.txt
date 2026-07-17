@@ -1,0 +1,85 @@
+# Sampurn 55 Parhtala - page 4 (foreword 'do Sbd', prose, by Rajwinder Singh Joga)
+# Font: subset TrueType 'URZKJY+TT27At00'/'XGXWYM+TT27Bt00', WinAnsiEncoding, Custom per pdffonts. pdftotext/pymupdf extract this specific font as a LEGIBLE, DOCUMENTED legacy ASCII-Gurmukhi transliteration scheme (AnmolLipi/GurbaniAkhar-style phonetic Roman keyboard layout -- e.g. 'sRI gurU gRMQ swihb dI bwxI' = 'ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਦੀ ਬਾਣੀ'). This is a DIFFERENT legacy scheme from Asa Di Vaar's non-phonetic Raavi/Asees visual-shape ASCII font. Converters for AnmolLipi-style ASCII exist online (e.g. toolsriver.com/punjabi-font-converter, typingbits.com/converter/punjabi-font-converter) but no specific mapping was applied here -- flagging as a KNOWN CLASS of legacy scheme, not verified against this exact font's table, so do not treat the raw pdftotext output below as ready-to-use without validating the mapping.
+# Method used instead for this sample: tesseract OCR (-l pan) on 150dpi render -- gives correctly-ordered, correct Gurmukhi DIRECTLY (no reordering or transliteration decode needed). Spot-checked against page-4.png: high accuracy on plain body prose (~95%+).
+# One clear OCR weak point found: the two lines of quoted Gurbani set in ITALICS ('ਕੀਰਤਨੁ ਨਿਰਮੋਲਕ ਹੀਰਾ॥ ਆਨੰਦ ਗੁਣੀ ਗਹੀਰਾ॥ ...') OCR'd as garbage ('ਕੀਰਤਨ #ੈਰਅਲਕ ਗੀਰਾ£...'). Italic styling specifically degrades this OCR pass -- worth flagging as a general risk for any italicized/stylized Gurbani quotes in these books.
+
+--- pdftotext -layout raw (ASCII transliteration scheme -- legible if decoded, NOT plain Gurmukhi, do not ingest as-is) ---
+                                            do Sbd
+          sRI gurU gRMQ swihb dI bwxI nUM gwaux/kIrqn krn prMprw ivc gurmiq sMgIq dw nW id`qw
+igAw hY[ ieh prMprw gurU nwnk swihb qoN BweI mrdwnw jI rwhIN SurU hoeI, jo A`j qj c`l rhI hY qy
+A`goN vI cldI rhygI[ gurmiq ivc kIrqn krn dI bhuq mhwnqw hY ‘kIrqnu inrmolk hIrw]
+AwnMd guxI ghIrw]’, ‘kljug mih kIrqnu prDwnw’ kIrqn iek r`bI dwq hY, jo rUhwnIAq BrpUr
+qy svrgI AwnMd pRdwn krdw hY[ sRI gurU gRMQ swihb jI dI bwxI mu`K qOr ’qy iek`qI rwgW ivc drj
+hY[ ies qoN ielwvw ies ivc bhuq swry lok kwiv-rUp Aqy lok DunIAW nuM vI vriqAw igAw hY, jo
+Awpxy mUl guxW krky lok mwns dI AiBivAkqI Aqy svIikRqI nwl juVy hoey hn[ ienHW dw Awpxw
+ivsiqRq qy ivSwl pswrw hY[ gurbwxI ivc pRXukq lok bwxI rUp kyvl kwiv-rUp hI nhIN, sgoN ieh
+lok gIq rUp vI hn[ audwhrx vjoN AlwhuxI, vwr, CMq, GoVIAW Awid nUM lokDwrweI idRStI qoN vyKIey
+qW ieh lok rUp Awpxy mUl guxW krky, ij`Qy lok mn dI AiBivAkqI nwl juVy hoey hn, au~Qy ienHW dw
+iviSSt gIq rUp vI hY[ ienHW lok gIq rUpW dI kwiv-Dun jW gwien-rUp dw sMXukq rUp hY, ijs nUM
+lok gwien SYlI vjoN jwixAw jWdw hY[ sMgIqk idRStI qoN lok gwien SYlI dI pihcwx vI lwzmI hY[
+          sRI gurU gRMQ swihb ivc lok-sMgIq jW dysI Dwrnw dy AwDwr qy kwPI bwxI rcI geI hY[ ieh
+lok-DwrnwvW, aus smyN Awm pRclq sn qy lokW ivc hrmn-ipAwrIAW vI, ies krky sMqW, BgqW qy gurU
+swihbwn ny lok-Dwrnw dy AwdrS qy vMn suvMny kwiv rUpW dI vrqoN kIqI[ ies dy nwl hI pMcm pwqSwh
+sRI gurU Arjn dyv jI ny sRI gurU gRMQ swihb jI ivc ‘pVqwl’ dI vrqoN kIqI hY[ ‘pVqwl’ dw sMbMD qwl
+nwl hY[ BweI kwnH isMG nwBw Anuswr ‘p`tqwl’ Bwv cwr qwl dw Byd, ies qwl ivc gwey jwx vwly pdW
+dI ‘pVqwl’ sMgXw hY, BwvyN auh iksy Dwrnw dy hox[’ fw. gurnwm isMG ‘(gurmiq sMgIq: prbMD qy
+pwswr) dI Dwrxw hY ik gurbwxI sMgIq dy AMqrgq pVqwl dy pd rcnw hox krky mùK qOr ’qy Drupd
+AMg qoN gwey jwx dI rIq hY Aqy pVqwlW qoN ieh SYlI sp`St vI ho jWdI hY[ pVqwl nUM iBMn-iBMn qwlW
+ivc inb`D krky gwieAw jWdw hY[’ so pVqwl dw ArQ hY, qwl bdl-bdl ky gwauxw[ Sbd dI iek-
+iek ’qy qwl bdldw hY qy Awm krky cwr jW pMj qwlW ivc gwieAw jWdw hY[ ‘pVqwl’ ivc gwey jwx
+vwly Sbd dI bMdS vI AnoKI BWq dI huMdI hY[ sRI gurU gRMQ swihb ivc Kws krky sRI gurU rwmdws jI Aqy
+sRI gurU Arjn dyv jI dy aucwry vDyry Sbd pVqwl ivc imldy hn[
+          s. jspwl isMG jI ny gurbwxI sMgIq nwl sMbMDq hux qk keI v`fmu`lIAW pusqkW sMgq
+Aprx kIqIAW hn[ h`QlI pusqk ^ws mhwnqw r`KdI hY, ikauNik ies dw sMbMD ‘pVqwl’ vwly SbdW
+nwl hY[ pVqwl A`jk`l bhuq G`t gweI jWdI hY, jo AOKI vI hY[ srdwr jI ny sRI gurU gRMQ swihb
+ivc Awey pVqwl hyT gwey jwx vwly SbdW nUM cuixAw qy aunHW dIAW notySnW bxw ky gurmiq sMgIq
+pRymIAW Aqy is`iKAw lY rhy ividAwrQIAW leI sOKw krky SlwGwXog kwrj kIqw hY[ ies leI aunHW
+nUM vDweI idMdw hW[ Aws krdw hW ik sMgIq pRymI ies qoN BrpUr lwhw lYxgy[
+
+                                                                           rwjivMdr isMG jogw (fw.)
+                                                                                       rIsrc skwlr,
+                                                                      is`K ieiqhws rIsrc borf Aqy
+                                                                        AYso. sMpwdk gurduAwrw gzt,
+                                                                       SRomxI gurduAwrw pRbMDk kmytI,
+                                                                                         sRI AMimRqsr[
+                                                                                    mo. 95013-00459
+
+--- tesseract -l pan OCR (correct order, reliable for prose; italic quoted lines unreliable) ---
+ਦੋ ਸ਼ਬਦ
+
+ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਦੀ ਬਾਣੀ ਨੂੰ ਗਾਉਣ/ਕੀਰਤਨ ਕਰਨ ਪਰੰਪਰਾ ਵਿਚ ਗੁਰਮਤਿ ਸੰਗੀਤ ਦਾ ਨਾਂ ਦਿੱਤਾ
+ਗਿਆ ਹੈ। ਇਹ ਪਰੰਪਰਾ ਗੁਰੂ ਨਾਨਕ ਸਾਹਿਬ ਤੋਂ ਭਾਈ ਮਰਦਾਨਾ ਜੀ ਰਾਹੀਂ' ਸ਼ੁਰੂ ਹੋਈ, ਜੋ ਅੱਜ ਤਜ ਚੱਲ ਰਹੀ ਹੈ ਤੇ
+ਅੱਗੋਂ ਵੀ ਚਲਦੀ ਰਹੇਗੀ। ਗੁਰਮਤਿ ਵਿਚ ਕੀਰਤਨ ਕਰਨ ਦੀ ਬਹੁਤ ਮਹਾਨਤਾ ਹੈ ਕੀਰਤਨ #ੈਰਅਲਕ ਗੀਰਾ£
+ਆਨੰਟ ਗੁਣੀ ਗਠੀਰਾ# ! “ਕਨਜੁਗਾ ਆਹੇ ਰਤਨੁ ਘਰਧਾਨਾ” ਕੀਰਤਨ ਇਕ ਰੱਬੀ ਦਾਤ ਹੈ, ਜੋ ਰੂਹਾਨੀਅਤ ਭਰਪੂਰ
+ਤੇ ਸਵਰਗੀ ਆਨੰਦ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਦੀ ਬਾਣੀ ਮੁੱਖ ਤੌਰ `ਤੇ ਇਕੱਤੀ ਰਾਗਾਂ ਵਿਚ ਦਰਜ
+ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ ਇਸ ਵਿਚ ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਕਾਵਿ-ਰੂਪ ਅਤੇ ਲੋਕ ਧੁਨੀਆਂ ਨੂੰ ਵੀ ਵਰਤਿਆ ਗਿਆ ਹੈ, ਜੋ
+ਆਪਣੇ ਮੂਲ ਗੁਣਾਂ ਕਰਕੇ ਲੋਕ ਮਾਨਸ ਦੀ ਅਭਿਵਿਅਕਤੀ ਅਤੇ ਸਵੀਕ੍ਰਿਤੀ ਨਾਲ ਜੁੜੇ ਹੋਏ ਹਨ। ਇਨ੍ਹਾਂ ਦਾ ਆਪਣਾ
+ਵਿਸਤ੍ਰਿਤ ਤੇ ਵਿਸ਼ਾਲ ਪਸਾਰਾ ਹੈ। ਗੁਰਬਾਣੀ ਵਿਚ ਪ੍ਰਯੁਕਤ ਲੋਕ ਬਾਣੀ ਰੂਪ ਕੇਵਲ ਕਾਵਿ-ਰੂਪ ਹੀ ਨਹੀਂ, ਸਗੋਂ ਇਹ
+ਤਾਂ ਇਹ ਲੋਕ ਰੂਪ ਆਪਣੇ ਮੂਲ ਗੁਣਾਂ ਕਰਕੇ, ਜਿੱਥੇ ਲੋਕ ਮਨ ਦੀ ਅਭਿਵਿਅਕਤੀ ਨਾਲ ਜੁੜੇ ਹੋਏ ਹਨ, ਉੱਥੇ ਇਨ੍ਹਾਂ ਦਾ
+ਵਿਸ਼ਿਸ਼ਟ ਗੀਤ ਰੂਪ ਵੀ ਹੈ। ਇਨ੍ਹਾਂ ਲੋਕ ਗੀਤ ਰੂਪਾਂ ਦੀ ਕਾਵਿ-ਧੁਨ ਜਾਂ ਗਾਇਨ-ਰੂਪ ਦਾ ਸੰਯੁਕਤ ਰੂਪ ਹੈ, ਜਿਸ ਨੂੰ
+ਲੋਕ ਗਾਇਨ ਸ਼ੈਲੀ ਵਜੋਂ ਜਾਣਿਆ ਜਾਂਦਾ ਹੈ। ਸੰਗੀਤਕ ਦ੍ਰਿਸ਼ਟੀ ਤੋਂ ਲੋਕ ਗਾਇਨ ਸ਼ੈਲੀ ਦੀ ਪਹਿਚਾਣ ਵੀ ਲਾਜ਼ਮੀ ਹੈ।
+
+ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਵਿਚ ਲੋਕ-ਸੰਗੀਤ ਜਾਂ ਦੇਸੀ ਧਾਰਨਾ ਦੇ ਆਧਾਰ ਤੇ ਕਾਫੀ ਬਾਣੀ ਰਚੀ ਗਈ ਹੈ। ਇਹ
+ਲੋਕ-ਧਾਰਨਾਵਾਂ, ਉਸ ਸਮੇਂ ਆਮ ਪ੍ਰਚਲਤ ਸਨ ਤੇ ਲੋਕਾਂ ਵਿਚ ਹਰਮਨ-ਪਿਆਰੀਆਂ ਵੀ, ਇਸ ਕਰਕੇ ਸੰਤਾਂ, ਭਗਤਾਂ ਤੇ ਗੁਰੂ
+ਸਾਹਿਬਾਨ ਨੇ ਲੋਕ-ਧਾਰਨਾ ਦੇ ਆਦਰਸ਼ ਤੇ ਵੰਨ ਸੁਵੰਨੇ ਕਾਵਿ ਰੂਪਾਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ। ਇਸ ਦੇ ਨਾਲ ਹੀ ਪੰਚਮ ਪਾਤਸ਼ਾਹ
+ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ ਨੇ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਵਿਚ “ਪੜਤਾਲ” ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਹੈ। “ਪੜਤਾਲ” ਦਾ ਸੰਬੰਧ ਤਾਲ
+ਨਾਲ ਹੈ। ਭਾਈ ਕਾਨ੍ਹ ਸਿੰਘ ਨਾਭਾ ਅਨੁਸਾਰ 'ਪੱਟਤਾਲ` ਭਾਵ ਚਾਰ ਤਾਲ ਦਾ ਭੇਦ, ਇਸ ਤਾਲ ਵਿਚ ਗਾਏ ਜਾਣ ਵਾਲੇ ਪਦਾਂ
+ਦੀ “ਪੜਤਾਲ” ਸੰਗਯਾ ਹੈ, ਭਾਵੇਂ ਉਹ ਕਿਸੇ ਧਾਰਨਾ ਦੇ ਹੋਣ। ` ਡਾ. ਗੁਰਨਾਮ ਸਿੰਘ “(ਗੁਰਮਤਿ ਸੰਗੀਤ: ਪਰਬੰਧ ਤੇ
+ਪਾਸਾਰ) ਦੀ ਧਾਰਣਾ ਹੈ ਕਿ ਗੁਰਬਾਣੀ ਸੰਗੀਤ ਦੇ ਅੰਤਰਗਤ ਪੜਤਾਲ ਦੇ ਪਦ ਰਚਨਾ ਹੋਣ ਕਰਕੇ ਮੁੱਖ ਤੌਰ `ਤੇ ਧਰੁਪਦ
+ਅੰਗ ਤੋਂ ਗਾਏ ਜਾਣ ਦੀ ਰੀਤ ਹੈ ਅਤੇ ਪੜਤਾਲਾਂ ਤੋਂ ਇਹ ਸ਼ੈਲੀ ਸਪੱਸ਼ਟ ਵੀ ਹੋ ਜਾਂਦੀ ਹੈ। ਪੜਤਾਲ ਨੂੰ ਭਿੰਨ-ਭਿੰਨ ਤਾਲਾਂ
+ਵਿਚ ਨਿਬੱਧ ਕਰਕੇ ਗਾਇਆ ਜਾਂਦਾ ਹੈ।` ਸੋ ਪੜਤਾਲ ਦਾ ਅਰਥ ਹੈ, ਤਾਲ ਬਦਲ-ਬਦਲ ਕੇ ਗਾਉਣਾ। ਸ਼ਬਦ ਦੀ ਇਕ-
+ਇਕ `ਤੇ ਤਾਲ ਬਦਲਦਾ ਹੈ ਤੇ ਆਮ ਕਰਕੇ ਚਾਰ ਜਾਂ ਪੰਜ ਤਾਲਾਂ ਵਿਚ ਗਾਇਆ ਜਾਂਦਾ ਹੈ। “ਪੜਤਾਲ” ਵਿਚ ਗਾਏ ਜਾਣ
+ਵਾਲੇ ਸ਼ਬਦ ਦੀ ਬੰਦਸ਼ ਵੀ ਅਨੌਖੀ ਭਾਂਤ ਦੀ ਹੁੰਦੀ ਹੈ। ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਵਿਚ ਖਾਸ ਕਰਕੇ ਸ੍ਰੀ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਅਤੇ
+ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ ਦੇ ਉਚਾਰੇ ਵਧੇਰੇ ਸ਼ਬਦ ਪੜਤਾਲ ਵਿਚ ਮਿਲਦੇ ਹਨ।
+
+ਸ. ਜਸਪਾਲ ਸਿੰਘ ਜੀ ਨੇ ਗੁਰਬਾਣੀ ਸੰਗੀਤ ਨਾਲ ਸੰਬੰਧਤ ਹੁਣ ਤਕ ਕਈ ਵੱਡਮੁੱਲੀਆਂ ਪੁਸਤਕਾਂ ਸੰਗਤ
+ਅਪਰਣ ਕੀਤੀਆਂ ਹਨ। ਹੱਥਲੀ ਪੁਸਤਕ ਖ਼ਾਸ ਮਹਾਨਤਾ ਰੱਖਦੀ ਹੈ, ਕਿਉਂਕਿ ਇਸ ਦਾ ਸੰਬੰਧ “ਪੜਤਾਲ” ਵਾਲੇ ਸ਼ਬਦਾਂ
+ਨਾਲ ਹੈ। ਪੜਤਾਲ ਅੱਜਕੱਲ ਬਹੁਤ ਘੱਟ ਗਾਈ ਜਾਂਦੀ ਹੈ, ਜੋ ਔਖੀ ਵੀ ਹੈ। ਸਰਦਾਰ ਜੀ ਨੇ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ
+ਪ੍ਰੇਮੀਆਂ ਅਤੇ ਸਿੱਖਿਆ ਲੈ ਰਹੇ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਸੌਖਾ ਕਰਕੇ ਸ਼ਲਾਘਾਯੋਗ ਕਾਰਜ ਕੀਤਾ ਹੈ। ਇਸ ਲਈ ਉਨ੍ਹਾਂ
+ਨੂੰ ਵਧਾਈ ਦਿੰਦਾ ਹਾਂ। ਆਸ ਕਰਦਾ ਹਾਂ ਕਿ ਸੰਗੀਤ ਪ੍ਰੇਮੀ ਇਸ ਤੋਂ ਭਰਪੂਰ ਲਾਹਾ ਲੈਣਗੇ।
+
+ਰਾਜਵਿੰਦਰ ਸਿੰਘ ਜੋਗਾ (ਡਾ.)
+ਰੀਸਰਚ ਸਕਾਲਰ,
+
+ਸਿੱਖ ਇਤਿਹਾਸ ਰੀਸਰਚ ਬੋਰਡ ਅਤੇ
+ਸੋ. 95013-00459

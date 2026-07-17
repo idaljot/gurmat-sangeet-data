@@ -1,0 +1,77 @@
+# Raag Da Saroup Complete - page 31 (Raag Bibhas Prabhati, Raag Jaijawanti - LAST page, raag-detail entries)
+# Font: mixed page, same pattern. Confirms the mixed-font pattern holds through the very end of this 31-page book.
+# Method: tesseract OCR -l pan --psm 4 on 150dpi render, spot-checked against page-31.png.
+
+--- pdftotext -layout raw (mixed garbled fonts - reference only) ---
+30H3 okr fpGk; gqGksh
+
+ਥਾਟ           :    G?ot
+
+ਜਾਤੀ          :    ਔੜਵ-ਸ਼ਾੜਵ
+
+ਵਾਦੀ          :    ਩ੰ ਚਭ
+
+ਸੰ ਵਾਦੀ       :    ਸ਼ੜਜ
+
+ਸੁਯ           :    ਦ੅ਵੇਂ ਰਯਸ਼ਬ, ਦ੅ਵੇਂ ਧ੄ਵਤ
+
+ਵਯਰਜਤ ਸੁਯ     :    ਭਰਧਅਭ, ਕ੃ਵਰ ਆਯ੅ਹ ਰਵਚ ਰਨਸ਼ਾਦ
+
+ਸਭਾਂ          :    ਸਵ੃ਯ ਦਾ
+
+ਆਯ੅ਹ          :    ਸ ਯ੃[ ਗ ਩ ਧੁ ਸਂ
+
+ਅਵਯ੅ਹ         :    ਸਂ ਨੀ ਧ ਨੀ ਩, ਗ ਯ੃ ਸ
+
+ਭੁੁੱ ਖ ਅੰ ਗ   :    ਯ੃[ ਗ ਩ ਧ ਩ ਧੁ, ਸਂ ਨੀ ਧ ਨੀ, ਩ ਗ ਯ੃ ਸ
+
+
+
+
+31H okr i?iktzsh
+
+ਫਾਟ           :    ਖਭਾਜ
+
+ਜਾਤੀ          :    ਸ਼ਾੜਵ ਸੰ ਩ੂਯਣ
+
+ਵਾਦੀ          :    ਰਯਸ਼ਬ
+
+ਸੰ ਵਾਦੀ       :    ਩ੰ ਚਭ
+
+ਸੁਯ           :    ਦ੅ਵੇਂ ਗੰ ਧਾਯ, ਦ੅ਵੇਂ ਰਨਸ਼ਾਦ
+
+ਵਯਰਜਤ ਸੁਯ     :    ਆਯ੅ਹ ਰਵਚ ਧ੄ਵਤ
+
+ਸਭਾਂ          :    ਯਾਤ ਦਾ ਦੂਸਯਾ ਩ਰਹਯ
+
+ਆਯ੅ਹ          :    ਸ, ਯ੃ ਗ ਭ ਩, ਨੀ ਸਂ
+
+ਅਵਯ੅ਹ         :    ਸ ਨ[h ਧ ਩, ਧ ਭ, ਯ੃ ਗੁ ਯ੃ ਸ
+
+ਭੁੁੱ ਖ ਅੰ ਗ   :    ਯ੃ ਗੁ ਯ੃ ਸ Bah ਧa ਩a o/
+
+--- tesseract -l pan --psm 4 OCR (labels reliable; Aroh/Avroh/Mukh Ang spacing UNRELIABLE) ---
+ਸ਼ੜਜ
+
+ਦੋਵੇਂ ਰਿਸ਼ਭ, ਦੋਵੇਂ ਧੈਵਤ
+
+ਮਧਿਅਮ, ਕੇਵਲ ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ
+ਸਵੇਰ ਦਾ
+
+ਸਰੇਗਪਧੁਸੰ
+ਸੰਨੀਧਨੀਪ,ਗਰੇਸ
+
+ਰੋਗਪਧਪਥੁ,ਸੰਨੀਧਨੀਪਗਰੇਸ
+
+ਰਿਸ਼ਭ
+
+ਪੰਚਮ
+
+ਦੋਵੇਂ ਗੰਧਾਰ, ਦੇਵੇਂ ਨਿਸ਼ਾਦ
+ਆਰੋਹ ਵਿਚ ਧੈਵਤ
+ਰਾਤ ਦਾ ਦੂਸਰਾ ਪਹਿਰ
+ਸ,ਰੇਗਮਪ,ਨੀ ਸੰ
+
+ਸਨੀਧਪ,ਧਮ,ਰੇਗੁਰੇਸ
+
+ਰੋਗੁਰੇਸਨ੍ੀਧੁਪੁਰੇ

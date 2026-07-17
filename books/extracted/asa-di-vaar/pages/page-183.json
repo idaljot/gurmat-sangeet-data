@@ -1,0 +1,8 @@
+{
+  "page": 183,
+  "section": "notation",
+  "text": "( ਤਿੰਨਤਾਲ ੧੬ ਮਾਤਰਾ )\n\nਰਾਗੁ ਆਸਾ\n\n(ਅੰਗ ੪੭੪)\n\nਆ /ਦ _€9 99 ਜਿ ਠਿਂ/ ਹਾ ੦\n੯ [ਮਦ ਧੈਂਠ ਅੱਚ ਲ ਇ > ਅਨ\nਦੁ ਜਦ 46 2 ਤ % ਦਿ %\n੩ ੮੧ ਪੰ ਇ > ਲੂ ਦ਼ ।ਇ\n2  % ਅੰ  % ਧੌਠ ੭\n੮ ਟ ।ਨ ੨੭ ਟ ਠਿ ਪਟ ਧੰਨ\n੩ ਦ /0 ਇ ਦ 6 ਧੋਣ ਇ\n੦; 99 99 ਦ ਠਿ ਹੌਟ ਇਛ\n06 ਟਿ ੦੭ ਟਿ\n= ਗਲ ੦ ਦ਼\n੮੨ ਦਿ 29 ਗਲ\n੫) ਦੁ ਨੁ ਦਿ\nਬਾ ਹ ੦੭ ਟ\n੮ ਹ 99\n੮੫ ੨ 7 ਨ\nਦਾ [ ੜ਼ [7 'ਫਿ ਟ\n\n182:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

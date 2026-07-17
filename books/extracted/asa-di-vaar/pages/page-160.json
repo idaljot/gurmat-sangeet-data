@@ -1,0 +1,8 @@
+{
+  "page": 160,
+  "section": "essay",
+  "text": "ਮ੧॥\nਸਭੋ ਸੂਤਕੁ ਭਰਮੁ ਹੈ ਦੂਜੈ ਲਗੈ ਜਾਇ ॥\nਜੰਮਣੁ ਮਰਣਾ ਹੁਕਮੁ ਹੈ ਭਾਣੈ ਆਵੈ ਜਾਇ ॥\nਖਾਣਾ ਪੀਣਾ ਪਵਿਤ੍ਰ ਹੈ ਦਿਤੋਨੁ ਰਿਜਕੁ ਸੰਬਾਹਿ ॥\nਨਾਨਕ ਜਿਨੀ ਗੁਰਮੁਖਿ ਬੁਝਿਆ ਤਿਨ੍ਹਾਂ ਸੂਤਕੁ ਨਾਹਿ ॥੩॥\n(ਅੰਗ ੪੭੨)\nਪਦ ਅਰਥ:\n\nਸਭੋ = ਉੱਕਾ ਕੀ, ਨਿਰਾ ਪੁਰਾ। ਦੂਜੈ = ਮਾਇਆ ਵਿਚ। ਦੂਜੈ ਜਾਇ = ਮਾਇਆ ਵਿਚ ਫਸਿਆਂ। ਦਿਤੋਨੁ = (ਪ੍ਰਭੂ ਨੇ ਜੀਵਾਂ ਨੂੰ)\nਦਿੱਤਾ ਹੈ। ਸੰਬਾਹਿ = ਇਕੱਠਾ ਕਰ ਕੇ।\n\n159:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

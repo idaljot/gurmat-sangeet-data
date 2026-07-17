@@ -1,0 +1,8 @@
+{
+  "page": 124,
+  "section": "essay",
+  "text": "ਪਉੜੀ ॥\nਕਪੜੁ ਰੂਪ ਸੁਹਾਵਣਾ ਛਡਿ ਦੁਨੀਆ ਅੰਦਰਿ ਜਾਵਣਾ ॥\nਮੰਦਾ ਚੰਗਾ ਆਪਣਾ ਆਪੇ ਹੀ ਕੀਤਾ ਪਾਵਣਾ ॥\nਹੁਕਮ ਕੀਏ ਮਨਿ ਭਾਵਦੇ ਰਾਹਿ ਭੀੜੈ ਅਗੈ ਜਾਵਣਾ ॥\nਨੰਗਾ ਦੋਜਕਿ ਚਾਲਿਆ ਤਾ ਦਿਸੈ ਖਰਾ ਡਰਾਵਣਾ ॥\nਕਰਿ ਅਉਗਣ ਪਛੋਤਾਵਣਾ ॥੧੪॥\n(ਅੰਗ ੪੭੦-੪੭੧)\n\nਪਦ ਅਰਥ:\n\nਕਪੜੁ = ਜਿੰਦ ਦਾ ਕੱਪੜਾ, ਸਰੀਰ। ਰਾਹਿ ਭੀੜੈ = ਭੀੜੇ ਰਸਤੇ ਵਿਚੋਂ ਦੀ। ਅਗੈ = ਭਾਵ, ਮਰਨ ਤੋਂ ਪਿਛੋਂ, ਇਹ ਦਿੱਸਦਾ ਜਗਤ\nਛੱਡ ਕੇ। ਨੰਗਾ = ਨੰਗਾ ਕਰ ਕੇ, ਪਾਜ ਉਘੇੜ ਕੇ, ਨਸ਼ਰ ਕਰ ਕੇ। ਦੋਜਕਿ = ਦੋਜ਼ਕ ਵਿਚ। ਚਾਲਿਆ = ਚਲਾਇਆ ਜਾਂਦਾ ਹੈ,\n\nਧੱਕਿਆ ਜਾਂਦਾ ਹੈ। ਤਾ = ਤਦੋਂ, ਉਸ ਵੇਲੇ। ਖਰਾ = ਬਹੁਤ।\n\n123:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

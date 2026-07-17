@@ -1,0 +1,300 @@
+<guca-mapping version="0.4">
+	<information>
+		<from>SriAngad</from>
+		<to>AnmolLipi</to>
+		<version>0.5</version>
+		<author>Ranbir Kaur</author>
+	</information>
+<!--low onkar-->
+<mapping>
+<convert from="00C1" to="0075"/>
+</mapping>
+	
+<!--pair tenka-->
+<mapping>
+<convert from="00C3" to="0A4D 0074"/>
+</mapping>
+
+<!--pair chacha-->
+<mapping>
+<convert from="00E7" to="0A4D 0A1A"/>
+</mapping>
+<!--pair tatta-->
+<mapping>
+<convert from="0153" to="0A4D 0A24"/>
+</mapping>
+
+<mapping>
+<convert from="00FB" to="004D"/>
+</mapping>
+	
+<mapping>
+<convert from="005D" to="0965"/>
+</mapping>	
+	
+<mapping>
+<convert from="00D8 007A" to="0060"/>
+</mapping>	
+	
+<mapping>
+<convert from="00FE" to="00C7"/>
+</mapping>	
+	
+<mapping>
+<convert from="00DA" to="0A03"/>
+</mapping>
+
+<mapping>
+<convert from="0060" to="0027"/>
+</mapping>
+	
+<mapping>
+<convert from="0030" to="00F1"/>
+</mapping>
+
+<mapping>
+<convert from="0031" to="00F2"/>
+</mapping>
+
+<mapping>
+<convert from="0032" to="00F3"/>
+</mapping>
+
+<mapping>
+<convert from="0033" to="00F4"/>
+</mapping>
+
+<mapping>
+<convert from="0034" to="00F5"/>
+</mapping>
+
+<mapping>
+<convert from="0035" to="00F6"/>
+</mapping>
+
+<mapping>
+<convert from="0036" to="00F7"/>
+</mapping>
+
+<mapping>
+<convert from="0037" to="00F8"/>
+</mapping>
+
+<mapping>
+<convert from="0038" to="00F9"/>
+</mapping>
+
+<mapping>
+<convert from="0039" to="00FA"/>
+</mapping>
+
+<mapping>
+<convert from="0040" to="003C 003E"/>
+</mapping>
+
+<mapping>
+<convert from="0041" to="0061"/>
+</mapping>
+
+<mapping>
+<convert from="004C" to="006e 0055 004d"/>
+</mapping>
+
+<mapping>
+<convert from="004e" to="0078"/>
+</mapping>
+
+<mapping>
+<convert from="005a" to="007a"/>
+</mapping>
+
+<mapping>
+<convert from="0078" to="004e"/>
+</mapping>
+
+<mapping>
+<convert from="0061" to="0041"/>
+</mapping>
+
+<mapping>
+<convert from="007A" to="0060"/>
+</mapping>
+
+<mapping>
+<convert from="007e" to="0060"/>
+</mapping>
+
+<mapping>
+<convert from="00C0" to="004E"/>
+</mapping>
+
+<mapping>
+<convert from="00C2" to="0A4D 0A28"/>
+</mapping>
+
+<mapping>
+<convert from="00C4" to="0040"/>
+</mapping>
+
+<mapping>
+<convert from="00C5" to="00B4"/>
+</mapping>
+
+<mapping>
+<convert from="00C6" to="0069 0065"/>
+</mapping>
+
+<mapping>
+<convert from="00C7" to="0065 0049"/>
+</mapping>
+
+<mapping>
+<convert from="00C9" to="0061 0075"/>
+</mapping>
+
+<mapping>
+<convert from="00CF" to="0041 0059"/>
+</mapping>
+
+<mapping>
+<convert from="00D2" to="0965"/>
+</mapping>
+
+<mapping>
+<convert from="00D3" to="0041 004f"/>
+</mapping>
+
+<mapping>
+<convert from="00D4" to="0041 0077"/>
+</mapping>
+
+<mapping>
+<convert from="00DC" to="0060"/>
+</mapping>
+
+<mapping>
+<convert from="00DD" to="003C 003E"/>
+</mapping>
+
+<mapping>
+<convert from="00DE" to="005E"/>
+</mapping>
+
+<mapping>
+<convert from="00DF" to="005A"/>
+</mapping>
+
+<mapping>
+<convert from="00E3" to="0026"/>
+</mapping>
+
+<mapping>
+<convert from="00EE" to="0065 0079"/>
+</mapping>
+
+<mapping>
+<!-- square brackets, symbol as double brackets-->
+<convert from="00EF" to="0028 0028"/>
+</mapping>
+
+<mapping>
+<convert from="00F0" to="0029 0029"/>
+</mapping>
+<!-- square brackets, symbol as double brackets-->
+
+<mapping>
+<convert from="00F8" to="005C"/>
+</mapping>
+
+<mapping>
+<convert from="00F9" to="007C"/>
+</mapping>
+
+<mapping>
+<convert from="00FA" to="0061 0055"/>
+</mapping>
+
+<mapping>
+<convert from="00FD" to="004C"/>
+</mapping>
+
+<mapping>
+<convert from="00FE" to="00C7"/>
+</mapping>
+
+<mapping>
+<convert from="00F6" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E0" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E1" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E2" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E4" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E5" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E8" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00E9" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00Ea" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00Eb" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00Ec" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00Ed" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00F2" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00F3" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00F4" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00C8" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00CA" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00CB" to="003F 003F 003F"/>
+</mapping>
+
+<mapping>
+<convert from="00CC" to="003F 003F 003F"/>
+</mapping>
+</guca-mapping>

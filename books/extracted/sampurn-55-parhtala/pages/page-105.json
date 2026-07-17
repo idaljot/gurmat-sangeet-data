@@ -1,0 +1,8 @@
+{
+  "page": 105,
+  "section": "essay",
+  "text": "[ਦਦਦਲ\n\nਆਸਾ ਮਹਲਾ ੫ ॥\nਹਰਖ ਸੋਗ ਬੈਰਾਗ ਅਨੰਦੀ ਖੇਲੁ ਰੀ ਦਿਖਾਇਓ ॥੧॥ ਰਹਾਉ ॥\nਖਿਨਹੂੰ ਭੈ ਨਿਰਭੈ ਖਿਨਹੂੰ ਖਿਨਹੂੰ ਉਠਿ ਧਾਇਓ ॥\nਖਿਨਹੂੰ ਰਸ ਭੋਗਨ ਖਿਨਹੂੰ ਖਿਨਹੂ ਤਜਿ ਜਾਇਉ ॥੧॥\nਖਿਨਹੂੰ ਜੋਗ ਤਾਪ ਬਹੁ ਪੂਜਾ ਖਿਨਹੂੰ ਭਰਮਾਇਓ ॥\nਖਿਨਹੂੰ ਕਿਰਪਾ ਸਾਧੂ ਸੰਗ ਨਾਨਕ ਹਰਿ ਰੰਗੁ ਲਾਇਓ ॥੨॥੫॥੧੫੬॥\n\n(ਅੰਗ ੪੦੯)\n\nਪਦ ਅਰਥ :\n\nਹਰਖ = ਖ਼ੁਸ਼ੀ। ਸੋਗ = ਗ਼ਮ। ਬੈਰਾਗ = ਉਪਰਾਮਤਾ। ਅਨੰਦੀ = ਆਨੰਦ-ਸਰੂਪ ਪਰਮਾਤਮਾ ਨੇ। ਖੇਲੁ =\nਜਗਤ-ਤਮਾਸ਼ਾ। ਰੀ = ਹੇ ਸਖੀ। ਖਿਨ ਹੂੰ = ਇਕ ਖਿਨ ਵਿਚ। ਭੈ = (ਲਫ਼ਜ਼ 'ਭਉ' ਤੋਂ ਬਹੁ-ਵਚਨ)। ਨਿਰਭੈ\n= ਨਿਰਭੈਤਾ। ਉਠਿ ਧਾਇਉ = ਉਠ ਦੌੜਦਾ ਹੈ। ਰਸ = ਸੁਆਦਲੇ ਪਦਾਰਥ। ਤਜਿ ਜਾਇਓ = ਛੱਡ ਜਾਂਦਾ\n\nਹੈ। ਤਾਪ = ਧੂਈਆਂ ਆਦਿਕ ਤਪਾਈਆਂ। ਸਾਧੂ = ਗੁਰੂ । ਰੰਗੁ = ਪ੍ਰੇਮ।\n\n97 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

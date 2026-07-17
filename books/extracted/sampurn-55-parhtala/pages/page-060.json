@@ -1,0 +1,8 @@
+{
+  "page": 60,
+  "section": "notation",
+  "text": "ਅੰਤਰਾ ਤਿੰਨਤਾਲ (੧੬ ਮਾਤਰਾ)\n\n(8)\n\n੯ £ % ਪੂਨੇ\n੨ ੭ '“ਇ%\nਦ਼ [੭ ਟੇ 9\n& ਰਿ! ਊਂ ਪੋ\n੨ ਪੰ % ਪ੍ਰੰਠੂ %\nਦ ਧੋਟ ੬ ਉਤ ੭\n੨ [ਟ €% ਪਤ ੭\n੨ [ਟ ਠਿ ਪੰਠ ਇ\n੦6 ਧੋਣ # ਟ ਪੰ\n= ਧੌਠ ਅਠ [ਟ #)\n੮੨ ਜਿ ਗੋਦ “ਇ\n੫ ਪੋਠ ਪਰ ਗਲ ਤਾਂ\nਚਾ ੨੬ ਦਲ\nਵਾ 'ਤ 0 'ਵ ਪੰ\n। ਦ ਗ੍ਰੰਏ 'ਦਿ ਰਿ\nਦਾ ਟਨ _ ਮਲ ਪ੍ਰ\n\nਰਚਨਾਵਲੀ\n\n52:: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,8 @@
+{
+  "page": 190,
+  "section": "notation",
+  "text": "( ਰੂਪਕ ੭ ਮਾਤਰਾ )\n\nਰਾਗੁ ਆਸਾ\n\n(ਅੰਗ ੪੭੪)\n\nਦਿ 0੪9 ਮਲ 09 ਸਿ । ੦ । ਜਿ ਜਦ / ਇਿ ੦9\n #ਚਿ ਮਨ €9 ਇ | ੦ ਨ ਮੱਲ ਦਿ ਇਤ ਖਟ %\n! % ਦਿ ਪੁਲ 09 । 09 । 6 ਮਲ € ਪੁੱਟ ੦ ਮੌਨ ੦\n।£ £ ਦਿ ਲਿ ਜ ਡਿ 2 £9 ੭ ਲਿ #> ਪਨ 642 ॥£)\n!ਟ ।ਲ॥ ਜਦ ੪9 /ਏ ਦਿ € ਟ % ਟੂ ੭ ਨਲ ਛ ਦਿ ੦\nਇ ਲਿੰ ਅਲ €% & ਦ €3 ਦਇਤ/ ਦਿ ਇਟ %\n[>> 2 ੨॥ ਰੰ = ਫੰਡ ਦਸ>£\n\n189:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

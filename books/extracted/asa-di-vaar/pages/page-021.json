@@ -1,0 +1,8 @@
+{
+  "page": 21,
+  "section": "notation",
+  "text": "ਰਾਗ ਆਸਾ (ਤਿੰਨਤਾਲ ੧੬ ਮਾਤਰਾ)\n\n(ਅੰਗ ੪੬੩)\n\n੯੩ ਕਹ 49 । %\nਦਂ । ਅੜ ਇ/ । ੦ ,ਲਿ%\n੮੧ ੭ਨਹੇਇ ਜਦ ਇੰ %\n੮੧ 9 । 0 ।ਟ ਪਏ ਤੂੰ ॥\nਦ ਦ ਪਨ ਤੇ ਗ੍ਰੰਏ [2 ੭ ਇ ਰਿ\n੩ ।10॥ % । ਛੇ ਟ੍ਰਿੰ9\n੨: ਮਦ ਤਰ ਤ ਪ੍ਰ 2 ਇ ਇ ਪ੍ਰ\n08 ਅਲ 0 । 69 ਜਿ ਪੱ੬ ਮਲ\n= ਦਿ ਅਠ । & ਜਿ ਲਿੰ ਟਿਠਿਂ\n੮੨ ਦ.੦੭। % ਹਾ % ਮੋਨ /ਫ\n੫ > ਧੋ ਦ ਭਿ _> ੨7੦ ਇੰ,\nਚ ਜਿਗ । ੪ ਡ) 2 9\n੦ ਪਟ ਅ9 । 9 _ । ਠਿਮ> ਇਿ'\n੮੫ [੦ । ੦ । ਠਿੰ । ਨਿਂ\nਦਾ [ ਸਾ\n\nਕਰੋ ਜੀ।\n\nਰਹਿੰਦੇ ਪਦ ਉਪਰੋਕਤ ਅੰਤਰੇ ਤੇ\n\n&ਨੋਟ\n\n20:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

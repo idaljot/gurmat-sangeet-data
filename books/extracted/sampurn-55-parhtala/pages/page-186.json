@@ -1,0 +1,8 @@
+{
+  "page": 186,
+  "section": "notation",
+  "text": "ਸਥਾਈ ਚਾਰਤਾਲ (੧੨ ਮਾਤਰਾ)\n\nਰਾਗ ਸਾਰੰਗ ਪੜਤਾਲ\n\n(ਅਗ ੧੨੩੧)\n\n੮੧ £ਇ ਪੁੰਠੂੰ੭ ਪੁੰਠ% ੪ ਤਯ ੮% £॥ਿ ਪੱਟ ੭ ਪ੍ੰਠੂ, 9\n= ਇਟ ਇੰ ਮਨ “ਮਨ ਦ ਤ £ ਫਟ ਇ ਟਲ “ਇਨ 4\n੨ ਧੈਠ ਤੁ ਤੁ ੨\n੬ ./ਹ `ਪੰਠ% ਪੰ ੭ ੨ >ਇ '!ਟਇ ਪੋਠਰ/ ਟੂੁ& ਟੂਯ\n੦; ਗਏ ਗ੍ਰੰਠ ਠ [1 ਠ [1 ੦; ੮ ੧9; ਧੁ ੧੩ ਮਦ ; 9 ਪੰ 9\nਸਿ\n66 ੮ ੬ ੪ ਏ # । ੦6 ਪੈਕ ੭ ਟਲ ਦੁ ਲ ਪੂ ਪਤ 9\n8\nਟਮਠ ਰਿ ਹੂ ੮ ਧ&।ਲ ਲਿ ਵਿ ਟ੍ਰੇੈਮ੭ ਕ੍ਰਮ\n੮੨ ਡ ੭ ਪੰਠ % ਪੁੰਠ %| 9 ੮੦ ਨਡਿ ਧੌਠਗ 4੦090 ੬ ਪੰ: %\n੫੧ ਧੌਠ ।ਗ _ >- 2 “4; ਇ ੫੧ ਨਰ! ਪੰ 2% ਜਥੇ 'ਇਮਨ\nਨ\n&\nਚ ਤਨ ਯ ੨੪ ਟੂ 9 ਚ > ਜਿ ਧੰਠਧੰਨ ਜਿ >ਮਚ ਕਰੇ 9\n੮੧ ਤਹ ।ਲ 2” ਇਮ ਲਹ ੭ ੮ ਦ ਇਿ ੧ ਟ ਚਿ ਦ 1੦ ; 9\n੮੫ ਝ੪% ਪੁੰਠ|॥06 'ਇੰਡ ੮੫ ਅਲ ਝ ਟ 09 ` ਧੌਠ 4੯  ੧ੌਠ % ਰੂ 09\nਦਾ ਤਰਿ ੧2 'ਦ੍ਰਿ ਦਾ ਮਲ 09 `'ਦ  ਧੰਠੜੋ ੧੦2 ਦੇਤ\n\n178 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

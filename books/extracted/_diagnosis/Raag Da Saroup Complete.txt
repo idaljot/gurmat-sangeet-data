@@ -1,0 +1,34 @@
+--- pdfinfo ---
+Author:          hp
+Creator:         Microsoft® Word 2010
+Producer:        Microsoft® Word 2010
+CreationDate:    Wed Nov 29 00:13:48 2023 PST
+ModDate:         Wed Nov 29 00:13:48 2023 PST
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           31
+Encrypted:       no
+Page size:       612 x 792 pts (letter)
+Page rot:        0
+File size:       579178 bytes
+Optimized:       no
+PDF version:     1.5
+
+--- pdffonts ---
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+ABCDEE+Asees,Bold                    TrueType          WinAnsi          yes yes no       5  0
+ABCDEE+Asees,Bold                    CID TrueType      Identity-H       yes yes yes      7  0
+ABCDEE+Raavi,Bold                    CID TrueType      Identity-H       yes yes yes     12  0
+ABCDEE+Raavi,Bold                    TrueType          WinAnsi          yes yes no      17  0
+ABCDEE+Raavi,Bold                    TrueType          WinAnsi          yes yes no      19  0
+ABCDEE+GurbaniLipi,Bold              TrueType          WinAnsi          yes yes no      23  0
+ABCDEE+Calibri,Bold                  TrueType          WinAnsi          yes yes no      29  0
+ABCDEE+Raavi                         CID TrueType      Identity-H       yes yes yes     67  0
+ABCDEE+Calibri                       TrueType          WinAnsi          yes yes no      76  0
+ABCDEE+Raavi,Bold                    CID TrueType      Identity-H       yes yes yes     92  0

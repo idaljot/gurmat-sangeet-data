@@ -1,0 +1,8 @@
+{
+  "page": 215,
+  "section": "essay",
+  "text": "ਪ੍ਰਭਾਤੀ ਮਹਲਾ ੫ ਬਿਭਾਸ\nਪੜਤਾਲ ॥\nਰਮ ਰਾਮ ਰਾਮ ਰਾਮ ਜਾਪ ॥\nਕਲਿ ਕਲੇਸ ਲੋਭ ਮੋਹ ਬਿਨਸਿ ਜਾਇ ਅਹੰ ਤਾਪ ॥੧॥ ਰਹਾਉ ॥\nਆਪੁ ਤਿਆਗਿ ਸੰਤ ਚਰਨ ਲਾਗਿ ਮਨੁ ਪਵਿਤੁ ਜਾਹਿ ਪਾਪ ॥੧॥\nਨਾਨਕੁ ਬਾਰਿਕੁ ਕਛੂ ਨ ਜਾਨੈ ਰਾਖਨ ਕਉ ਪ੍ਰਭੁ ਮਾਈ ਬਾਪ ॥੨॥੧॥੧੪॥\n\n(ਅੰਗ ੧੩੪੧)\n\nਪਦ ਅਰਥ :\n\nਰਮ = ਸਰਬ-ਵਿਆਪਕ। ਕਲਿ = ਦੁੱਖ, ਝਗੜੇ। ਬਿਨਸਿ ਜਾਇ = ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ (ਇਕ-ਵਚਨ)। ਅਹੰ\n= ਹਉਮੈ। ਆਪੁ = ਆਪਾ-ਭਾਵ। ਜਾਹਿ = ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ (ਬਹੁ-ਵਚਨ)। ਬਾਰਿਕੁ = ਅੰਵਾਏ ਬੱਚਾ। ਨ\nਜਾਏ = ਨਹੀਂ ਜਾਛਦਾ। ਰਾਖਨ ਕਉ = ਰੱਖਿਆ ਕਰ ਸਕਤ ਵਾਲਾ। ਮਾਈ = ਮਾਂ।\n\n207 :: ਸੰਪੂਰਣ 55 ਪੜਤਾਲਾਂ : ਸ਼ਬਦ ਸੁਰ ਰਚਨਾਵਲੀ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose (foreword/essays/shabad text) ~95-97% accuracy (Phase A estimate), correct reading order via OCR despite the underlying reordering-bug font. Italic-styled quoted Gurbani lines degrade sharply. Notation grid tables: ~60-75% cell recovery, not trustworthy as-is. Foreword page's AnmolLipi-scheme text is OCR'd like any other page (not routed through gurmukhi-utils toUnicode in this pass). All notation flagged needs_manual_transcription regardless."
+}

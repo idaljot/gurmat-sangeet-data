@@ -1,0 +1,8 @@
+{
+  "page": 12,
+  "section": "notation",
+  "text": "8. ਰਾਗ ਵਡਹੰਸ\n\nਥਾਟ ਖਮਾਜ\nਜਾਤੀ ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਆਰੋਹ ? ਸਰੇਮਪ, ਧਨੁੀਪ,ਨੀਸੰ\n\nਅਵਰੋਹ ? ਸੰਨੀਪ, ਧਮਗਰੇ,ਸਨੀਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਰੇਮਪਨੀਪ,ਧਮਗਰੇ,ਸਨੀਪੁ,ਨੀਸ\n\n8.1 ਰਾਗ ਵਡਹੰਸ ਦੱਖਣੀ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਆਰੋਹ : ਸ,ਰੇਮਪ,ਧਸੰ\nਅਵਰੋਹ ? ਸੰਨੀ ਧ ਪ, ਮ,ਰੇਮਗ,ਸਰੇਨ੍ੀਧਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋਮਪ,ਮ,ਰੋਮਗਸਰੇਨੀਧੁਸ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(--psm4)",
+  "ocr_confidence_note": "Labels and short values (Thaat/Jaati/Vaadi/Samvaadi/Sur/Varjit Sur/Samay) ~95%+ accurate with --psm 4 (Phase A estimate). Aroh/Avroh/Mukh Ang lines -- the actual sur data -- are unreliable: OCR collapses or partially collapses inter-syllable spacing on nearly every entry, the worst failure mode of any content type across all 3 books. All notation flagged needs_manual_transcription regardless."
+}

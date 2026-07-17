@@ -1,0 +1,8 @@
+{
+  "page": 105,
+  "section": "notation",
+  "text": "੬੯)\n\n(ਅੰਗ ੪\n\nਗਏ 3\n\n/ਇ\n\nਮ£ 3\n\nਨ\n\n/ਇ\n\nਗਲ\n\n`ਇ\n\nਹਰਿ\n\n/ਇ\n\n/ਰਿ\n\nਰਹਿੰਦੇ ਪਦ ਉਪਰੋਕਤ ਅੰਤਰੇ ਤੇ ਕਰੋ ਜੀ।\n\n&ਨੋਟ\n\n304:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

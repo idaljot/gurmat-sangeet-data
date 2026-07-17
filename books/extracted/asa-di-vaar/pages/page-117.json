@@ -1,0 +1,8 @@
+{
+  "page": 117,
+  "section": "notation",
+  "text": "ਪਉੜੀ ( ੪ ਮਾਤਰਾ )\n\n(ਅੰਗ ੪੭੦)\n\nਤੋ ਅਤੇ ਏਤੇ ਅੜੋ$ੜੋ ਤੇ ਏਇ ਅਨ ਏਤੇ ਨੂੰ ਇਏ\nਤਏ ਤੋ&ੜੇ$ ਤੋ& ਤੋ ਤੋ ਹੇ ਤਿ ਜੇ ਨੀ ਤੋ ਰੂੰ, ਤੋ ਹੂੰ,\nਤੋ ਤੇ £ ਤੇ % ਤੋ ਨਿ ਤੋਂ ੭ ਤੂਂ ਇ ਵਿ ਪੰ ਕੰ ਇ ਤਿਂ ਪਏ ਇੰ ਪੰ\nਤੋਇੜੋਲੜੁਓਨ ਤੋੜੇ ਤੇ ਉਟ੍ਹਿਲਤਿਓ ਤਿ ਝੇ ਨੂੰ ਝੋ\nਟੇ ੦ ਟੇ ਨੰ ਕੇ ਟੇ ਅੜੇ ਨ ਅਤ ਅਉ ਆ ਉਨ\n2੬॥=ਟੂੰਜ ਉਤੇ ਸਿ ਆਤੇ ਪੜ\nਨ ਇਤ ਵਨ ਉਤ ਲਤ ਆ ਤੇ ਦੂੰ ਟੇ\nਉਤ\n\n116:: ਆਸਾ ਦੀ ਵਾਰ\n",
+  "status": "draft",
+  "extraction_method": "ocr-tesseract-pan(default-psm)",
+  "ocr_confidence_note": "Prose ~95-97% char accuracy (Phase A estimate). Bordered grid tables: ~85-90% for sparse/12-col tables, ~50-65% for dense/16-col tables -- not trustworthy at high density. Inline Aroh/Avroh lines outside tables: inter-syllable spacing collapses, worse than table OCR. All notation flagged needs_manual_transcription regardless."
+}

@@ -1,0 +1,50 @@
+<guca-mapping version="0.4">
+	<information>
+		<from>AnmolLipi (Bani)</from>
+		<to>Unicode (Bani)</to>
+		<version>0.6</version>
+		<tounicode>true</tounicode>
+		<author>Ranbir Kaur</author>
+	</information>
+<!--This conversion will work only with the new Anmol Uni Bani fonts-->
+<!-- bindi 02C6-->
+<mapping>
+<convert from="02C6" to="004E"/>
+</mapping>
+
+<!-- pair nanna 02DC-->
+<mapping>
+<convert from="02DC" to="0A4D 006E"/>
+</mapping>
+
+<!-- HU 00a7-->
+<mapping>
+<convert from="00A7" to="0A4D 0A39 0A42"/>
+</mapping>
+
+<!-- pair tenka 2020-->
+<mapping>
+<convert from="2020" to="0A4D 0074"/>
+</mapping>
+
+<!-- pair chacca 00E7-->
+<mapping>
+<convert from="00E7" to="0A4D 0063"/>
+</mapping>
+
+<!-- extra long. delete 00D8-->
+<mapping>
+<convert from="00D8" to=""/>
+</mapping>
+
+<!-- pair tatta 0153-->
+<mapping>
+<convert from="0153" to="0A4D 0071"/>
+</mapping>
+
+<!-- u+o in Gurbani 0075 006F-->
+<mapping>
+<convert from="0075 006F" to="F02B"/>
+</mapping>
+
+</guca-mapping>
