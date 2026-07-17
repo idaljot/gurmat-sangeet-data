@@ -17,29 +17,70 @@
   }
   .poc-banner {
     background: #fff4f4; border-bottom: 2px solid #f0c9c9; color: var(--warn);
-    padding: 10px 16px; font-size: .88rem; text-align: center;
+    padding: 8px 16px; font-size: .85rem; text-align: center;
   }
-  .layout { display: grid; grid-template-columns: 260px 1fr; min-height: 100vh; }
+  .howto {
+    background: #f2ede1; border-bottom: 1px solid var(--line); padding: 4px 16px;
+  }
+  .howto summary { cursor: pointer; padding: 6px 0; font-size: .85rem; color: var(--gold); font-weight: 600; }
+  .howto ol { margin: 0 0 10px; padding-left: 20px; font-size: .85rem; color: var(--ink); }
+  .howto li { margin: 4px 0; }
+  .layout { display: grid; grid-template-columns: 280px 1fr; min-height: calc(100vh - 0px); }
   @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } }
-  .sidebar { border-right: 1px solid var(--line); padding: 14px; overflow-y: auto; max-height: 100vh; }
+  .sidebar { border-right: 1px solid var(--line); display: flex; flex-direction: column; max-height: 100vh; }
+  .sidebar-scroll { padding: 14px; overflow-y: auto; flex: 1; min-height: 0; }
   .sidebar h1 { font-size: 1rem; margin: 0 0 4px; }
-  .sidebar .sub { color: var(--muted); font-size: .78rem; margin: 0 0 12px; }
-  .progress { font-size: .82rem; margin: 0 0 10px; padding: 8px 10px; background: var(--card); border: 1px solid var(--line); border-radius: 8px; }
+  .sidebar .sub { color: var(--muted); font-size: .76rem; margin: 0 0 12px; }
+  .progress { font-size: .8rem; margin: 0 0 10px; padding: 8px 10px; background: var(--card); border: 1px solid var(--line); border-radius: 8px; }
+  .progress-bar { height: 6px; background: #ece5d4; border-radius: 4px; margin-top: 6px; overflow: hidden; }
+  .progress-fill { height: 100%; background: var(--forest); border-radius: 4px; transition: width .2s; }
+  #search-input {
+    width: 100%; font: inherit; font-size: .85rem; padding: 7px 9px; margin-bottom: 8px;
+    border: 1px solid var(--line); border-radius: 6px;
+  }
+  .filter-chips { display: flex; gap: 4px; margin-bottom: 10px; flex-wrap: wrap; }
+  .chip {
+    font: inherit; font-size: .74rem; padding: 4px 9px; border-radius: 999px; cursor: pointer;
+    border: 1px solid var(--line); background: #fff; color: var(--muted);
+  }
+  .chip.active { background: var(--forest); color: #fff; border-color: var(--forest); }
   .item-list { list-style: none; margin: 0; padding: 0; }
-  .item-list li { margin: 2px 0; }
+  .item-list li { margin: 1px 0; }
   .item-list button {
     width: 100%; text-align: left; background: none; border: 1px solid transparent;
-    padding: 6px 8px; border-radius: 6px; cursor: pointer; font-size: .82rem; color: var(--ink);
+    padding: 5px 8px; border-radius: 6px; cursor: pointer; font-size: .8rem; color: var(--ink);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block;
   }
   .item-list button:hover { background: #f2ede1; }
   .item-list button.active { background: var(--forest); color: #fff; }
-  .item-list button.saved::before { content: "✓ "; color: var(--forest); }
-  .item-list button.active.saved::before { color: #cfe8d6; }
-  .main { padding: 20px 24px 60px; overflow-y: auto; }
-  h2 { font-size: 1.1rem; margin: 0 0 4px; }
+  .item-list button.reviewed::before { content: "✓ "; color: var(--forest); font-weight: 700; }
+  .item-list button.started:not(.reviewed)::before { content: "• "; color: var(--gold); font-weight: 700; }
+  .item-list button.active.reviewed::before, .item-list button.active.started::before { color: #cfe8d6; }
+  .item-list .empty-note { font-size: .8rem; color: var(--muted); padding: 8px 4px; }
+  .sidebar-footer { border-top: 1px solid var(--line); padding: 10px 14px; display: grid; gap: 6px; }
+  .sidebar-footer button, .sidebar-footer label {
+    font: inherit; font-size: .8rem; padding: 7px 10px; border-radius: 6px; cursor: pointer;
+    border: 1px solid var(--line); background: #fff; color: var(--ink); text-align: center; display: block;
+  }
+  .sidebar-footer input[type=file] { display: none; }
+  .main { padding: 18px 24px 60px; overflow-y: auto; }
+  .breadcrumb { font-size: .82rem; margin: 0 0 6px; }
+  .breadcrumb a { color: var(--gold); text-decoration: none; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  h2 { font-size: 1.25rem; margin: 0 0 4px; }
   .meta { color: var(--muted); font-size: .85rem; margin: 0 0 16px; }
+  .nav-row { display: flex; gap: 8px; margin: 0 0 14px; }
+  .nav-row button {
+    font: inherit; font-size: .82rem; padding: 6px 12px; border-radius: 6px; cursor: pointer;
+    border: 1px solid var(--line); background: #fff; color: var(--ink);
+  }
+  .nav-row button:disabled { opacity: .4; cursor: default; }
   .crops { display: flex; gap: 10px; flex-wrap: wrap; margin: 0 0 18px; }
-  .crops img { max-width: 100%; max-height: 260px; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
+  .crops img {
+    max-width: 100%; max-height: 260px; border: 1px solid var(--line); border-radius: 6px;
+    background: #fff; cursor: zoom-in;
+  }
+  .crops .hint-zoom { width: 100%; font-size: .74rem; color: var(--muted); margin: -12px 0 0; }
   .ocr-ref { background: #faf6ec; border: 1px dashed var(--line); border-radius: 8px; padding: 10px 12px; font-size: .82rem; margin: 0 0 18px; white-space: pre-wrap; font-family: ui-monospace, Menlo, Consolas, monospace; max-height: 160px; overflow-y: auto; }
   .ocr-ref summary { cursor: pointer; font-family: -apple-system, sans-serif; color: var(--gold); font-size: .85rem; margin-bottom: 6px; }
   form { display: grid; gap: 12px; }
@@ -53,6 +94,8 @@
   .field input.prefilled, .field textarea.prefilled { background: var(--prefill); border-color: #e6cf8c; }
   .field input.sargam { font-family: ui-monospace, Menlo, Consolas, monospace; }
   .field .hint { font-size: .74rem; color: var(--muted); }
+  .field-warn { font-size: .76rem; color: var(--warn); margin-top: 2px; display: none; }
+  .field-warn.show { display: block; }
   .preview { background: #1e1b16; color: #f3ead6; padding: 8px 10px; border-radius: 6px; font-size: .95rem; font-family: ui-monospace, Menlo, Consolas, monospace; min-height: 1.4em; }
   /* Gurmukhi display marks — komal (r g d n) underlined, teevra Ma (m) overlined.
      Standard convention; not yet stated in SARGAM.md (flagged, see issue tracker). */
@@ -67,35 +110,83 @@
   @media (max-width: 640px) { .row2 { grid-template-columns: 1fr; } }
   fieldset { border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; }
   legend { font-size: .82rem; color: var(--gold); padding: 0 6px; }
-  .actions { display: flex; gap: 10px; margin-top: 8px; flex-wrap: wrap; }
+  .actions { display: flex; gap: 10px; margin-top: 8px; flex-wrap: wrap; align-items: center; }
   button.primary, button.secondary {
     font: inherit; padding: 8px 16px; border-radius: 6px; cursor: pointer; border: 1px solid var(--forest);
   }
   button.primary { background: var(--forest); color: #fff; }
+  button.primary.is-reviewed { background: #1e3f27; }
+  button.primary:disabled { opacity: .5; cursor: default; }
   button.secondary { background: #fff; color: var(--ink); border-color: var(--line); }
+  .save-status { font-size: .78rem; color: var(--muted); }
   .badge-draft { display: inline-block; font-size: .72rem; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: #fff1e2; color: var(--draft); border: 1px solid #f0d2ab; vertical-align: middle; }
+  .lightbox {
+    position: fixed; inset: 0; background: rgba(15, 12, 8, .88); z-index: 1000;
+    display: flex; align-items: center; justify-content: center; cursor: zoom-out; padding: 30px;
+  }
+  .lightbox.hidden { display: none; }
+  .lightbox img { max-width: 100%; max-height: 100%; box-shadow: 0 10px 50px rgba(0,0,0,.6); border-radius: 4px; }
+  .lightbox .lightbox-hint {
+    position: fixed; top: 16px; left: 50%; transform: translateX(-50%);
+    color: #f3ead6; font-size: .8rem; opacity: .8;
+  }
+  .toast {
+    position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%) translateY(16px);
+    background: #23201b; color: #f3ead6; padding: 9px 18px; border-radius: 20px;
+    font-size: .85rem; opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s; z-index: 1100;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 </style>
 </head>
 <body>
 
 <div class="poc-banner">
-  PROOF OF CONCEPT — Raag Da Saroup Complete only (58 items). Everything saved here is
-  <code>status: "draft"</code>. Nothing here is transcribed by AI — sur/notation fields are
+  PROOF OF CONCEPT — Raag Da Saroup Complete only (62 items). Everything saved here is
+  <code>status: "draft"</code>. Nothing is transcribed by AI — sur/notation fields are
   prefilled with raw OCR guesses only, clearly marked, and must be re-typed by a human
-  reading the crop image. See <code>GURMAT-SANGEET-CONTEXT.md</code> and
-  <code>books/extracted/MANIFEST.md</code> for full context.
+  reading the crop image.
 </div>
+<details class="howto" open>
+  <summary>How to use this tool</summary>
+  <ol>
+    <li>Pick a raag from the list on the left — sub-raags are indented under their parent (e.g. 3.1 under 3).</li>
+    <li>Click the crop image(s) to zoom in — read them closely, especially for komal/teevra marks.</li>
+    <li>Fill in the fields. Amber-highlighted fields are unverified OCR guesses — retype them once you've checked the image, especially Aroh/Avroh/Mukh Ang, which must be canonical SARGAM (Roman letters, see <code>SARGAM.md</code>), not the book's own Gurmukhi notation.</li>
+    <li>Your typing autosaves as you go (to this browser only). Click <strong>Mark as reviewed</strong> once you're confident an entry is done.</li>
+    <li>When you're done for the session, use <strong>Download backup</strong> in the sidebar so your work survives a browser/cache clear — you can hand that file to Daljot or reload it later with <strong>Restore backup</strong>.</li>
+  </ol>
+</details>
 
 <div class="layout">
   <div class="sidebar">
-    <h1>Raag entries</h1>
-    <p class="sub">books/extracted/raag-da-saroup-complete/worksheet.json</p>
-    <div class="progress" id="progress">loading…</div>
-    <ul class="item-list" id="item-list"></ul>
+    <div class="sidebar-scroll">
+      <h1>Raag entries</h1>
+      <p class="sub">books/extracted/raag-da-saroup-complete/worksheet.json</p>
+      <div class="progress" id="progress">loading…</div>
+      <input type="search" id="search-input" placeholder="Search by number or name…" />
+      <div class="filter-chips" id="filter-chips">
+        <button class="chip active" data-filter="all">All</button>
+        <button class="chip" data-filter="unreviewed">To do</button>
+        <button class="chip" data-filter="reviewed">Reviewed</button>
+        <button class="chip" data-filter="flagged">Flagged</button>
+      </div>
+      <ul class="item-list" id="item-list"></ul>
+    </div>
+    <div class="sidebar-footer">
+      <button id="export-btn">Export data/raags.json (draft)</button>
+      <button id="backup-btn">Download backup (all progress)</button>
+      <label for="restore-input">Restore backup…</label>
+      <input type="file" id="restore-input" accept="application/json" />
+    </div>
   </div>
   <div class="main" id="main">
     <p>Loading worksheet…</p>
   </div>
+</div>
+
+<div class="lightbox hidden" id="lightbox">
+  <div class="lightbox-hint">Click anywhere (or press Esc) to close</div>
+  <img id="lightbox-img" src="" alt="Zoomed crop" />
 </div>
 
 <script>
@@ -119,10 +210,26 @@ function renderSargam(notationStr) {
     return glyph;
   });
 }
+// Canonical SARGAM is Roman/ASCII only (SARGAM.md) -- any Gurmukhi codepoint in a sur
+// field means the raw OCR guess (in the book's own Gurmukhi-consonant notation) never
+// got converted. This is the single most likely real mistake, so it's worth a live
+// warning; a stricter character-whitelist was considered and dropped because it false-
+// positives on legitimate section labels like "Asthai"/"Antra" (SARGAM.md sec.3a).
+const GURMUKHI_RE = /[਀-੿]/;
+function validateSargam(value) {
+  if (value && GURMUKHI_RE.test(value)) {
+    return "This still contains Gurmukhi script — convert to canonical SARGAM (Roman letters, e.g. S R G M P D N) before marking reviewed.";
+  }
+  return null;
+}
 
 const STORAGE_KEY = "raag-entry-poc-v1";
 let worksheet = [];
 let saved = {}; // manifest_id -> record
+let numberToId = {}; // raag_number -> manifest_id, for parent breadcrumb links
+let activeId = null;
+let filterMode = "all";
+let searchQuery = "";
 
 function loadSaved() {
   try { saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}"); }
@@ -132,29 +239,105 @@ function persistSaved() {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
 }
 
-let activeId = null;
+function showToast(msg) {
+  const t = document.getElementById("toast") || (() => {
+    const el = document.createElement("div");
+    el.id = "toast";
+    el.className = "toast";
+    document.body.appendChild(el);
+    return el;
+  })();
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(t._hideTimer);
+  t._hideTimer = setTimeout(() => t.classList.remove("show"), 1500);
+}
+
+function openLightbox(src) {
+  document.getElementById("lightbox-img").src = src;
+  document.getElementById("lightbox").classList.remove("hidden");
+}
+function closeLightbox() {
+  document.getElementById("lightbox").classList.add("hidden");
+}
+document.getElementById("lightbox").addEventListener("click", closeLightbox);
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape") { closeLightbox(); return; }
+  const tag = document.activeElement.tagName;
+  if (tag === "INPUT" || tag === "TEXTAREA") return; // never hijack cursor movement while typing
+  if (e.key === "ArrowRight") { e.preventDefault(); goRelative(1); }
+  if (e.key === "ArrowLeft") { e.preventDefault(); goRelative(-1); }
+});
+
+function isStarted(id) {
+  const rec = saved[id];
+  if (!rec) return false;
+  return Object.keys(rec).some(k => k !== "reviewed" && k !== "reviewedAt" && rec[k]);
+}
+function isReviewed(id) {
+  return !!(saved[id] && saved[id].reviewed);
+}
+function isFlagged(item) {
+  return !!(item.needs_split_review || item.raag_number_inferred);
+}
+
+function getVisibleItems() {
+  const q = searchQuery.trim().toLowerCase();
+  return worksheet.filter(item => {
+    if (filterMode === "reviewed" && !isReviewed(item.manifest_id)) return false;
+    if (filterMode === "unreviewed" && isReviewed(item.manifest_id)) return false;
+    if (filterMode === "flagged" && !isFlagged(item)) return false;
+    if (q) {
+      const rec = saved[item.manifest_id] || {};
+      const hay = [
+        item.manifest_id, item.raag_number, item.raag_name_as_printed, item.raag_gurmukhi_guess,
+        rec.names_roman, rec.names_gurmukhi
+      ].filter(Boolean).join(" ").toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function goRelative(delta) {
+  const visible = getVisibleItems();
+  const idx = visible.findIndex(w => w.manifest_id === activeId);
+  const nextIdx = idx === -1 ? 0 : idx + delta;
+  if (nextIdx < 0 || nextIdx >= visible.length) return;
+  selectItem(visible[nextIdx].manifest_id);
+}
 
 function renderSidebar() {
   const list = document.getElementById("item-list");
-  list.innerHTML = worksheet.map(item => {
-    const isSaved = !!saved[item.manifest_id];
-    const isActive = item.manifest_id === activeId;
-    // book's own hierarchical numbering (e.g. "3.1") -- indent by nesting depth so
-    // sub-raags visually nest under their parent. See numbering_note/
-    // needs_split_review for items clustering couldn't confidently number.
-    const depth = item.raag_number ? (item.raag_number.match(/\./g) || []).length : 0;
-    const numberLabel = item.raag_number
-      ? item.raag_number + (item.raag_number_inferred ? "*" : "")
-      : (item.needs_split_review ? "⚠" : "?");
-    const titleAttr = item.numbering_note ? ` title="${item.numbering_note.replace(/"/g, "&quot;")}"` : "";
-    return `<li><button data-id="${item.manifest_id}" class="${isSaved ? "saved" : ""} ${isActive ? "active" : ""}" style="padding-left:${8 + depth * 14}px"${titleAttr}>
-      <strong>${numberLabel}</strong> ${item.manifest_id.replace("raag-da-saroup-complete-", "#")} — ${(item.raag_name_as_printed || item.raag_gurmukhi_guess || "?").slice(0,18)}
-    </button></li>`;
-  }).join("");
+  const visible = getVisibleItems();
+  list.innerHTML = visible.length
+    ? visible.map(item => {
+        const reviewed = isReviewed(item.manifest_id);
+        const started = isStarted(item.manifest_id);
+        const isActive = item.manifest_id === activeId;
+        const depth = item.raag_number ? (item.raag_number.match(/\./g) || []).length : 0;
+        const numberLabel = item.raag_number
+          ? item.raag_number + (item.raag_number_inferred ? "*" : "")
+          : (item.needs_split_review ? "⚠" : "?");
+        const name = item.raag_name_as_printed || item.raag_gurmukhi_guess || "?";
+        const titleParts = [item.manifest_id, name, item.numbering_note].filter(Boolean);
+        return `<li><button data-id="${item.manifest_id}"
+          class="${reviewed ? "reviewed" : ""} ${started ? "started" : ""} ${isActive ? "active" : ""}"
+          style="padding-left:${8 + depth * 14}px" title="${titleParts.join(" — ").replace(/"/g, "&quot;")}">
+          <strong>${numberLabel}</strong> ${name}
+        </button></li>`;
+      }).join("")
+    : `<li class="empty-note">No entries match this filter/search.</li>`;
   list.querySelectorAll("button").forEach(b => b.onclick = () => selectItem(b.dataset.id));
 
-  const n = Object.keys(saved).length;
-  document.getElementById("progress").textContent = `${n} / ${worksheet.length} saved as draft`;
+  const total = worksheet.length;
+  const reviewedCount = worksheet.filter(w => isReviewed(w.manifest_id)).length;
+  const startedCount = worksheet.filter(w => isStarted(w.manifest_id)).length;
+  const pct = total ? Math.round((reviewedCount / total) * 100) : 0;
+  document.getElementById("progress").innerHTML = `
+    ${reviewedCount} reviewed · ${startedCount} in progress · ${total} total
+    <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+  `;
 }
 
 function fieldRow(key, label, opts = {}) {
@@ -176,11 +359,54 @@ function fieldRow(key, label, opts = {}) {
     ? `<textarea id="f-${key}" class="${cls}" rows="2" ${selectOnFocus}>${value}</textarea>`
     : `<input ${typeAttr} id="f-${key}" class="${cls}" value="${(value || "").replace(/"/g, "&quot;")}" ${selectOnFocus} />`;
   const hint = opts.hint ? `<div class="hint">${opts.hint}</div>` : "";
+  const preview = opts.sargam ? `<div class="preview" id="preview-${key}"></div><div class="field-warn" id="warn-${key}"></div>` : "";
   return `<div class="field">
     <label for="f-${key}">${reqLabel}${flagLabel}${label}</label>
     ${el}
     ${hint}
+    ${preview}
   </div>`;
+}
+
+function updateReviewButton() {
+  const btn = document.getElementById("review-btn");
+  if (!btn) return;
+  const rec = saved[activeId] || {};
+  const ready = !!(document.getElementById("f-names_roman")?.value || "").trim();
+  btn.disabled = !ready;
+  btn.title = ready ? "" : "Fill in the Roman name first";
+  btn.classList.toggle("is-reviewed", !!rec.reviewed);
+  btn.textContent = rec.reviewed ? "✓ Reviewed (click to unmark)" : "Mark as reviewed";
+}
+
+function wireField(key, opts = {}) {
+  const input = document.getElementById(`f-${key}`);
+  if (!input) return;
+  const commit = () => {
+    saved[activeId] = saved[activeId] || {};
+    saved[activeId][key] = input.value;
+    persistSaved();
+    const status = document.getElementById("save-status");
+    if (status) status.textContent = `Autosaved ${new Date().toLocaleTimeString()}`;
+    renderSidebar();
+    updateReviewButton();
+  };
+  input.addEventListener("input", () => {
+    commit();
+    if (opts.sargam) updateSargamPreview(key, input.value);
+  });
+  if (opts.sargam) updateSargamPreview(key, input.value);
+}
+
+function updateSargamPreview(key, value) {
+  const preview = document.getElementById(`preview-${key}`);
+  const warn = document.getElementById(`warn-${key}`);
+  if (preview) preview.innerHTML = renderSargam(value) || "(preview)";
+  if (warn) {
+    const msg = validateSargam(value);
+    warn.textContent = msg || "";
+    warn.classList.toggle("show", !!msg);
+  }
 }
 
 function selectItem(id) {
@@ -188,15 +414,32 @@ function selectItem(id) {
   const item = worksheet.find(w => w.manifest_id === id);
   const rec = saved[id] || {};
 
-  const cropsHTML = item.images.map(img =>
-    `<img src="../books/extracted/raag-da-saroup-complete/${img}" alt="${img}" />`
-  ).join("");
+  const cropsHTML = item.images.map(img => {
+    const src = `../books/extracted/raag-da-saroup-complete/${img}`;
+    return `<img src="${src}" alt="${img}" class="crop-thumb" />`;
+  }).join("");
+
+  const parentId = item.parent_raag_number ? numberToId[item.parent_raag_number] : null;
+  const parentItem = parentId ? worksheet.find(w => w.manifest_id === parentId) : null;
+  const breadcrumbHTML = parentItem
+    ? `<p class="breadcrumb">↳ sub-raag of <a href="#" data-jump="${parentId}">${parentItem.raag_number} ${parentItem.raag_name_as_printed || parentItem.raag_gurmukhi_guess}</a></p>`
+    : "";
+
+  const visible = getVisibleItems();
+  const idx = visible.findIndex(w => w.manifest_id === id);
 
   document.getElementById("main").innerHTML = `
-    <h2>${item.manifest_id} <span class="badge-draft">draft</span></h2>
-    <p class="meta">Pages ${item.page_range[0]}–${item.page_range[1]} · cluster confidence: ${item.cluster_confidence} · raag guess: ${item.raag_gurmukhi_guess || "?"}</p>
+    ${breadcrumbHTML}
+    <h2>${item.raag_number ? item.raag_number + " " : ""}${item.raag_name_as_printed || item.raag_gurmukhi_guess || "(unnamed)"} <span class="badge-draft">draft</span></h2>
+    <p class="meta">${item.manifest_id} · pages ${item.page_range[0]}–${item.page_range[1]} · cluster confidence: ${item.cluster_confidence}</p>
+
+    <div class="nav-row">
+      <button id="prev-btn" ${idx <= 0 ? "disabled" : ""}>← Prev</button>
+      <button id="next-btn" ${idx === -1 || idx >= visible.length - 1 ? "disabled" : ""}>Next →</button>
+    </div>
 
     <div class="crops">${cropsHTML}</div>
+    <p class="hint-zoom">Click an image to zoom in.</p>
 
     <details class="ocr-ref" open>
       <summary>Reference: surrounding page text (as extracted — low-confidence OCR, read against the images above)</summary>
@@ -229,11 +472,8 @@ function selectItem(id) {
       <fieldset>
         <legend>Sur (notation) — verify carefully against the crop image</legend>
         ${fieldRow("aroh", "Aroh", { ocrKey: "ਆਰੋਹ", sargam: true, hint: "Canonical SARGAM string (see SARGAM.md). Prefilled value is a RAW OCR GUESS in the book's own Gurmukhi-consonant sur notation — re-read from the image and re-type in canonical SARGAM, don't just trust this." })}
-        <div class="preview" id="preview-aroh"></div>
         ${fieldRow("avroh", "Avroh", { ocrKey: "ਅਵਰੋਹ", sargam: true, hint: "Same caution as Aroh." })}
-        <div class="preview" id="preview-avroh"></div>
         ${fieldRow("pakad", "Pakad (from \"Mukh Ang\")", { ocrKey: "ਮੁੱਖ ਅੰਗ", sargam: true, flag: "mapping unconfirmed — issue #6", hint: "\"Mukh Ang\" plausibly = pakad, not confirmed by Baljeet/Ustaad ji yet. See issue #6." })}
-        <div class="preview" id="preview-pakad"></div>
         ${fieldRow("sur_unmapped", "\"Sur\" field (no schema home yet)", { ocrKey: "ਸੁਰ", flag: "unmapped — issue #6", hint: "This book's ਸੁਰ field has no confirmed home in raag.schema.json. Captured verbatim here so nothing is lost; do not force it into another field." })}
       </fieldset>
 
@@ -243,52 +483,61 @@ function selectItem(id) {
       </fieldset>
 
       <div class="actions">
-        <button type="button" class="primary" id="save-btn">Save as draft</button>
+        <button type="button" class="primary" id="review-btn">Mark as reviewed</button>
         <button type="button" class="secondary" id="clear-btn">Clear this entry</button>
+        <span class="save-status" id="save-status">Not yet edited</span>
       </div>
     </form>
   `;
 
-  ["aroh", "avroh", "pakad"].forEach(k => {
-    const input = document.getElementById(`f-${k}`);
-    const preview = document.getElementById(`preview-${k}`);
-    const update = () => { preview.innerHTML = renderSargam(input.value) || "(preview)"; };
-    input.addEventListener("input", update);
-    update();
-  });
+  ["names_roman", "names_gurmukhi", "thaat", "jati", "vadi", "samvadi", "varjit", "time", "sur_unmapped", "sourceNote"]
+    .forEach(key => wireField(key));
+  ["aroh", "avroh", "pakad"].forEach(key => wireField(key, { sargam: true }));
 
-  document.getElementById("save-btn").onclick = () => saveActive();
+  updateReviewButton();
+
+  document.getElementById("review-btn").onclick = () => {
+    saved[activeId] = saved[activeId] || {};
+    saved[activeId].reviewed = !saved[activeId].reviewed;
+    saved[activeId].reviewedAt = saved[activeId].reviewed ? new Date().toISOString() : null;
+    persistSaved();
+    renderSidebar();
+    updateReviewButton();
+    showToast(saved[activeId].reviewed ? "Marked reviewed ✓" : "Unmarked");
+  };
   document.getElementById("clear-btn").onclick = () => {
+    if (!confirm("Clear all entered data for this item? This cannot be undone unless you have a backup export.")) return;
     delete saved[activeId];
     persistSaved();
     selectItem(activeId);
-    renderSidebar();
   };
+  document.getElementById("prev-btn").onclick = () => goRelative(-1);
+  document.getElementById("next-btn").onclick = () => goRelative(1);
 
   renderSidebar();
 }
 
-function saveActive() {
-  const get = id => document.getElementById(id)?.value || "";
-  saved[activeId] = {
-    names_roman: get("f-names_roman"),
-    names_gurmukhi: get("f-names_gurmukhi"),
-    thaat: get("f-thaat"),
-    jati: get("f-jati"),
-    vadi: get("f-vadi"),
-    samvadi: get("f-samvadi"),
-    varjit: get("f-varjit"),
-    time: get("f-time"),
-    aroh: get("f-aroh"),
-    avroh: get("f-avroh"),
-    pakad: get("f-pakad"),
-    sur_unmapped: get("f-sur_unmapped"),
-    sourceNote: get("f-sourceNote"),
-  };
-  persistSaved();
+// Event delegation on the static #main container (survives innerHTML replacement
+// on every selectItem() call) for the two click-driven affordances inside the
+// per-item template: zooming a crop image, and jumping to a parent raag.
+document.getElementById("main").addEventListener("click", e => {
+  const thumb = e.target.closest(".crop-thumb");
+  if (thumb) { openLightbox(thumb.src); return; }
+  const jump = e.target.closest("[data-jump]");
+  if (jump) { e.preventDefault(); selectItem(jump.dataset.jump); }
+});
+
+document.getElementById("search-input").addEventListener("input", e => {
+  searchQuery = e.target.value;
   renderSidebar();
-  alert("Saved as draft (in this browser's local storage). Use \"Export data/raags.json\" when ready.");
-}
+});
+document.getElementById("filter-chips").addEventListener("click", e => {
+  const chip = e.target.closest(".chip");
+  if (!chip) return;
+  filterMode = chip.dataset.filter;
+  document.querySelectorAll(".chip").forEach(c => c.classList.toggle("active", c === chip));
+  renderSidebar();
+});
 
 function exportRaagsJson() {
   const out = {};
@@ -322,23 +571,57 @@ function exportRaagsJson() {
       reviewedOn: null
     };
   }
+  const n = Object.keys(out).length;
+  if (!n) { showToast("Nothing with a Roman name to export yet"); return; }
   const blob = new Blob([JSON.stringify(out, null, 2)], { type: "application/json" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
   a.download = "raags.draft-export.json";
   a.click();
+  showToast(`Exported ${n} entries`);
 }
+
+function downloadBackup() {
+  const blob = new Blob([JSON.stringify(saved, null, 2)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `raag-entry-backup-${new Date().toISOString().slice(0, 10)}.json`;
+  a.click();
+  showToast("Backup downloaded");
+}
+
+function restoreBackup(file) {
+  const reader = new FileReader();
+  reader.onload = () => {
+    let incoming;
+    try { incoming = JSON.parse(reader.result); }
+    catch (e) { alert("Could not read that file as JSON: " + e); return; }
+    const n = Object.keys(incoming).length;
+    if (!confirm(`Merge ${n} entries from this backup into your current progress? Entries with the same ID will be overwritten.`)) return;
+    Object.assign(saved, incoming);
+    persistSaved();
+    renderSidebar();
+    if (activeId) selectItem(activeId);
+    showToast(`Restored ${n} entries`);
+  };
+  reader.readAsText(file);
+}
+
+document.getElementById("export-btn").onclick = exportRaagsJson;
+document.getElementById("backup-btn").onclick = downloadBackup;
+document.getElementById("restore-input").addEventListener("change", e => {
+  if (e.target.files[0]) restoreBackup(e.target.files[0]);
+  e.target.value = "";
+});
 
 fetch("../books/extracted/raag-da-saroup-complete/worksheet.json")
   .then(r => r.json())
   .then(data => {
     worksheet = data;
+    numberToId = {};
+    worksheet.forEach(w => { if (w.raag_number) numberToId[w.raag_number] = w.manifest_id; });
     loadSaved();
     renderSidebar();
-    const exportBtn = document.createElement("div");
-    exportBtn.style.padding = "10px 14px";
-    exportBtn.innerHTML = `<button class="secondary" onclick="exportRaagsJson()" style="width:100%">Export data/raags.json (draft)</button>`;
-    document.querySelector(".sidebar").appendChild(exportBtn);
     if (worksheet.length) selectItem(worksheet[0].manifest_id);
   })
   .catch(err => {
