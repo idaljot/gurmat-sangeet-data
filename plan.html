@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>v0.1 Plan &amp; Progress — Gurmat Sangeet Notation Dataset</title>
+<style>
+  :root { --ink:#23201b; --muted:#6b6459; --line:#e4ddcf; --bg:#faf7f0; --card:#fff; --gold:#9a6b1f; --forest:#2f5d3a; --sample:#a11d1d; --blue:#2b5170; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 40px 20px 72px; }
+  a { color: var(--gold); }
+  h1 { font-size: 1.8rem; margin: 0 0 6px; }
+  .tag { color: var(--muted); font-size: 1.02rem; margin: 0 0 22px; }
+  h2 { font-size: 1.15rem; margin: 34px 0 12px; border-top:1px solid var(--line); padding-top:22px; }
+  h2:first-of-type { border-top:none; padding-top:0; }
+  p { margin: 0 0 14px; }
+
+  .goal { background:#eef4ef; border:1px solid #c4dbc9; border-radius:12px; padding:18px 20px; margin:0 0 22px; }
+  .goal .lbl { font-size:.72rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--forest); margin:0 0 4px; }
+  .goal .big { font-size:1.15rem; font-weight:600; margin:0 0 6px; }
+  .goal .sub { color:var(--muted); font-size:.92rem; margin:0; }
+
+  .bars { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin:0 0 8px; }
+  @media (max-width:600px){ .bars { grid-template-columns:1fr; } }
+  .bar { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px 16px; }
+  .bar .n { font-size:1.5rem; font-weight:700; }
+  .bar .n small { font-size:.9rem; color:var(--muted); font-weight:500; }
+  .bar .cap { font-size:.82rem; color:var(--muted); margin:2px 0 10px; }
+  .track { height:9px; background:#efe8da; border-radius:999px; overflow:hidden; }
+  .fill { height:100%; background:var(--gold); width:0; transition:width .4s; }
+  .fill.green { background:var(--forest); }
+
+  .phase { display:flex; gap:12px; align-items:flex-start; padding:11px 0; border-bottom:1px dashed var(--line); }
+  .phase:last-child { border-bottom:none; }
+  .phase .body { flex:1; }
+  .phase .body b { font-weight:600; }
+  .phase .body .d { color:var(--muted); font-size:.9rem; }
+  .pill { font-size:.66rem; font-weight:700; letter-spacing:.03em; padding:3px 9px; border-radius:999px; white-space:nowrap; text-transform:uppercase; margin-top:2px; }
+  .pill.done { background:#e7f0e9; color:var(--forest); border:1px solid #bcd6c3; }
+  .pill.now  { background:#fff1e2; color:#b25c00; border:1px solid #f0d2ab; }
+  .pill.next { background:#e6eef5; color:var(--blue); border:1px solid #bcd0e0; }
+  .pill.park { background:#efece7; color:#7c7468; border:1px solid #dcd5c8; }
+
+  ol.path { margin:0; padding:0; list-style:none; counter-reset:step; }
+  ol.path li { position:relative; padding:10px 0 10px 40px; border-bottom:1px dashed var(--line); counter-increment:step; }
+  ol.path li:last-child { border-bottom:none; }
+  ol.path li::before { content:counter(step); position:absolute; left:0; top:9px; width:26px; height:26px; border-radius:50%; background:var(--gold); color:#fff; font-size:.8rem; font-weight:700; display:flex; align-items:center; justify-content:center; }
+  ol.path li.is-done::before { background:var(--forest); content:"✓"; }
+  ol.path li.is-now::before { background:#b25c00; }
+  ol.path li b { font-weight:600; }
+  ol.path li .who { color:var(--muted); font-size:.86rem; }
+
+  .park-list { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:6px 18px; }
+  .park-list .row { display:flex; gap:10px; align-items:baseline; padding:9px 0; border-bottom:1px dashed var(--line); font-size:.92rem; }
+  .park-list .row:last-child { border-bottom:none; }
+  .park-list .row .why { color:var(--muted); font-size:.85rem; }
+
+  .dep { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:6px 18px; }
+  .dep .row { padding:10px 0; border-bottom:1px dashed var(--line); font-size:.93rem; }
+  .dep .row:last-child { border-bottom:none; }
+  .dep .who { font-weight:600; }
+  .dep .row .g { color:var(--muted); font-size:.86rem; }
+
+  .rule { background:#fff6e9; border:1px solid #ecd6ac; color:#7a4e10; border-radius:12px; padding:14px 18px; font-size:.95rem; }
+  .rule b { color:#5f3d0b; }
+  .dod { background:#eef4ef; border:1px solid #c4dbc9; border-radius:12px; padding:14px 18px; font-size:.95rem; }
+
+  .foot { margin-top: 40px; color: var(--muted); font-size:.82rem; border-top:1px solid var(--line); padding-top:14px; }
+  code { background:#f2ecdf; padding:1px 5px; border-radius:5px; font-size:.86em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>v0.1 — Plan &amp; Progress</h1>
+  <p class="tag">The one page to know where we stand, what's next, and what to <em>ignore</em> until the core ships. Companion to <a href="GURMAT-SANGEET-CONTEXT.md">the full tracker</a>.</p>
+
+  <div class="goal">
+    <p class="lbl">◎ The core goal — finish in a few days</p>
+    <p class="big">Ship Raag Da Saroup Complete as v0.1: all 62 raag entries transcribed, approved by Ustaad ji, and published.</p>
+    <p class="sub">This is the whole target for now. It's the one book that is <strong>unblocked</strong> — it needs no schema decision to start typing, and no taal-grid work. Everything else waits.</p>
+  </div>
+
+  <div class="bars">
+    <div class="bar">
+      <div class="n" id="tn">0<small>&nbsp;/ 62</small></div>
+      <div class="cap">raag entries transcribed (sur filled)</div>
+      <div class="track"><div class="fill" id="tf"></div></div>
+    </div>
+    <div class="bar">
+      <div class="n" id="an">0<small>&nbsp;/ 62</small></div>
+      <div class="cap">approved by Ustaad ji</div>
+      <div class="track"><div class="fill green" id="af"></div></div>
+    </div>
+  </div>
+  <p class="sub" style="color:var(--muted); font-size:.82rem;" id="asof">Counts read live from <code>data/raags.json</code>.</p>
+
+  <h2>Where we are right now</h2>
+  <p><strong>Foundations, extraction, and data prep are done.</strong> The raag data is clustered, reconciled to the book's real 62 raags (hierarchy fixed), and the entry tool is built and being polished for ease of use. <strong>Next action: start transcribing.</strong> Nothing upstream is blocking it.</p>
+
+  <h2>The roadmap</h2>
+
+  <div class="phase"><span class="pill done">Done</span><div class="body"><b>Foundations</b> — schema draft, SARGAM notation spec, Ma-convention settled, provenance/approval model.</div></div>
+  <div class="phase"><span class="pill done">Done</span><div class="body"><b>Extraction</b> — 4 in-scope books extracted (607 pages, all draft). <span class="d">Shabad-ID pipeline on BaniDB.</span></div></div>
+  <div class="phase"><span class="pill done">Done</span><div class="body"><b>Clustering &amp; data-model check</b> — 749 raw blocks → 302 real items; taal-grid model validated (S=sustain cited, matra-9 documented).</div></div>
+  <div class="phase"><span class="pill done">Done</span><div class="body"><b>Raag Da Saroup reconciled</b> — 62 real raags, sub-raag hierarchy captured, komal/teevra now render correctly in Gurmukhi.</div></div>
+  <div class="phase"><span class="pill now">In progress</span><div class="body"><b>Entry tool UX overhaul</b> — making the transcription form fast and hard to get wrong. <span class="d">CVS, today.</span></div></div>
+  <div class="phase"><span class="pill next">Next — the core</span><div class="body"><b>Transcribe 62 raag entries</b> (draft) — you + a raag-literate helper, starting tomorrow. <span class="d">~10 hrs of work, splittable.</span></div></div>
+  <div class="phase"><span class="pill next">Then</span><div class="body"><b>Ustaad ji approval</b> — review entries, confirm <code>Mukh Ang→pakad</code> + matra-9; flip <code>draft → approved</code>.</div></div>
+  <div class="phase"><span class="pill next">Then</span><div class="body"><b>Publish v0.1</b> — approved <code>raags.json</code> live + rendered on the reference site. <span class="d">Core done.</span></div></div>
+
+  <h2>The critical path (this is the whole to-do list)</h2>
+  <ol class="path">
+    <li class="is-done"><b>Data ready</b> — 62 raags reconciled &amp; verified. <span class="who">Done.</span></li>
+    <li class="is-now"><b>Tool UX overhaul</b> — <span class="who">CVS, in progress today.</span></li>
+    <li><b>Transcribe the 62 entries</b> as draft, using the tool. <span class="who">You + Ranjit — the main effort. Start tomorrow.</span></li>
+    <li><b>Baljeet signs off the raag schema</b> (issues #6, #9). <span class="who">Runs in parallel; only needs to land before publish, not before typing.</span></li>
+    <li><b>Ustaad ji reviews &amp; approves</b> → flip to <code>approved</code>. <span class="who">Batch the entries + the 2 confirmations.</span></li>
+    <li><b>Publish &amp; wire into the reference site.</b> <span class="who">v0.1 shipped.</span></li>
+  </ol>
+
+  <h2>Parked — <em>not</em> this week</h2>
+  <p>Everything below is real and matters later. None of it is on the path to v0.1, so it stays here until the core ships.</p>
+  <div class="park-list">
+    <div class="row"><span class="pill park">Park</span><div><b>Sampurn 55 Parhtala + Guru Gobind taal-grid transcription</b> <span class="why">— blocked on issue #4 (needs Baljeet: alignment rule + taalBol field).</span></div></div>
+    <div class="row"><span class="pill park">Park</span><div><b>The taal-grid transcription tool</b> <span class="why">— same block; build only after the schema gap closes.</span></div></div>
+    <div class="row"><span class="pill park">Park</span><div><b>The 3 held books</b> (Guru Tegh Bahadur, Guru Nanak Vol. I &amp; II) <span class="why">— font problems; Asees fix + Anmol's source ask first.</span></div></div>
+    <div class="row"><span class="pill park">Park</span><div><b>Offline shabad-ID (SQLite) decision — issue #3</b> <span class="why">— gated on the reference site's hosting.</span></div></div>
+    <div class="row"><span class="pill park">Park</span><div><b>Reference domain finalization</b> (ShabadSwar vs GurbaniSargam) <span class="why">— don't rename docs until settled.</span></div></div>
+    <div class="row"><span class="pill park">Park</span><div><b>Licensing sign-off &amp; public visibility</b> <span class="why">— family's blessing; needed before publishing publicly, not before v0.1 draft.</span></div></div>
+    <div class="row"><span class="pill park">Park</span><div><b>Full corpus + community contribution flow</b> <span class="why">— after v0.1 proves the loop.</span></div></div>
+  </div>
+
+  <h2>Who unblocks what</h2>
+  <div class="dep">
+    <div class="row"><span class="who">You + Ranjit</span> — transcribe the 62 (the actual bottleneck). <span class="g">Ranjit's raag ear also resolves komal/shuddh calls.</span></div>
+    <div class="row"><span class="who">Baljeet</span> — raag schema sign-off (#6 Sur/Mukh Ang, #9 hierarchy). <span class="g">Needed before publish; does NOT block typing. Also owns the taal-grid #4 items for later.</span></div>
+    <div class="row"><span class="who">Ustaad ji</span> — approve entries; confirm Mukh Ang→pakad + matra-9. <span class="g">Gates draft → approved.</span></div>
+    <div class="row"><span class="who">Anmol</span> — vision/faithfulness review + Asees source. <span class="g">Not blocking the core.</span></div>
+  </div>
+
+  <h2>Definition of done</h2>
+  <div class="dod">
+    <b>v0.1 is done when:</b> all 62 Raag Da Saroup entries are transcribed as draft, reviewed and approved by Ustaad ji, published in <code>data/raags.json</code> as <code>approved</code>, and rendered live on the reference site — the first trustworthy, authority-confirmed slice of the dataset.
+  </div>
+
+  <h2>The one rule</h2>
+  <div class="rule">
+    <b>If it isn't on the critical path above, it goes in Parked.</b> Don't start it until v0.1 ships. The temptation will be the held books, the taal-grid tool, or schema perfectionism — all of it waits. The core is 62 raag entries → approved → published. That's it.
+  </div>
+
+  <div class="foot">
+    Auto-updates from the dataset. Full detail &amp; decisions live in <a href="GURMAT-SANGEET-CONTEXT.md">GURMAT-SANGEET-CONTEXT.md</a>.
+  </div>
+</div>
+
+<script>
+(function () {
+  var TARGET = 62;
+  function set(id, txt) { var e = document.getElementById(id); if (e) e.innerHTML = txt; }
+  function pct(n) { return Math.max(0, Math.min(100, (n / TARGET) * 100)); }
+  fetch('data/raags.json', { cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error('no data'); return r.json(); })
+    .then(function (data) {
+      var entries = Object.keys(data).map(function (k) { return data[k]; });
+      var transcribed = entries.filter(function (e) {
+        return (e && ((e.aroh && e.aroh.trim()) || (e.avroh && e.avroh.trim())));
+      }).length;
+      var approved = entries.filter(function (e) { return e && e.status === 'approved'; }).length;
+      set('tn', transcribed + '<small>&nbsp;/ ' + TARGET + '</small>');
+      set('an', approved + '<small>&nbsp;/ ' + TARGET + '</small>');
+      document.getElementById('tf').style.width = pct(transcribed) + '%';
+      document.getElementById('af').style.width = pct(approved) + '%';
+      set('asof', 'Live: ' + entries.length + ' entries in the dataset, ' + transcribed +
+        ' with sur transcribed, ' + approved + ' approved. Target ' + TARGET + '.');
+    })
+    .catch(function () {
+      set('asof', 'Showing 0 / 62 — live counts appear once this page is served from the site (with data/raags.json alongside).');
+    });
+})();
+</script>
+</body>
+</html>

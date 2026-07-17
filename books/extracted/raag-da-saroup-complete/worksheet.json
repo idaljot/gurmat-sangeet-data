@@ -1,0 +1,1658 @@
+[
+  {
+    "manifest_id": "raag-da-saroup-complete-0001",
+    "page_range": [
+      1,
+      1
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "images": [
+      "notation/page-001-block-1.png",
+      "notation/page-001-block-2.png",
+      "notation/page-001-block-3.png",
+      "notation/page-001-block-4.png",
+      "notation/page-001-block-5.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "$ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ",
+      "ਵਰਜਿਤ ਸੁਰ": "ਗੰਧਾਰ ਧੈਵਤ",
+      "ਆਰੋਹ": "ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ",
+      "ਅਵਰੋਹ": "ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ \"ਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਸਮਰ \"ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ"
+    },
+    "page_prose": "1. ਰਾਗ ਸਿਰੀਗਾਗ\n\nਥਾਣ ਪੂਰਬੀ\nਜਾਤੀ । ਔੜਵ-ਸੰਪੂਰਣ\n\nਸੰਵਾਦੀ ਪੰਚਮ\n\nਸੁਰ $ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ ਧੈਵਤ\n\nਆਰੋਹ ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ\n\nਅਵਰੋਹ ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ \"ਰੇਸ\n\nਮੁੱਖ ਅੰਗ । ਸਮਰ \"ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ\n\n2. ਰਾਗ ਮਾਝ\n\nਥਾਟ 2 ਕਾਫੀ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇ,ਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਮਗਰੇਪ,ਗੁਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਪ, ਧ ਮ ਗ ਮ, ਰੋ ਪ, \"ਗੁ, ਰੇਗੁਸਰੇਨੀਸ\n",
+    "raag_number": "1",
+    "raag_name_as_printed": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0002",
+    "page_range": [
+      1,
+      1
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸਿਰੀਗਾਗ",
+    "images": [
+      "notation/page-001-block-6.png",
+      "notation/page-001-block-7.png",
+      "notation/page-001-block-8.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇ,ਮਪ,ਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਧਮਗਰੇਪ,ਗੁਰੇਗੁਸਰੇਨੀਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਪ, ਧ ਮ ਗ ਮ, ਰੋ ਪ, \"ਗੁ, ਰੇਗੁਸਰੇਨੀਸ"
+    },
+    "page_prose": "1. ਰਾਗ ਸਿਰੀਗਾਗ\n\nਥਾਣ ਪੂਰਬੀ\nਜਾਤੀ । ਔੜਵ-ਸੰਪੂਰਣ\n\nਸੰਵਾਦੀ ਪੰਚਮ\n\nਸੁਰ $ ਸ਼ੜਜ,ਰਿਸ਼ਭ,ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ ਧੈਵਤ\n\nਆਰੋਹ ਤੂ ਸਰੇ ਮੇ,ਪਨੀਸਂ\n\nਅਵਰੋਹ ਭੂ ਸੰਨੀਧੁਪ, ਮੇਗਦਂਰੇ \"ਰੇਸ\n\nਮੁੱਖ ਅੰਗ । ਸਮਰ \"ਰੇ, ਸ ਰੇ ਪ, ਮੇਗ, ਰੇ ਸ\n\n2. ਰਾਗ ਮਾਝ\n\nਥਾਟ 2 ਕਾਫੀ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇ,ਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਮਗਰੇਪ,ਗੁਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਪ, ਧ ਮ ਗ ਮ, ਰੋ ਪ, \"ਗੁ, ਰੇਗੁਸਰੇਨੀਸ\n",
+    "raag_number": "2",
+    "raag_name_as_printed": "ਰਾਗ ਮਾਝ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0003",
+    "page_range": [
+      2,
+      2
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-002-block-1.png",
+      "notation/page-002-block-2.png",
+      "notation/page-002-block-3.png",
+      "notation/page-002-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "2 ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ",
+      "ਵਰਜਿਤ ਸੁਰ": "ਆਰੋਹ ਵਿਚ ਧੈਵਤ",
+      "ਅਵਰੋਹ": "2 ਸੰਨੀਧੁਮਪ,ਧੁਪਮਗ,ਗਰੇਸਨੀਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਮਧੁਪ,ਧੁਮਪਗਮ,ਰੇਗਰੇਸਨੀ,ਸ"
+    },
+    "page_prose": "3. ਰਾਗੁ ਗਉੜੀ\n\nਥਾਟ 2 ਭੈਰਵ\nਸੰਵਾਦੀ ? ਪੰਚਮ\n\nਸੁਰ 2 ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਧੈਵਤ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇਗਰੇਮਪਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧੁਮਪ,ਧੁਪਮਗ,ਗਰੇਸਨੀਸ\nਮੁੱਖ ਅੰਗ । ਮਧੁਪ,ਧੁਮਪਗਮ,ਰੇਗਰੇਸਨੀ,ਸ\n3.1 ਰਾਗੁ ਗਉੜੀ ਗੁਆਰੇਰੀ\n\nਥਾਟ ਮਾਰਵਾ\n\nਜਾਤੀ ਔੜਵ- ਸ਼ਾੜਵ\n\nਵਾਦੀ ਗੰਧਾਰ\n\nਸੰਵਾਦੀ ਧੈਵਤ\n\nਅਰੋਹ 2 ਸਗਸੇਧਪਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਸਨੀਧ,ਮੇਧਮੇਗਰੇਸ,ਰੇਗਰੇਸਨੀ\n",
+    "raag_number": "3",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0004",
+    "page_range": [
+      2,
+      2
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-002-block-5.png",
+      "notation/page-002-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਅਵਰੋਹ": "2 ਸੰਨੀਧਮੇਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "2 ਸਨੀਧ,ਮੇਧਮੇਗਰੇਸ,ਰੇਗਰੇਸਨੀ"
+    },
+    "page_prose": "3. ਰਾਗੁ ਗਉੜੀ\n\nਥਾਟ 2 ਭੈਰਵ\nਸੰਵਾਦੀ ? ਪੰਚਮ\n\nਸੁਰ 2 ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਧੈਵਤ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇਗਰੇਮਪਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧੁਮਪ,ਧੁਪਮਗ,ਗਰੇਸਨੀਸ\nਮੁੱਖ ਅੰਗ । ਮਧੁਪ,ਧੁਮਪਗਮ,ਰੇਗਰੇਸਨੀ,ਸ\n3.1 ਰਾਗੁ ਗਉੜੀ ਗੁਆਰੇਰੀ\n\nਥਾਟ ਮਾਰਵਾ\n\nਜਾਤੀ ਔੜਵ- ਸ਼ਾੜਵ\n\nਵਾਦੀ ਗੰਧਾਰ\n\nਸੰਵਾਦੀ ਧੈਵਤ\n\nਅਰੋਹ 2 ਸਗਸੇਧਪਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਸਨੀਧ,ਮੇਧਮੇਗਰੇਸ,ਰੇਗਰੇਸਨੀ\n",
+    "raag_number": "3.1",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਗੁਆਰੇਰੀ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0005",
+    "page_range": [
+      3,
+      3
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-003-block-1.png",
+      "notation/page-003-block-2.png",
+      "notation/page-003-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਪੰਚਮ ਤੇ ਗੰਧਾਰ",
+      "ਅਵਰੋਹ": "2 ਸੰਨੀਧੁਪ,ਮਗਰੇੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "2 ਸਰੇਮਪ,ਧੁਮਪਗਰੇਸ"
+    },
+    "page_prose": "3.2 ਰਾਗੁ ਗਉੜੀ ਦੱਖਣੀ\n\nਥਾਟ ਮਾਯਾਮਲਵ ਗੋੜ\nਸੰਵਾਦੀ ? ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ __: ਪੰਚਮ ਤੇ ਗੰਧਾਰ\n\nਸਮਾਂ 2 ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇ, ਮਪ,ਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧੁਪ,ਮਗਰੇੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਸਰੇਮਪ,ਧੁਮਪਗਰੇਸ\n\n3.3 ਰਾਗੁ ਗਉੜੀ ਚੇਤੀ\n\nਜਾਤੀ : ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਵਾਦੀ ? ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ\n\nਸਮਾਂ ? ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇਮੇਪਮੇਧੁਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧੁਪਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਨੀਧੁਪ,ਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ\n",
+    "raag_number": "3.2",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਦੱਖਣੀ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0006",
+    "page_range": [
+      3,
+      3
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-003-block-4.png",
+      "notation/page-003-block-5.png",
+      "notation/page-003-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਗੰਧਾਰ",
+      "ਅਵਰੋਹ": "2 ਸੰਨੀਧੁਪਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "2 ਨੀਧੁਪ,ਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ"
+    },
+    "page_prose": "3.2 ਰਾਗੁ ਗਉੜੀ ਦੱਖਣੀ\n\nਥਾਟ ਮਾਯਾਮਲਵ ਗੋੜ\nਸੰਵਾਦੀ ? ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ __: ਪੰਚਮ ਤੇ ਗੰਧਾਰ\n\nਸਮਾਂ 2 ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇ, ਮਪ,ਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧੁਪ,ਮਗਰੇੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਸਰੇਮਪ,ਧੁਮਪਗਰੇਸ\n\n3.3 ਰਾਗੁ ਗਉੜੀ ਚੇਤੀ\n\nਜਾਤੀ : ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਵਾਦੀ ? ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ\n\nਸਮਾਂ ? ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇਮੇਪਮੇਧੁਨੀਸ\n\nਅਵਰੋਹ 2 ਸੰਨੀਧੁਪਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਨੀਧੁਪ,ਧੁਮਪਮੇਧੁਮੇ,ਗਰੇਗਰੇਸ\n",
+    "raag_number": "3.3",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਚੇਤੀ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0007",
+    "page_range": [
+      4,
+      4
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-004-block-1.png",
+      "notation/page-004-block-2.png",
+      "notation/page-004-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਗੰਧਾਰ ਤੇ ਪੰਚਮ",
+      "ਅਵਰੋਹ": "2 ਸੱਨੀਧੁਮ,ਰੇਸਨੀਧੁਸਨੀਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "2 ਧੁ ਮ, ਰੇ ਮ, ਰੇ ਸ,ਨੀਧੁਸਨੀਰੇਸ"
+    },
+    "page_prose": "3.4 ਰਾਗੁ ਗਉੜੀ ਬੈਰਾਗਣਿ\n\nਥਾਟ ਭੈਰਵ\nਜਾਤੀ ? ਔੜਵ- ਔੜਵ\n\nਸੰਵਾਦੀ ? ਧੈਵਤ\n\nਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ ਤੇ ਪੰਚਮ\n\nਸਮਾਂ : ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇ, ਮਧੁਨੀਸੰ\n\nਅਵਰੋਹ 2 ਸੱਨੀਧੁਮ,ਰੇਸਨੀਧੁਸਨੀਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਧੁ ਮ, ਰੇ ਮ, ਰੇ ਸ,ਨੀਧੁਸਨੀਰੇਸ\n\n3.5 ਰਾਗ ਗਉੜੀ ਦੀਪਕੀ\n\nਥਾਟ 2 ਮਾਰਵਾ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਗਮੇਪ,ਮੇਧਨੀਸੰਰੁੱਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ\n",
+    "raag_number": "3.4",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਬੈਰਾਗਣਿ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0008",
+    "page_range": [
+      4,
+      4
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-004-block-4.png",
+      "notation/page-004-block-5.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਗਮੇਪ,ਮੇਧਨੀਸੰਰੁੱਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ"
+    },
+    "page_prose": "3.4 ਰਾਗੁ ਗਉੜੀ ਬੈਰਾਗਣਿ\n\nਥਾਟ ਭੈਰਵ\nਜਾਤੀ ? ਔੜਵ- ਔੜਵ\n\nਸੰਵਾਦੀ ? ਧੈਵਤ\n\nਵਰਜਿਤ ਸੁਰ __: ਗੰਧਾਰ ਤੇ ਪੰਚਮ\n\nਸਮਾਂ : ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਅਰੋਹ 2 ਸਰੇ, ਮਧੁਨੀਸੰ\n\nਅਵਰੋਹ 2 ਸੱਨੀਧੁਮ,ਰੇਸਨੀਧੁਸਨੀਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਧੁ ਮ, ਰੇ ਮ, ਰੇ ਸ,ਨੀਧੁਸਨੀਰੇਸ\n\n3.5 ਰਾਗ ਗਉੜੀ ਦੀਪਕੀ\n\nਥਾਟ 2 ਮਾਰਵਾ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਗਮੇਪ,ਮੇਧਨੀਸੰਰੁੱਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਧਪਮੇਗਸ,ਰੇਗਰੇਸਨੀਸ\n",
+    "raag_number": "3.5",
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਦੀਪਕੀ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0009",
+    "page_range": [
+      5,
+      5
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-005-block-1.png",
+      "notation/page-005-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਕੋਈ ਨਹੀਂ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਸੰਨੀਧਪ,ਮੇਗ-ਮਗਮੇਗਸ, ਰੇਗਰੇਸ.ਨੀਸ"
+    },
+    "page_prose": "ਬਾਟ ਪੂਰਵੀ\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਅਰੋਹ ਸਰੇਗਰੇ, ਮੇਪਧੁਪ, ਮੇਧੁਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀਧਸੰਨੀਧਪ,ਮੇਗ-ਮਗਮੇਗਸ, ਰੇਗਰੇਸ.ਨੀਸ\nਮੁੰਖ ਅੰਗ ਮੇਧੁਪ,ਨੀਧਪਮੇਗ-ਸ,ਰੇਗਰੇਸਨੀ,ਸ\n\n3.7 ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ\n\nਥਾਟ ਪੂਰਵੀ\n\nਵਾਦੀ ਰਿਸ਼ਭ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਸ਼ਾਮ\n\nਅਰੋਹ ਸਰੇਗਰੇ,ਗਮੇਪਧੁਪ,ਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀ ਧੁਪ, ਮੇ ਗ-ਮਗ, ਮੇ ਗਰੇ,ਨੀ ਰੇਸ\n\nਮੁੰਖ ਅੰਗ\n\nਪਮੇਗਮਗ,ਮੇਗਰੇਸ,ਨੀਧੁਸਨੀਰੇਸ\n",
+    "raag_number": "3.6",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਦੀਪਕੀ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": true,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0010",
+    "page_range": [
+      5,
+      5
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਗਉੜੀ",
+    "images": [
+      "notation/page-005-block-3.png",
+      "notation/page-005-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਕੋਈ ਨਹੀਂ",
+      "ਅਵਰੋਹ": "ਸੰਨੀ ਧੁਪ, ਮੇ ਗ-ਮਗ, ਮੇ ਗਰੇ,ਨੀ ਰੇਸ"
+    },
+    "page_prose": "ਬਾਟ ਪੂਰਵੀ\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਅਰੋਹ ਸਰੇਗਰੇ, ਮੇਪਧੁਪ, ਮੇਧੁਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀਧਸੰਨੀਧਪ,ਮੇਗ-ਮਗਮੇਗਸ, ਰੇਗਰੇਸ.ਨੀਸ\nਮੁੰਖ ਅੰਗ ਮੇਧੁਪ,ਨੀਧਪਮੇਗ-ਸ,ਰੇਗਰੇਸਨੀ,ਸ\n\n3.7 ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ\n\nਥਾਟ ਪੂਰਵੀ\n\nਵਾਦੀ ਰਿਸ਼ਭ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਸ਼ਾਮ\n\nਅਰੋਹ ਸਰੇਗਰੇ,ਗਮੇਪਧੁਪ,ਨੀਸਂ\n\nਅਵਰੋਹ ਸੰਨੀ ਧੁਪ, ਮੇ ਗ-ਮਗ, ਮੇ ਗਰੇ,ਨੀ ਰੇਸ\n\nਮੁੰਖ ਅੰਗ\n\nਪਮੇਗਮਗ,ਮੇਗਰੇਸ,ਨੀਧੁਸਨੀਰੇਸ\n",
+    "raag_number": "3.7",
+    "raag_name_as_printed": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0011",
+    "page_range": [
+      6,
+      6
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਗਉੜੀ",
+    "images": [
+      "notation/page-006-block-1.png",
+      "notation/page-006-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ"
+    },
+    "page_prose": "ਥਾਟ ਮਾਰਵਾ\nਵਾਦੀ ਪੰਚਮ\n\nਆਰੋਹ : ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਸਰੇਗਰੇ, ਧਮਗਮ,ਰੇਗੁ,ਰੇਗਸਰੇਨੀਸ\n\n3.9 ਰਾਗ ਗਉੜੀ ਮਾਲਵਾ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ\nਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀਪਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ\n",
+    "raag_number": "3.8",
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਝ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": true,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0012",
+    "page_range": [
+      6,
+      6
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਗਉੜੀ",
+    "images": [
+      "notation/page-006-block-3.png",
+      "notation/page-006-block-4.png",
+      "notation/page-006-block-5.png",
+      "notation/page-006-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ",
+      "ਆਰੋਹ": "ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਪਮੇਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ"
+    },
+    "page_prose": "ਥਾਟ ਮਾਰਵਾ\nਵਾਦੀ ਪੰਚਮ\n\nਆਰੋਹ : ਸਰੇਗਰੇ, ਮੇਪਧੁਪ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਧਮਗਮ,ਰੋਪਗੁ,ਰੇਗੁਸਰੇਨੀਸ\n\nਮੁੰਖ ਅੰਗ : ਸਰੇਗਰੇ, ਧਮਗਮ,ਰੇਗੁ,ਰੇਗਸਰੇਨੀਸ\n\n3.9 ਰਾਗ ਗਉੜੀ ਮਾਲਵਾ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਨਿਸ਼ਾਦ ਤੋ ਅਵਰੋਹ ਵਿਚ ਧੈਵਤ\nਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗਰੇਸ,ਰੇਗਮੇਪਧੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀਪਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਰੇਸ,ਨੀਪਮੇਗਰੇਸ\n",
+    "raag_number": "3.9",
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਲਵਾ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0013",
+    "page_range": [
+      7,
+      7
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਗਉੜੀ",
+    "images": [
+      "notation/page-007-block-1.png",
+      "notation/page-007-block-2.png",
+      "notation/page-007-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਗੁਮਪਧੁ,ਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧੁਪ,ਮਗੁਰੇ,ਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਰੋ ਗੁ ਰੂ, ਸ, ਨੀ ਸ, ਧੁ, ਪ ਮ ਗੁ ਰੂੰ, ਸ"
+    },
+    "page_prose": "ਥਾਟ ਆਸਾਵਰੀ\n\nਜਾਤੀ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗੁਮਪਧੁ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗੁਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋ ਗੁ ਰੂ, ਸ, ਨੀ ਸ, ਧੁ, ਪ ਮ ਗੁ ਰੂੰ, ਸ\n\n3.11 ਰਾਗ ਗਉੜੀ ਸੋਰਠਿ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਰੇਗਰੇਮੇਪਮੇਧੁਨੀਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਮਰੋਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਮੇਪਧਮਰੇ,ਸ\n",
+    "raag_number": "3.10",
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਮਾਲਾ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": true,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0014",
+    "page_range": [
+      7,
+      7
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਗਉੜੀ",
+    "images": [
+      "notation/page-007-block-4.png",
+      "notation/page-007-block-5.png",
+      "notation/page-007-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਗਰੇਮੇਪਮੇਧੁਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ, ਮਰੋਨੀਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਰੋਗਮੇਪਧਮਰੇ,ਸ"
+    },
+    "page_prose": "ਥਾਟ ਆਸਾਵਰੀ\n\nਜਾਤੀ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਗੁਮਪਧੁ,ਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗੁਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋ ਗੁ ਰੂ, ਸ, ਨੀ ਸ, ਧੁ, ਪ ਮ ਗੁ ਰੂੰ, ਸ\n\n3.11 ਰਾਗ ਗਉੜੀ ਸੋਰਠਿ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਰੇਗਰੇਮੇਪਮੇਧੁਨੀਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧਪ, ਮਰੋਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਮੇਪਧਮਰੇ,ਸ\n",
+    "raag_number": "3.11",
+    "raag_name_as_printed": "ਰਾਗ ਗਉੜੀ ਸੋਰਠਿ",
+    "parent_raag_number": "3",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0015",
+    "page_range": [
+      8,
+      8
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਆਸਾ",
+    "images": [
+      "notation/page-008-block-1.png",
+      "notation/page-008-block-2.png",
+      "notation/page-008-block-3.png",
+      "notation/page-008-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "2 ਸਾਰੇ ਸਵਰ ਸ਼ੁਧ",
+      "ਆਰੋਹ": "2 ਸਰੇਮਪਧਸ'",
+      "ਅਵਰੋਹ": "ਤੂ ਸਾਨੀਧਪ,ਮ,ਗਰੇ,ਸਗਰੇਗਸ",
+      "ਮੁੱਖ ਅੰਗ": "$ ਰੇਮਪ,ਧਸ,ਨੀਧਪਮ,ਗਰੇਗਸ"
+    },
+    "page_prose": "4. ਰਾਗੁ ਆਸਾ\n\nਥਾਟ $ ਬਿਲਾਵਲ,\n\nਵਾਦੀ 2 ਮਧਿਅਮ\n\nਸੁਰ 2 ਸਾਰੇ ਸਵਰ ਸ਼ੁਧ\n\nਆਰੋਹ 2 ਸਰੇਮਪਧਸ'\n\nਅਵਰੋਹ ਤੂ ਸਾਨੀਧਪ,ਮ,ਗਰੇ,ਸਗਰੇਗਸ\nਮੁੱਖ ਅੰਗ $ ਰੇਮਪ,ਧਸ,ਨੀਧਪਮ,ਗਰੇਗਸ\n4.1 ਰਾਗ ਆਸਾਵਰੀ\n\nਥਾਟ ਆਸਾਵਰੀ\n\nਜਾਤੀ ਐੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਗੰਧਾਰ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ ? ਸਰੇਮਪਥੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀ, ਧੁ, ਪਮਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਮਪਧੁ,ਮਪਗੁ,ਰੇਸ\n",
+    "raag_number": "4",
+    "raag_name_as_printed": "ਰਾਗੁ ਆਸਾ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0016",
+    "page_range": [
+      8,
+      8
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗੁ ਆਸਾ",
+    "images": [
+      "notation/page-008-block-5.png",
+      "notation/page-008-block-6.png",
+      "notation/page-008-block-7.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "? ਸਰੇਮਪਥੁਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀ, ਧੁ, ਪਮਗੁਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਮਪਧੁ,ਮਪਗੁ,ਰੇਸ"
+    },
+    "page_prose": "4. ਰਾਗੁ ਆਸਾ\n\nਥਾਟ $ ਬਿਲਾਵਲ,\n\nਵਾਦੀ 2 ਮਧਿਅਮ\n\nਸੁਰ 2 ਸਾਰੇ ਸਵਰ ਸ਼ੁਧ\n\nਆਰੋਹ 2 ਸਰੇਮਪਧਸ'\n\nਅਵਰੋਹ ਤੂ ਸਾਨੀਧਪ,ਮ,ਗਰੇ,ਸਗਰੇਗਸ\nਮੁੱਖ ਅੰਗ $ ਰੇਮਪ,ਧਸ,ਨੀਧਪਮ,ਗਰੇਗਸ\n4.1 ਰਾਗ ਆਸਾਵਰੀ\n\nਥਾਟ ਆਸਾਵਰੀ\n\nਜਾਤੀ ਐੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਗੰਧਾਰ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ ? ਸਰੇਮਪਥੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀ, ਧੁ, ਪਮਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਮਪਧੁ,ਮਪਗੁ,ਰੇਸ\n",
+    "raag_number": "4.1",
+    "raag_name_as_printed": "ਰਾਗ ਆਸਾਵਰੀ",
+    "parent_raag_number": "4",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0017",
+    "page_range": [
+      9,
+      9
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਆਸਾਵਰੀ",
+    "images": [
+      "notation/page-009-block-1.png",
+      "notation/page-009-block-2.png",
+      "notation/page-009-block-3.png",
+      "notation/page-009-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ",
+      "ਆਰੋਹ": "'ਸ, ਰੋ ਮ, ਪ, ਧੁ ਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧੁਪਮ,ਪਧੁਮਪਗੁਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਪਮ,ਧੁਪਧੁਮਪ,ਗੁਰੇੇਸ"
+    },
+    "page_prose": "4.1.1 ਰਾਗ ਆਸਾਵਰੀ ਸੁਧੰਗ\n\nਥਾਟ 2 ਆਸਾਵਰੀ\n\nਵਾਦੀ : ਧੈਵਤ\n\nਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ : 'ਸ, ਰੋ ਮ, ਪ, ਧੁ ਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧੁਪਮ,ਪਧੁਮਪਗੁਰੇਸ\nਮੁੱਖ ਅੰਗ : ਪਮ,ਧੁਪਧੁਮਪ,ਗੁਰੇੇਸ\n\n4.2 ਰਾਗ ਆਸਾ ਕਾਫੀ\n\nਥਾਟ । ਕਾਫੀ\n\nਜਾਤੀ ਭੂ ਔੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ । ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਅਸਰੋਹ ਵਿਚ ਗੰਧਾਰ, ਨਿਸਾਦ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ ਤੂ ਸ ਰੇਗਸ,ਰੇਮਪਧ,ਪਧਸ'\nਅਵਰੋਹ ਤੂ ਸੱ, ਨੀ ਧ ਪ, ਧ ਮ ਗੁ-ਰੇ ਸ\n\nਮੁੱਖ ਅੰਗ : ਧਨੀਪਧਸੱਨੀਧਪ,ਮਪਗੁ-ਰੇਸ\n",
+    "raag_number": "4.1.1",
+    "raag_name_as_printed": "ਰਾਗ ਆਸਾਵਰੀ ਸੁਧੰਗ",
+    "parent_raag_number": "4.1",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0018",
+    "page_range": [
+      9,
+      9
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਆਸਾਵਰੀ",
+    "images": [
+      "notation/page-009-block-5.png",
+      "notation/page-009-block-6.png",
+      "notation/page-009-block-7.png",
+      "notation/page-009-block-8.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਅਸਰੋਹ ਵਿਚ ਗੰਧਾਰ, ਨਿਸਾਦ",
+      "ਆਰੋਹ": "ਤੂ ਸ ਰੇਗਸ,ਰੇਮਪਧ,ਪਧਸ'",
+      "ਅਵਰੋਹ": "ਤੂ ਸੱ, ਨੀ ਧ ਪ, ਧ ਮ ਗੁ-ਰੇ ਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਧਨੀਪਧਸੱਨੀਧਪ,ਮਪਗੁ-ਰੇਸ"
+    },
+    "page_prose": "4.1.1 ਰਾਗ ਆਸਾਵਰੀ ਸੁਧੰਗ\n\nਥਾਟ 2 ਆਸਾਵਰੀ\n\nਵਾਦੀ : ਧੈਵਤ\n\nਵਰਜਿਤ ਸੁਰ _ : ਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ : 'ਸ, ਰੋ ਮ, ਪ, ਧੁ ਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧੁਪਮ,ਪਧੁਮਪਗੁਰੇਸ\nਮੁੱਖ ਅੰਗ : ਪਮ,ਧੁਪਧੁਮਪ,ਗੁਰੇੇਸ\n\n4.2 ਰਾਗ ਆਸਾ ਕਾਫੀ\n\nਥਾਟ । ਕਾਫੀ\n\nਜਾਤੀ ਭੂ ਔੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ । ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਅਸਰੋਹ ਵਿਚ ਗੰਧਾਰ, ਨਿਸਾਦ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ ਤੂ ਸ ਰੇਗਸ,ਰੇਮਪਧ,ਪਧਸ'\nਅਵਰੋਹ ਤੂ ਸੱ, ਨੀ ਧ ਪ, ਧ ਮ ਗੁ-ਰੇ ਸ\n\nਮੁੱਖ ਅੰਗ : ਧਨੀਪਧਸੱਨੀਧਪ,ਮਪਗੁ-ਰੇਸ\n",
+    "raag_number": "4.2",
+    "raag_name_as_printed": "ਰਾਗ ਆਸਾ ਕਾਫੀ",
+    "parent_raag_number": "4",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0019",
+    "page_range": [
+      10,
+      10
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਗੁਜਰੀ",
+    "images": [
+      "notation/page-010-block-1.png",
+      "notation/page-010-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "",
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "5. ਰਾਗ ਗੁਜਰੀ\n\nਸੰਵਾਦੀ\n\nਵਰਜਿਤ ਸੁਰ\n\nਖ਼\nਦੁ\n\nਮੁੱਖ ਅੰਗ\n\n6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ\n\nਤੋੜੀ\n\nਕੋਮਲ ਧੈਵਤ\n\nਕੋਮਲ ਰਿਸ਼ਭ\n\nਪੰਚਮ\n\nਸਰੇਗੁਮੇਧੁਨੀਸ'\nਸਾਂਨੀਧੁ ਮੇ ਗੁਰੇ,ਗੁਰੇਸ\n\nਮੇਧੁਨੀਸ',ਨੀਧੁਮੇਗੁਰੇ,ਗੁਰੇਸ\n\nਮਧਿਅਮ\n\nਸ਼ੜਜ\n\nਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਮਪਧਸੰ\n\nਸੰਨੀਧਪ, ਮਪ,ਧੁਨੀਧੁਪ,ਮਗਰੇੋਸ\n\nਧੁਨੀ ਧੁਪ, ਮਗ, ਸਰੋਮ,ਗਸਰੇਗਸ\n",
+    "raag_number": "5",
+    "raag_name_as_printed": "ਰਾਗ ਗੁਜਰੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0020",
+    "page_range": [
+      10,
+      10
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਗੁਜਰੀ",
+    "images": [
+      "notation/page-010-block-3.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "5. ਰਾਗ ਗੁਜਰੀ\n\nਸੰਵਾਦੀ\n\nਵਰਜਿਤ ਸੁਰ\n\nਖ਼\nਦੁ\n\nਮੁੱਖ ਅੰਗ\n\n6. ਰਾਗ ਦੇਵਗੰਧਾਰੀ\n\nਤੋੜੀ\n\nਕੋਮਲ ਧੈਵਤ\n\nਕੋਮਲ ਰਿਸ਼ਭ\n\nਪੰਚਮ\n\nਸਰੇਗੁਮੇਧੁਨੀਸ'\nਸਾਂਨੀਧੁ ਮੇ ਗੁਰੇ,ਗੁਰੇਸ\n\nਮੇਧੁਨੀਸ',ਨੀਧੁਮੇਗੁਰੇ,ਗੁਰੇਸ\n\nਮਧਿਅਮ\n\nਸ਼ੜਜ\n\nਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਮਪਧਸੰ\n\nਸੰਨੀਧਪ, ਮਪ,ਧੁਨੀਧੁਪ,ਮਗਰੇੋਸ\n\nਧੁਨੀ ਧੁਪ, ਮਗ, ਸਰੋਮ,ਗਸਰੇਗਸ\n",
+    "raag_number": "6",
+    "raag_name_as_printed": "ਰਾਗ ਦੇਵਗੰਧਾਰੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0021",
+    "page_range": [
+      11,
+      11
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "images": [
+      "notation/page-011-block-1.png",
+      "notation/page-011-block-2.png",
+      "notation/page-011-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਮਪਥਧੁਮ,ਪਧੁਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰ ਠੀ ਧੁ ਪ, ਮ \"ਗੁ ਰੋ ਸ, ਰੇ ਨੀ ਸ ਰੋ ਗ ਮਪ, ”ਗੁ ਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਨੀ ਧੁ ਪ, ਮਪ”ਗੁ ਰੇਸ,ਰੇਨੀਸਰੋਗਮ"
+    },
+    "page_prose": "6.1 ਰਾਗ ਦੇਵਗੰਧਾਰ\n\nਥਾਟ ਆਸਾਵਰੀ,\n\nਜਾਤੀ ਸ਼ਾੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ : ਧੈਵਤ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਮਪਥਧੁਮ,ਪਧੁਨੀਸ\n\nਅਵਰੋਹ : ਸੰ ਠੀ ਧੁ ਪ, ਮ \"ਗੁ ਰੋ ਸ, ਰੇ ਨੀ ਸ ਰੋ ਗ ਮਪ, ”ਗੁ ਰੇਸ\nਮੁੱਖ ਅੰਗ : ਨੀ ਧੁ ਪ, ਮਪ”ਗੁ ਰੇਸ,ਰੇਨੀਸਰੋਗਮ\n7. ਰਾਗ ਬਿਹਾਗੜਾ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਔੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ ਮਥਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਆਰੋਹ : ਨੀ,ਸਗਮਪਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਨੀਧਪ,ਧਗਮਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਸਗਮਪ,ਧਨੁੀਧਪ,ਗਮ,ਪਮਗਰੇਸ\n",
+    "raag_number": "6.1",
+    "raag_name_as_printed": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "parent_raag_number": "6",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0022",
+    "page_range": [
+      11,
+      11
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਦੇਵਗੰਧਾਰ",
+    "images": [
+      "notation/page-011-block-4.png",
+      "notation/page-011-block-5.png",
+      "notation/page-011-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਨੀ,ਸਗਮਪਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਨੀਧਪ,ਧਗਮਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "2 ਸਗਮਪ,ਧਨੁੀਧਪ,ਗਮ,ਪਮਗਰੇਸ"
+    },
+    "page_prose": "6.1 ਰਾਗ ਦੇਵਗੰਧਾਰ\n\nਥਾਟ ਆਸਾਵਰੀ,\n\nਜਾਤੀ ਸ਼ਾੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ : ਧੈਵਤ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਮਪਥਧੁਮ,ਪਧੁਨੀਸ\n\nਅਵਰੋਹ : ਸੰ ਠੀ ਧੁ ਪ, ਮ \"ਗੁ ਰੋ ਸ, ਰੇ ਨੀ ਸ ਰੋ ਗ ਮਪ, ”ਗੁ ਰੇਸ\nਮੁੱਖ ਅੰਗ : ਨੀ ਧੁ ਪ, ਮਪ”ਗੁ ਰੇਸ,ਰੇਨੀਸਰੋਗਮ\n7. ਰਾਗ ਬਿਹਾਗੜਾ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਔੜਵ-ਸੰਪੂਰਣ\n\nਵਾਦੀ ਮਥਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਆਰੋਹ : ਨੀ,ਸਗਮਪਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਨੀਧਪ,ਧਗਮਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ 2 ਸਗਮਪ,ਧਨੁੀਧਪ,ਗਮ,ਪਮਗਰੇਸ\n",
+    "raag_number": "7",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਹਾਗੜਾ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0023",
+    "page_range": [
+      12,
+      12
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਵਡਹੰਸ",
+    "images": [
+      "notation/page-012-block-1.png",
+      "notation/page-012-block-2.png",
+      "notation/page-012-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "? ਸਰੇਮਪ, ਧਨੁੀਪ,ਨੀਸੰ",
+      "ਅਵਰੋਹ": "? ਸੰਨੀਪ, ਧਮਗਰੇ,ਸਨੀਸ",
+      "ਮੁੱਖ ਅੰਗ": "? ਸਰੇਮਪਨੀਪ,ਧਮਗਰੇ,ਸਨੀਪੁ,ਨੀਸ"
+    },
+    "page_prose": "8. ਰਾਗ ਵਡਹੰਸ\n\nਥਾਟ ਖਮਾਜ\nਜਾਤੀ ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਆਰੋਹ ? ਸਰੇਮਪ, ਧਨੁੀਪ,ਨੀਸੰ\n\nਅਵਰੋਹ ? ਸੰਨੀਪ, ਧਮਗਰੇ,ਸਨੀਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਰੇਮਪਨੀਪ,ਧਮਗਰੇ,ਸਨੀਪੁ,ਨੀਸ\n\n8.1 ਰਾਗ ਵਡਹੰਸ ਦੱਖਣੀ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਆਰੋਹ : ਸ,ਰੇਮਪ,ਧਸੰ\nਅਵਰੋਹ ? ਸੰਨੀ ਧ ਪ, ਮ,ਰੇਮਗ,ਸਰੇਨ੍ੀਧਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋਮਪ,ਮ,ਰੋਮਗਸਰੇਨੀਧੁਸ\n",
+    "raag_number": "8",
+    "raag_name_as_printed": "ਰਾਗ ਵਡਹੰਸ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0024",
+    "page_range": [
+      12,
+      12
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਵਡਹੰਸ",
+    "images": [
+      "notation/page-012-block-4.png",
+      "notation/page-012-block-5.png",
+      "notation/page-012-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸ,ਰੇਮਪ,ਧਸੰ",
+      "ਅਵਰੋਹ": "? ਸੰਨੀ ਧ ਪ, ਮ,ਰੇਮਗ,ਸਰੇਨ੍ੀਧਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਰੋਮਪ,ਮ,ਰੋਮਗਸਰੇਨੀਧੁਸ"
+    },
+    "page_prose": "8. ਰਾਗ ਵਡਹੰਸ\n\nਥਾਟ ਖਮਾਜ\nਜਾਤੀ ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਵਾਦੀ ਪੰਚਮ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਆਰੋਹ ? ਸਰੇਮਪ, ਧਨੁੀਪ,ਨੀਸੰ\n\nਅਵਰੋਹ ? ਸੰਨੀਪ, ਧਮਗਰੇ,ਸਨੀਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਰੇਮਪਨੀਪ,ਧਮਗਰੇ,ਸਨੀਪੁ,ਨੀਸ\n\n8.1 ਰਾਗ ਵਡਹੰਸ ਦੱਖਣੀ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਆਰੋਹ : ਸ,ਰੇਮਪ,ਧਸੰ\nਅਵਰੋਹ ? ਸੰਨੀ ਧ ਪ, ਮ,ਰੇਮਗ,ਸਰੇਨ੍ੀਧਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋਮਪ,ਮ,ਰੋਮਗਸਰੇਨੀਧੁਸ\n",
+    "raag_number": "8.1",
+    "raag_name_as_printed": "ਰਾਗ ਵਡਹੰਸ ਦੱਖਣੀ",
+    "parent_raag_number": "8",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0025",
+    "page_range": [
+      13,
+      13
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸੋਰਠਿ",
+    "images": [
+      "notation/page-013-block-1.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "9. ਰਾਗ ਸੋਰਠਿ\n\nਮੁੱਖ ਅੰਗ\n\n10. ਰਾਗ ਧਨਾਸਰੀ\n\nਮੁੱਖ ਅੰਗ\n\nਰਿਸ਼ਭ\n\nਧੈਵਤ\n\nਦੋਵੇ' ਨਿਸ਼ਾਦ\n\nਰਾਤ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\nਸਰੇਮਪ,ਨੀਸ'\nਸੰਰੇਨੀਧਮਪਧਮਦਾਰੋਠੀਸ\n\nਸਰੇ, ਮਪ,ਨੁੀਧ,ਧਪ,ਧਮਰੇ,ਰੇਨੀਸ\n\nਪੰਚਮ,\n\nਸ਼ੜਜ\n\nਗੰਧਾਰ ਨਿਸ਼ਾਦ ਕੋਮਲ\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗੁਮਪਨੀਸ\nਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ\n\nਨੀ ਸ, ਗੁ ਮ ਪ, ਨੀਂ ਧ ਪ, ਮ ਪ ਗੁ, ਰੋ, ਸ\n",
+    "raag_number": "9",
+    "raag_name_as_printed": "ਰਾਗ ਸੋਰਠਿ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0026",
+    "page_range": [
+      13,
+      13
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸੋਰਠਿ",
+    "images": [
+      "notation/page-013-block-2.png",
+      "notation/page-013-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ"
+    },
+    "page_prose": "9. ਰਾਗ ਸੋਰਠਿ\n\nਮੁੱਖ ਅੰਗ\n\n10. ਰਾਗ ਧਨਾਸਰੀ\n\nਮੁੱਖ ਅੰਗ\n\nਰਿਸ਼ਭ\n\nਧੈਵਤ\n\nਦੋਵੇ' ਨਿਸ਼ਾਦ\n\nਰਾਤ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\nਸਰੇਮਪ,ਨੀਸ'\nਸੰਰੇਨੀਧਮਪਧਮਦਾਰੋਠੀਸ\n\nਸਰੇ, ਮਪ,ਨੁੀਧ,ਧਪ,ਧਮਰੇ,ਰੇਨੀਸ\n\nਪੰਚਮ,\n\nਸ਼ੜਜ\n\nਗੰਧਾਰ ਨਿਸ਼ਾਦ ਕੋਮਲ\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗੁਮਪਨੀਸ\nਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ\n\nਨੀ ਸ, ਗੁ ਮ ਪ, ਨੀਂ ਧ ਪ, ਮ ਪ ਗੁ, ਰੋ, ਸ\n",
+    "raag_number": "10",
+    "raag_name_as_printed": "ਰਾਗ ਧਨਾਸਰੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0027",
+    "page_range": [
+      14,
+      14
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਜੈਤਸਰੀ",
+    "images": [
+      "notation/page-014-block-1.png",
+      "notation/page-014-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ",
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "11. ਰਾਗ ਜੈਤਸਰੀ\n\nਮੁੱਖ ਅੰਗ\n\n12. ਰਾਗ ਟੋਡੀ\n\nਮੁੱਖ ਅੰਗ\n\nਐੜਵ-ਸੰਪੂਰਣ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ\nਸ਼ਾਮ\n\nਸਗਮੇਪਨੀਸੰ\nਸੰਨੀ,ਧੁਪ,ਮੇਗਰੇਸ\n\nਸਗਪਮੇਧੁਪਮੇਗ,ਮੇਗ,ਰੇੇਸ\n\nਤੋੜੀ (ਟੋਡੀ)\n\nਕੋਮਲ ਧੈਵਤ\n\nਕੋਮਲ ਰਿਸ਼ਭ\n\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗੁਮੇਪਮੇਧੁਨੀਸ\nਸੰਨੀਧੁ, ਪ, ਮੇਗੁਰੇਸ\n\nਸਰੇ ਗੁ,ਰੇਗੁਰੇ ਸ, ਮੇਧੁਪ,ਧੁਮੇਗੁਰੇਗੁਰੇਸ\n",
+    "raag_number": "11",
+    "raag_name_as_printed": "ਰਾਗ ਜੈਤਸਰੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0028",
+    "page_range": [
+      14,
+      14
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਜੈਤਸਰੀ",
+    "images": [
+      "notation/page-014-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "11. ਰਾਗ ਜੈਤਸਰੀ\n\nਮੁੱਖ ਅੰਗ\n\n12. ਰਾਗ ਟੋਡੀ\n\nਮੁੱਖ ਅੰਗ\n\nਐੜਵ-ਸੰਪੂਰਣ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ ਧੈਵਤ\nਸ਼ਾਮ\n\nਸਗਮੇਪਨੀਸੰ\nਸੰਨੀ,ਧੁਪ,ਮੇਗਰੇਸ\n\nਸਗਪਮੇਧੁਪਮੇਗ,ਮੇਗ,ਰੇੇਸ\n\nਤੋੜੀ (ਟੋਡੀ)\n\nਕੋਮਲ ਧੈਵਤ\n\nਕੋਮਲ ਰਿਸ਼ਭ\n\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗੁਮੇਪਮੇਧੁਨੀਸ\nਸੰਨੀਧੁ, ਪ, ਮੇਗੁਰੇਸ\n\nਸਰੇ ਗੁ,ਰੇਗੁਰੇ ਸ, ਮੇਧੁਪ,ਧੁਮੇਗੁਰੇਗੁਰੇਸ\n",
+    "raag_number": "12",
+    "raag_name_as_printed": "ਰਾਗ ਟੋਡੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0029",
+    "page_range": [
+      15,
+      15
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬੈਰਾੜੀ",
+    "images": [
+      "notation/page-015-block-1.png",
+      "notation/page-015-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "13. ਰਾਗ ਬੈਰਾੜੀ\n\nਮੁੱਖ ਅੰਗ\n\n14. ਰਾਗ ਤਿਲੰਗ\n\nਵਕਰ ਸੰਪੂਰਣ\nਗੰਧਾਰ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ ਕੋਮਲ, ਮਧਿਅਮ ਤੀਵਰ\nਨਿਸ਼ਾਦ ਆਰੋਹ\nਠੀਰੋਗਪ,ਮੇਗ,ਮੇਧਸ\n\nਸੰਨੀਧਪ,ਮੇਗ,ਪਗ,ਰੇਸ\n\nਪਧਗ, ਮੇਪ,ਮੇਗ,ਮੇਰੇਗ,ਰੇਸ\n\nਐੜਵ-ਔੜਵ\n\nਗੰਧਾਰ\n\nਨਿਸ਼ਾਦ\n\nਰਿਸ਼ਭ, ਧੈਵਤ\nਰਿਸ਼ਭ ਤੇ ਧੈਵਤ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗਮਪਨੀਸ'\nਸਾਂਨੀਪਮਗ,ਸ\n\nਠੀ ਸਗ ਮਪ,ਨੀ ਪ, ਗਮ ਗ,ਸ\n",
+    "raag_number": "13",
+    "raag_name_as_printed": "ਰਾਗ ਬੈਰਾੜੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0030",
+    "page_range": [
+      15,
+      15
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬੈਰਾੜੀ",
+    "images": [
+      "notation/page-015-block-3.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "13. ਰਾਗ ਬੈਰਾੜੀ\n\nਮੁੱਖ ਅੰਗ\n\n14. ਰਾਗ ਤਿਲੰਗ\n\nਵਕਰ ਸੰਪੂਰਣ\nਗੰਧਾਰ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ ਕੋਮਲ, ਮਧਿਅਮ ਤੀਵਰ\nਨਿਸ਼ਾਦ ਆਰੋਹ\nਠੀਰੋਗਪ,ਮੇਗ,ਮੇਧਸ\n\nਸੰਨੀਧਪ,ਮੇਗ,ਪਗ,ਰੇਸ\n\nਪਧਗ, ਮੇਪ,ਮੇਗ,ਮੇਰੇਗ,ਰੇਸ\n\nਐੜਵ-ਔੜਵ\n\nਗੰਧਾਰ\n\nਨਿਸ਼ਾਦ\n\nਰਿਸ਼ਭ, ਧੈਵਤ\nਰਿਸ਼ਭ ਤੇ ਧੈਵਤ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਗਮਪਨੀਸ'\nਸਾਂਨੀਪਮਗ,ਸ\n\nਠੀ ਸਗ ਮਪ,ਨੀ ਪ, ਗਮ ਗ,ਸ\n",
+    "raag_number": "14",
+    "raag_name_as_printed": "ਰਾਗ ਤਿਲੰਗ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0031",
+    "page_range": [
+      16,
+      16
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਤਿਲੰਗ",
+    "images": [
+      "notation/page-016-block-1.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ\n\nਮੁੱਖ ਅੰਗ\n\n15. ਰਾਗ ਸੂਹੀ\n\nਮੁੱਖ ਅੰਗ\n\n'ਖਮਾਜ-ਕਾਫੀ\n\nਗੰਧਾਰ\n\nਸ਼ੁੱਧ ਨਿਸ਼ਾਦ\n\nਆਰੋਰ ਵਿਚ ਰਿਸ਼ਭ ਅਤੇ ਧੈਵਤ,\nਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਨੀਸਗਮਪਨੀਪ,ਮਪਨੀਸੰ\nਸੰਨੀਧਪ,ਮਪ.ਗੁਰੇਸ\n\nਗਮ ਪ, ਨੂਂ ਪ, ਗੁ ਰੋ ਸਰੇ ਨੀ ਸ\n\nਬਿਲਾਵਲ\nਪੰਚਮ\nਸ਼ੁੜਜ\n\nਸਪੂਰਣ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਨੀਧਨੀਸ\nਸੰਨੀਧਪ,ਮਗਰੇ,ਗਰੇਸ\n\nਗਮਗਰੇ, ਗਮਨੁੀਧਪ,ਪਮਗ,ਮਗ,ਰੋਗਰੇ,ਸ\n",
+    "raag_number": "14.1",
+    "raag_name_as_printed": "ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ",
+    "parent_raag_number": "14",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0032",
+    "page_range": [
+      16,
+      16
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਤਿਲੰਗ",
+    "images": [
+      "notation/page-016-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "14.1 ਰਾਗ ਤਿਲੰਗ ਕਾਫੀ\n\nਮੁੱਖ ਅੰਗ\n\n15. ਰਾਗ ਸੂਹੀ\n\nਮੁੱਖ ਅੰਗ\n\n'ਖਮਾਜ-ਕਾਫੀ\n\nਗੰਧਾਰ\n\nਸ਼ੁੱਧ ਨਿਸ਼ਾਦ\n\nਆਰੋਰ ਵਿਚ ਰਿਸ਼ਭ ਅਤੇ ਧੈਵਤ,\nਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਨੀਸਗਮਪਨੀਪ,ਮਪਨੀਸੰ\nਸੰਨੀਧਪ,ਮਪ.ਗੁਰੇਸ\n\nਗਮ ਪ, ਨੂਂ ਪ, ਗੁ ਰੋ ਸਰੇ ਨੀ ਸ\n\nਬਿਲਾਵਲ\nਪੰਚਮ\nਸ਼ੁੜਜ\n\nਸਪੂਰਣ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਨੀਧਨੀਸ\nਸੰਨੀਧਪ,ਮਗਰੇ,ਗਰੇਸ\n\nਗਮਗਰੇ, ਗਮਨੁੀਧਪ,ਪਮਗ,ਮਗ,ਰੋਗਰੇ,ਸ\n",
+    "raag_number": "15",
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0033",
+    "page_range": [
+      17,
+      17
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸੂਹੀ",
+    "images": [
+      "notation/page-017-block-1.png",
+      "notation/page-017-block-2.png",
+      "notation/page-017-block-3.png",
+      "notation/page-017-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਕੋਈ ਨਹੀਂ",
+      "ਆਰੋਹ": "ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਸਰੇਗਮਪ,ਮਪਗੁਰੇ,ਸ"
+    },
+    "page_prose": "ਬਾਟ ਕਾਫੀ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ\n\nਅਵਰੋਹ ਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ ਸਰੇਗਮਪ,ਮਪਗੁਰੇ,ਸ\n\n15.2 ਰਾਗ ਸੂਹੀ ਲਲਿਤ\n\nਬਾਟ ਪੂਰਵੀ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਸੰਪੂਰਣ ਸਾੜਵ\n\nਵਾਦੀ ਮਥਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਸੁਰ ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ, ਮਧਿਅਮ, ਤੀਵਰ\nਵਰਜਿਤ ਸੁਰ ਪੰਚਮ\n\nਸਮਾਂ ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ\n\nਅਵਰੋਹ ਸੰਰੇਂ ਨੀਧੁਮੇਧੁਮੇਮਗ,ਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ\n\nਪ ਨੀ ਧ, ਨੀ ਸੰ, ਰੇ ਨੀ ਧੁ, ਮੇ ਮਗ,ਮੇਗਰੇਸ\n",
+    "raag_number": "15.1",
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ ਕਾਫੀ",
+    "parent_raag_number": "15",
+    "raag_number_inferred": true,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0034",
+    "page_range": [
+      17,
+      17
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸੂਹੀ",
+    "images": [
+      "notation/page-017-block-5.png",
+      "notation/page-017-block-6.png",
+      "notation/page-017-block-7.png",
+      "notation/page-017-block-8.png",
+      "notation/page-017-block-9.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ, ਮਧਿਅਮ, ਤੀਵਰ",
+      "ਵਰਜਿਤ ਸੁਰ": "ਪੰਚਮ",
+      "ਆਰੋਹ": "ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਰੇਂ ਨੀਧੁਮੇਧੁਮੇਮਗ,ਮੇਗਰੇਸ"
+    },
+    "page_prose": "ਬਾਟ ਕਾਫੀ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ\n\nਅਵਰੋਹ ਸੰਨੀਧਪ,ਮਪਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ ਸਰੇਗਮਪ,ਮਪਗੁਰੇ,ਸ\n\n15.2 ਰਾਗ ਸੂਹੀ ਲਲਿਤ\n\nਬਾਟ ਪੂਰਵੀ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਸੰਪੂਰਣ ਸਾੜਵ\n\nਵਾਦੀ ਮਥਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਸੁਰ ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ, ਮਧਿਅਮ, ਤੀਵਰ\nਵਰਜਿਤ ਸੁਰ ਪੰਚਮ\n\nਸਮਾਂ ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ ਸਰੇਗਮਪ,ਨੀਧਨੀਸੰ\n\nਅਵਰੋਹ ਸੰਰੇਂ ਨੀਧੁਮੇਧੁਮੇਮਗ,ਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ\n\nਪ ਨੀ ਧ, ਨੀ ਸੰ, ਰੇ ਨੀ ਧੁ, ਮੇ ਮਗ,ਮੇਗਰੇਸ\n",
+    "raag_number": "15.2",
+    "raag_name_as_printed": "ਰਾਗ ਸੂਹੀ ਲਲਿਤ",
+    "parent_raag_number": "15",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0035",
+    "page_range": [
+      18,
+      18
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-018-block-1.png",
+      "notation/page-018-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "ਮੁੱਖ ਅੰਗ\n\nਗੰਧਾਰ\n\nਸਾਰੇ ਸ਼ੁੱਧ\n\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਧਨੀਸੰ\nਸੰਨੀਧ, ਪ,ਮਗ,ਰੇਸ\n\nਗਰੇ,ਗਮਧਪ,ਮਗ,ਮਰੇਸ\n\n16.1 ਰਾਗ ਬਿਲਾਵਲ ਦੱਖਣੀ\n\nਮੁੱਖ ਅੰਗ\n\nਵੇਲਾਵਲੀ\n\nਰਿਸ਼ਭ\n\nਪੰਚਮ\n\nਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਰੇ, ਮਪ,ਧਸੰ\nਸੰਨੀ, ਧਪ,ਮਗੁਰੇਸ\n\nਸਰੇ, ਮਪ, ਮਗੁਰੇ, ਸਨੀਸ\n",
+    "raag_number": "16",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲੁ",
+    "parent_raag_number": null,
+    "raag_number_inferred": true,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0036",
+    "page_range": [
+      18,
+      19
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-018-block-3.png",
+      "notation/page-019-block-1.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "ਮੁੱਖ ਅੰਗ\n\nਗੰਧਾਰ\n\nਸਾਰੇ ਸ਼ੁੱਧ\n\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ\nਸਰੇਗਮਪ,ਧਨੀਸੰ\nਸੰਨੀਧ, ਪ,ਮਗ,ਰੇਸ\n\nਗਰੇ,ਗਮਧਪ,ਮਗ,ਮਰੇਸ\n\n16.1 ਰਾਗ ਬਿਲਾਵਲ ਦੱਖਣੀ\n\nਮੁੱਖ ਅੰਗ\n\nਵੇਲਾਵਲੀ\n\nਰਿਸ਼ਭ\n\nਪੰਚਮ\n\nਗੰਧਾਰ, ਨਿਸ਼ਾਦ ਆਰੋਹ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\nਸਰੇ, ਮਪ,ਧਸੰ\nਸੰਨੀ, ਧਪ,ਮਗੁਰੇਸ\n\nਸਰੇ, ਮਪ, ਮਗੁਰੇ, ਸਨੀਸ\n\n---\n16.2 ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ\n\nਮੁੱਖ ਅੰਗ\n\n17. ਰਾਗ ਗੋਂਡ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਮਧਿਅਮ\n\nਸ਼ਡਜ਼\n\nਸ਼ੁਧ\n\nਪੰਚਮ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਸਗ, ਮਰੇਸ, ਗਮਧ, ਨੀ, ਸੰ\n\nਸੰਨੀਧਪ, ਧਮ,ਪਗ,ਮਰੇ,ਸ\n\nਗਮਧਪਮ,ਪਗ,ਮਰੇ,ਸ\n\nਸ਼ੁਧ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ,\nਸਰੇਗਮ,ਪਨੀਧਨੀਸੰ\n\nਸੰਨੀਧਨੀਪ,ਮਗ,ਰੇੋਸ\n\nਰੇਗਮ,ਪਮ,ਮਪਨੀਧਨੀਸੰਨੀਧਨੀਪ,ਧਮ\n",
+    "raag_number": "16.1",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲ ਦੱਖਣੀ",
+    "parent_raag_number": "16",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0037",
+    "page_range": [
+      19,
+      19
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-019-block-2.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "16.2 ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ\n\nਮੁੱਖ ਅੰਗ\n\n17. ਰਾਗ ਗੋਂਡ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਮਧਿਅਮ\n\nਸ਼ਡਜ਼\n\nਸ਼ੁਧ\n\nਪੰਚਮ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਸਗ, ਮਰੇਸ, ਗਮਧ, ਨੀ, ਸੰ\n\nਸੰਨੀਧਪ, ਧਮ,ਪਗ,ਮਰੇ,ਸ\n\nਗਮਧਪਮ,ਪਗ,ਮਰੇ,ਸ\n\nਸ਼ੁਧ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ,\nਸਰੇਗਮ,ਪਨੀਧਨੀਸੰ\n\nਸੰਨੀਧਨੀਪ,ਮਗ,ਰੇੋਸ\n\nਰੇਗਮ,ਪਮ,ਮਪਨੀਧਨੀਸੰਨੀਧਨੀਪ,ਧਮ\n",
+    "raag_number": "16.2",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ",
+    "parent_raag_number": "16",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0038",
+    "page_range": [
+      19,
+      19
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-019-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "16.2 ਰਾਗ ਬਿਲਾਵਲ ਮੰਗਲ\n\nਮੁੱਖ ਅੰਗ\n\n17. ਰਾਗ ਗੋਂਡ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਮਧਿਅਮ\n\nਸ਼ਡਜ਼\n\nਸ਼ੁਧ\n\nਪੰਚਮ ਆਰੋਹ\n\nਦਿਨ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਸਗ, ਮਰੇਸ, ਗਮਧ, ਨੀ, ਸੰ\n\nਸੰਨੀਧਪ, ਧਮ,ਪਗ,ਮਰੇ,ਸ\n\nਗਮਧਪਮ,ਪਗ,ਮਰੇ,ਸ\n\nਸ਼ੁਧ\nਕੋਈ ਨਹੀਂ\n\nਦਿਨ ਦਾ ਦੂਸਰਾ ਪਹਿਰ,\nਸਰੇਗਮ,ਪਨੀਧਨੀਸੰ\n\nਸੰਨੀਧਨੀਪ,ਮਗ,ਰੇੋਸ\n\nਰੇਗਮ,ਪਮ,ਮਪਨੀਧਨੀਸੰਨੀਧਨੀਪ,ਧਮ\n",
+    "raag_number": "17",
+    "raag_name_as_printed": "ਰਾਗ ਗੋਂਡ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0039",
+    "page_range": [
+      20,
+      20
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-020-block-1.png"
+    ],
+    "ocr_fields": {},
+    "page_prose": "17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ\n\nਮੁਖ ਅੰਗ\n\n18. ਰਾਗ ਰਾਮਕਲੀ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਗੰਧਾਰ\nਧੈਵਤ\n\nਸ਼ੁਧ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਗਮਪ, ਧਨੀਸੰ\nਸੰਨੀਧਨੀਪ,ਮਗਰੇੋਮਗ,ਪਰੋਸ\n\nਸਰੇਗਮਪ,ਗਰੇਮਗ,ਪਰੇਸ\n\nਭੈਰਵ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ\n\nਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਸਗ.ਮਪ,ਧੁਨੀਸੰ\nਸੰਨੀਧੁਪ,ਮੇਪਧੁਨੀਧੁਪ,ਗਮਰੇਸ\n\nਧੁ ਪ, ਮੇਪ, ਧੁਠੀਧੁਪ,ਗਮਰੇਸ\n",
+    "raag_number": "17.1",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ",
+    "parent_raag_number": "17",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0040",
+    "page_range": [
+      20,
+      20
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਲਾਵਲ",
+    "images": [
+      "notation/page-020-block-2.png",
+      "notation/page-020-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਵਿਚ ਰਿਸ਼ਭ",
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "17.1 ਰਾਗ ਬਿਲਾਵਲ ਗੋਂਡ\n\nਮੁਖ ਅੰਗ\n\n18. ਰਾਗ ਰਾਮਕਲੀ\n\nਮੁੱਖ ਅੰਗ\n\nਬਿਲਾਵਲ\n\nਗੰਧਾਰ\nਧੈਵਤ\n\nਸ਼ੁਧ\n\nਕੋਈ ਨਹੀ\n\nਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਸਰੇਗਮਪ, ਧਨੀਸੰ\nਸੰਨੀਧਨੀਪ,ਮਗਰੇੋਮਗ,ਪਰੋਸ\n\nਸਰੇਗਮਪ,ਗਰੇਮਗ,ਪਰੇਸ\n\nਭੈਰਵ\n\nਧੈਵਤ\n\nਰਿਸ਼ਭ\n\nਆਰੋਹ ਵਿਚ ਰਿਸ਼ਭ\n\nਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਸਗ.ਮਪ,ਧੁਨੀਸੰ\nਸੰਨੀਧੁਪ,ਮੇਪਧੁਨੀਧੁਪ,ਗਮਰੇਸ\n\nਧੁ ਪ, ਮੇਪ, ਧੁਠੀਧੁਪ,ਗਮਰੇਸ\n",
+    "raag_number": "18",
+    "raag_name_as_printed": "ਰਾਗ ਰਾਮਕਲੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0041",
+    "page_range": [
+      21,
+      21
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਰਾਮਕਲੀ",
+    "images": [
+      "notation/page-021-block-1.png",
+      "notation/page-021-block-2.png",
+      "notation/page-021-block-3.png",
+      "notation/page-021-block-4.png",
+      "notation/page-021-block-5.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ",
+      "ਵਰਜਿਤ ਸੁਰ": "ਅਵਰੋਹ ਵਿਚ ਮਧਿਅਮ ਤੀਬਰ",
+      "ਆਰੋਹ": "ਸਰੇੋਗਪ,ਧੁਪ,ਧੁਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧੁਪ,ਮਗ,ਰੇ,ਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਰੋ, ਗਪ,ਧੁਪ,ਮਗਰੇਸ"
+    },
+    "page_prose": "18.1 ਰਾਗ ਰਾਮਕਲੀ ਦੱਖਣੀ\n\nਥਾਟ : ਮਾਯਾ ਮਾਲਵ ਗੋ\n\nਸੁਰ : ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ\nਵਰਜਿਤ ਸੁਰ _ : ਅਵਰੋਹ ਵਿਚ ਮਧਿਅਮ ਤੀਬਰ\nਆਰੋਹ : ਸਰੇੋਗਪ,ਧੁਪ,ਧੁਨੀਸ\nਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗ,ਰੇ,ਸ\nਮੁੱਖ ਅੰਗ ੨ ਰੋ, ਗਪ,ਧੁਪ,ਮਗਰੇਸ\n\n19. ਰਾਗ ਨਟ ਨਾਰਾਇਣ\n\nਥਾਟ 2 ਬਿਲਾਵਲ\n\nਸੁਰ : ਦੋਵੇਂ ਮਧਿਅਮ ਅਤੇ ਧੈਵਤ ਗੰਧਾਰ ਦਾ ਅਵਰੋਹ ਵਿਚ ਅਲਪ ਪ੍ਰਯੋਗ\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਗਮਰੇ,ਮੇਪਧਨੀਸ\n\nਅਵਰੋਹ : ਸੰਧਪ, ਮੇ ਧਪ,ਗਮਰੋਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਮਗਮੇਪ, ਧਪ,ਮ,ਗਮਰੇਸ\n",
+    "raag_number": "18.1",
+    "raag_name_as_printed": "ਰਾਗ ਰਾਮਕਲੀ ਦੱਖਣੀ",
+    "parent_raag_number": "18",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0042",
+    "page_range": [
+      21,
+      21
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਰਾਮਕਲੀ",
+    "images": [
+      "notation/page-021-block-6.png",
+      "notation/page-021-block-7.png",
+      "notation/page-021-block-8.png",
+      "notation/page-021-block-9.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਦੋਵੇਂ ਮਧਿਅਮ ਅਤੇ ਧੈਵਤ ਗੰਧਾਰ ਦਾ ਅਵਰੋਹ ਵਿਚ ਅਲਪ ਪ੍ਰਯੋਗ",
+      "ਆਰੋਹ": "ਸਗਮਰੇ,ਮੇਪਧਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰਧਪ, ਮੇ ਧਪ,ਗਮਰੋਸ",
+      "ਮੁੱਖ ਅੰਗ": "? ਸਮਗਮੇਪ, ਧਪ,ਮ,ਗਮਰੇਸ"
+    },
+    "page_prose": "18.1 ਰਾਗ ਰਾਮਕਲੀ ਦੱਖਣੀ\n\nਥਾਟ : ਮਾਯਾ ਮਾਲਵ ਗੋ\n\nਸੁਰ : ਰਿਸ਼ਭ, ਧੈਵਤ ਕੋਮਲ\nਵਰਜਿਤ ਸੁਰ _ : ਅਵਰੋਹ ਵਿਚ ਮਧਿਅਮ ਤੀਬਰ\nਆਰੋਹ : ਸਰੇੋਗਪ,ਧੁਪ,ਧੁਨੀਸ\nਅਵਰੋਹ : ਸੰਨੀਧੁਪ,ਮਗ,ਰੇ,ਸ\nਮੁੱਖ ਅੰਗ ੨ ਰੋ, ਗਪ,ਧੁਪ,ਮਗਰੇਸ\n\n19. ਰਾਗ ਨਟ ਨਾਰਾਇਣ\n\nਥਾਟ 2 ਬਿਲਾਵਲ\n\nਸੁਰ : ਦੋਵੇਂ ਮਧਿਅਮ ਅਤੇ ਧੈਵਤ ਗੰਧਾਰ ਦਾ ਅਵਰੋਹ ਵਿਚ ਅਲਪ ਪ੍ਰਯੋਗ\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਗਮਰੇ,ਮੇਪਧਨੀਸ\n\nਅਵਰੋਹ : ਸੰਧਪ, ਮੇ ਧਪ,ਗਮਰੋਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਮਗਮੇਪ, ਧਪ,ਮ,ਗਮਰੇਸ\n",
+    "raag_number": "19",
+    "raag_name_as_printed": "ਰਾਗ ਨਟ ਨਾਰਾਇਣ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0043",
+    "page_range": [
+      22,
+      22
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਨਟ",
+    "images": [
+      "notation/page-022-block-1.png",
+      "notation/page-022-block-2.png",
+      "notation/page-022-block-3.png",
+      "notation/page-022-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਸਾਰੇ ਸ਼ੁਧ",
+      "ਆਰੋਹ": "ਸ, ਗਮ, ਪਗਮ,ਰੋਗਮਧ,ਧਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰ ਧ, ਨੀ ਪ, ਮ ਗ ਰੇ ਗਮਪ,ਸਰੋਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਸਗਮ.ਮਪਮਗਮ,ਰੇਗਮਪ,ਸਰੇਸ"
+    },
+    "page_prose": "19.1 ਰਾਗ ਨਟ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਸੰਪੂਰਣ ਵਕਰ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਮਧਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਸੁਰ ਸਾਰੇ ਸ਼ੁਧ\n\nਵਰਜਿਤ ਸਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ ਸ, ਗਮ, ਪਗਮ,ਰੋਗਮਧ,ਧਨੀਸ\nਅਵਰੋਹ ਸੰ ਧ, ਨੀ ਪ, ਮ ਗ ਰੇ ਗਮਪ,ਸਰੋਸ\nਮੁੱਖ ਅੰਗ ਸਗਮ.ਮਪਮਗਮ,ਰੇਗਮਪ,ਸਰੇਸ\n20. ਰਾਗ ਮਾਲੀ ਗਉੜਾ\n\nਥਾਟ ਮਾਰਵਾ\n\nਜਾਤੀ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਰਿਸ਼ਭ ਕੋਮਲ\n\nਸੰਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸਰ ਕੋਈ ਨਹੀਂ\n\nਆਰੋਹ ਸਰੇਗਮੇਪਧਨੀਧਸੰ\n\nਅਵਰੋਹ ਸੰਨੀਧੁਪ,ਮੇਨੀਧਮੇਗ,ਰੇਸ\n\nਮੁੱਖ ਅੰਗ\n\nਸਰੇਗ,ਮੇਨੀਧਮੇ,ਰੇਸ\n",
+    "raag_number": "19.1",
+    "raag_name_as_printed": "ਰਾਗ ਨਟ",
+    "parent_raag_number": "19",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0044",
+    "page_range": [
+      22,
+      22
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਨਟ",
+    "images": [
+      "notation/page-022-block-5.png",
+      "notation/page-022-block-6.png",
+      "notation/page-022-block-7.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਗਮੇਪਧਨੀਧਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧੁਪ,ਮੇਨੀਧਮੇਗ,ਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": ""
+    },
+    "page_prose": "19.1 ਰਾਗ ਨਟ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਸੰਪੂਰਣ ਵਕਰ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਮਧਿਅਮ\n\nਸੰਵਾਦੀ ਸ਼ੜਜ\n\nਸੁਰ ਸਾਰੇ ਸ਼ੁਧ\n\nਵਰਜਿਤ ਸਰ ਕੋਈ ਨਹੀਂ\n\nਸਮਾਂ ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ\n\nਆਰੋਹ ਸ, ਗਮ, ਪਗਮ,ਰੋਗਮਧ,ਧਨੀਸ\nਅਵਰੋਹ ਸੰ ਧ, ਨੀ ਪ, ਮ ਗ ਰੇ ਗਮਪ,ਸਰੋਸ\nਮੁੱਖ ਅੰਗ ਸਗਮ.ਮਪਮਗਮ,ਰੇਗਮਪ,ਸਰੇਸ\n20. ਰਾਗ ਮਾਲੀ ਗਉੜਾ\n\nਥਾਟ ਮਾਰਵਾ\n\nਜਾਤੀ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਰਿਸ਼ਭ ਕੋਮਲ\n\nਸੰਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸਰ ਕੋਈ ਨਹੀਂ\n\nਆਰੋਹ ਸਰੇਗਮੇਪਧਨੀਧਸੰ\n\nਅਵਰੋਹ ਸੰਨੀਧੁਪ,ਮੇਨੀਧਮੇਗ,ਰੇਸ\n\nਮੁੱਖ ਅੰਗ\n\nਸਰੇਗ,ਮੇਨੀਧਮੇ,ਰੇਸ\n",
+    "raag_number": "20",
+    "raag_name_as_printed": "ਰਾਗ ਮਾਲੀ ਗਉੜਾ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0045",
+    "page_range": [
+      23,
+      23
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਮਾਰੂ",
+    "images": [
+      "notation/page-023-block-1.png",
+      "notation/page-023-block-2.png",
+      "notation/page-023-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਗਮਪ,ਧਨੀਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ.ਮੇਪਧੁਨੀਧੁਪਮਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "? ਪਧਨੀਧਪ,ਮੇਪਧੁਨੀਧੁਪਪਧਪਗ,ਰੇ,ਗਰੇਸ"
+    },
+    "page_prose": "21. ਰਾਗ ਮਾਰੂ\n\nਥਾਟ ਖਮਾਜ\nਜਾਤੀ ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਗਮਪ,ਧਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ.ਮੇਪਧੁਨੀਧੁਪਮਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ? ਪਧਨੀਧਪ,ਮੇਪਧੁਨੀਧੁਪਪਧਪਗ,ਰੇ,ਗਰੇਸ\n\n21.1 ਰਾਗ ਮਾਰੂ ਕਾਫੀ\n\nਥਾਟ : ਖਮਾਜ ਕਾਫੀ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਗਮਪ,ਪਸੇਪ,ਧਮਪ,ਧਸੰਨੀਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਗੁਰੇ,ਪਗੁਰੇਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਸਗਮਪ,ਪਧਪਗਮ,ਪਮੇਪ,ਨੁੀਧਪ,ਮਪਗੁਰੋਸ\n",
+    "raag_number": "21",
+    "raag_name_as_printed": "ਰਾਗ ਮਾਰੂ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0046",
+    "page_range": [
+      23,
+      23
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਮਾਰੂ",
+    "images": [
+      "notation/page-023-block-4.png",
+      "notation/page-023-block-5.png",
+      "notation/page-023-block-6.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਗਮਪ,ਪਸੇਪ,ਧਮਪ,ਧਸੰਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਧਪਗੁਰੇ,ਪਗੁਰੇਨੀਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਸਗਮਪ,ਪਧਪਗਮ,ਪਮੇਪ,ਨੁੀਧਪ,ਮਪਗੁਰੋਸ"
+    },
+    "page_prose": "21. ਰਾਗ ਮਾਰੂ\n\nਥਾਟ ਖਮਾਜ\nਜਾਤੀ ਸ਼ਾੜਵ- ਸੰਪੂਰਣ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਗਮਪ,ਧਨੀਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ.ਮੇਪਧੁਨੀਧੁਪਮਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ? ਪਧਨੀਧਪ,ਮੇਪਧੁਨੀਧੁਪਪਧਪਗ,ਰੇ,ਗਰੇਸ\n\n21.1 ਰਾਗ ਮਾਰੂ ਕਾਫੀ\n\nਥਾਟ : ਖਮਾਜ ਕਾਫੀ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਗਮਪ,ਪਸੇਪ,ਧਮਪ,ਧਸੰਨੀਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਧਪਗੁਰੇ,ਪਗੁਰੇਨੀਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਸਗਮਪ,ਪਧਪਗਮ,ਪਮੇਪ,ਨੁੀਧਪ,ਮਪਗੁਰੋਸ\n",
+    "raag_number": "21.1",
+    "raag_name_as_printed": "ਰਾਗ ਮਾਰੂ ਕਾਫੀ",
+    "parent_raag_number": "21",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0047",
+    "page_range": [
+      24,
+      24
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਮਾਰੂ",
+    "images": [
+      "notation/page-024-block-1.png",
+      "notation/page-024-block-2.png",
+      "notation/page-024-block-3.png",
+      "notation/page-024-block-4.png",
+      "notation/page-024-block-5.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ",
+      "ਵਰਜਿਤ ਸੁਰ": "ਆਰੋਹ ਰੇ",
+      "ਆਰੋਹ": "? ਸਗ,ਮਪਥਧੁ,ਨੀਧੁਪ,ਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧੁ,ਪ,ਮਧੁਮਪ,ਮਗਰੇ,ਸ",
+      "ਮੁੱਖ ਅੰਗ": "? ਨੀ ਧ,ਪ,ਮਧੁਮਪ,ਮਗਰੇੇ,ਸ"
+    },
+    "page_prose": "21.2 ਰਾਗ ਮਾਰੂ ਦੱਖਣੀ\n\nਥਾਟ 2 ਮਾਯਾਮਾਲਵਗੋੜ\n\nਵਾਦੀ : ਧੈਵਤ\n\nਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਰੇ\n\nਸਮਾਂ ੜ ਸਵੇਰ (ਪਹਿਲਾ ਪਹਿਰ)\n\nਆਰੋਹ ? ਸਗ,ਮਪਥਧੁ,ਨੀਧੁਪ,ਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧੁ,ਪ,ਮਧੁਮਪ,ਮਗਰੇ,ਸ\nਮੁੱਖ ਅੰਗ ? ਨੀ ਧ,ਪ,ਮਧੁਮਪ,ਮਗਰੇੇ,ਸ\n22. ਰਾਗ ਤੁਖਾਰੀ\n\nਥਾਟ 2 ਧਰਮਵਤੀ (ਦਖਣੀ ਸੰਗੀਤ ਪਧਤੀ)\nਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਆਰੋਹ : ਠੀ ਸ, ਗੁ ਮੇ ਪ, ਨੀ ਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਨੀਧਪ,ਮੇਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਨੀ ਨੂਂ ਧ ਪ, ਮੇ ਪ, ਮੇ ਗੁ, ਰੇ ਸ\n",
+    "raag_number": "21.2",
+    "raag_name_as_printed": "ਰਾਗ ਮਾਰੂ ਦੱਖਣੀ",
+    "parent_raag_number": "21",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0048",
+    "page_range": [
+      24,
+      24
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਮਾਰੂ",
+    "images": [
+      "notation/page-024-block-6.png",
+      "notation/page-024-block-7.png",
+      "notation/page-024-block-8.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਠੀ ਸ, ਗੁ ਮੇ ਪ, ਨੀ ਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਨੀਧਪ,ਮੇਗੁਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਨੀ ਨੂਂ ਧ ਪ, ਮੇ ਪ, ਮੇ ਗੁ, ਰੇ ਸ"
+    },
+    "page_prose": "21.2 ਰਾਗ ਮਾਰੂ ਦੱਖਣੀ\n\nਥਾਟ 2 ਮਾਯਾਮਾਲਵਗੋੜ\n\nਵਾਦੀ : ਧੈਵਤ\n\nਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਰੇ\n\nਸਮਾਂ ੜ ਸਵੇਰ (ਪਹਿਲਾ ਪਹਿਰ)\n\nਆਰੋਹ ? ਸਗ,ਮਪਥਧੁ,ਨੀਧੁਪ,ਸੰ\nਅਵਰੋਹ : ਸੰਨੀਧੁ,ਪ,ਮਧੁਮਪ,ਮਗਰੇ,ਸ\nਮੁੱਖ ਅੰਗ ? ਨੀ ਧ,ਪ,ਮਧੁਮਪ,ਮਗਰੇੇ,ਸ\n22. ਰਾਗ ਤੁਖਾਰੀ\n\nਥਾਟ 2 ਧਰਮਵਤੀ (ਦਖਣੀ ਸੰਗੀਤ ਪਧਤੀ)\nਸਮਾਂ : ਦਿਨ ਦਾ ਚੌਥਾ ਪਹਿਰ\n\nਆਰੋਹ : ਠੀ ਸ, ਗੁ ਮੇ ਪ, ਨੀ ਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਨੀਧਪ,ਮੇਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਨੀ ਨੂਂ ਧ ਪ, ਮੇ ਪ, ਮੇ ਗੁ, ਰੇ ਸ\n",
+    "raag_number": "22",
+    "raag_name_as_printed": "ਰਾਗ ਤੁਖਾਰੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0049",
+    "page_range": [
+      25,
+      25
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਕੇਦਾਰਾ",
+    "images": [
+      "notation/page-025-block-1.png",
+      "notation/page-025-block-2.png",
+      "notation/page-025-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਮ, ਮ ਪ, ਧਪ, ਨੀਧ ਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਂਧਪ,ਸੇਪਧਪਮ,ਮਰੇੋਸ"
+    },
+    "page_prose": "23. ਰਾਗ ਕੇਦਾਰਾ\n\nਥਾਟ ਕਲਿਆਣ\n\nਜਾਤੀ ਐੜਵ-ਸ਼ਾੜਵ\n\nਵਾਦੀ : ਮਥਿਅਮ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਮ, ਮ ਪ, ਧਪ, ਨੀਧ ਸੰ\nਅਵਰੋਹ : ਸੰਨੀਂਧਪ,ਸੇਪਧਪਮ,ਮਰੇੋਸ\nਮੁੱਖ ਔਗ 2 ਸ, ਮ, ਮਪ, ਧ ਪ, ਮ, ਪਮ, ਰੇ ਸ\n24. ਰਾਗ ਭੈਰਉ\n\nਥਾਟ ਭੈਰਵ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ\nਆਰੋਹ ਤੂ ਸਰੇ, ਗਮਪਧੁ,ਨੀਸੱਂ\nਅਵਰੋਹ ਤੂ ਸੱਨੀਧੁਧੁਪ,ਮਗ,ਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ । ਗਮਧੁਧੁਪ,ਗਮਰੇਰੇਸ\n",
+    "raag_number": "23",
+    "raag_name_as_printed": "ਰਾਗ ਕੇਦਾਰਾ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0050",
+    "page_range": [
+      25,
+      25
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਕੇਦਾਰਾ",
+    "images": [
+      "notation/page-025-block-4.png",
+      "notation/page-025-block-5.png",
+      "notation/page-025-block-6.png",
+      "notation/page-025-block-7.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ",
+      "ਆਰੋਹ": "ਤੂ ਸਰੇ, ਗਮਪਧੁ,ਨੀਸੱਂ",
+      "ਅਵਰੋਹ": "ਤੂ ਸੱਨੀਧੁਧੁਪ,ਮਗ,ਰੇ,ਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਗਮਧੁਧੁਪ,ਗਮਰੇਰੇਸ"
+    },
+    "page_prose": "23. ਰਾਗ ਕੇਦਾਰਾ\n\nਥਾਟ ਕਲਿਆਣ\n\nਜਾਤੀ ਐੜਵ-ਸ਼ਾੜਵ\n\nਵਾਦੀ : ਮਥਿਅਮ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਮ, ਮ ਪ, ਧਪ, ਨੀਧ ਸੰ\nਅਵਰੋਹ : ਸੰਨੀਂਧਪ,ਸੇਪਧਪਮ,ਮਰੇੋਸ\nਮੁੱਖ ਔਗ 2 ਸ, ਮ, ਮਪ, ਧ ਪ, ਮ, ਪਮ, ਰੇ ਸ\n24. ਰਾਗ ਭੈਰਉ\n\nਥਾਟ ਭੈਰਵ\n\nਵਾਦੀ ਧੈਵਤ\n\nਸੰਵਾਦੀ ਰਿਸ਼ਭ\n\nਸੁਰ ? ਰਿਸ਼ਭ, ਧੈਵਤ, ਕੋਮਲ\nਆਰੋਹ ਤੂ ਸਰੇ, ਗਮਪਧੁ,ਨੀਸੱਂ\nਅਵਰੋਹ ਤੂ ਸੱਨੀਧੁਧੁਪ,ਮਗ,ਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ । ਗਮਧੁਧੁਪ,ਗਮਰੇਰੇਸ\n",
+    "raag_number": "24",
+    "raag_name_as_printed": "ਰਾਗ ਭੈਰਉ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0051",
+    "page_range": [
+      26,
+      26
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਸੰਤ",
+    "images": [
+      "notation/page-026-block-1.png",
+      "notation/page-026-block-2.png",
+      "notation/page-026-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਸਾਰੇ ਸ਼ੁੱਧ ਸੁਰ",
+      "ਆਰੋਹ": "ਸਗਮਧਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪਮ,ਗਰੇਸ"
+    },
+    "page_prose": "25. ਰਾਗ ਬਸੰਤ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਔੜਵ-ਸੰਪੂਰਣ\n\nਸੁਰ : ਸਾਰੇ ਸ਼ੁੱਧ ਸੁਰ\n\nਸਮਾਂ ? ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ (ਬਸੰਤ ਰੁੱਤ ਵਿਚ ਕਿਸੇ ਸਮੇਂ ਵੀ ਗਾਇਆ ਵਜਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।)\nਆਰੋਹ : ਸਗਮਧਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪਮ,ਗਰੇਸ\n\nਮੁੱਖ ਔਗ 2 ਗਮਧਨੀਸੰਸੰਨੀਧਪਮ,ਗਰੋਸ\n\n25.1 ਰਾਗ ਬਸੰਤ ਹਿੰਡੋਲ\n\nਥਾਟ : ਮਾਰਵਾ\nਵਰਜਿਤ ਸੁਰ _ : ਰਿਸ਼ਭ, ਪੰਚਮ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ ? ਸ, ਮ, ਮਗ, ਮੇਧ,ਨੀਧਸੰ\n\nਅਵਰੋਹ ੜੁ ਸੰ, ਰੋ ਨੀ ਧ ਸੰ, ਰੇੱ' ਨੀ ਧੁਪ, ਮੇਗ, ਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ? ਸ ਮ,ਮ,ਗ,ਰੇੇਂ ਨੀਧਸੱ, ਰੇਂ ਨੀਧੁਪ, ਮੇਗਰੇੇਸ\n",
+    "raag_number": "25",
+    "raag_name_as_printed": "ਰਾਗ ਬਸੰਤ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0052",
+    "page_range": [
+      26,
+      26
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਸੰਤ",
+    "images": [
+      "notation/page-026-block-4.png",
+      "notation/page-026-block-5.png",
+      "notation/page-026-block-6.png",
+      "notation/page-026-block-7.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਰਿਸ਼ਭ, ਪੰਚਮ",
+      "ਆਰੋਹ": "? ਸ, ਮ, ਮਗ, ਮੇਧ,ਨੀਧਸੰ",
+      "ਅਵਰੋਹ": "ੜੁ ਸੰ, ਰੋ ਨੀ ਧ ਸੰ, ਰੇੱ' ਨੀ ਧੁਪ, ਮੇਗ, ਮੇਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "? ਸ ਮ,ਮ,ਗ,ਰੇੇਂ ਨੀਧਸੱ, ਰੇਂ ਨੀਧੁਪ, ਮੇਗਰੇੇਸ"
+    },
+    "page_prose": "25. ਰਾਗ ਬਸੰਤ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਔੜਵ-ਸੰਪੂਰਣ\n\nਸੁਰ : ਸਾਰੇ ਸ਼ੁੱਧ ਸੁਰ\n\nਸਮਾਂ ? ਦਿਨ ਦਾ ਦੂਜਾ ਪਹਿਰ (ਬਸੰਤ ਰੁੱਤ ਵਿਚ ਕਿਸੇ ਸਮੇਂ ਵੀ ਗਾਇਆ ਵਜਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।)\nਆਰੋਹ : ਸਗਮਧਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰਨੀਧਪਮ,ਗਰੇਸ\n\nਮੁੱਖ ਔਗ 2 ਗਮਧਨੀਸੰਸੰਨੀਧਪਮ,ਗਰੋਸ\n\n25.1 ਰਾਗ ਬਸੰਤ ਹਿੰਡੋਲ\n\nਥਾਟ : ਮਾਰਵਾ\nਵਰਜਿਤ ਸੁਰ _ : ਰਿਸ਼ਭ, ਪੰਚਮ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਤੀਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ ? ਸ, ਮ, ਮਗ, ਮੇਧ,ਨੀਧਸੰ\n\nਅਵਰੋਹ ੜੁ ਸੰ, ਰੋ ਨੀ ਧ ਸੰ, ਰੇੱ' ਨੀ ਧੁਪ, ਮੇਗ, ਮੇਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ? ਸ ਮ,ਮ,ਗ,ਰੇੇਂ ਨੀਧਸੱ, ਰੇਂ ਨੀਧੁਪ, ਮੇਗਰੇੇਸ\n",
+    "raag_number": "25.1",
+    "raag_name_as_printed": "ਰਾਗ ਬਸੰਤ ਹਿੰਡੋਲ",
+    "parent_raag_number": "25",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0053",
+    "page_range": [
+      27,
+      27
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸਾਰੰਗ",
+    "images": [
+      "notation/page-027-block-1.png",
+      "notation/page-027-block-2.png",
+      "notation/page-027-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਮਪਨੀਸੰ",
+      "ਅਵਰੋਹ": "ੜੁ ਸੰਨੀਪਮਰੇ,ਸ",
+      "ਮੁੱਖ ਅੰਗ": "2 ਠੀਸਰੇ, ਮਰੇ, ਪਮਰੇ,ਨੀਸ"
+    },
+    "page_prose": "26. ਰਾਗ ਸਾਰੰਗ\n\nਥਾਟ ਕਾਫੀ\n\nਜਾਤੀ ਐੜਵ-ਔੜਵ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਜਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਮਪਨੀਸੰ\n\nਅਵਰੋਹ ੜੁ ਸੰਨੀਪਮਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ 2 ਠੀਸਰੇ, ਮਰੇ, ਪਮਰੇ,ਨੀਸ\n\n27. ਰਾਗ ਮਲਾਰ\n\nਥਾਟ : ਖਮਾਜ\n\nਵਾਦੀ : ਮਧਿਅਮ\n\nਸੁਰ : ਦੋਨੋਂ ਨਿਸ਼ਾਦ ਦਾ ਪ੍ਰਯੋਗ, ਬਾਕੀ ਸ਼ੁੱਧ ਸੁਰ,\nਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ\n\nਸਮਾਂ ਭੂ ਰਾਤ ਦਾ ਤੀਸਰਾ ਪਹਿਰ (ਬਰਸਾਤ ਦੀ ਰੁੱਤ ਵਿਚ ਹਰ ਸਮੇਂ)\nਆਰੋਹ ? ਸ, ਰੇਗਮ,ਮਰੇਪ,ਨੁੀਧਨੀਸ'\nਅਵਰੋਹ ? ਸੰ, ਧਨੀਪ, ਮਗਮ,ਰੋਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਰੇਗਮ, ਮਰੋਪ, ਧਨੀਪ,ਮਰੇਸ\n",
+    "raag_number": "26",
+    "raag_name_as_printed": "ਰਾਗ ਸਾਰੰਗ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0054",
+    "page_range": [
+      27,
+      27
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਸਾਰੰਗ",
+    "images": [
+      "notation/page-027-block-4.png",
+      "notation/page-027-block-5.png",
+      "notation/page-027-block-6.png",
+      "notation/page-027-block-7.png",
+      "notation/page-027-block-8.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਦੋਨੋਂ ਨਿਸ਼ਾਦ ਦਾ ਪ੍ਰਯੋਗ, ਬਾਕੀ ਸ਼ੁੱਧ ਸੁਰ,",
+      "ਵਰਜਿਤ ਸੁਰ": "ਕੋਈ ਨਹੀ",
+      "ਆਰੋਹ": "? ਸ, ਰੇਗਮ,ਮਰੇਪ,ਨੁੀਧਨੀਸ'",
+      "ਅਵਰੋਹ": "? ਸੰ, ਧਨੀਪ, ਮਗਮ,ਰੋਸ",
+      "ਮੁੱਖ ਅੰਗ": "? ਸਰੇਗਮ, ਮਰੋਪ, ਧਨੀਪ,ਮਰੇਸ"
+    },
+    "page_prose": "26. ਰਾਗ ਸਾਰੰਗ\n\nਥਾਟ ਕਾਫੀ\n\nਜਾਤੀ ਐੜਵ-ਔੜਵ\n\nਸਮਾਂ : ਦਿਨ ਦਾ ਤੀਜਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸਰੇਮਪਨੀਸੰ\n\nਅਵਰੋਹ ੜੁ ਸੰਨੀਪਮਰੇ,ਸ\n\nਮੁੱਖ ਅੰਗ 2 ਠੀਸਰੇ, ਮਰੇ, ਪਮਰੇ,ਨੀਸ\n\n27. ਰਾਗ ਮਲਾਰ\n\nਥਾਟ : ਖਮਾਜ\n\nਵਾਦੀ : ਮਧਿਅਮ\n\nਸੁਰ : ਦੋਨੋਂ ਨਿਸ਼ਾਦ ਦਾ ਪ੍ਰਯੋਗ, ਬਾਕੀ ਸ਼ੁੱਧ ਸੁਰ,\nਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ\n\nਸਮਾਂ ਭੂ ਰਾਤ ਦਾ ਤੀਸਰਾ ਪਹਿਰ (ਬਰਸਾਤ ਦੀ ਰੁੱਤ ਵਿਚ ਹਰ ਸਮੇਂ)\nਆਰੋਹ ? ਸ, ਰੇਗਮ,ਮਰੇਪ,ਨੁੀਧਨੀਸ'\nਅਵਰੋਹ ? ਸੰ, ਧਨੀਪ, ਮਗਮ,ਰੋਸ\n\nਮੁੱਖ ਅੰਗ ? ਸਰੇਗਮ, ਮਰੋਪ, ਧਨੀਪ,ਮਰੇਸ\n",
+    "raag_number": "27",
+    "raag_name_as_printed": "ਰਾਗ ਮਲਾਰ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0055",
+    "page_range": [
+      28,
+      28
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਕਲਿਆਣ",
+    "images": [
+      "notation/page-028-block-1.png",
+      "notation/page-028-block-2.png",
+      "notation/page-028-block-3.png",
+      "notation/page-028-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਧੈਵਤ",
+      "ਆਰੋਹ": "ਸਰੇਗੁਮਪ,ਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸੰ. ਨੀ ਪ, ਮ ਪ, ਗੁਮ ਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਸਰੇਗੁਮਰੇ,ਸਰੇਨੀਸ,ਰੇਪਗੁਮਰੇਸ"
+    },
+    "page_prose": "ਥਾਟ ਕਾਫੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਧੈਵਤ\n\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਰੇਗੁਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰ. ਨੀ ਪ, ਮ ਪ, ਗੁਮ ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸਰੇਗੁਮਰੇ,ਸਰੇਨੀਸ,ਰੇਪਗੁਮਰੇਸ\n29. ਰਾਗ ਕਲਿਆਣ\n\nਥਾਟ : ਕਲਿਆਣ\n\nਸੁਰ ੨ ਮਧਿਅਮ ਤੀਬਰ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਗਮੇਧਨੀਸ'\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਮੇਗਨੀਰੇਸਾ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਨੀ ਰੋ ਗ, ਪ ਮੇ ਗ ਰੇ, ਨੀ ਰੇਸ\n",
+    "raag_number": "28",
+    "raag_name_as_printed": "ਰਾਗ ਕਾਨੜਾ",
+    "parent_raag_number": null,
+    "raag_number_inferred": true,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": "Heading dropped by tesseract's text extraction on this page; number and name confirmed by rendering the source PDF page directly (see RAAG_DA_SAROUP_GAP_NUMBERS comment) rather than the OCR text layer."
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0056",
+    "page_range": [
+      28,
+      28
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਕਲਿਆਣ",
+    "images": [
+      "notation/page-028-block-5.png",
+      "notation/page-028-block-6.png",
+      "notation/page-028-block-7.png",
+      "notation/page-028-block-8.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "੨ ਮਧਿਅਮ ਤੀਬਰ",
+      "ਆਰੋਹ": "ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਗਮੇਧਨੀਸ'",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਪ,ਮੇਗਨੀਰੇਸਾ",
+      "ਮੁੱਖ ਅੰਗ": "ਸ, ਨੀ ਰੋ ਗ, ਪ ਮੇ ਗ ਰੇ, ਨੀ ਰੇਸ"
+    },
+    "page_prose": "ਥਾਟ ਕਾਫੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _ : ਧੈਵਤ\n\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਜਾ ਪਹਿਰ,\n\nਆਰੋਹ : ਸਰੇਗੁਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸੰ. ਨੀ ਪ, ਮ ਪ, ਗੁਮ ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸਰੇਗੁਮਰੇ,ਸਰੇਨੀਸ,ਰੇਪਗੁਮਰੇਸ\n29. ਰਾਗ ਕਲਿਆਣ\n\nਥਾਟ : ਕਲਿਆਣ\n\nਸੁਰ ੨ ਮਧਿਅਮ ਤੀਬਰ\n\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਗਮੇਧਨੀਸ'\nਅਵਰੋਹ : ਸੰਨੀਧਪ,ਮੇਗਨੀਰੇਸਾ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਨੀ ਰੋ ਗ, ਪ ਮੇ ਗ ਰੇ, ਨੀ ਰੇਸ\n",
+    "raag_number": "29",
+    "raag_name_as_printed": "ਰਾਗ ਕਲਿਆਣ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0057",
+    "page_range": [
+      29,
+      29
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਕਲਿਆਣ",
+    "images": [
+      "notation/page-029-block-1.png",
+      "notation/page-029-block-2.png",
+      "notation/page-029-block-3.png",
+      "notation/page-029-block-4.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਮਧਿਅਮ ਤੀਬਰ, ਬਾਕੀ ਸੁਰ ਸ਼ੁੱਧ",
+      "ਆਰੋਹ": "ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਮੇ ਧਨੀ ਸੰ",
+      "ਅਵਰੋਹ": "ਸੰ. ਧ ਪ, ਗ, ਰੇ ਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਠੀ ਰੇਗ,ਗਮੇਧਪ,ਧਪਗ,ਰੋਸ"
+    },
+    "page_prose": "29.1 ਰਾਗ ਕਲਿਆਣ ਭੋਪਾਲੀ\n\nਥਾਟ : ਕਲਿਆਣ\n\nਸੁਰ : ਮਧਿਅਮ ਤੀਬਰ, ਬਾਕੀ ਸੁਰ ਸ਼ੁੱਧ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਮੇ ਧਨੀ ਸੰ\nਅਵਰੋਹ : ਸੰ. ਧ ਪ, ਗ, ਰੇ ਸ\n\nਮੁੱਖ ਅੰਗ : ਠੀ ਰੇਗ,ਗਮੇਧਪ,ਧਪਗ,ਰੋਸ\n30. ਰਾਗ ਪ੍ਰਭਾਤੀ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਐੜਵ-ਸ਼ਾੜਵ\n\nਵਾਦੀ : ਸੜਜ\n\nਸੁਰ : ਸ਼ੁਧ\n\nਸਮਾਂ 2 ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਰੇਗਪਧਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਨੀਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੜ ਪਧਸੰਨੀਧਨੀਪ,ਪਧ,ਗਪਧਪਧ\n",
+    "raag_number": "29.1",
+    "raag_name_as_printed": "ਰਾਗ ਕਲਿਆਣ ਭੋਪਾਲੀ",
+    "parent_raag_number": "29",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0058",
+    "page_range": [
+      29,
+      29
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਕਲਿਆਣ",
+    "images": [
+      "notation/page-029-block-5.png",
+      "notation/page-029-block-6.png",
+      "notation/page-029-block-7.png",
+      "notation/page-029-block-8.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਸ਼ੁਧ",
+      "ਆਰੋਹ": "ਸਰੇਗਪਧਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਨੀਪ,ਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ੜ ਪਧਸੰਨੀਧਨੀਪ,ਪਧ,ਗਪਧਪਧ"
+    },
+    "page_prose": "29.1 ਰਾਗ ਕਲਿਆਣ ਭੋਪਾਲੀ\n\nਥਾਟ : ਕਲਿਆਣ\n\nਸੁਰ : ਮਧਿਅਮ ਤੀਬਰ, ਬਾਕੀ ਸੁਰ ਸ਼ੁੱਧ\nਸਮਾਂ 2 ਰਾਤ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸ, ਨੀ ਰੋ ਗ, ਮੇ ਪ, ਮੇ ਧਨੀ ਸੰ\nਅਵਰੋਹ : ਸੰ. ਧ ਪ, ਗ, ਰੇ ਸ\n\nਮੁੱਖ ਅੰਗ : ਠੀ ਰੇਗ,ਗਮੇਧਪ,ਧਪਗ,ਰੋਸ\n30. ਰਾਗ ਪ੍ਰਭਾਤੀ\n\nਥਾਟ ਬਿਲਾਵਲ\n\nਜਾਤੀ ਐੜਵ-ਸ਼ਾੜਵ\n\nਵਾਦੀ : ਸੜਜ\n\nਸੁਰ : ਸ਼ੁਧ\n\nਸਮਾਂ 2 ਸਵੇਰ ਦਾ ਪਹਿਲਾ ਪਹਿਰ\nਆਰੋਹ : ਸਰੇਗਪਧਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਨੀਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੜ ਪਧਸੰਨੀਧਨੀਪ,ਪਧ,ਗਪਧਪਧ\n",
+    "raag_number": "30",
+    "raag_name_as_printed": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0059",
+    "page_range": [
+      30,
+      30
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "images": [
+      "notation/page-030-block-1.png",
+      "notation/page-030-block-2.png",
+      "notation/page-030-block-3.png",
+      "notation/page-030-block-4.png",
+      "notation/page-030-block-5.png"
+    ],
+    "ocr_fields": {
+      "ਸੁਰ": "ਗੰਧਾਰ, ਧੈਵਤ, ਨਿਸ਼ਾਦ, ਕੋਮਲ",
+      "ਵਰਜਿਤ ਸੁਰ": "ਕੋਈ ਨਹੀ",
+      "ਆਰੋਹ": "ਸ, ਮ ਰੇ, ਗੁ ਮ ਪ, ਨੀ ਧੁ ਪ, ਸੱ",
+      "ਅਵਰੋਹ": "ਸੰਨੀ ਧੁ, ਪਮਗੁ.ਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਸ, ਮ ਰੇ, ਗੁ ਮਪ, ਠੀ ਧੁਪ"
+    },
+    "page_prose": "30.1 ਰਾਗ ਪ੍ਰਭਾਤੀ ਦੱਖਣੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ- ਵਕਰ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਗੰਧਾਰ\n\nਸੰਵਾਦੀ ਧੈਵਤ\n\nਸੁਰ : ਗੰਧਾਰ, ਧੈਵਤ, ਨਿਸ਼ਾਦ, ਕੋਮਲ\nਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ\n\nਆਰੋਹ : ਸ, ਮ ਰੇ, ਗੁ ਮ ਪ, ਨੀ ਧੁ ਪ, ਸੱ\nਅਵਰੋਹ : ਸੰਨੀ ਧੁ, ਪਮਗੁ.ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਮ ਰੇ, ਗੁ ਮਪ, ਠੀ ਧੁਪ\n30.2 ਰਾਗ ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ\n\nਥਾਟ ਭੈਰਵ\n\nਜਾਤੀ ਸ਼ਾੜਵ-ਔੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _: ਆਰੋਹ ਵਿਚ ਮਧਿਅਮ\n\nਸਮਾਂ : ਸਵੇਰ ਦਾ\n\nਆਰੋਹ ੩ ਸਰੇੋਗਪਧ,ਨੀਧਨੀ-ਪ,ਧਸੰ\nਅਵਰੋਹ : ਸੰਧੁਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਨੀ ਧ ਨੀ-ਪ, ਗ ਪ ਧੁ ਪਗੁ ਰੋ ਸ\n",
+    "raag_number": "30.1",
+    "raag_name_as_printed": "ਰਾਗ ਪ੍ਰਭਾਤੀ ਦੱਖਣੀ",
+    "parent_raag_number": "30",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0060",
+    "page_range": [
+      30,
+      30
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਪ੍ਰਭਾਤੀ",
+    "images": [
+      "notation/page-030-block-6.png",
+      "notation/page-030-block-7.png",
+      "notation/page-030-block-8.png",
+      "notation/page-030-block-9.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਆਰੋਹ ਵਿਚ ਮਧਿਅਮ",
+      "ਆਰੋਹ": "੩ ਸਰੇੋਗਪਧ,ਨੀਧਨੀ-ਪ,ਧਸੰ",
+      "ਅਵਰੋਹ": "ਸੰਧੁਪ,ਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਨੀ ਧ ਨੀ-ਪ, ਗ ਪ ਧੁ ਪਗੁ ਰੋ ਸ"
+    },
+    "page_prose": "30.1 ਰਾਗ ਪ੍ਰਭਾਤੀ ਦੱਖਣੀ\n\nਜਾਤੀ ਸ਼ਾੜਵ- ਵਕਰ ਸੰਪੂਰਣ\n\nਵਾਦੀ ਗੰਧਾਰ\n\nਸੰਵਾਦੀ ਧੈਵਤ\n\nਸੁਰ : ਗੰਧਾਰ, ਧੈਵਤ, ਨਿਸ਼ਾਦ, ਕੋਮਲ\nਵਰਜਿਤ ਸੁਰ _ : ਕੋਈ ਨਹੀ\n\nਆਰੋਹ : ਸ, ਮ ਰੇ, ਗੁ ਮ ਪ, ਨੀ ਧੁ ਪ, ਸੱ\nਅਵਰੋਹ : ਸੰਨੀ ਧੁ, ਪਮਗੁ.ਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਸ, ਮ ਰੇ, ਗੁ ਮਪ, ਠੀ ਧੁਪ\n30.2 ਰਾਗ ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ\n\nਥਾਟ ਭੈਰਵ\n\nਜਾਤੀ ਸ਼ਾੜਵ-ਔੜਵ\n\nਵਾਦੀ ਪੰਚਮ\n\nਵਰਜਿਤ ਸੁਰ _: ਆਰੋਹ ਵਿਚ ਮਧਿਅਮ\n\nਸਮਾਂ : ਸਵੇਰ ਦਾ\n\nਆਰੋਹ ੩ ਸਰੇੋਗਪਧ,ਨੀਧਨੀ-ਪ,ਧਸੰ\nਅਵਰੋਹ : ਸੰਧੁਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਨੀ ਧ ਨੀ-ਪ, ਗ ਪ ਧੁ ਪਗੁ ਰੋ ਸ\n",
+    "raag_number": "30.2",
+    "raag_name_as_printed": "ਰਾਗ ਪ੍ਰਭਾਤੀ ਬਿਭਾਸ",
+    "parent_raag_number": "30",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0061",
+    "page_range": [
+      31,
+      31
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਭਾਸ",
+    "images": [
+      "notation/page-031-block-1.png",
+      "notation/page-031-block-2.png",
+      "notation/page-031-block-3.png"
+    ],
+    "ocr_fields": {
+      "ਆਰੋਹ": "ਸਰੇਗਪਧੁਸ",
+      "ਅਵਰੋਹ": "ਸੰਨੀਧਨੀਪ,ਗਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "੨ ਰੋਗਪਧਪਥੁ,ਸੰਨੀਧਨੀਪਗਰੇਸ"
+    },
+    "page_prose": "30.3 ਰਾਗ ਬਿਭਾਸ ਪ੍ਰਭਾਤੀ\n\n੩\n\nਥਾਟ : ਭੈਰਵ\nਸਮਾਂ : ਸਵੇਰ ਦਾ\n\nਆਰੋਹ : ਸਰੇਗਪਧੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਨੀਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਪਧਪਥੁ,ਸੰਨੀਧਨੀਪਗਰੇਸ\n31. ਰਾਗ ਜੈਜਾਵੰਤੀ\n\nਬਾਟ ਖਮਾਜ\n\nਜਾਤੀ ਸ਼ਾੜਵ ਸੰਪੂਰਣ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਧੈਵਤ\n\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸ,ਰੇਗ ਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸਨੀਧਪ,ਧਮ,ਰੇਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋਗੁਰੇਸਨ੍ੀਧੁਪੁਰੇ\n",
+    "raag_number": "30.3",
+    "raag_name_as_printed": "ਰਾਗ ਬਿਭਾਸ ਪ੍ਰਭਾਤੀ",
+    "parent_raag_number": "30",
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  },
+  {
+    "manifest_id": "raag-da-saroup-complete-0062",
+    "page_range": [
+      31,
+      31
+    ],
+    "cluster_confidence": "medium",
+    "raag_gurmukhi_guess": "ਰਾਗ ਬਿਭਾਸ",
+    "images": [
+      "notation/page-031-block-4.png",
+      "notation/page-031-block-5.png",
+      "notation/page-031-block-6.png",
+      "notation/page-031-block-7.png"
+    ],
+    "ocr_fields": {
+      "ਵਰਜਿਤ ਸੁਰ": "ਆਰੋਹ ਵਿਚ ਧੈਵਤ",
+      "ਆਰੋਹ": "ਸ,ਰੇਗ ਮਪ,ਨੀਸੰ",
+      "ਅਵਰੋਹ": "ਸਨੀਧਪ,ਧਮ,ਰੇਗੁਰੇਸ",
+      "ਮੁੱਖ ਅੰਗ": "ਰੋਗੁਰੇਸਨ੍ੀਧੁਪੁਰੇ"
+    },
+    "page_prose": "30.3 ਰਾਗ ਬਿਭਾਸ ਪ੍ਰਭਾਤੀ\n\n੩\n\nਥਾਟ : ਭੈਰਵ\nਸਮਾਂ : ਸਵੇਰ ਦਾ\n\nਆਰੋਹ : ਸਰੇਗਪਧੁਸ\n\nਅਵਰੋਹ : ਸੰਨੀਧਨੀਪ,ਗਰੇਸ\n\nਮੁੱਖ ਅੰਗ ੨ ਰੋਗਪਧਪਥੁ,ਸੰਨੀਧਨੀਪਗਰੇਸ\n31. ਰਾਗ ਜੈਜਾਵੰਤੀ\n\nਬਾਟ ਖਮਾਜ\n\nਜਾਤੀ ਸ਼ਾੜਵ ਸੰਪੂਰਣ\n\nਵਰਜਿਤ ਸੁਰ _ : ਆਰੋਹ ਵਿਚ ਧੈਵਤ\n\nਸਮਾਂ : ਰਾਤ ਦਾ ਦੂਸਰਾ ਪਹਿਰ\n\nਆਰੋਹ : ਸ,ਰੇਗ ਮਪ,ਨੀਸੰ\n\nਅਵਰੋਹ : ਸਨੀਧਪ,ਧਮ,ਰੇਗੁਰੇਸ\n\nਮੁੱਖ ਅੰਗ : ਰੋਗੁਰੇਸਨ੍ੀਧੁਪੁਰੇ\n",
+    "raag_number": "31",
+    "raag_name_as_printed": "ਰਾਗ ਜੈਜਾਵੰਤੀ",
+    "parent_raag_number": null,
+    "raag_number_inferred": false,
+    "needs_split_review": false,
+    "raag_numbers_candidate": null,
+    "numbering_note": null
+  }
+]
